@@ -1,0 +1,25 @@
+# Title: Regexps Filters.
+# Homepage: https://github.com/hemiipatu/PiHoleBlocklists
+# Total filters: 19
+
+# You can support this project by reporting false positives or creating a pull request.
+
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
+^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
+^(.+[-_.])??telemetry[-.]
+^(.+[-_.])??xn--
+^adim(age|g)s?[0-9]*[-_.]
+^adtrack(er|ing)?[0-9]*[-.]
+^advert(s|is(ing|ements?))?[0-9]*[-_.]
+^aff(iliat(es?|ion))?[-.]
+^analytics?[-.]
+^banners?[-.]
+^beacons?[0-9]*[-.]
+^count(ers?)?[0-9]*[-.]
+^mads\.
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[-.]
+^track(ers?|ing)?[0-9]*[-.]
+^traff(ic)?[-.]
+.*\.g[0-9]+\..*
