@@ -25,4 +25,4 @@ The PiHoleBlocklists project is a collection of adblock based filter lists for [
 
 ## Supporting PiHoleBlocklists project
 If you are intrested in supporting the project you can:
- - Submit false positives
+ - [Submit false positives](https://github.com/hemiipatu/PiHoleBlocklists/issues/new)
