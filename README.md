@@ -26,6 +26,3 @@ The PiHoleBlocklists project is a collection of adblock based filter lists for b
 ## Supporting PiHoleBlocklists project
 If you are intrested in supporting the project you can:
  - Submit false positives
- - Donate Bitcoin:
- - [Donate with Paypal]()
- - [Become a Patreon]()
