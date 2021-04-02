@@ -3,7 +3,7 @@
 # exit on any error
 set -e
 
-# udpate raspbian
+# update raspbian
 sudo apt-get update -q
 sudo apt-get dist-upgrade -qy
 sudo apt-get autoremove -qy
