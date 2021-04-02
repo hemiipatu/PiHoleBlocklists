@@ -1,0 +1,9 @@
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/advertisement.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/fraudulent.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/malware.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/phishing.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/pornography.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/ransomware.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/redirect.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/regex.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/scam.txt
