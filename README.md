@@ -13,12 +13,12 @@ The PiHoleBlocklists project is a collection of adblock based filter lists for [
 
 ## General blocklist policies
  - Should not break useful websites or apps.
- - Blocks tracking servers.
- - Blocks advertising servers.
- - Blocks analytics servers.
- - Blocks scam websites.
- - Blocks malware servers.
- - Blocks phishing servers.
+ - Block known tracking sites.
+ - Block known advertising sites.
+ - Block known analytics sites.
+ - Block known scam sites.
+ - Block known malware sites.
+ - Block known phishing sites.
 
 ## How to install
  - [Instructions for Pi-hole]()
