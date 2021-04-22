@@ -1,22 +1,18 @@
 #!/bin/bash
 
-# exit on any error
-set -e
+if [ "$(id -u)" != "0" ] ; then
+	echo "Please run this script as root."
+	exit 2
+fi
 
-# update raspbian
-sudo apt-get update -q
-sudo apt-get dist-upgrade -qy
-sudo apt-get autoremove -qy
-sudo apt-get autoclean -q
-sudo ldconfig
+if [ ! -f /etc/pihole/custom-adlists.list ] ; then
+	touch /etc/pihole/custom-adlists.list
+fi
 
-# update pihole
-pihole -up
+# cat reads the contents of /etc/pihole/custom-adlists.list (A file which you create that just has blocklist URL's in it)
+# cat also receives input from wget as the contents of wget is being thrown into cat as a "file"
+# This ensures that one big list of blocklist URL's are being piped to tee with admin privledges into /etc/pihole/adlists.list.
+cat /etc/pihole/custom-adlists.list <(wget -qO - https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/lists.txt 2> /dev/null) | sudo tee /etc/pihole/adlists.list
 
-# update pihole blocklists
-sqlite3 /etc/pihole/gravity.db "SELECT Address FROM adlist" |sort >/home/pi/pihole.list
-wget -qO - https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/lists.txt |sort >/home/pi/piholeblocklists.list
-comm -23 pihole.list piholeblocklists.list |xargs -I{} sudo sqlite3 /etc/pihole/gravity.db "DELETE FROM adlist WHERE Address='{}';"
-comm -13 pihole.list piholeblocklists.list |xargs -I{} sudo sqlite3 /etc/pihole/gravity.db "INSERT INTO adlist (Address,Comment,Enabled) VALUES ('{}','piholeblocklists, added `date +%F`',1);"
-pihole restartdns reload-lists
-pihole -g
+# Update the adlists
+pihole -g -f
