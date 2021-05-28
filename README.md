@@ -9,7 +9,7 @@
 &nbsp;
 
 ## What is PiHoleBlocklists
-The PiHoleBlocklists project is a collection of adblock based filter lists for [PiHole](https://pi-hole.net/) which aim at blocking ads, malware, phising and other online garbage. These lists are actively maintained and are updated every thirty(30) days with each list being a combination of entries from other lists.
+The PiHoleBlocklists project is a collection of adblock based filter lists for [PiHole](https://pi-hole.net/) which aim at blocking ads, malware, phising and other online garbage. These lists are actively maintained and are updated every ninety(90) days with each list being a combination of entries from other lists.
 
 ## General blocklist policies
  - Should not break useful websites or apps.
