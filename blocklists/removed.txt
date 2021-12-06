@@ -1,0 +1,5 @@
+# Title: Removed Filters.
+# Homepage: https://github.com/hemiipatu/PiHoleBlocklists
+# Total filters: 0
+
+# You can support this project by reporting false positives or creating a pull request.
