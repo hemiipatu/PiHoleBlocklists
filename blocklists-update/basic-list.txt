@@ -1,1 +1,3 @@
-
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/advertisement.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/pornography.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/regex.txt

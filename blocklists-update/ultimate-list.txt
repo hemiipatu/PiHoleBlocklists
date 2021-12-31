@@ -6,4 +6,5 @@ https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/pornography
 https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/ransomware.txt
 https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/redirect.txt
 https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/regex.txt
+https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/removed.txt
 https://github.com/hemiipatu/PiHoleBlocklists/blob/master/blocklists/scam.txt
