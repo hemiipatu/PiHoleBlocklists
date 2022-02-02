@@ -1,6 +1,6 @@
 # Title: Redirect Filters.
 # Homepage: https://github.com/hemiipatu/PiHoleBlocklists
-# Total filters: 181664
+# Total filters: 108646
 
 # You can support this project by reporting false positives or creating a pull request.
 
