@@ -5,3 +5,6 @@
 # You can support this project by reporting false positives or creating a pull request.
 
 0.0.0.0 assets-jpcust.jwpsrv.com
+0.0.0.0 cdn2.hubspot.net
+0.0.0.0 inflation.us
+0.0.0.0 songbird.cardinalcommerce.com
