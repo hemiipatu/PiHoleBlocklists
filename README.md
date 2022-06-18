@@ -25,6 +25,13 @@ The PiHoleBlocklists project is a collection of adblock based filter lists for [
  - [Instructions for Raspbian based Pi-hole]()
  - [Instructions for Ubuntu based Pi-hole]()
 
+## Credit
+PiHoleBlocklists merges multiple works of other developers and curates them into the lists you see within the repo. Without the work of these people PoHoleBlocklists would not exist:
+ - https://github.com/Sekhan/TheGreatWall
+ - https://github.com/FiltersHeroes/KADhosts
+ - https://github.com/StevenBlack/hosts
+ - https://github.com/FadeMind/hosts.extras
+
 ## Supporting PiHoleBlocklists project
 If you are intrested in supporting the project you can:
  - [Submit false positives](https://github.com/hemiipatu/PiHoleBlocklists/issues/new)
