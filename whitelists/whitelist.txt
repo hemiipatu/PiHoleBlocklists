@@ -1,6 +1,6 @@
 # Title: Whitelist Filters.
 # Homepage: https://github.com/hemiipatu/PiHoleBlocklists
-# Total filters: 191
+# Total filters: 192
 
 # You can support this project by reporting false positives or creating a pull request.
 
@@ -73,6 +73,7 @@ geo3.ggpht.com
 giphy.com
 github.com
 github.io
+googleadservices.com
 googleapis.com
 gravatar.com
 gstatic.com
