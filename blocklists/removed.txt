@@ -1,6 +1,6 @@
 # Title: Removed Filters.
 # Homepage: https://github.com/hemiipatu/PiHoleBlocklists
-# Total filters: 1
+# Total filters: 5
 
 # You can support this project by reporting false positives or creating a pull request.
 
@@ -8,3 +8,4 @@
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 inflation.us
 0.0.0.0 songbird.cardinalcommerce.com
+0.0.0.0 download.visualware.com
