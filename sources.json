@@ -1,0 +1,29 @@
+{
+  "advertisement": [
+    "https://exmaple.com/advertisement.txt"
+  ],
+  "fraudulent": [
+    "https://example.com/fraud-list.txt"
+  ],
+  "malware": [
+    "https://urlhaus.abuse.ch/downloads/hostfile/"
+  ],
+  "phishing": [
+    "https://phishtank.com/phish_archive.csv"
+  ],
+  "pornography": [
+    "https://example.com/adult-domains.txt"
+  ],
+  "ransomware": [
+    "https://example.com/ransomware-tracker.txt"
+  ],
+  "redirect": [
+    "https://example.com/open-redirects.txt"
+  ],
+  "regex": [
+    "https://example.com/regex-rules.txt"
+  ],
+  "scam": [
+    "https://example.com/scam-list.txt"
+  ]
+}
