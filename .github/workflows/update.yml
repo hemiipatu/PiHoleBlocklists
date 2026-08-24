@@ -1,0 +1,31 @@
+name: Update Blocklists
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Run Build Script
+        run: python build.py
+
+      - name: Commit and Push Updated Blocklists
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add blocklists/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update categorized blocklists [skip ci]" && git push)
