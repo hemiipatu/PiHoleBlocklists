@@ -1,29 +1,46 @@
 {
   "advertisement": [
-    "https://exmaple.com/advertisement.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/adblock.txt",
+    "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+    "https://adaway.org/hosts.txt",
+    "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt"
   ],
   "fraudulent": [
-    "https://example.com/fraud-list.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/fake.txt",
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt",
+    "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"
   ],
   "malware": [
-    "https://urlhaus.abuse.ch/downloads/hostfile/"
+    "https://urlhaus.abuse.ch/downloads/hostfile/",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt",
+    "https://raw.githubusercontent.com/Dshield-Threat-Feed/DShield-Malicious-Domains/main/hosts",
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt",
+    "https://big.oisd.nl/domainswild"
   ],
   "phishing": [
-    "https://phishtank.com/phish_archive.csv"
+    "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains.txt",
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt",
+    "https://raw.githubusercontent.com/openphish/feed/main/feed.txt"
   ],
   "pornography": [
-    "https://example.com/adult-domains.txt"
+    "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts",
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt",
+    "https://raw.githubusercontent.com/Snawoot/nsfw-hosts/main/nsfw-hosts"
   ],
   "ransomware": [
-    "https://example.com/ransomware-tracker.txt"
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt",
+    "https://raw.githubusercontent.com/threatfox/threatfox-hosts/main/hosts.txt"
   ],
   "redirect": [
-    "https://example.com/open-redirects.txt"
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt"
   ],
   "regex": [
-    "https://example.com/regex-rules.txt"
+    "https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list",
+    "https://raw.githubusercontent.com/cbuijs/pihole-regex/master/regex.list"
   ],
   "scam": [
-    "https://example.com/scam-list.txt"
+    "https://raw.githubusercontent.com/DurableNapkin/Scam-Blocklist/master/scam.txt",
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt"
   ]
 }
