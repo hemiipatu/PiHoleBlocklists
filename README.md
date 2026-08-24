@@ -21,7 +21,7 @@ The PiHoleBlocklists project is a collection of adblock based filter lists for [
  - Block known phishing sites.
 
 ## How to install
- - `curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/setup.sh | sudo bash`
+ - `curl -sSL https://raw.githubusercontent.com/hemiipatu/piholeblocklists/main/setup.sh | sudo bash`
 
 ## Credit
 PiHoleBlocklists merges multiple works of other developers and curates them into the lists you see within the repo. Without the work of these people PiHoleBlocklists would not exist:
