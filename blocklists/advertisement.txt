@@ -1,5 +1,5 @@
 # Category: advertisement
-# Total Unique Entries: 288408
+# Total Unique Entries: 288416
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
 0.0.0.0 0--d.com
@@ -16114,6 +16114,7 @@
 0.0.0.0 a.veryn1ce.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
+0.0.0.0 a.vfgth.com
 0.0.0.0 a.videoplaza.tv
 0.0.0.0 a.vidone.net
 0.0.0.0 a.vidora.com
@@ -42674,6 +42675,7 @@
 0.0.0.0 ads.zilesinopti.ro
 0.0.0.0 ads.zoo.group
 0.0.0.0 ads.zoom-app.com
+0.0.0.0 ads.zorvec.name
 0.0.0.0 ads.zsezt.com
 0.0.0.0 ads.zsezt.com.cname2039.yjs-cdn.com
 0.0.0.0 ads.ztod.com
@@ -63665,6 +63667,7 @@
 0.0.0.0 bat.adforum.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.com.prx.proxywebsite.co.uk
+0.0.0.0 bat.bing.net
 0.0.0.0 bat.r.msn.com
 0.0.0.0 bat25.com
 0.0.0.0 batbuilding.com
@@ -110336,6 +110339,7 @@
 0.0.0.0 fenvalorax.live
 0.0.0.0 fenvalorium.net
 0.0.0.0 fenxi.cnzz.com
+0.0.0.0 fenxi.com
 0.0.0.0 fenxw.com
 0.0.0.0 fenzoria.com
 0.0.0.0 fenzy.pl
@@ -183963,6 +183967,7 @@
 0.0.0.0 poogliptailomer.net
 0.0.0.0 poogriry.click
 0.0.0.0 poohotofinisher.info
+0.0.0.0 pooinc-7dw.pages.dev
 0.0.0.0 pooksys.site
 0.0.0.0 pool-4entertainment.adhese.com
 0.0.0.0 pool-cadreon.adhese.com
@@ -202970,6 +202975,7 @@
 0.0.0.0 sdk-traffic.apptimize.com
 0.0.0.0 sdk-vidmatic.streamrail.net
 0.0.0.0 sdk-vmh.prod-univision.com
+0.0.0.0 sdk.51.la
 0.0.0.0 sdk.a4.tl
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.ad.smaato.net
@@ -219462,6 +219468,7 @@
 0.0.0.0 t.myfuncards.com
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.nativendo.de
+0.0.0.0 t.nc0.co
 0.0.0.0 t.neighborhoodsluts.com
 0.0.0.0 t.neodatagroup.com
 0.0.0.0 t.net-ap19.stream
@@ -226628,6 +226635,7 @@
 0.0.0.0 track.mdsmatch2.com
 0.0.0.0 track.media-412.com
 0.0.0.0 track.mediago.io
+0.0.0.0 track.mediav.com
 0.0.0.0 track.mia-base.com
 0.0.0.0 track.mia-isabella.com
 0.0.0.0 track.mialltrack2.com
