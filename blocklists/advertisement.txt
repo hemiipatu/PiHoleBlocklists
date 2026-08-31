@@ -1,5 +1,5 @@
 # Category: advertisement
-# Total Unique Entries: 288416
+# Total Unique Entries: 288418
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
 0.0.0.0 0--d.com
@@ -170900,6 +170900,7 @@
 0.0.0.0 obs-worker02.nym1.appnexus.com
 0.0.0.0 obs.line-scdn.net
 0.0.0.0 obs.nnm2.ru
+0.0.0.0 obs.sd4823.spglobal.com
 0.0.0.0 obs01.lax1.appnexus.com
 0.0.0.0 obs02.lax1.appnexus.com
 0.0.0.0 obs02.nym2.appnexus.com
@@ -282074,6 +282075,7 @@
 0.0.0.0 xml-v4.gipostart-1.co
 0.0.0.0 xml-v4.minsonbar2.online
 0.0.0.0 xml-v4.ngcluster-c.site
+0.0.0.0 xml-v4.oceanfall.xyz
 0.0.0.0 xml-v4.safesearchguard.com
 0.0.0.0 xml-v4.springtides.xyz
 0.0.0.0 xml-v4.tri.media
