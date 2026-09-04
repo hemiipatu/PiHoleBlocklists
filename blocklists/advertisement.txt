@@ -1,5 +1,5 @@
 # Category: advertisement
-# Total Unique Entries: 287267
+# Total Unique Entries: 287269
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
 0.0.0.0 0--d.com
@@ -46193,6 +46193,7 @@
 0.0.0.0 adtag.sympatico.ca
 0.0.0.0 adtag.technoratimedia.com
 0.0.0.0 adtagger.com
+0.0.0.0 adtagj.portal-factory.com
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtags.mobi
 0.0.0.0 adtags.pro
@@ -187562,6 +187563,7 @@
 0.0.0.0 pubads.wiinvent.tv
 0.0.0.0 pubadx.one
 0.0.0.0 pubaka5.com
+0.0.0.0 pubbug.com
 0.0.0.0 pubcircle.ai
 0.0.0.0 pubcoderace.com
 0.0.0.0 pubconsole.media.net
