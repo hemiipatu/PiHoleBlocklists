@@ -23,9 +23,40 @@ PiHoleBlocklists is a curated collection of upstream adblock lists, deduplicated
 ## How to install
  - `curl -sSL https://raw.githubusercontent.com/hemiipatu/piholeblocklists/main/setup.sh | sudo bash`
 
-## Credit
-PiHoleBlocklists merges multiple works of other developers and curates them into the lists you see within the repo. Without the work of these people PiHoleBlocklists would not exist:
- - https://github.com/hemiipatu/PiHoleBlocklists/blob/master/sources.json
+## Upstream sources & Credits
+
+This project compiles, deduplicates, and optimizes data from several upstream maintainers and security feeds. Full credit goes to the creators and maintainers of these lists:
+
+| Category | Upstream Project / Author | Original Source |
+| :--- | :--- | :--- |
+| **Advertisements** | **HaGeZi** | [DNS Blocklists](https://github.com/hagezi/dns-blocklists) |
+| | **StevenBlack** | [hosts](https://github.com/StevenBlack/hosts) |
+| | **AdAway** | [AdAway Hosts](https://adaway.org) |
+| | **Peter Lowe** | [yoyo.org Adservers](https://pgl.yoyo.org/adservers/) |
+| | **Blocklist Project** | [Ads List](https://github.com/blocklistproject/Lists) |
+| **Fraudulent** | **HaGeZi** | [Fake List](https://github.com/hagezi/dns-blocklists) |
+| | **Blocklist Project** | [Fraud List](https://github.com/blocklistproject/Lists) |
+| | **Spam404** | [Main Blacklist](https://github.com/Spam404/lists) |
+| **Malware** | **abuse.ch** | [URLhaus](https://urlhaus.abuse.ch/) |
+| | **HaGeZi** | [Threat Intelligence Feed (TIF)](https://github.com/hagezi/dns-blocklists) |
+| | **DShield Threat Feed** | [Malicious Domains](https://github.com/Dshield-Threat-Feed/DShield-Malicious-Domains) |
+| | **Blocklist Project** | [Malware List](https://github.com/blocklistproject/Lists) |
+| | **OISD** | [OISD Blocklist](https://oisd.nl/) |
+| **Phishing** | **Mitchell Krog** | [Phishing Database](https://github.com/mitchellkrogza/Phishing.Database) |
+| | **Blocklist Project** | [Phishing List](https://github.com/blocklistproject/Lists) |
+| | **OpenPhish** | [OpenPhish Feed](https://openphish.com/) |
+| **Pornography / NSFW** | **StevenBlack** | [Porn Alternates](https://github.com/StevenBlack/hosts) |
+| | **Blocklist Project** | [Porn List](https://github.com/blocklistproject/Lists) |
+| | **Snawoot** | [NSFW Hosts](https://github.com/Snawoot/nsfw-hosts) |
+| **Ransomware** | **Blocklist Project** | [Ransomware List](https://github.com/blocklistproject/Lists) |
+| | **ThreatFox (abuse.ch)** | [ThreatFox Hosts](https://threatfox.abuse.ch/) |
+| **Redirects** | **Blocklist Project** | [Redirect List](https://github.com/blocklistproject/Lists) |
+| **Regex** | **mmotti** | [Pi-hole Regex](https://github.com/mmotti/pihole-regex) |
+| | **cbuijs** | [Pi-hole Regex](https://github.com/cbuijs/pihole-regex) |
+| **Scams** | **DurableNapkin** | [Scam Blocklist](https://github.com/DurableNapkin/Scam-Blocklist) |
+| | **Blocklist Project** | [Scam List](https://github.com/blocklistproject/Lists) |
+
+> **Note:** If you are a list maintainer and would like to update your credit link or request a change, please open an issue.
 
 ## Supporting PiHoleBlocklists project
 If you are intrested in supporting the project you can:
