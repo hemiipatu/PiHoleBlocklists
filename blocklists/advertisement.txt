@@ -1,5 +1,5 @@
 # Category: advertisement
-# Total Unique Entries: 288623
+# Total Unique Entries: 288624
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
 0.0.0.0 0--d.com
@@ -158012,6 +158012,7 @@
 0.0.0.0 metrisesikhs.com
 0.0.0.0 metriweb.be
 0.0.0.0 metrix-collector1.gamesalad.com
+0.0.0.0 metrix.luxnet.io
 0.0.0.0 metrixlablw.customers.luna.net
 0.0.0.0 metro-advertising.com
 0.0.0.0 metro-advertising.in
