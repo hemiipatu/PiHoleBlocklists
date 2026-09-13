@@ -7,9 +7,7 @@ import urllib.request
 from typing import Optional, Set
 
 OUTPUT_DIR = "blocklists"
-CONFIG_DIR = "config"
-BUILD_WHITELIST_FILE = os.path.join(CONFIG_DIR, "build_whitelist.txt")
-PUBLIC_WHITELIST_FILE = "whitelist.txt"
+WHITELIST_FILE = "whitelist.txt"
 SUMMARY_FILE = "build_summary.md"
 
 # Pre-compiled strict domain matcher
@@ -60,10 +58,15 @@ def sanitize_domain_entry(line: str) -> Optional[str]:
 
 def clean_and_deduplicate_whitelist_file(filepath: str):
     """
-    Reads a whitelist file, extracts comments, cleans domains, 
+    Reads whitelist.txt, preserves header comments, cleans domains, 
     deduplicates entries, and rewrites the file sorted alphabetically.
     """
     if not os.path.exists(filepath):
+        print(f"[!] Warning: Whitelist file '{filepath}' not found. Creating a new one.")
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write("# Community Whitelist\n\n")
+            for domain in sorted(DEFAULT_WHITELIST):
+                f.write(f"{domain}\n")
         return
 
     print(f"[+] Sanitizing and deduplicating whitelist file: {filepath}")
@@ -83,7 +86,7 @@ def clean_and_deduplicate_whitelist_file(filepath: str):
             if cleaned_domain:
                 valid_domains.add(cleaned_domain)
 
-    # Rewrite the file with cleaned, sorted domains
+    # Rewrite whitelist.txt with cleaned, sorted domains
     with open(filepath, "w", encoding="utf-8") as f:
         if file_header_comments:
             for comment in file_header_comments:
@@ -97,22 +100,19 @@ def clean_and_deduplicate_whitelist_file(filepath: str):
 
 
 def load_whitelist() -> Set[str]:
-    """Sanitizes local files and loads active whitelist domains into memory."""
+    """Sanitizes root whitelist.txt and loads active whitelist domains into memory."""
     whitelist = set(DEFAULT_WHITELIST)
     
-    # First, sanitize both whitelist files on disk
-    clean_and_deduplicate_whitelist_file(PUBLIC_WHITELIST_FILE)
-    clean_and_deduplicate_whitelist_file(BUILD_WHITELIST_FILE)
+    # Sanitize and deduplicate root whitelist file on disk
+    clean_and_deduplicate_whitelist_file(WHITELIST_FILE)
 
-    # Load active whitelist domains into memory
-    target_files = [PUBLIC_WHITELIST_FILE, BUILD_WHITELIST_FILE]
-    for target in target_files:
-        if os.path.exists(target):
-            with open(target, "r", encoding="utf-8") as f:
-                for line in f:
-                    domain = sanitize_domain_entry(line)
-                    if domain:
-                        whitelist.add(domain)
+    # Read clean domains into memory
+    if os.path.exists(WHITELIST_FILE):
+        with open(WHITELIST_FILE, "r", encoding="utf-8") as f:
+            for line in f:
+                domain = sanitize_domain_entry(line)
+                if domain:
+                    whitelist.add(domain)
 
     print(f"[+] Total Active Whitelist Count: {len(whitelist):,} domains\n")
     return whitelist
