@@ -32,7 +32,16 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Generate Version Tag
+        id: versioning
+        run: |
+          VERSION="v1.0.${{ github.run_number }}"
+          echo "TAG_NAME=$VERSION" >> $GITHUB_OUTPUT
+          echo "Generated release tag: $VERSION"
+
       - name: Run Build Script
+        env:
+          BLOCKLIST_VERSION: ${{ steps.versioning.outputs.TAG_NAME }}
         run: python build.py
 
       - name: Commit and Push Updated Blocklists & Sanitized Whitelist
@@ -51,14 +60,6 @@ jobs:
             git push
             echo "CHANGED=true" >> $GITHUB_OUTPUT
           fi
-
-      - name: Generate Version Tag
-        if: steps.git_commit.outputs.CHANGED == 'true' || github.event_name == 'workflow_dispatch'
-        id: versioning
-        run: |
-          VERSION="v1.0.${{ github.run_number }}"
-          echo "TAG_NAME=$VERSION" >> $GITHUB_OUTPUT
-          echo "Generated release tag: $VERSION"
 
       - name: Create Versioned GitHub Release
         if: steps.git_commit.outputs.CHANGED == 'true' || github.event_name == 'workflow_dispatch'
