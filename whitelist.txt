@@ -1,0 +1,8 @@
+# General Services
+clients3.google.com
+s.youtube.com
+localhost
+
+# Payments & Streaming false-positive protection
+s.shopify.com
+paypal.com
