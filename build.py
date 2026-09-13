@@ -8,7 +8,8 @@ from typing import Optional, Set
 
 OUTPUT_DIR = "blocklists"
 CONFIG_DIR = "config"
-WHITELIST_FILE = os.path.join(CONFIG_DIR, "build_whitelist.txt")
+BUILD_WHITELIST_FILE = os.path.join(CONFIG_DIR, "build_whitelist.txt")
+PUBLIC_WHITELIST_FILE = "whitelist.txt"
 SUMMARY_FILE = "build_summary.md"
 
 # Pre-compiled strict domain matcher
@@ -23,27 +24,97 @@ DEFAULT_WHITELIST = {
 }
 
 
-def load_whitelist() -> Set[str]:
-    """Loads build-time whitelist domains from disk."""
-    whitelist = set(DEFAULT_WHITELIST)
-    target_file = WHITELIST_FILE if os.path.exists(WHITELIST_FILE) else "whitelist.txt"
+def sanitize_domain_entry(line: str) -> Optional[str]:
+    """
+    Strips inline comments, protocol prefixes, trailing slashes, 
+    and adblock-style formatting rules to return a clean domain string.
+    """
+    line = line.strip()
     
-    if os.path.exists(target_file):
-        print(f"[+] Loading whitelist from: {target_file}")
-        try:
-            with open(target_file, "r", encoding="utf-8") as f:
+    # Skip empty lines or full-line comments
+    if not line or line.startswith(('#', '!', '//')):
+        return None
+
+    # Remove inline comments
+    line = line.split('#')[0].split('!')[0].strip()
+
+    # Strip protocols and common adblock rule prefixes/suffixes
+    line = line.lower()
+    line = re.sub(r'^https?://', '', line)
+    line = line.lstrip('||').rstrip('^')
+
+    # Remove paths or query parameters if present
+    if '/' in line:
+        line = line.split('/')[0]
+
+    # Remove port numbers
+    if ':' in line:
+        line = line.split(':')[0]
+
+    # Ignore wildcard entries or invalid characters
+    if '*' in line or not line:
+        return None
+
+    return line if DOMAIN_REGEX.match(line) else None
+
+
+def clean_and_deduplicate_whitelist_file(filepath: str):
+    """
+    Reads a whitelist file, extracts comments, cleans domains, 
+    deduplicates entries, and rewrites the file sorted alphabetically.
+    """
+    if not os.path.exists(filepath):
+        return
+
+    print(f"[+] Sanitizing and deduplicating whitelist file: {filepath}")
+    
+    valid_domains: Set[str] = set()
+    file_header_comments = []
+
+    with open(filepath, "r", encoding="utf-8") as f:
+        for line in f:
+            stripped = line.strip()
+            # Preserve initial header comments at the top of the file
+            if stripped.startswith(('#', '!')) and not valid_domains:
+                file_header_comments.append(stripped)
+                continue
+
+            cleaned_domain = sanitize_domain_entry(line)
+            if cleaned_domain:
+                valid_domains.add(cleaned_domain)
+
+    # Rewrite the file with cleaned, sorted domains
+    with open(filepath, "w", encoding="utf-8") as f:
+        if file_header_comments:
+            for comment in file_header_comments:
+                f.write(f"{comment}\n")
+            f.write("\n")
+            
+        for domain in sorted(valid_domains):
+            f.write(f"{domain}\n")
+
+    print(f"    ✔ Cleaned file written with {len(valid_domains):,} unique domains.")
+
+
+def load_whitelist() -> Set[str]:
+    """Sanitizes local files and loads active whitelist domains into memory."""
+    whitelist = set(DEFAULT_WHITELIST)
+    
+    # First, sanitize both whitelist files on disk
+    clean_and_deduplicate_whitelist_file(PUBLIC_WHITELIST_FILE)
+    clean_and_deduplicate_whitelist_file(BUILD_WHITELIST_FILE)
+
+    # Load active whitelist domains into memory
+    target_files = [PUBLIC_WHITELIST_FILE, BUILD_WHITELIST_FILE]
+    for target in target_files:
+        if os.path.exists(target):
+            with open(target, "r", encoding="utf-8") as f:
                 for line in f:
-                    line = line.strip().lower()
-                    if line and not line.startswith(('#', '!')):
-                        domain = line.split()[0].rstrip('^').lstrip('||')
-                        if '/' not in domain and '*' not in domain:
-                            whitelist.add(domain)
-        except Exception as e:
-            print(f"[!] Warning reading {target_file}: {e}")
-    else:
-        print("[!] No whitelist file found. Using default internal whitelist.")
-        
-    print(f"[+] Active Whitelist Count: {len(whitelist)} domains\n")
+                    domain = sanitize_domain_entry(line)
+                    if domain:
+                        whitelist.add(domain)
+
+    print(f"[+] Total Active Whitelist Count: {len(whitelist):,} domains\n")
     return whitelist
 
 
