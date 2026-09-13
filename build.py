@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import hashlib
 import json
 import os
 import re
@@ -108,15 +109,34 @@ def write_tier_file(filename: str, domains: Set[str], tier_name: str):
     print(f"[+] Saved {tier_name} Tier ({len(domains):,} domains) -> {filepath}\n")
 
 
+def generate_checksums():
+    """Generates sha256sums.txt for compiled blocklist assets."""
+    checksum_file = os.path.join(OUTPUT_DIR, "sha256sums.txt")
+    files_to_hash = ["basic.txt", "balanced.txt", "ultimate.txt"]
+    
+    with open(checksum_file, "w", encoding="utf-8") as out:
+        for fname in files_to_hash:
+            fpath = os.path.join(OUTPUT_DIR, fname)
+            if os.path.exists(fpath):
+                with open(fpath, "rb") as f:
+                    digest = hashlib.sha256(f.read()).hexdigest()
+                out.write(f"{digest}  {fname}\n")
+                
+    print(f"[+] Generated SHA256 checksums -> {checksum_file}\n")
+
+
 def generate_summary(counts: dict[str, int]):
-    """Generates markdown file containing current tier domain counts."""
+    """Generates a concise release summary table."""
     with open(SUMMARY_FILE, "w", encoding="utf-8") as f:
-        f.write("### 📊 Blocklist Build Statistics\n\n")
-        f.write("| Tier | Total Unique Domains |\n")
-        f.write("| :--- | :--- |\n")
-        for tier, count in counts.items():
-            f.write(f"| **{tier}** | `{count:,}` |\n")
-        f.write("\n*Automated build generated via GitHub Actions.*")
+        f.write("### Overview\n")
+        f.write("Automated build of network protection tiers compiled from verified threat feeds.\n\n")
+        f.write("| Protection Tier | File | Total Domains |\n")
+        f.write("| :--- | :--- | :--- |\n")
+        f.write(f"| **Basic** | `basic.txt` | `{counts.get('Basic', 0):,}` |\n")
+        f.write(f"| **Balanced** | `balanced.txt` | `{counts.get('Balanced', 0):,}` |\n")
+        f.write(f"| **Ultimate** | `ultimate.txt` | `{counts.get('Ultimate', 0):,}` |\n\n")
+        f.write("--- \n")
+        f.write("*Filtered against built-in false-positive whitelist rules. SHA256 checksums available in release assets.*")
 
 
 def main():
@@ -149,7 +169,10 @@ def main():
     ultimate_domains = balanced_domains.union(fetch_domains_from_urls(ultimate_urls, whitelist))
     write_tier_file("ultimate.txt", ultimate_domains, "Ultimate")
 
-    # Generate release notes summary
+    # 4. Generate Checksums
+    generate_checksums()
+
+    # 5. Generate Release Summary
     counts = {
         "Basic": len(basic_domains),
         "Balanced": len(balanced_domains),
