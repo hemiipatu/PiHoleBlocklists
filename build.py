@@ -4,7 +4,6 @@ import re
 import urllib.request
 from typing import Optional, Set
 
-# Whitelist set (O(1) lookup speed)
 WHITELIST = {
     "localhost",
     "clients3.google.com",
@@ -12,101 +11,86 @@ WHITELIST = {
 }
 
 OUTPUT_DIR = "blocklists"
-
-# Pre-compiled strict domain matcher
 DOMAIN_REGEX = re.compile(
     r'^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$'
 )
 
 def extract_domain(line: str) -> Optional[str]:
-    """Extremely fast domain extractor bypassing heavy regex on dirty lines."""
     line = line.strip()
-    
-    # Fast drop empty or comment lines
-    if not line or line.startswith('#') or line.startswith('!'):
+    if not line or line.startswith(('#', '!')):
         return None
-
-    # Remove AdBlock option modifiers (e.g., ^$third-party)
     if '^$' in line:
         line = line.split('^$', 1)[0]
-    
-    # Strip AdBlock wrapper syntax
     if line.endswith('^'):
         line = line[:-1]
     if line.startswith('||'):
         line = line[2:]
-
-    # Fast check: wildcard or path-based rules cannot be host blocked
     if '/' in line or '*' in line:
         return None
-
-    # Extract domain if preceded by IP (e.g., 0.0.0.0 domain.com or 127.0.0.1 domain.com)
     if ' ' in line or '\t' in line:
         parts = line.split()
         line = parts[-1]
+    return line.lower()
 
-    possible_domain = line.lower()
-    return possible_domain
-
-def process_category(category: str, urls: list[str]) -> None:
-    """Streams data line-by-line to keep RAM usage minimal."""
-    entries: Set[str] = set()
-    headers = {'User-Agent': 'Mozilla/5.0 (BlocklistCompiler/3.0)'}
+def fetch_domains_from_urls(urls: list[str]) -> Set[str]:
+    domains: Set[str] = set()
+    headers = {'User-Agent': 'Mozilla/5.0 (BlocklistCompiler/4.0)'}
 
     for url in urls:
-        print(f"[{category}] Fetching: {url}")
+        print(f"  --> Fetching: {url}")
         req = urllib.request.Request(url, headers=headers)
         try:
             with urllib.request.urlopen(req, timeout=30) as response:
-                # Stream line-by-line using low-memory iterator
                 for line_bytes in response:
                     try:
                         line = line_bytes.decode('utf-8', errors='ignore')
                     except Exception:
                         continue
                     
-                    line = line.strip()
-                    if not line or line.startswith(('#', '!')):
-                        continue
-
-                    # Special case: preserve raw lines for regex category
-                    if category == "regex":
-                        entries.add(line)
-                        continue
-
                     domain = extract_domain(line)
                     if domain and domain not in WHITELIST:
                         if DOMAIN_REGEX.match(domain):
-                            entries.add(domain)
-
+                            domains.add(domain)
         except Exception as e:
-            print(f"[{category}] ERROR on {url}: {e}")
+            print(f"  [!] Failed {url}: {e}")
 
-    # Write output to disk
-    output_file = os.path.join(OUTPUT_DIR, f"{category}.txt")
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(f"# Category: {category}\n# Total Unique Entries: {len(entries)}\n")
-        if category == "regex":
-            for entry in sorted(entries):
-                f.write(f"{entry}\n")
-        else:
-            for domain in sorted(entries):
-                f.write(f"0.0.0.0 {domain}\n")
+    return domains
 
-    print(f"[{category}] Saved {len(entries):,} unique domains -> {output_file}\n")
+def write_tier_file(filename: str, domains: Set[str], tier_name: str):
+    filepath = os.path.join(OUTPUT_DIR, filename)
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(f"# Blocklist Tier: {tier_name}\n")
+        f.write(f"# Total Unique Domains: {len(domains)}\n\n")
+        for domain in sorted(domains):
+            f.write(f"0.0.0.0 {domain}\n")
+    print(f"[+] Saved {tier_name} Tier ({len(domains):,} domains) -> {filepath}\n")
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    
     if not os.path.exists("sources.json"):
-        print("Error: sources.json file not found.")
+        print("Error: sources.json not found.")
         return
 
     with open("sources.json", "r", encoding="utf-8") as f:
-        categories = json.load(f)
+        sources_by_tier = json.load(f)
 
-    for category, urls in categories.items():
-        process_category(category, urls)
+    # 1. Gather Basic
+    print("=== Processing Basic Tier ===")
+    basic_urls = [url for category in sources_by_tier.get("basic", {}).values() for url in category]
+    basic_domains = fetch_domains_from_urls(basic_urls)
+    write_tier_file("basic.txt", basic_domains, "Basic")
+
+    # 2. Gather Balanced (Basic + Balanced)
+    print("=== Processing Balanced Tier ===")
+    balanced_urls = [url for category in sources_by_tier.get("balanced", {}).values() for url in category]
+    balanced_domains = basic_domains.union(fetch_domains_from_urls(balanced_urls))
+    write_tier_file("balanced.txt", balanced_domains, "Balanced")
+
+    # 3. Gather Ultimate (Balanced + Ultimate)
+    print("=== Processing Ultimate Tier ===")
+    ultimate_urls = [url for category in sources_by_tier.get("ultimate", {}).values() for url in category]
+    ultimate_domains = balanced_domains.union(fetch_domains_from_urls(ultimate_urls))
+    write_tier_file("ultimate.txt", ultimate_domains, "Ultimate")
 
 if __name__ == "__main__":
     main()
