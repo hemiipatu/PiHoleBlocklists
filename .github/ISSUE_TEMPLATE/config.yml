@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Questions & Discussions
+    url: https://github.com/hemiipatu/piholeblocklists/discussions
+    about: Ask questions, get help, or discuss features without opening a tracking issue.
