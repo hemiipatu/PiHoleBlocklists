@@ -1,24 +1,25 @@
-name: Auto Triage False Positive Issues
+name: Issue Triage & Whitelist PR Automation
 
 on:
   issues:
-    types: [opened]
+    types: [opened, labeled]
 
 jobs:
+  # Stage 1: Auto-label and confirm newly opened false positive issues
   triage:
+    if: github.event.action == 'opened'
     runs-on: ubuntu-latest
     permissions:
       issues: write
 
     steps:
-      - name: Process False Positive Issue
+      - name: Triage Incoming False Positive Issue
         uses: actions/github-script@v7
         with:
           script: |
             const issue = context.payload.issue;
             const body = issue.body || "";
 
-            // Check if the issue title starts with "[False Positive]:" or contains the false-positive label
             const isFalsePositive = issue.title.startsWith("[False Positive]:") || 
                                     issue.labels.some(l => l.name === "false-positive");
 
@@ -27,12 +28,11 @@ jobs:
               return;
             }
 
-            // Extract the domain from the issue template form field
-            // Looking for text immediately after "### Blocked Domain(s)"
+            // Extract the domain from the markdown issue form
             const domainMatch = body.match(/### Blocked Domain\(s\)\s*\n+([^\n\r]+)/i);
             const domain = domainMatch ? domainMatch[1].trim() : "Not specified";
 
-            // Add triage labels to the issue
+            // Add triage labels
             await github.rest.issues.addLabels({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -40,16 +40,136 @@ jobs:
               labels: ['false-positive', 'needs-triage']
             });
 
-            // Post an automated confirmation comment
+            // Post receipt confirmation comment
             const commentBody = `### 🤖 Automated Triage Confirmation\n\n` +
-              `Thank you for reporting this issue!\n\n` +
+              `Thank you for reporting this false positive!\n\n` +
               `* **Target Domain:** \`${domain}\`\n` +
-              `* **Status:** Queued for verification against \`sources.json\` and \`whitelist.txt\`.\n\n` +
-              `A maintainer will review this request shortly. If verified, the domain will be added to the dynamic whitelist in the next build run.`;
+              `* **Status:** Queued for review.\n\n` +
+              `*Maintainers: Add the \`approved\` label to automatically generate a Pull Request adding this domain to \`whitelist.txt\`.*`;
 
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: issue.number,
               body: commentBody
+            });
+
+  # Stage 2: Create a Pull Request when a maintainer labels the issue as 'approved'
+  create-whitelist-pr:
+    if: github.event.action == 'labeled' && github.event.label.name == 'approved'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Parse Domain and Append to whitelist.txt
+        id: parse_domain
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const issue = context.payload.issue;
+            const body = issue.body || "";
+
+            // Parse domain from issue body form
+            const domainMatch = body.match(/### Blocked Domain\(s\)\s*\n+([^\n\r]+)/i);
+            if (!domainMatch) {
+              core.setFailed("Could not parse domain from issue body.");
+              return;
+            }
+
+            const rawDomain = domainMatch[1].trim().toLowerCase();
+            // Basic domain sanitization (strip protocol/paths if present)
+            const cleanDomain = rawDomain.replace(/^https?:\/\//, '').split('/')[0].split(':')[0];
+
+            if (!cleanDomain || cleanDomain.includes('*')) {
+              core.setFailed(`Invalid domain string extracted: ${cleanDomain}`);
+              return;
+            }
+
+            console.log(`Extracted target domain: ${cleanDomain}`);
+
+            // Read existing whitelist.txt
+            const whitelistPath = 'whitelist.txt';
+            let whitelistContent = fs.existsSync(whitelistPath) ? fs.readFileSync(whitelistPath, 'utf8') : '';
+
+            // Check if domain is already whitelisted
+            const lines = whitelistContent.split('\n').map(l => l.trim());
+            if (lines.includes(cleanDomain)) {
+              console.log(`Domain ${cleanDomain} is already present in whitelist.txt.`);
+              core.setOutput('ALREADY_EXISTS', 'true');
+              core.setOutput('DOMAIN', cleanDomain);
+              return;
+            }
+
+            // Append domain and let build.py deduplication handle clean formatting later
+            fs.appendFileSync(whitelistPath, `\n${cleanDomain}\n`);
+
+            core.setOutput('ALREADY_EXISTS', 'false');
+            core.setOutput('DOMAIN', cleanDomain);
+            core.setOutput('ISSUE_NUMBER', issue.number);
+
+      - name: Sanitize and Sort whitelist.txt
+        if: steps.parse_domain.outputs.ALREADY_EXISTS == 'false'
+        run: |
+          # Use build.py load_whitelist logic to clean and sort whitelist.txt
+          python -c "
+          import os, re
+
+          filepath = 'whitelist.txt'
+          if os.path.exists(filepath):
+              with open(filepath, 'r') as f:
+                  lines = [l.strip().lower() for l in f if l.strip() and not l.strip().startswith(('#', '!'))]
+              
+              unique_domains = sorted(set(lines))
+              with open(filepath, 'w') as f:
+                  f.write('# Community Whitelist\n\n')
+                  for d in unique_domains:
+                      f.write(f'{d}\n')
+          "
+
+      - name: Create Pull Request via GitHub CLI
+        if: steps.parse_domain.outputs.ALREADY_EXISTS == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DOMAIN: ${{ steps.parse_domain.outputs.DOMAIN }}
+          ISSUE_NUM: ${{ steps.parse_domain.outputs.ISSUE_NUMBER }}
+        run: |
+          BRANCH_NAME="fix/unblock-${DOMAIN//./-}"
+          
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git checkout -b "$BRANCH_NAME"
+          git add whitelist.txt
+          git commit -m "fix(whitelist): add ${DOMAIN} to unblock service (closes #${ISSUE_NUM})"
+          git push origin "$BRANCH_NAME" --force
+
+          gh pr create \
+            --title "fix(whitelist): Add \`${DOMAIN}\` to whitelist.txt" \
+            --body "Automated Pull Request generated by maintainer approval on #${ISSUE_NUM}.\n\n* **Added Domain:** \`${DOMAIN}\`\n* **Closes:** #${ISSUE_NUM}" \
+            --base main \
+            --head "$BRANCH_NAME" \
+            --label "false-positive,automated-pr"
+
+      - name: Comment on Issue if Already Whitelisted
+        if: steps.parse_domain.outputs.ALREADY_EXISTS == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              body: `ℹ️ Domain \`${process.env.DOMAIN}\` is already present in \`whitelist.txt\`.`
             });
