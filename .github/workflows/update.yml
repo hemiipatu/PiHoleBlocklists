@@ -22,6 +22,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -32,20 +34,36 @@ jobs:
         run: python build.py
 
       - name: Commit and Push Updated Blocklists
+        id: git_commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add blocklists/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update blocklists [skip ci]" && git push)
+          
+          if git diff --staged --quiet; then
+            echo "CHANGED=false" >> $GITHUB_OUTPUT
+            echo "No blocklist changes detected."
+          else
+            git commit -m "Auto-update blocklists [skip ci]"
+            git push
+            echo "CHANGED=true" >> $GITHUB_OUTPUT
+          fi
 
-      - name: Create or Update GitHub Release
+      - name: Generate Version Tag
+        if: steps.git_commit.outputs.CHANGED == 'true' || github.event_name == 'workflow_dispatch'
+        id: versioning
+        run: |
+          VERSION="v1.0.${{ github.run_number }}"
+          echo "TAG_NAME=$VERSION" >> $GITHUB_OUTPUT
+          echo "Generated release tag: $VERSION"
+
+      - name: Create GitHub Release
+        if: steps.git_commit.outputs.CHANGED == 'true' || github.event_name == 'workflow_dispatch'
         uses: ncipollo/release-action@v1
         with:
-          tag: "latest"
-          name: "Latest Blocklists Build"
-          body: |
-            Automated build of Basic, Balanced, and Ultimate blocklist tiers.
-            Updated automatically via GitHub Actions.
+          tag: ${{ steps.versioning.outputs.TAG_NAME }}
+          name: "Blocklists Release ${{ steps.versioning.outputs.TAG_NAME }}"
+          bodyFile: "build_summary.md"
           artifacts: "blocklists/basic.txt,blocklists/balanced.txt,blocklists/ultimate.txt,whitelist.txt"
           allowUpdates: true
           replacesArtifacts: true
