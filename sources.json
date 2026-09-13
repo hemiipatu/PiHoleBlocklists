@@ -1,46 +1,45 @@
 {
-  "advertisement": [
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/adblock.txt",
-    "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-    "https://adaway.org/hosts.txt",
-    "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
-    "https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt"
-  ],
-  "fraudulent": [
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/fake.txt",
-    "https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt",
-    "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"
-  ],
-  "malware": [
-    "https://urlhaus.abuse.ch/downloads/hostfile/",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt",
-    "https://raw.githubusercontent.com/Dshield-Threat-Feed/DShield-Malicious-Domains/main/hosts",
-    "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt",
-    "https://big.oisd.nl/domainswild"
-  ],
-  "phishing": [
-    "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains.txt",
-    "https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt",
-    "https://raw.githubusercontent.com/openphish/feed/main/feed.txt"
-  ],
-  "pornography": [
-    "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts",
-    "https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt",
-    "https://raw.githubusercontent.com/Snawoot/nsfw-hosts/main/nsfw-hosts"
-  ],
-  "ransomware": [
-    "https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt",
-    "https://raw.githubusercontent.com/threatfox/threatfox-hosts/main/hosts.txt"
-  ],
-  "redirect": [
-    "https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt"
-  ],
-  "regex": [
-    "https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list",
-    "https://raw.githubusercontent.com/cbuijs/pihole-regex/master/regex.list"
-  ],
-  "scam": [
-    "https://raw.githubusercontent.com/DurableNapkin/Scam-Blocklist/master/scam.txt",
-    "https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt"
-  ]
+  "basic": {
+    "malware": [
+      "https://urlhaus.abuse.ch/downloads/hostfile/",
+      "https://raw.githubusercontent.com/Dshield-Threat-Feed/DShield-Malicious-Domains/main/hosts"
+    ],
+    "phishing": [
+      "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains.txt"
+    ],
+    "advertisement": [
+      "https://adaway.org/hosts.txt"
+    ]
+  },
+  "balanced": {
+    "advertisement": [
+      "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/adblock.txt",
+      "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
+    ],
+    "fraudulent": [
+      "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/fake.txt",
+      "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"
+    ],
+    "scam": [
+      "https://raw.githubusercontent.com/DurableNapkin/Scam-Blocklist/master/scam.txt"
+    ]
+  },
+  "ultimate": {
+    "malware_extra": [
+      "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt",
+      "https://big.oisd.nl/domainswild"
+    ],
+    "pornography": [
+      "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts",
+      "https://raw.githubusercontent.com/Snawoot/nsfw-hosts/main/nsfw-hosts"
+    ],
+    "ransomware": [
+      "https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt",
+      "https://raw.githubusercontent.com/threatfox/threatfox-hosts/main/hosts.txt"
+    ],
+    "redirect": [
+      "https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt"
+    ]
+  }
 }
