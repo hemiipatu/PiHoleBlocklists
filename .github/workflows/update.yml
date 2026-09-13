@@ -46,7 +46,7 @@ jobs:
           body: |
             Automated build of Basic, Balanced, and Ultimate blocklist tiers.
             Updated automatically via GitHub Actions.
-          artifacts: "blocklists/*.txt,whitelist.txt"
+          artifacts: "blocklists/basic.txt,blocklists/balanced.txt,blocklists/ultimate.txt,whitelist.txt"
           allowUpdates: true
           replacesArtifacts: true
           makeLatest: true
