@@ -95,7 +95,7 @@ jobs:
 
       - name: Create Issue on Health Check Failure
         if: steps.health_check.outputs.FAILED == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const fs = require('fs');
