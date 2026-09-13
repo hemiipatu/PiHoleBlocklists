@@ -1,5 +1,7 @@
 # Blocklist Tier: Balanced
-# Total Unique Domains: 87,777
+# Version: v1.0.35
+# Updated: 2026-09-13 09:53:30 UTC
+# Total Unique Domains: 87,775
 
 0.0.0.0 0-ilxrc-w285.p9bckp.sbs
 0.0.0.0 0-lxk284pre.c3kqmp.cfd
@@ -2130,6 +2132,7 @@
 0.0.0.0 accessfreevpn.com
 0.0.0.0 accessport.jp
 0.0.0.0 accessprepayment.prepaiementweb.click
+0.0.0.0 accesstelematics.com
 0.0.0.0 accessup.goldcows.com
 0.0.0.0 accetrixos.site
 0.0.0.0 accidentadvicehelpline.co.uk
@@ -9465,6 +9468,7 @@
 0.0.0.0 asia.adform.net
 0.0.0.0 asia.creativecdn.com
 0.0.0.0 asia.seadform.net
+0.0.0.0 asiaengrs.com
 0.0.0.0 asiainspection.122.2o7.net
 0.0.0.0 asiamlweb.112.2o7.net
 0.0.0.0 asian.streamate.com
@@ -9897,6 +9901,7 @@
 0.0.0.0 authenticated-origin.com
 0.0.0.0 authgen.deals
 0.0.0.0 authscotia-signinscotia.com
+0.0.0.0 authshipup.net
 0.0.0.0 authstep-booking1222.com
 0.0.0.0 authstep-booking452.com
 0.0.0.0 authstep-booking8442.com
@@ -12099,7 +12104,6 @@
 0.0.0.0 booking-res.com
 0.0.0.0 booking-theater.fun
 0.0.0.0 booking.bookingverif2421.com
-0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 booking.cheksupdguest-parthers.com
 0.0.0.0 booking.digitalguestform.com
 0.0.0.0 booking.flowbookingrooms-id735291.co
@@ -17057,7 +17061,6 @@
 0.0.0.0 crawler.speakol.com
 0.0.0.0 crazy-files.com
 0.0.0.0 crazy-jackpots.com
-0.0.0.0 crazy2cdn.com
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
 0.0.0.0 crazyprotocol.com
@@ -23471,7 +23474,6 @@
 0.0.0.0 firmlogicty.pro
 0.0.0.0 firmvestode.org
 0.0.0.0 firmy-lex.pl
-0.0.0.0 firojkhan.com.np
 0.0.0.0 firrectly.top
 0.0.0.0 first-pictures.net
 0.0.0.0 first-scr.net
@@ -40735,7 +40737,6 @@
 0.0.0.0 oill8x-raza5.ax7tjc.cfd
 0.0.0.0 oilprofittrade.com
 0.0.0.0 oiltrelytis.org
-0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 oindevista.site
@@ -48338,7 +48339,6 @@
 0.0.0.0 safesecurity.pl
 0.0.0.0 safetytrade.net
 0.0.0.0 safeurl.maxthon.cn
-0.0.0.0 safewatertech.com
 0.0.0.0 safeypupost.eu.cc
 0.0.0.0 sagan.iad-03.braze.com
 0.0.0.0 sagedentalnursing.uk
@@ -51402,6 +51402,7 @@
 0.0.0.0 solanobursencia.net
 0.0.0.0 solar-core.site
 0.0.0.0 solar-sale.shop
+0.0.0.0 solar-sanat.net
 0.0.0.0 solarfacic.store
 0.0.0.0 solarixradiante.net
 0.0.0.0 solarsalesnopl.shop
@@ -76231,7 +76232,6 @@
 0.0.0.0 www.oix-ops-ne74.ax7tjc.cfd
 0.0.0.0 www.oix.com
 0.0.0.0 www.oixops-jbm3.p9bckp.sbs
-0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.ojdigibot.site
 0.0.0.0 www.ojolink.fr
 0.0.0.0 www.ojp-s4lrvzimnqhs0cyr.s3.eu-west-1.amazonaws.com

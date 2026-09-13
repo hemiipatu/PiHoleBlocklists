@@ -1,5 +1,7 @@
 # Blocklist Tier: Ultimate
-# Total Unique Domains: 274,492
+# Version: v1.0.35
+# Updated: 2026-09-13 09:53:36 UTC
+# Total Unique Domains: 274,490
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -7760,6 +7762,7 @@
 0.0.0.0 accesstech.ga
 0.0.0.0 accesstech.ml
 0.0.0.0 accesstech.tk
+0.0.0.0 accesstelematics.com
 0.0.0.0 accessthat.com
 0.0.0.0 accessthat.info
 0.0.0.0 accessthatpage.com
@@ -21908,6 +21911,7 @@
 0.0.0.0 asiaamuse.com
 0.0.0.0 asiablue.com
 0.0.0.0 asiacollection.org
+0.0.0.0 asiaengrs.com
 0.0.0.0 asiafinest.info
 0.0.0.0 asiainspection.122.2o7.net
 0.0.0.0 asiamlweb.112.2o7.net
@@ -23326,6 +23330,7 @@
 0.0.0.0 authorizedepidemic.tk
 0.0.0.0 authorizedproxy.org
 0.0.0.0 authscotia-signinscotia.com
+0.0.0.0 authshipup.net
 0.0.0.0 authstep-booking1222.com
 0.0.0.0 authstep-booking452.com
 0.0.0.0 authstep-booking8442.com
@@ -32351,7 +32356,6 @@
 0.0.0.0 booking-res.com
 0.0.0.0 booking-theater.fun
 0.0.0.0 booking.bookingverif2421.com
-0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 booking.cheksupdguest-parthers.com
 0.0.0.0 booking.digitalguestform.com
 0.0.0.0 booking.flowbookingrooms-id735291.co
@@ -49199,7 +49203,6 @@
 0.0.0.0 crazy-proxy.info
 0.0.0.0 crazy-secret.co.cc
 0.0.0.0 crazy-tranny.com
-0.0.0.0 crazy2cdn.com
 0.0.0.0 crazy4myspace.info
 0.0.0.0 crazyad.tk
 0.0.0.0 crazyagain.com
@@ -70310,7 +70313,6 @@
 0.0.0.0 firmvestode.org
 0.0.0.0 firmy-lex.pl
 0.0.0.0 firmyoungbreast.com
-0.0.0.0 firojkhan.com.np
 0.0.0.0 firondoleto.site
 0.0.0.0 firoxy.com
 0.0.0.0 firoxy.in
@@ -137558,7 +137560,6 @@
 0.0.0.0 oiltanking.ee
 0.0.0.0 oiltrelytis.org
 0.0.0.0 oilyhandjobs.com
-0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 oindevista.site
@@ -173939,7 +173940,6 @@
 0.0.0.0 safeview-forex.tk
 0.0.0.0 safeview-w.tk
 0.0.0.0 safevisit.net
-0.0.0.0 safewatertech.com
 0.0.0.0 safeways.info
 0.0.0.0 safeweb.com
 0.0.0.0 safeweb.p.ht
@@ -185005,6 +185005,7 @@
 0.0.0.0 solar-core.site
 0.0.0.0 solar-proxy.tk
 0.0.0.0 solar-sale.shop
+0.0.0.0 solar-sanat.net
 0.0.0.0 solar.clanteam.com
 0.0.0.0 solar.hu.tl
 0.0.0.0 solarcellh3ide.tk
@@ -249092,7 +249093,6 @@
 0.0.0.0 www.oix-ops-ne74.ax7tjc.cfd
 0.0.0.0 www.oix.com
 0.0.0.0 www.oixops-jbm3.p9bckp.sbs
-0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.ojdigibot.site
 0.0.0.0 www.ojolink.fr
 0.0.0.0 www.ojp-s4lrvzimnqhs0cyr.s3.eu-west-1.amazonaws.com
