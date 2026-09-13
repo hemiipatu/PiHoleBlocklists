@@ -3,8 +3,8 @@
 set -e
 
 # Repository configuration
-GITHUB_USER="YOUR_USERNAME"
-REPO_NAME="YOUR_REPO"
+GITHUB_USER="hemiipatu"
+REPO_NAME="piholeblocklists"
 BRANCH="main"
 
 # Path to Pi-hole database
