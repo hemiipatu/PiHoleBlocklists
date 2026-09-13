@@ -1,5 +1,5 @@
 # Blocklist Tier: Basic
-# Total Unique Domains: 6,891
+# Total Unique Domains: 6,892
 
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
 0.0.0.0 0following.com
@@ -6787,6 +6787,7 @@
 0.0.0.0 www.newsbreak.com
 0.0.0.0 www.notbak.com
 0.0.0.0 www.npttech.com
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
 0.0.0.0 www.pingu.surf
 0.0.0.0 www.pointtohealth.com

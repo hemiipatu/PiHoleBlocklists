@@ -1,5 +1,5 @@
 # Blocklist Tier: Balanced
-# Total Unique Domains: 87,775
+# Total Unique Domains: 87,776
 
 0.0.0.0 0-ilxrc-w285.p9bckp.sbs
 0.0.0.0 0-lxk284pre.c3kqmp.cfd
@@ -76230,6 +76230,7 @@
 0.0.0.0 www.oix-ops-ne74.ax7tjc.cfd
 0.0.0.0 www.oix.com
 0.0.0.0 www.oixops-jbm3.p9bckp.sbs
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.ojdigibot.site
 0.0.0.0 www.ojolink.fr
 0.0.0.0 www.ojp-s4lrvzimnqhs0cyr.s3.eu-west-1.amazonaws.com

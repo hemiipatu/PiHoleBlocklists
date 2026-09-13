@@ -1,5 +1,5 @@
 # Blocklist Tier: Ultimate
-# Total Unique Domains: 274,490
+# Total Unique Domains: 274,491
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -249091,6 +249091,7 @@
 0.0.0.0 www.oix-ops-ne74.ax7tjc.cfd
 0.0.0.0 www.oix.com
 0.0.0.0 www.oixops-jbm3.p9bckp.sbs
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.ojdigibot.site
 0.0.0.0 www.ojolink.fr
 0.0.0.0 www.ojp-s4lrvzimnqhs0cyr.s3.eu-west-1.amazonaws.com
