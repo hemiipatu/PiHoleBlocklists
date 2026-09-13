@@ -4,9 +4,8 @@ set -e
 
 main() {
   # Repository configuration
-  GITHUB_USER="hemiipatu"
-  REPO_NAME="piholeblocklists"
-  BRANCH="main"
+  GITHUB_USER="YOUR_USERNAME"
+  REPO_NAME="YOUR_REPO"
 
   # Path to Pi-hole database
   GRAVITY_DB="/etc/pihole/gravity.db"
@@ -45,16 +44,16 @@ main() {
     *) echo "[!] Invalid selection. Exiting installation."; exit 1 ;;
   esac
 
-  # Define raw GitHub URLs
-  BLOCKLIST_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/${BRANCH}/blocklists/${FILE}"
-  WHITELIST_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/${BRANCH}/whitelist.txt"
+  # Define Release asset URL for the blocklist and raw URL for whitelist
+  BLOCKLIST_URL="https://github.com/${GITHUB_USER}/${REPO_NAME}/releases/download/latest/${FILE}"
+  WHITELIST_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/whitelist.txt"
 
-  # Add selected blocklist URL to Pi-hole gravity database
+  # Add selected release blocklist URL to Pi-hole gravity database
   echo ""
-  echo "[+] Adding ${FILE} blocklist tier to Pi-hole..."
+  echo "[+] Adding ${FILE} blocklist tier (latest release) to Pi-hole..."
   COMMENT="Custom Blocklist Tier (${FILE})"
   sqlite3 "$GRAVITY_DB" "INSERT OR IGNORE INTO adlist (address, comment, enabled) VALUES ('$BLOCKLIST_URL', '$COMMENT', 1);"
-  echo "    Successfully registered blocklist URL."
+  echo "    Successfully registered blocklist release URL."
 
   # Download repository whitelist
   echo ""
@@ -95,7 +94,7 @@ main() {
   echo ""
   echo "=================================================================="
   echo " Setup Complete! Your network is now actively protected by the   "
-  echo " ${FILE} tier with your whitelist rules applied.                 "
+  echo " ${FILE} release tier with your whitelist rules applied.          "
   echo "=================================================================="
 }
 
