@@ -1,0 +1,58 @@
+name: "🐛 Report False Positive (Broken Site/App)"
+description: Report a domain that is incorrectly blocked and breaking a site or service.
+title: "[False Positive]: "
+labels: ["false-positive", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting a false positive! Please provide the details below so we can verify and update `whitelist.txt`.
+
+  - type: input
+    id: blocked_domain
+    attributes:
+      label: Blocked Domain(s)
+      description: What specific domain is being blocked? (e.g., `s.example.com`)
+      placeholder: "e.g., telemetry.example.com"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Which Protection Tier are you using?
+      options:
+        - Basic
+        - Balanced
+        - Ultimate
+        - Unsure / Manual Download
+    validations:
+      required: true
+
+  - type: input
+    id: affected_service
+    attributes:
+      label: Affected Service or App
+      description: What app, site, or feature stops working when this domain is blocked?
+      placeholder: "e.g., Netflix playback on Smart TV, Shopify checkout"
+    validations:
+      required: true
+
+  - type: textarea
+    id: query_log
+    attributes:
+      label: Pi-hole / AdGuard Query Log Details
+      description: Paste any relevant query log lines or debugging details showing the blocked request.
+      render: text
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Pre-submission Checklist
+      options:
+        - label: I verified this domain is coming directly from this blocklist repository.
+          required: true
+        - label: Temporarily disabling blocking for this domain resolved the issue.
+          required: true
