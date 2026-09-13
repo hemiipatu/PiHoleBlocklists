@@ -1,4 +1,4 @@
-name: CI & Code Validation
+name: CI Code Quality Check
 
 on:
   pull_request:
@@ -7,23 +7,27 @@ on:
     branches: [ main ]
 
 jobs:
-  lint:
+  lint-and-validate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v5
+      - name: Checkout Repository
+        uses: actions/checkout@v5
 
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: '3.x'
 
-      - name: Validate JSON Syntax
+      - name: Validate sources.json Syntax
         run: python -m json.tool sources.json > /dev/null
 
-      - name: Syntax & Dry Run Check
-        run: python -m py_compile build.py
+      - name: Lint Python Code (Ruff)
+        run: |
+          pip install ruff
+          ruff check build.py
 
-      - name: Shell Check
+      - name: Lint Shell Scripts (ShellCheck)
         uses: ludeeus/action-shellcheck@master
         with:
           scans: setup.sh
