@@ -4,6 +4,7 @@ import json
 import os
 import re
 import urllib.request
+from datetime import datetime, timezone
 from typing import Optional, Set
 
 OUTPUT_DIR = "blocklists"
@@ -20,6 +21,11 @@ DEFAULT_WHITELIST = {
     "clients3.google.com",
     "s.youtube.com"
 }
+
+
+def get_version() -> str:
+    """Retrieves version from BLOCKLIST_VERSION env var, or defaults to current UTC date tag."""
+    return os.getenv("BLOCKLIST_VERSION", datetime.now(timezone.utc).strftime("v%Y.%m.%d"))
 
 
 def sanitize_domain_entry(line: str) -> Optional[str]:
@@ -170,10 +176,15 @@ def fetch_domains_from_urls(urls: list[str], whitelist: Set[str]) -> Set[str]:
 
 
 def write_tier_file(filename: str, domains: Set[str], tier_name: str):
-    """Outputs standard hosts file format."""
+    """Outputs standard hosts file format with version header."""
     filepath = os.path.join(OUTPUT_DIR, filename)
+    version = get_version()
+    updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(f"# Blocklist Tier: {tier_name}\n")
+        f.write(f"# Version: {version}\n")
+        f.write(f"# Updated: {updated_at}\n")
         f.write(f"# Total Unique Domains: {len(domains):,}\n\n")
         for domain in sorted(domains):
             f.write(f"0.0.0.0 {domain}\n")
@@ -198,8 +209,9 @@ def generate_checksums():
 
 def generate_summary(counts: dict[str, int]):
     """Generates a concise release summary table."""
+    version = get_version()
     with open(SUMMARY_FILE, "w", encoding="utf-8") as f:
-        f.write("### Overview\n")
+        f.write(f"### Release {version}\n")
         f.write("Automated build of network protection tiers compiled from verified threat feeds.\n\n")
         f.write("| Protection Tier | File | Total Domains |\n")
         f.write("| :--- | :--- | :--- |\n")
