@@ -1,0 +1,32 @@
+name: "➕ Request Source / General Bug"
+description: Propose adding/removing an upstream blocklist feed or report a build issue.
+title: "[Request]: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: Request Type
+      options:
+        - Add New Upstream List Source
+        - Remove / Deprecate Upstream Source
+        - Build Script / GitHub Action Bug
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: source_url
+    attributes:
+      label: Upstream List URL (if applicable)
+      placeholder: "https://raw.githubusercontent.com/.../hosts.txt"
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Details & Justification
+      description: Explain why this source should be added/removed or describe the build issue.
+    validations:
+      required: true
