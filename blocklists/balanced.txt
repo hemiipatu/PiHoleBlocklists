@@ -1,5 +1,5 @@
 # Blocklist Tier: Balanced
-# Total Unique Domains: 87,776
+# Total Unique Domains: 87,777
 
 0.0.0.0 0-ilxrc-w285.p9bckp.sbs
 0.0.0.0 0-lxk284pre.c3kqmp.cfd
@@ -17057,6 +17057,7 @@
 0.0.0.0 crawler.speakol.com
 0.0.0.0 crazy-files.com
 0.0.0.0 crazy-jackpots.com
+0.0.0.0 crazy2cdn.com
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
 0.0.0.0 crazyprotocol.com

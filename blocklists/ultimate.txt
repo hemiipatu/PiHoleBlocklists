@@ -1,5 +1,5 @@
 # Blocklist Tier: Ultimate
-# Total Unique Domains: 274,491
+# Total Unique Domains: 274,492
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -49199,6 +49199,7 @@
 0.0.0.0 crazy-proxy.info
 0.0.0.0 crazy-secret.co.cc
 0.0.0.0 crazy-tranny.com
+0.0.0.0 crazy2cdn.com
 0.0.0.0 crazy4myspace.info
 0.0.0.0 crazyad.tk
 0.0.0.0 crazyagain.com

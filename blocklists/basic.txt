@@ -1,5 +1,5 @@
 # Blocklist Tier: Basic
-# Total Unique Domains: 6,892
+# Total Unique Domains: 6,893
 
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
 0.0.0.0 0following.com
@@ -2411,6 +2411,7 @@
 0.0.0.0 cpxigen865632366955.s.moatpixel.com
 0.0.0.0 crash.163.com
 0.0.0.0 crasheye.cn
+0.0.0.0 crazy2cdn.com
 0.0.0.0 crb.kargo.com
 0.0.0.0 crcdn01.adnxs.com
 0.0.0.0 crcdn09.adnxs.com
