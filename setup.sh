@@ -1,54 +1,37 @@
 #!/usr/bin/env bash
-# Automatically imports all category blocklists into Pi-hole gravity.db
-
 set -e
 
-# Update this to your actual GitHub username and repository name
 GITHUB_USER="hemiipatu"
 REPO_NAME="piholeblocklists"
 BRANCH="main"
-
-BASE_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/${BRANCH}/blocklists"
 GRAVITY_DB="/etc/pihole/gravity.db"
 
-# List of categorized files in your blocklists/ directory
-CATEGORIES=(
-  "advertisement.txt"
-  "fraudulent.txt"
-  "malware.txt"
-  "phishing.txt"
-  "pornography.txt"
-  "ransomware.txt"
-  "redirect.txt"
-  "scam.txt"
-)
-
-# Ensure script is running as root
 if [ "$EUID" -ne 0 ]; then
-  echo "Error: Please run this script with sudo."
+  echo "Error: Please run with sudo."
   exit 1
 fi
 
-# Ensure Pi-hole gravity database exists
-if [ ! -f "$GRAVITY_DB" ]; then
-  echo "Error: Pi-hole gravity database not found at $GRAVITY_DB."
-  exit 1
-fi
+echo "========================================="
+echo " Select Blocklist Protection Level"
+echo "========================================="
+echo " 1) Basic    - Safe protection against malware & phishing (0 false positives)"
+echo " 2) Balanced - Recommended for home networks (Ads, Scams, Trackers)"
+echo " 3) Ultimate - Maximum protection (Pornography, Ransomware, Aggressive Tracking)"
+echo "========================================="
+read -p "Enter choice [1-3]: " CHOICE
 
-echo "Adding blocklists to Pi-hole..."
+case $CHOICE in
+  1) FILE="basic.txt" ;;
+  2) FILE="balanced.txt" ;;
+  3) FILE="ultimate.txt" ;;
+  *) echo "Invalid selection. Exiting."; exit 1 ;;
+esac
 
-for category in "${CATEGORIES[@]}"; do
-  URL="${BASE_URL}/${category}"
-  COMMENT="Custom Blocklist: ${category}"
-  
-  # Insert into Pi-hole adlist table if it doesn't already exist
-  sqlite3 "$GRAVITY_DB" "INSERT OR IGNORE INTO adlist (address, comment, enabled) VALUES ('$URL', '$COMMENT', 1);"
-  echo "  [+] Added: $category"
-done
+TARGET_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/${BRANCH}/blocklists/${FILE}"
 
-echo ""
-echo "Updating Pi-hole gravity..."
+echo "Adding ${FILE} to Pi-hole..."
+sqlite3 "$GRAVITY_DB" "INSERT OR IGNORE INTO adlist (address, comment, enabled) VALUES ('$TARGET_URL', 'Custom Blocklist (${FILE})', 1);"
+
+echo "Updating Gravity..."
 pihole -g
-
-echo ""
-echo "Successfully imported all blocklists into Pi-hole!"
+echo "Done! Running ${FILE} protection tier."
