@@ -2,6 +2,7 @@ name: Update Blocklists and Create Release
 
 on:
   schedule:
+    # Runs daily at 00:00 UTC
     - cron: '0 0 * * *'
   push:
     branches:
@@ -33,18 +34,18 @@ jobs:
       - name: Run Build Script
         run: python build.py
 
-      - name: Commit and Push Updated Blocklists
+      - name: Commit and Push Updated Blocklists & Sanitized Whitelist
         id: git_commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add blocklists/
+          git add blocklists/ whitelist.txt config/
           
           if git diff --staged --quiet; then
             echo "CHANGED=false" >> $GITHUB_OUTPUT
-            echo "No blocklist changes detected."
+            echo "No blocklist or whitelist changes detected."
           else
-            git commit -m "Auto-update blocklists [skip ci]"
+            git commit -m "Auto-update blocklists and sanitize whitelist [skip ci]"
             git push
             echo "CHANGED=true" >> $GITHUB_OUTPUT
           fi
@@ -57,7 +58,7 @@ jobs:
           echo "TAG_NAME=$VERSION" >> $GITHUB_OUTPUT
           echo "Generated release tag: $VERSION"
 
-      # Create Versioned Release with SHA256 Checksums
+      # 1. Create Versioned GitHub Release (e.g., v1.0.42)
       - name: Create Versioned GitHub Release
         if: steps.git_commit.outputs.CHANGED == 'true' || github.event_name == 'workflow_dispatch'
         uses: ncipollo/release-action@v1
@@ -71,7 +72,7 @@ jobs:
           makeLatest: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Update 'latest' Alias Release with SHA256 Checksums
+      # 2. Update Fixed 'latest' Alias Release for Static User Links
       - name: Update 'latest' Alias Release
         if: steps.git_commit.outputs.CHANGED == 'true' || github.event_name == 'workflow_dispatch'
         uses: ncipollo/release-action@v1
