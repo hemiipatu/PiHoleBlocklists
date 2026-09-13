@@ -11,19 +11,28 @@
 ## What is PiHoleBlocklists
 PiHoleBlocklists is a curated collection of upstream adblock lists, deduplicated and refactored specifically for Pi-hole. It provides a single, clean source to block ads, malware, phishing, and online tracker junk.
 
-## General blocklist policies
- - Should not break useful websites or apps.
- - Block known tracking sites.
- - Block known advertising sites.
- - Block known analytics sites.
- - Block known scam sites.
- - Block known malware sites.
- - Block known phishing sites.
+## Protection Tiers
+The automated build process generates three distinct protection tiers so you can select the right balance for your network:
+
+* **Basic (Light):** High-confidence malware and phishing protection with zero false-positive risk. Safe for non-technical users.
+* **Balanced (Recommended):** Adds tracking, telemetry, scam domains, and main ad servers. Recommended for everyday home networks.
+* **Ultimate (Aggressive):** Includes Basic + Balanced, plus ransomware, adult content, redirects, and aggressive tracking feeds. Higher risk of false positives.
 
 ## How to install
- - `curl -sSL https://raw.githubusercontent.com/hemiipatu/piholeblocklists/main/setup.sh | sudo bash`
+### Quick install (Recommended)
+Run the automated interactive setup script directly on your Pi-hole system:
+ - `curl -sSLf [https://raw.githubusercontent.com/hemiipatu/piholeblocklists/main/setup.sh](https://raw.githubusercontent.com/hemiipatu/piholeblocklists/main/setup.sh) | sudo bash`
 
-## Upstream sources & Credits
+### Manual Inspect & Run (Security-Minded)
+If you prefer to review script contents locally before executing with root privileges:
+- Download setup script
+  - `curl -sSLf -o setup.sh [https://raw.githubusercontent.com/hemiipatu/piholeblocklists/main/setup.sh](https://raw.githubusercontent.com/hemiipatu/piholeblocklists/main/setup.sh)`
+- Inspect script contents
+  - `less setup.sh`
+- Execute script
+  - `sudo bash setup.sh`
+
+#### Upstream sources & Credits
 
 This project compiles, deduplicates, and optimizes data from several upstream maintainers and security feeds. Full credit goes to the creators and maintainers of these lists:
 
