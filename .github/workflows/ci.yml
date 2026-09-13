@@ -1,0 +1,29 @@
+name: CI & Code Validation
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Validate JSON Syntax
+        run: python -m json.tool sources.json > /dev/null
+
+      - name: Syntax & Dry Run Check
+        run: python -m py_compile build.py
+
+      - name: Shell Check
+        uses: ludeeus/action-shellcheck@master
+        with:
+          scans: setup.sh
