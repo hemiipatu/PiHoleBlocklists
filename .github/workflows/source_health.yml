@@ -6,6 +6,9 @@ on:
     - cron: '0 0 * * 0'
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   check-health:
     runs-on: ubuntu-latest
@@ -14,11 +17,13 @@ jobs:
       contents: read
 
     steps:
+      # actions/checkout@v4.2.2
       - name: Checkout Repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
 
+      # actions/setup-python@v5.3.0
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@0b7f8abb15081810e396839393149d4a8d581bc4
         with:
           python-version: '3.x'
 
@@ -38,8 +43,6 @@ jobs:
 
           failed_sources = []
           total_checked = 0
-
-          # User-Agent header to avoid basic scraping blocks
           headers = {'User-Agent': 'Mozilla/5.0 (BlocklistHealthCheck/1.0)'}
 
           print('Starting upstream URL HTTP health checks...\n')
@@ -54,7 +57,6 @@ jobs:
                               if response.status not in (200, 301, 302):
                                   failed_sources.append((tier, category, url, f'HTTP Status {response.status}'))
                       except Exception as e:
-                          # Retry using GET if HEAD method is forbidden (403/405) by CDN
                           try:
                               req = urllib.request.Request(url, headers=headers)
                               with urllib.request.urlopen(req, timeout=12) as response:
@@ -67,8 +69,6 @@ jobs:
 
           if failed_sources:
               print(f'Found {len(failed_sources)} failing upstream sources.')
-              
-              # Build markdown report for GitHub Issue body
               report_lines = ['### ⚠️ Upstream Source Health Check Failures\n']
               report_lines.append(f'The scheduled health check detected **{len(failed_sources)}** unreachable or failing upstream sources out of `{total_checked}` total feeds.\n')
               report_lines.append('| Tier | Category | Failing URL | Error / Status |')
@@ -79,11 +79,9 @@ jobs:
 
               report_lines.append('\n*Please verify if these URLs are permanently offline and require removal from `sources.json`.*')
               
-              # Save report to environment output
               with open('health_report.md', 'w', encoding='utf-8') as rf:
                   rf.write('\n'.join(report_lines))
 
-              # Set outputs for workflow execution
               with open(os.environ['GITHUB_OUTPUT'], 'a') as env_out:
                   env_out.write('FAILED=true\n')
                   env_out.write(f'FAIL_COUNT={len(failed_sources)}\n')
@@ -93,15 +91,15 @@ jobs:
                   env_out.write('FAILED=false\n')
           "
 
+      # actions/github-script@v7.0.1
       - name: Create Issue on Health Check Failure
         if: steps.health_check.outputs.FAILED == 'true'
-        uses: actions/github-script@v8
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea
         with:
           script: |
             const fs = require('fs');
             const reportBody = fs.readFileSync('health_report.md', 'utf8');
 
-            // Check if an open health issue already exists to avoid duplicate spam
             const existingIssues = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -111,8 +109,6 @@ jobs:
 
             if (existingIssues.data.length > 0) {
               const issueNumber = existingIssues.data[0].number;
-              console.log(`Updating existing health check issue #${issueNumber}`);
-              
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -120,7 +116,6 @@ jobs:
                 body: `**Update:** Weekly health check still detecting issues:\n\n` + reportBody
               });
             } else {
-              console.log('Creating new health check failure issue.');
               await github.rest.issues.create({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
