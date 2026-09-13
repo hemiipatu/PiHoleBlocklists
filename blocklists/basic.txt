@@ -1,5 +1,5 @@
 # Blocklist Tier: Basic
-# Total Unique Domains: 6,893
+# Total Unique Domains: 6,891
 
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
 0.0.0.0 0following.com
@@ -4079,7 +4079,6 @@
 0.0.0.0 metrics.client-eng.a2z.com
 0.0.0.0 metrics.fedex.com
 0.0.0.0 metrics.fidelity.com.edgekey.net
-0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 metrics.hackerrank.com.edgekey.net
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.kmsmep.com
@@ -5830,7 +5829,6 @@
 0.0.0.0 sw88.go.com
 0.0.0.0 swa.demdex.net
 0.0.0.0 sweb.ulta.com
-0.0.0.0 swiftfusion.tech
 0.0.0.0 switch.atdmt.com
 0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 swrve.com
