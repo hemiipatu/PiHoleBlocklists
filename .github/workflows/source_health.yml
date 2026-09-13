@@ -1,0 +1,39 @@
+name: Check Upstream Source Health
+
+on:
+  schedule:
+    - cron: '0 12 * * 0' # Run every Sunday at noon
+  workflow_dispatch:
+
+jobs:
+  check-sources:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Validate HTTP Status of Sources
+        run: |
+          python -c "
+          import json, urllib.request
+
+          with open('sources.json') as f:
+              data = json.load(f)
+
+          failed = []
+          for tier, categories in data.items():
+              for cat, urls in categories.items():
+                  for url in urls:
+                      try:
+                          req = urllib.request.Request(url, headers={'User-Agent': 'HealthCheck/1.0'})
+                          with urllib.request.urlopen(req, timeout=10) as resp:
+                              if resp.status != 200:
+                                  failed.append((url, resp.status))
+                      except Exception as e:
+                          failed.append((url, str(e)))
+
+          if failed:
+              print('Unreachable upstream sources found:')
+              for url, err in failed:
+                  print(f' - {url}: {err}')
+              exit(1)
+          print('All upstream sources responded successfully!')
+          "
