@@ -57,15 +57,30 @@ jobs:
           echo "TAG_NAME=$VERSION" >> $GITHUB_OUTPUT
           echo "Generated release tag: $VERSION"
 
-      - name: Create GitHub Release
+      # 1. Create permanent versioned release (e.g. v1.0.42)
+      - name: Create Versioned GitHub Release
         if: steps.git_commit.outputs.CHANGED == 'true' || github.event_name == 'workflow_dispatch'
         uses: ncipollo/release-action@v1
         with:
           tag: ${{ steps.versioning.outputs.TAG_NAME }}
-          name: "Blocklists Release ${{ steps.versioning.outputs.TAG_NAME }}"
+          name: "Release ${{ steps.versioning.outputs.TAG_NAME }}"
           bodyFile: "build_summary.md"
           artifacts: "blocklists/basic.txt,blocklists/balanced.txt,blocklists/ultimate.txt,whitelist.txt"
           allowUpdates: true
           replacesArtifacts: true
           makeLatest: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Update fixed 'latest' alias tag for simple user setup links
+      - name: Update 'latest' Alias Release
+        if: steps.git_commit.outputs.CHANGED == 'true' || github.event_name == 'workflow_dispatch'
+        uses: ncipollo/release-action@v1
+        with:
+          tag: "latest"
+          name: "Latest Release (${{ steps.versioning.outputs.TAG_NAME }})"
+          bodyFile: "build_summary.md"
+          artifacts: "blocklists/basic.txt,blocklists/balanced.txt,blocklists/ultimate.txt,whitelist.txt"
+          allowUpdates: true
+          replacesArtifacts: true
+          makeLatest: false
           token: ${{ secrets.GITHUB_TOKEN }}
