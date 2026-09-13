@@ -4,6 +4,9 @@ on:
   issues:
     types: [opened, labeled]
 
+permissions:
+  contents: read
+
 jobs:
   # Stage 1: Auto-label and confirm newly opened false positive issues
   triage:
@@ -13,8 +16,9 @@ jobs:
       issues: write
 
     steps:
+      # actions/github-script@v7.0.1
       - name: Triage Incoming False Positive Issue
-        uses: actions/github-script@v8
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea
         with:
           script: |
             const issue = context.payload.issue;
@@ -28,11 +32,10 @@ jobs:
               return;
             }
 
-            // Extract the domain from the markdown issue form
+            // Extract domain from markdown form body
             const domainMatch = body.match(/### Blocked Domain\(s\)\s*\n+([^\n\r]+)/i);
             const domain = domainMatch ? domainMatch[1].trim() : "Not specified";
 
-            // Add triage labels
             await github.rest.issues.addLabels({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -40,7 +43,6 @@ jobs:
               labels: ['false-positive', 'needs-triage']
             });
 
-            // Post receipt confirmation comment
             const commentBody = `### 🤖 Automated Triage Confirmation\n\n` +
               `Thank you for reporting this false positive!\n\n` +
               `* **Target Domain:** \`${domain}\`\n` +
@@ -64,24 +66,26 @@ jobs:
       issues: write
 
     steps:
+      # actions/checkout@v4.2.2
       - name: Checkout Repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
 
+      # actions/setup-python@v5.3.0
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@0b7f8abb15081810e396839393149d4a8d581bc4
         with:
           python-version: '3.x'
 
+      # actions/github-script@v7.0.1
       - name: Parse Domain and Append to whitelist.txt
         id: parse_domain
-        uses: actions/github-script@v8
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea
         with:
           script: |
             const fs = require('fs');
             const issue = context.payload.issue;
             const body = issue.body || "";
 
-            // Parse domain from issue body form
             const domainMatch = body.match(/### Blocked Domain\(s\)\s*\n+([^\n\r]+)/i);
             if (!domainMatch) {
               core.setFailed("Could not parse domain from issue body.");
@@ -89,7 +93,6 @@ jobs:
             }
 
             const rawDomain = domainMatch[1].trim().toLowerCase();
-            // Basic domain sanitization (strip protocol/paths if present)
             const cleanDomain = rawDomain.replace(/^https?:\/\//, '').split('/')[0].split(':')[0];
 
             if (!cleanDomain || cleanDomain.includes('*')) {
@@ -97,22 +100,16 @@ jobs:
               return;
             }
 
-            console.log(`Extracted target domain: ${cleanDomain}`);
-
-            // Read existing whitelist.txt
             const whitelistPath = 'whitelist.txt';
             let whitelistContent = fs.existsSync(whitelistPath) ? fs.readFileSync(whitelistPath, 'utf8') : '';
 
-            // Check if domain is already whitelisted
             const lines = whitelistContent.split('\n').map(l => l.trim());
             if (lines.includes(cleanDomain)) {
-              console.log(`Domain ${cleanDomain} is already present in whitelist.txt.`);
               core.setOutput('ALREADY_EXISTS', 'true');
               core.setOutput('DOMAIN', cleanDomain);
               return;
             }
 
-            // Append domain and let build.py deduplication handle clean formatting later
             fs.appendFileSync(whitelistPath, `\n${cleanDomain}\n`);
 
             core.setOutput('ALREADY_EXISTS', 'false');
@@ -122,20 +119,9 @@ jobs:
       - name: Sanitize and Sort whitelist.txt
         if: steps.parse_domain.outputs.ALREADY_EXISTS == 'false'
         run: |
-          # Use build.py load_whitelist logic to clean and sort whitelist.txt
           python -c "
-          import os, re
-
-          filepath = 'whitelist.txt'
-          if os.path.exists(filepath):
-              with open(filepath, 'r') as f:
-                  lines = [l.strip().lower() for l in f if l.strip() and not l.strip().startswith(('#', '!'))]
-              
-              unique_domains = sorted(set(lines))
-              with open(filepath, 'w') as f:
-                  f.write('# Community Whitelist\n\n')
-                  for d in unique_domains:
-                      f.write(f'{d}\n')
+          import build
+          build.clean_and_deduplicate_whitelist_file('whitelist.txt')
           "
 
       - name: Create Pull Request via GitHub CLI
@@ -162,9 +148,10 @@ jobs:
             --head "$BRANCH_NAME" \
             --label "false-positive,automated-pr"
 
+      # actions/github-script@v7.0.1
       - name: Comment on Issue if Already Whitelisted
         if: steps.parse_domain.outputs.ALREADY_EXISTS == 'true'
-        uses: actions/github-script@v8
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea
         with:
           script: |
             await github.rest.issues.createComment({
