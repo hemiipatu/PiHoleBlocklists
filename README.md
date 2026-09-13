@@ -32,8 +32,7 @@ If you prefer to review script contents locally before executing with root privi
 - Execute script
   - `sudo bash setup.sh`
 
-#### Upstream sources & Credits
-
+## Upstream sources & Credits
 This project compiles, deduplicates, and optimizes data from several upstream maintainers and security feeds. Full credit goes to the creators and maintainers of these lists:
 
 | Category | Upstream Project / Author | Original Source |
