@@ -8,7 +8,6 @@ permissions:
   contents: read
 
 jobs:
-  # Stage 1: Auto-label and confirm newly opened false positive issues
   triage:
     if: github.event.action == 'opened'
     runs-on: ubuntu-latest
@@ -16,9 +15,8 @@ jobs:
       issues: write
 
     steps:
-      # actions/github-script@v7.0.1
       - name: Triage Incoming False Positive Issue
-        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea
+        uses: actions/github-script@v7
         with:
           script: |
             const issue = context.payload.issue;
@@ -32,7 +30,6 @@ jobs:
               return;
             }
 
-            // Extract domain from markdown form body
             const domainMatch = body.match(/### Blocked Domain\(s\)\s*\n+([^\n\r]+)/i);
             const domain = domainMatch ? domainMatch[1].trim() : "Not specified";
 
@@ -56,7 +53,6 @@ jobs:
               body: commentBody
             });
 
-  # Stage 2: Create a Pull Request when a maintainer labels the issue as 'approved'
   create-whitelist-pr:
     if: github.event.action == 'labeled' && github.event.label.name == 'approved'
     runs-on: ubuntu-latest
@@ -66,20 +62,17 @@ jobs:
       issues: write
 
     steps:
-      # actions/checkout@v4.2.2
       - name: Checkout Repository
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        uses: actions/checkout@v4
 
-      # actions/setup-python@v5.3.0
       - name: Set up Python
-        uses: actions/setup-python@0b7f8abb15081810e396839393149d4a8d581bc4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      # actions/github-script@v7.0.1
       - name: Parse Domain and Append to whitelist.txt
         id: parse_domain
-        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea
+        uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
@@ -148,10 +141,9 @@ jobs:
             --head "$BRANCH_NAME" \
             --label "false-positive,automated-pr"
 
-      # actions/github-script@v7.0.1
       - name: Comment on Issue if Already Whitelisted
         if: steps.parse_domain.outputs.ALREADY_EXISTS == 'true'
-        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea
+        uses: actions/github-script@v7
         with:
           script: |
             await github.rest.issues.createComment({
