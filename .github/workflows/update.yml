@@ -40,9 +40,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Stage blocklists and root whitelist; stage config directory only if it exists
           git add blocklists/ whitelist.txt
-          [ -d "config" ] && git add config/
           
           if git diff --staged --quiet; then
             echo "CHANGED=false" >> $GITHUB_OUTPUT
