@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Triage Incoming False Positive Issue
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const issue = context.payload.issue;
@@ -74,7 +74,7 @@ jobs:
 
       - name: Parse Domain and Append to whitelist.txt
         id: parse_domain
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const fs = require('fs');
@@ -164,7 +164,7 @@ jobs:
 
       - name: Comment on Issue if Already Whitelisted
         if: steps.parse_domain.outputs.ALREADY_EXISTS == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             await github.rest.issues.createComment({
