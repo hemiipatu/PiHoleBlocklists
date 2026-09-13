@@ -2,8 +2,18 @@ name: Update Blocklists
 
 on:
   schedule:
+    # Runs automatically at 00:00 UTC every day
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      # Rebuild immediately when any of these files/folders change
+      - 'sources.json'
+      - 'whitelist.txt'
+      - 'config/**'
+      - 'build.py'
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
 
 jobs:
   build:
@@ -28,4 +38,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add blocklists/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update categorized blocklists [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update blocklists [skip ci]" && git push)
