@@ -68,4 +68,4 @@ This project compiles, deduplicates, and optimizes data from several upstream ma
 
 ## Supporting PiHoleBlocklists project
 If you are intrested in supporting the project you can:
- - [Submit false positives](https://github.com/hemiipatu/PiHoleBlocklists/issues/new)
+ - [Submit false positives](https://github.com/hemiipatu/PiHoleBlocklists/issues/new/choose)
