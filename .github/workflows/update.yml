@@ -38,8 +38,7 @@ jobs:
           git add blocklists/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update blocklists [skip ci]" && git push)
 
-      # Create or Update a 'latest' Release with Attached Files
-      - name: Create GitHub Release
+      - name: Create or Update GitHub Release
         uses: ncipollo/release-action@v1
         with:
           tag: "latest"
@@ -49,5 +48,6 @@ jobs:
             Updated automatically via GitHub Actions.
           artifacts: "blocklists/*.txt,whitelist.txt"
           allowUpdates: true
-          recreate: true
+          replacesArtifacts: true
+          makeLatest: true
           token: ${{ secrets.GITHUB_TOKEN }}
