@@ -55,32 +55,43 @@ jobs:
                           req = urllib.request.Request(url, headers=headers, method='HEAD')
                           with urllib.request.urlopen(req, timeout=12) as response:
                               if response.status not in (200, 301, 302):
-                                  failed_sources.append((tier, category, url, f'HTTP Status {response.status}'))
+                                  failed_sources.append((str(tier), str(category), str(url), f'HTTP Status {response.status}'))
                       except Exception as e:
                           try:
                               req = urllib.request.Request(url, headers=headers)
                               with urllib.request.urlopen(req, timeout=12) as response:
-                                  if response.status != 200:
-                                      failed_sources.append((tier, category, url, f'HTTP Status {response.status}'))
+                                  if response.status not in (200, 301, 302):
+                                      failed_sources.append((str(tier), str(category), str(url), f'HTTP Status {response.status}'))
                           except Exception as retry_e:
-                              failed_sources.append((tier, category, url, str(retry_e)))
+                              # Clean exception message for clean markdown display
+                              err_msg = str(retry_e).replace('|', '-').replace('\n', ' ')
+                              failed_sources.append((str(tier), str(category), str(url), err_msg))
 
           print(f'Done. Checked {total_checked} upstream URLs.')
 
           if failed_sources:
               print(f'Found {len(failed_sources)} failing upstream sources.')
-              report_lines = ['### ⚠️ Upstream Source Health Check Failures\n']
-              report_lines.append(f'The scheduled health check detected **{len(failed_sources)}** unreachable or failing upstream sources out of `{total_checked}` total feeds.\n')
-              report_lines.append('| Tier | Category | Failing URL | Error / Status |')
-              report_lines.append('| :--- | :--- | :--- | :--- |')
+              
+              report = []
+              report.append('### ⚠️ Upstream Source Health Check Failures\n')
+              report.append(f'The scheduled health check detected **{len(failed_sources)}** unreachable or failing upstream sources out of **{total_checked}** total feeds.\n')
+              report.append('| Tier | Category | Failing URL | Error / Status |')
+              report.append('| :--- | :--- | :--- | :--- |')
               
               for tier, cat, url, err in failed_sources:
-                  report_lines.append(f'| **{tier.capitalize()}** | `{cat}` | `{url}` | `{err}` |')
+                  report.append(f'| **{tier.capitalize()}** | `{cat}` | {url} | `{err}` |')
 
-              report_lines.append('\n*Please verify if these URLs are permanently offline and require removal from `sources.json`.*')
+              report.append('\n*Please verify if these URLs are permanently offline and require removal from `sources.json`.*')
               
+              full_markdown = '\n'.join(report)
+              
+              # Print to runner stdout for immediate workflow inspection
+              print('\n--- GENERATED REPORT ---')
+              print(full_markdown)
+              print('------------------------\n')
+
               with open('health_report.md', 'w', encoding='utf-8') as rf:
-                  rf.write('\n'.join(report_lines))
+                  rf.write(full_markdown)
 
               with open(os.environ['GITHUB_OUTPUT'], 'a') as env_out:
                   env_out.write('FAILED=true\n')
