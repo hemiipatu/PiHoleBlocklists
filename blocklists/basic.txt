@@ -1,5 +1,5 @@
 # Blocklist Tier: Basic
-# Total Unique Domains: 6,891
+# Total Unique Domains: 6,890
 
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
 0.0.0.0 0following.com
@@ -2227,7 +2227,6 @@
 0.0.0.0 cms-xch-chicago.33across.com
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 cms.quantserve.com
-0.0.0.0 cn.unionlever.com
 0.0.0.0 cnn.bounceexchange.com
 0.0.0.0 cnt.fout.jp
 0.0.0.0 cnt.my
