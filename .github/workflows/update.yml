@@ -1,19 +1,17 @@
-name: Update Blocklists
+name: Update Blocklists and Create Release
 
 on:
   schedule:
-    # Runs automatically at 00:00 UTC every day
     - cron: '0 0 * * *'
   push:
     branches:
       - main
     paths:
-      # Rebuild immediately when any of these files/folders change
       - 'sources.json'
       - 'whitelist.txt'
       - 'config/**'
       - 'build.py'
-  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   build:
@@ -39,3 +37,17 @@ jobs:
           git config --local user.name "GitHub Action"
           git add blocklists/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update blocklists [skip ci]" && git push)
+
+      # Create or Update a 'latest' Release with Attached Files
+      - name: Create GitHub Release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: "latest"
+          name: "Latest Blocklists Build"
+          body: |
+            Automated build of Basic, Balanced, and Ultimate blocklist tiers.
+            Updated automatically via GitHub Actions.
+          artifacts: "blocklists/*.txt,whitelist.txt"
+          allowUpdates: true
+          recreate: true
+          token: ${{ secrets.GITHUB_TOKEN }}
