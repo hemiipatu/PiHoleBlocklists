@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.36
-# Updated: 2026-09-14 03:53:43 UTC
-# Total Unique Domains: 85,936
+# Version: v1.0.37
+# Updated: 2026-09-15 03:53:34 UTC
+# Total Unique Domains: 85,979
 
 0.0.0.0 0-lxk284pre.c3kqmp.cfd
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
@@ -2184,6 +2184,8 @@
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
+0.0.0.0 acrilicoporto.pt
+0.0.0.0 acrobat.proposal.name.ng
 0.0.0.0 acromercanziatrade.com
 0.0.0.0 acrotcloro.store
 0.0.0.0 acrotpropa.rest
@@ -8092,6 +8094,7 @@
 0.0.0.0 anewyoufitness.com
 0.0.0.0 anfiteatroacademy.live
 0.0.0.0 angdr.112.2o7.net
+0.0.0.0 angefundsu.sbs
 0.0.0.0 angela.instructure.com
 0.0.0.0 angelalittle.net
 0.0.0.0 angelas-place.com
@@ -12070,6 +12073,7 @@
 0.0.0.0 booking-safe228474115.sbs
 0.0.0.0 booking-theater.fun
 0.0.0.0 booking.bookingverif2421.com
+0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 booking.cheksupdguest-parthers.com
 0.0.0.0 booking.digitalguestform.com
 0.0.0.0 booking.flowbookingrooms-id735291.co
@@ -12166,6 +12170,7 @@
 0.0.0.0 bostonglobe.demdex.net
 0.0.0.0 bostonscientificcorporation.112.2o7.net
 0.0.0.0 bot2.googlerenewals.net
+0.0.0.0 botcheck-cf.top
 0.0.0.0 botifiles.com
 0.0.0.0 botmafia.com
 0.0.0.0 botnetdownload.com
@@ -16473,6 +16478,7 @@
 0.0.0.0 coop.crwdcntrl.net
 0.0.0.0 coordino.com
 0.0.0.0 cootlogix.com
+0.0.0.0 copiose.org
 0.0.0.0 copob.ru
 0.0.0.0 copperate.net
 0.0.0.0 copperstills.net
@@ -18874,6 +18880,7 @@
 0.0.0.0 digitalhome.us.intellitxt.com
 0.0.0.0 digitalhomediscountptyltd.122.2o7.net
 0.0.0.0 digitalinsight.com.102.122.2o7.net
+0.0.0.0 digitalisonesapps.com
 0.0.0.0 digitalmediaonline.us.intellitxt.com
 0.0.0.0 digitalmediawire.us.intellitxt.com
 0.0.0.0 digitaltextile.com.ru
@@ -26487,9 +26494,23 @@
 0.0.0.0 get-huusk.com
 0.0.0.0 get-quadcleaner.com
 0.0.0.0 get-synoshi.com
+0.0.0.0 get.acitvated.win
+0.0.0.0 get.acivated.win
+0.0.0.0 get.acrivated.win
+0.0.0.0 get.actiated.win
+0.0.0.0 get.activaed.win
+0.0.0.0 get.activatd.win
+0.0.0.0 get.activatedd.win
+0.0.0.0 get.activates.win
+0.0.0.0 get.activtaed.win
+0.0.0.0 get.activted.win
 0.0.0.0 get.acttivated.win
+0.0.0.0 get.actvated.win
 0.0.0.0 get.adolf.tv
+0.0.0.0 get.ativated.win
+0.0.0.0 get.cativated.win
 0.0.0.0 get.civicscience.com
+0.0.0.0 get.ctivated.win
 0.0.0.0 get.hitbox.com
 0.0.0.0 get.mobu.jp
 0.0.0.0 get.mobu.jp.eimg.jp
@@ -26497,6 +26518,7 @@
 0.0.0.0 get.mycounter.ua
 0.0.0.0 get.optad360.io
 0.0.0.0 get.s-onetag.com
+0.0.0.0 get.sctivated.win
 0.0.0.0 get.successpath.ai
 0.0.0.0 get.tutoads.tv
 0.0.0.0 get.x-link.pl
@@ -26811,6 +26833,7 @@
 0.0.0.0 glazkapitonis.net
 0.0.0.0 glazkapitonisai.com
 0.0.0.0 glb.adtechus.com
+0.0.0.0 glbeletronica.com.br
 0.0.0.0 glbgcl.logsss.com
 0.0.0.0 gld.samsungosp.com
 0.0.0.0 glean.pop6.com
@@ -27072,7 +27095,6 @@
 0.0.0.0 goawos.com
 0.0.0.0 gobang.top
 0.0.0.0 gobettygo.com
-0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 gobusinessloan.com
 0.0.0.0 gocarosel.com
 0.0.0.0 gocarrot.com
@@ -28359,6 +28381,7 @@
 0.0.0.0 harvest284.adgardener.com
 0.0.0.0 harvest285.adgardener.com
 0.0.0.0 hasalltalent.com
+0.0.0.0 hashedsolver.icu
 0.0.0.0 hashing.win
 0.0.0.0 hashnetai.net
 0.0.0.0 haskyroulfeqan.net
@@ -29992,6 +30015,7 @@
 0.0.0.0 images.e-mailcom.co.uk
 0.0.0.0 images.edgeads.org
 0.0.0.0 images.emb-api.com
+0.0.0.0 images.fishing-tools.cyou
 0.0.0.0 images.flygame.io
 0.0.0.0 images.hitwise.co.uk
 0.0.0.0 images.host.bannerflow.com
@@ -31741,6 +31765,7 @@
 0.0.0.0 joinpersonality.shop
 0.0.0.0 jointconia.online
 0.0.0.0 jointhevibenow.com
+0.0.0.0 jokely.icu
 0.0.0.0 joker-dz.com
 0.0.0.0 jokomisiada.live
 0.0.0.0 jokomisiada.xyz
@@ -34939,6 +34964,7 @@
 0.0.0.0 luksona.popunder.ru
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 lum.investnovex.com
+0.0.0.0 lumacrea.com
 0.0.0.0 lumarvexakiz.com
 0.0.0.0 lumaxrdito.com
 0.0.0.0 lumbreinvereza.net
@@ -35433,6 +35459,7 @@
 0.0.0.0 manager-cloud-domaine-id2965926.lintes.org
 0.0.0.0 managewebappadn93h0g342sfg.suvashshahthakuri.com.np
 0.0.0.0 managewebappanfd93bn54kjsdfg.turbominivan.net
+0.0.0.0 mandarin.net.au
 0.0.0.0 mandarv.com
 0.0.0.0 mandialrelay.fr
 0.0.0.0 manduintug.store
@@ -36316,6 +36343,7 @@
 0.0.0.0 metehi-yepuzo.info
 0.0.0.0 meteof.fr
 0.0.0.0 meteon.org
+0.0.0.0 meteorrejects.net
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 meterik.com
 0.0.0.0 metering.pagesuite.com
@@ -36454,6 +36482,7 @@
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.gnc.com
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.hackerrank.com.edgekey.net
 0.0.0.0 metrics.harley-davidson.com
@@ -36877,6 +36906,7 @@
 0.0.0.0 minishared.com
 0.0.0.0 ministerstwokawy.mom
 0.0.0.0 minosfera.mom
+0.0.0.0 minpop.com
 0.0.0.0 minr.pw
 0.0.0.0 mint-star.pl
 0.0.0.0 mintegral.com
@@ -39206,6 +39236,7 @@
 0.0.0.0 nortelcom.112.2o7.net
 0.0.0.0 north-service.live
 0.0.0.0 northcoregpt.org
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 northeus.digital
 0.0.0.0 northfacepolska.pl
 0.0.0.0 northfacewyprzedaz.org
@@ -40070,6 +40101,7 @@
 0.0.0.0 oi8ytfzxa.appspot.com
 0.0.0.0 oiclitrace.site
 0.0.0.0 oiltrelytis.org
+0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 oindevista.site
@@ -43665,6 +43697,7 @@
 0.0.0.0 port.bg
 0.0.0.0 portableacuk.shop
 0.0.0.0 portal.adbro.me
+0.0.0.0 portal.onepansol.site
 0.0.0.0 portalcapitivo.net
 0.0.0.0 portaldemais.com
 0.0.0.0 portaldruku.pl
@@ -44469,6 +44502,7 @@
 0.0.0.0 protestcopy.com
 0.0.0.0 protexa.site
 0.0.0.0 prothepito.shop
+0.0.0.0 protherapycenter.com
 0.0.0.0 protkecube.site
 0.0.0.0 protkeiez.site
 0.0.0.0 protoappur.click
@@ -48285,6 +48319,7 @@
 0.0.0.0 sds.superdeltas.com
 0.0.0.0 sdscdn.userreport.com
 0.0.0.0 sdsglis.cfd
+0.0.0.0 sdufkghdfshds.cfd
 0.0.0.0 sdytercbk.cfd
 0.0.0.0 se-gmtdmp.mookie1.com
 0.0.0.0 se.adserver.yahoo.com
@@ -49304,6 +49339,7 @@
 0.0.0.0 showup-tv.com.pl
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 shredform.com
+0.0.0.0 shreesaiseva.org
 0.0.0.0 shrek.6.cn
 0.0.0.0 shrillspoon.com
 0.0.0.0 shrimpsqueezed.com
@@ -51191,6 +51227,7 @@
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
 0.0.0.0 srv.clickfuse.com
+0.0.0.0 srv.conti.pk
 0.0.0.0 srv.dc-1.net
 0.0.0.0 srv.imonomy.com
 0.0.0.0 srv.juiceadv.com
@@ -51549,6 +51586,7 @@
 0.0.0.0 statcounter.com
 0.0.0.0 statdb.pressflex.com
 0.0.0.0 statdynamic.com
+0.0.0.0 statementreaderdownload.com
 0.0.0.0 statgw.devtodev.com
 0.0.0.0 static-addtoany-com.cdn.ampproject.org
 0.0.0.0 static-ads.zaloapp.com
@@ -53432,6 +53470,7 @@
 0.0.0.0 talk.igexin.com
 0.0.0.0 talk99.cn
 0.0.0.0 talkactive.mom
+0.0.0.0 talkandtypeapp.com
 0.0.0.0 talkaxis.com
 0.0.0.0 talker4speak.com
 0.0.0.0 talksense.net
@@ -56161,6 +56200,7 @@
 0.0.0.0 trinitymirror.112.2o7.net
 0.0.0.0 trinitymirror.grapeshot.co.uk
 0.0.0.0 trioadvisor.fr
+0.0.0.0 tripfarely.com
 0.0.0.0 triphasil.1.p2l.info
 0.0.0.0 triphasil.3.p2l.info
 0.0.0.0 triphasil.4.p2l.info
@@ -56236,6 +56276,7 @@
 0.0.0.0 troubleshoot-copyright-policy-violations.edgeone.dev
 0.0.0.0 troublesromeeaines.info
 0.0.0.0 trourted.pro
+0.0.0.0 trouserstreak.net
 0.0.0.0 trouvermotdepassefacebook.com
 0.0.0.0 trouveunfilm.fr
 0.0.0.0 trovelaapex.com
@@ -60081,6 +60122,7 @@
 0.0.0.0 winxdrops.fun
 0.0.0.0 wiosna.shop
 0.0.0.0 wipica-zibicu.info
+0.0.0.0 wir.consultingics.com
 0.0.0.0 wiranilaiwan.net
 0.0.0.0 wirecomic.com
 0.0.0.0 wiredrive.site
@@ -60239,6 +60281,7 @@
 0.0.0.0 worker71.advertnative.com
 0.0.0.0 worker72.advertnative.com
 0.0.0.0 worker73.advertnative.com
+0.0.0.0 workerstats.net
 0.0.0.0 workfileworld.com
 0.0.0.0 working-hacks.com
 0.0.0.0 working-online.net
@@ -69573,7 +69616,6 @@
 0.0.0.0 www.germirrestasps.info
 0.0.0.0 www.gernad.click
 0.0.0.0 www.gershop.com
-0.0.0.0 www.gestroom.it
 0.0.0.0 www.get-avast.com
 0.0.0.0 www.get-derila.com
 0.0.0.0 www.get-express-vpn.com
@@ -71571,6 +71613,7 @@
 0.0.0.0 www.kamabork.live
 0.0.0.0 www.kamatbrig.net
 0.0.0.0 www.kamienicawlesie.mom
+0.0.0.0 www.kammwv.cc
 0.0.0.0 www.kamotpromtiko24.today
 0.0.0.0 www.kamovextrade.com
 0.0.0.0 www.kancelariakufieta.pl

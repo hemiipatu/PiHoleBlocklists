@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.36
-# Updated: 2026-09-14 03:53:48 UTC
-# Total Unique Domains: 272,747
+# Version: v1.0.37
+# Updated: 2026-09-15 03:53:39 UTC
+# Total Unique Domains: 272,790
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -8065,7 +8065,9 @@
 0.0.0.0 acrforex.co.cc
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 acrob.info
+0.0.0.0 acrobat.proposal.name.ng
 0.0.0.0 acrobatique.co.cc
 0.0.0.0 acrom.tk
 0.0.0.0 acromercanziatrade.com
@@ -17262,6 +17264,7 @@
 0.0.0.0 anfiteatroacademy.live
 0.0.0.0 anfortune.tk
 0.0.0.0 angdr.112.2o7.net
+0.0.0.0 angefundsu.sbs
 0.0.0.0 angel-anime.com
 0.0.0.0 angel-archives.com
 0.0.0.0 angel-black.fr.st
@@ -32322,6 +32325,7 @@
 0.0.0.0 booking-safe228474115.sbs
 0.0.0.0 booking-theater.fun
 0.0.0.0 booking.bookingverif2421.com
+0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 booking.cheksupdguest-parthers.com
 0.0.0.0 booking.digitalguestform.com
 0.0.0.0 booking.flowbookingrooms-id735291.co
@@ -32648,6 +32652,7 @@
 0.0.0.0 botaknakal.tk
 0.0.0.0 botanyfree.appspot.com
 0.0.0.0 botasurf.tk
+0.0.0.0 botcheck-cf.top
 0.0.0.0 boterforex.co.cc
 0.0.0.0 botfap.com
 0.0.0.0 both-conventional.co.cc
@@ -48112,6 +48117,7 @@
 0.0.0.0 copetbrokerforex.co.cc
 0.0.0.0 coph.info
 0.0.0.0 copih.com
+0.0.0.0 copiose.org
 0.0.0.0 copob.ru
 0.0.0.0 copperate.net
 0.0.0.0 copperbypass.info
@@ -55176,6 +55182,7 @@
 0.0.0.0 digitalhomediscountptyltd.122.2o7.net
 0.0.0.0 digitalhugget.com
 0.0.0.0 digitalinsight.com.102.122.2o7.net
+0.0.0.0 digitalisonesapps.com
 0.0.0.0 digitallink.info
 0.0.0.0 digitallive.info
 0.0.0.0 digitalmediaonline.us.intellitxt.com
@@ -82448,9 +82455,23 @@
 0.0.0.0 get-upset.tk
 0.0.0.0 get-websitess.tk
 0.0.0.0 get-your-new-ip.tk
+0.0.0.0 get.acitvated.win
+0.0.0.0 get.acivated.win
+0.0.0.0 get.acrivated.win
+0.0.0.0 get.actiated.win
+0.0.0.0 get.activaed.win
+0.0.0.0 get.activatd.win
+0.0.0.0 get.activatedd.win
+0.0.0.0 get.activates.win
+0.0.0.0 get.activtaed.win
+0.0.0.0 get.activted.win
 0.0.0.0 get.acttivated.win
+0.0.0.0 get.actvated.win
 0.0.0.0 get.adolf.tv
+0.0.0.0 get.ativated.win
+0.0.0.0 get.cativated.win
 0.0.0.0 get.civicscience.com
+0.0.0.0 get.ctivated.win
 0.0.0.0 get.cyberbomber.co.cc
 0.0.0.0 get.free-insurance-quotes.eu
 0.0.0.0 get.hitbox.com
@@ -82461,6 +82482,7 @@
 0.0.0.0 get.optad360.io
 0.0.0.0 get.s-onetag.com
 0.0.0.0 get.sankaku.plus
+0.0.0.0 get.sctivated.win
 0.0.0.0 get.successpath.ai
 0.0.0.0 get.thebusinesslist.net
 0.0.0.0 get.tutoads.tv
@@ -83778,6 +83800,7 @@
 0.0.0.0 glazkapitonis.net
 0.0.0.0 glazkapitonisai.com
 0.0.0.0 glb.adtechus.com
+0.0.0.0 glbeletronica.com.br
 0.0.0.0 glbgcl.logsss.com
 0.0.0.0 gld.samsungosp.com
 0.0.0.0 gldrdr.com
@@ -84555,7 +84578,6 @@
 0.0.0.0 gobid.info
 0.0.0.0 gobigtitsporn.com
 0.0.0.0 gobio.info
-0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 goblocksite.com
 0.0.0.0 gobokep.com
 0.0.0.0 goboobs.info
@@ -89131,6 +89153,7 @@
 0.0.0.0 hasanagha.t35.com
 0.0.0.0 hash.co.gp
 0.0.0.0 hashbrick.com
+0.0.0.0 hashedsolver.icu
 0.0.0.0 hashing.win
 0.0.0.0 hashnetai.net
 0.0.0.0 hashproxy.info
@@ -98938,6 +98961,7 @@
 0.0.0.0 images.emb-api.com
 0.0.0.0 images.eplay.com
 0.0.0.0 images.extremesexchannels.tv
+0.0.0.0 images.fishing-tools.cyou
 0.0.0.0 images.flygame.io
 0.0.0.0 images.fuckingbabespics.com
 0.0.0.0 images.fuckingteengirl.com
@@ -108511,6 +108535,7 @@
 0.0.0.0 jokebook.info
 0.0.0.0 jokefilter.info
 0.0.0.0 jokela7.tk
+0.0.0.0 jokely.icu
 0.0.0.0 jokemyspace.info
 0.0.0.0 jokeproxy.info
 0.0.0.0 joker-dz.com
@@ -118380,6 +118405,7 @@
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 luluthanks.info
 0.0.0.0 lum.investnovex.com
+0.0.0.0 lumacrea.com
 0.0.0.0 lumarvexakiz.com
 0.0.0.0 lumaxrdito.com
 0.0.0.0 lumbertrading.tk
@@ -119984,6 +120010,7 @@
 0.0.0.0 mandanudes.com.br
 0.0.0.0 mandanuds.com
 0.0.0.0 mandarin.hu.tl
+0.0.0.0 mandarin.net.au
 0.0.0.0 mandarv.com
 0.0.0.0 mandatory.com
 0.0.0.0 mandau.co.cc
@@ -122997,6 +123024,7 @@
 0.0.0.0 meteor1.co.uk
 0.0.0.0 meteor1.eu.org
 0.0.0.0 meteoro.ed.mu
+0.0.0.0 meteorrejects.net
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 meterik.com
 0.0.0.0 metering.pagesuite.com
@@ -123145,6 +123173,7 @@
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.gnc.com
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.hackerrank.com.edgekey.net
 0.0.0.0 metrics.harley-davidson.com
@@ -124220,6 +124249,7 @@
 0.0.0.0 minorhider.co.cc
 0.0.0.0 minortunnel.tk
 0.0.0.0 minosfera.mom
+0.0.0.0 minpop.com
 0.0.0.0 minproxy.ga
 0.0.0.0 minproxy.gq
 0.0.0.0 minproxy.ml
@@ -134359,6 +134389,7 @@
 0.0.0.0 northernfire.tk
 0.0.0.0 northernstar.tk
 0.0.0.0 northernsurf.tk
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 northeus.digital
 0.0.0.0 northfacepolska.pl
 0.0.0.0 northfacewyprzedaz.org
@@ -136893,6 +136924,7 @@
 0.0.0.0 oiltanking.ee
 0.0.0.0 oiltrelytis.org
 0.0.0.0 oilyhandjobs.com
+0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 oindevista.site
@@ -151918,6 +151950,7 @@
 0.0.0.0 portal.asiapacweb.com
 0.0.0.0 portal.customwebpresentations.com
 0.0.0.0 portal.nolimitweb.net
+0.0.0.0 portal.onepansol.site
 0.0.0.0 portal.webgis.ro
 0.0.0.0 portal.webmergesoftware.net
 0.0.0.0 portaladelaide.com.br
@@ -154586,6 +154619,7 @@
 0.0.0.0 protexa.site
 0.0.0.0 protexproxy.info
 0.0.0.0 prothepito.shop
+0.0.0.0 protherapycenter.com
 0.0.0.0 prothots-com.zproxy.org
 0.0.0.0 prothots.com
 0.0.0.0 protinok.org
@@ -175274,6 +175308,7 @@
 0.0.0.0 sdsglis.cfd
 0.0.0.0 sdtc.info
 0.0.0.0 sduanyui.tk
+0.0.0.0 sdufkghdfshds.cfd
 0.0.0.0 sduosiduoper.tk
 0.0.0.0 sdurrentl.tk
 0.0.0.0 sdwempsovemtr.yt
@@ -180546,6 +180581,7 @@
 0.0.0.0 shramet0room0masr0elhob.wordpress.com
 0.0.0.0 shredform.com
 0.0.0.0 shredingbusinees.co.cc
+0.0.0.0 shreesaiseva.org
 0.0.0.0 shrek.6.cn
 0.0.0.0 shrewdemploy.tk
 0.0.0.0 shrillspoon.com
@@ -186431,6 +186467,7 @@
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
 0.0.0.0 srv.clickfuse.com
+0.0.0.0 srv.conti.pk
 0.0.0.0 srv.dc-1.net
 0.0.0.0 srv.imonomy.com
 0.0.0.0 srv.juiceadv.com
@@ -187271,6 +187308,7 @@
 0.0.0.0 state-of-the-arts.tk
 0.0.0.0 statebond.tk
 0.0.0.0 statebonds.tk
+0.0.0.0 statementreaderdownload.com
 0.0.0.0 stateofhiden.tk
 0.0.0.0 statepo.tk
 0.0.0.0 statewins.io
@@ -195689,6 +195727,7 @@
 0.0.0.0 talk2troy.com
 0.0.0.0 talk99.cn
 0.0.0.0 talkactive.mom
+0.0.0.0 talkandtypeapp.com
 0.0.0.0 talkanony-6mous.tk
 0.0.0.0 talkanonymotk.tk
 0.0.0.0 talkanonymotka.tk
@@ -204607,6 +204646,7 @@
 0.0.0.0 tripass.tk
 0.0.0.0 tripdivine.tk
 0.0.0.0 tripe.tk
+0.0.0.0 tripfarely.com
 0.0.0.0 triphasil.1.p2l.info
 0.0.0.0 triphasil.3.p2l.info
 0.0.0.0 triphasil.4.p2l.info
@@ -204753,6 +204793,7 @@
 0.0.0.0 troubleshootlinux.com
 0.0.0.0 troublesromeeaines.info
 0.0.0.0 trourted.pro
+0.0.0.0 trouserstreak.net
 0.0.0.0 troutproxy.cn
 0.0.0.0 troutproxy.info
 0.0.0.0 trouvermotdepassefacebook.com
@@ -222762,6 +222803,7 @@
 0.0.0.0 wipica-zibicu.info
 0.0.0.0 wipremeditated.tk
 0.0.0.0 wiprox.co.uk
+0.0.0.0 wir.consultingics.com
 0.0.0.0 wiradadi.co.cc
 0.0.0.0 wiranilaiwan.net
 0.0.0.0 wire.fibersurf.co.cc
@@ -223326,6 +223368,7 @@
 0.0.0.0 worker72.advertnative.com
 0.0.0.0 worker73.advertnative.com
 0.0.0.0 workerlast.info
+0.0.0.0 workerstats.net
 0.0.0.0 workescape.info
 0.0.0.0 workfacebook.com
 0.0.0.0 workfamous.info
@@ -238874,7 +238917,6 @@
 0.0.0.0 www.gernad.click
 0.0.0.0 www.gershop.com
 0.0.0.0 www.gertibaldi.com
-0.0.0.0 www.gestroom.it
 0.0.0.0 www.get-avast.com
 0.0.0.0 www.get-derila.com
 0.0.0.0 www.get-express-vpn.com
@@ -242650,6 +242692,7 @@
 0.0.0.0 www.kamasex.co.il
 0.0.0.0 www.kamatbrig.net
 0.0.0.0 www.kamienicawlesie.mom
+0.0.0.0 www.kammwv.cc
 0.0.0.0 www.kamotpromtiko24.today
 0.0.0.0 www.kamovextrade.com
 0.0.0.0 www.kanako.store
