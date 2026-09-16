@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.37
-# Updated: 2026-09-15 03:53:39 UTC
-# Total Unique Domains: 272,790
+# Version: v1.0.38
+# Updated: 2026-09-16 03:50:34 UTC
+# Total Unique Domains: 272,814
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -3669,6 +3669,7 @@
 0.0.0.0 4domain-name-resources.tk
 0.0.0.0 4dsply.com
 0.0.0.0 4eappapi1.com
+0.0.0.0 4eclient.com
 0.0.0.0 4edit.booru.org
 0.0.0.0 4end.info
 0.0.0.0 4er.info
@@ -8065,7 +8066,6 @@
 0.0.0.0 acrforex.co.cc
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
-0.0.0.0 acrilicoporto.pt
 0.0.0.0 acrob.info
 0.0.0.0 acrobat.proposal.name.ng
 0.0.0.0 acrobatique.co.cc
@@ -32325,7 +32325,6 @@
 0.0.0.0 booking-safe228474115.sbs
 0.0.0.0 booking-theater.fun
 0.0.0.0 booking.bookingverif2421.com
-0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 booking.cheksupdguest-parthers.com
 0.0.0.0 booking.digitalguestform.com
 0.0.0.0 booking.flowbookingrooms-id735291.co
@@ -39571,6 +39570,7 @@
 0.0.0.0 cdn.fellatiojapan.com
 0.0.0.0 cdn.felltube.com
 0.0.0.0 cdn.fetishshrine.com
+0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.firstlook.com
 0.0.0.0 cdn.fivecdm.com
@@ -47748,6 +47748,7 @@
 0.0.0.0 contextual.media.net
 0.0.0.0 contextualyield.com
 0.0.0.0 contextweb.com
+0.0.0.0 contididit.conti.pk
 0.0.0.0 contineljs.com
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 continually-evolves.co.cc
@@ -51797,6 +51798,7 @@
 0.0.0.0 dailytech.us.intellitxt.com
 0.0.0.0 dailyunblocker.com
 0.0.0.0 dailyunblocker.info
+0.0.0.0 dailyushistory.com
 0.0.0.0 dailyvalueoffers.shop
 0.0.0.0 dailyweb.eu
 0.0.0.0 dailywebproxies.com
@@ -53315,6 +53317,7 @@
 0.0.0.0 debitcardattorney.info
 0.0.0.0 debiutext.eu
 0.0.0.0 deblk.com
+0.0.0.0 debloatex.com
 0.0.0.0 deblocked.info
 0.0.0.0 deblocker.tk
 0.0.0.0 deblokall.tk
@@ -56137,6 +56140,7 @@
 0.0.0.0 dnsservice.gq
 0.0.0.0 dnsup.net
 0.0.0.0 dnsutopia.com
+0.0.0.0 dnswwt.club
 0.0.0.0 dnsy.eu
 0.0.0.0 dnsy.info
 0.0.0.0 dntal.info
@@ -56199,6 +56203,7 @@
 0.0.0.0 doclove.info
 0.0.0.0 doclovenow.info
 0.0.0.0 docloveshop.info
+0.0.0.0 docmntageant.com
 0.0.0.0 docoja.com
 0.0.0.0 docome.info
 0.0.0.0 docprox.tk
@@ -68244,6 +68249,7 @@
 0.0.0.0 fictionanonymousy.tk
 0.0.0.0 fictitiousus.tk
 0.0.0.0 fictory.gq
+0.0.0.0 ficus.in
 0.0.0.0 fid.newsone.ws
 0.0.0.0 fidatmonvextrade.com
 0.0.0.0 fidelity-assetltd.com
@@ -82459,15 +82465,20 @@
 0.0.0.0 get.acivated.win
 0.0.0.0 get.acrivated.win
 0.0.0.0 get.actiated.win
+0.0.0.0 get.actiavted.win
 0.0.0.0 get.activaed.win
 0.0.0.0 get.activatd.win
+0.0.0.0 get.activatde.win
 0.0.0.0 get.activatedd.win
 0.0.0.0 get.activates.win
+0.0.0.0 get.activeted.win
 0.0.0.0 get.activtaed.win
 0.0.0.0 get.activted.win
+0.0.0.0 get.actrivated.win
 0.0.0.0 get.acttivated.win
 0.0.0.0 get.actvated.win
 0.0.0.0 get.adolf.tv
+0.0.0.0 get.atcivated.win
 0.0.0.0 get.ativated.win
 0.0.0.0 get.cativated.win
 0.0.0.0 get.civicscience.com
@@ -106367,6 +106378,7 @@
 0.0.0.0 iyfnzgb.com
 0.0.0.0 iyiarama.com
 0.0.0.0 iyipornovideo.com
+0.0.0.0 iyn4ce9o.casero.store
 0.0.0.0 iyniunitsign.site
 0.0.0.0 iyogi.demdex.net
 0.0.0.0 iyoriforex.co.cc
@@ -109746,6 +109758,7 @@
 0.0.0.0 k3cj8a.cfd
 0.0.0.0 k3cxd.pileanoted.com
 0.0.0.0 k3ic7b.hair
+0.0.0.0 k3p8wz1n.bvcbx.store
 0.0.0.0 k3v8.dostawa1x.cam
 0.0.0.0 k3vb8j.cfd
 0.0.0.0 k3vzn.flx10.com
@@ -118405,7 +118418,6 @@
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 luluthanks.info
 0.0.0.0 lum.investnovex.com
-0.0.0.0 lumacrea.com
 0.0.0.0 lumarvexakiz.com
 0.0.0.0 lumaxrdito.com
 0.0.0.0 lumbertrading.tk
@@ -123023,6 +123035,7 @@
 0.0.0.0 meteon.org
 0.0.0.0 meteor1.co.uk
 0.0.0.0 meteor1.eu.org
+0.0.0.0 meteorclientplus.com
 0.0.0.0 meteoro.ed.mu
 0.0.0.0 meteorrejects.net
 0.0.0.0 meter-svc.nytimes.com
@@ -136924,7 +136937,6 @@
 0.0.0.0 oiltanking.ee
 0.0.0.0 oiltrelytis.org
 0.0.0.0 oilyhandjobs.com
-0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 oindevista.site
@@ -138480,6 +138492,7 @@
 0.0.0.0 onllinexxxvideos.com
 0.0.0.0 onloansecuresurf.tk
 0.0.0.0 onloansecuresurfy.tk
+0.0.0.0 onlocity.com
 0.0.0.0 onltke-proxiess.tk
 0.0.0.0 onltke-proxsis.tk
 0.0.0.0 onltke-sroxytradtkg.tk
@@ -154619,7 +154632,6 @@
 0.0.0.0 protexa.site
 0.0.0.0 protexproxy.info
 0.0.0.0 prothepito.shop
-0.0.0.0 protherapycenter.com
 0.0.0.0 prothots-com.zproxy.org
 0.0.0.0 prothots.com
 0.0.0.0 protinok.org
@@ -165753,6 +165765,7 @@
 0.0.0.0 q6w1jr.lat
 0.0.0.0 q6z67.er7qfi.casa
 0.0.0.0 q7bw2n.cfd
+0.0.0.0 q7k2m9xb.us-theeloncode.com
 0.0.0.0 q7v8mf.lat
 0.0.0.0 q8hw.com
 0.0.0.0 q8lv.net
@@ -180581,7 +180594,6 @@
 0.0.0.0 shramet0room0masr0elhob.wordpress.com
 0.0.0.0 shredform.com
 0.0.0.0 shredingbusinees.co.cc
-0.0.0.0 shreesaiseva.org
 0.0.0.0 shrek.6.cn
 0.0.0.0 shrewdemploy.tk
 0.0.0.0 shrillspoon.com
@@ -185259,6 +185271,7 @@
 0.0.0.0 speculationbest.tk
 0.0.0.0 speculationbests.tk
 0.0.0.0 sped-flashing.co.cc
+0.0.0.0 speddebug.com
 0.0.0.0 spederwebrace.co.cc
 0.0.0.0 spedhole.co.cc
 0.0.0.0 spedo.co
@@ -194090,6 +194103,7 @@
 0.0.0.0 surtax.info
 0.0.0.0 surtaxbrowsing.tk
 0.0.0.0 surtaxbrowsinga.tk
+0.0.0.0 surun.info
 0.0.0.0 surup.ru
 0.0.0.0 survarium.fr
 0.0.0.0 survata.com
@@ -195566,6 +195580,7 @@
 0.0.0.0 taityproxys.tk
 0.0.0.0 taiwanexportss.co.cc
 0.0.0.0 taiyanghongyulecheng.zsysxx.com
+0.0.0.0 taizi.fdstat.vip
 0.0.0.0 tajfc.blogfa.com
 0.0.0.0 tajikskoe.ru
 0.0.0.0 tajnder.pl
@@ -196088,6 +196103,7 @@
 0.0.0.0 taucbase01.com
 0.0.0.0 taught.clawed.info
 0.0.0.0 taughtme.tk
+0.0.0.0 taunahi.st
 0.0.0.0 taunter.net
 0.0.0.0 taupe-bag.shop
 0.0.0.0 taupeway.info
@@ -211472,6 +211488,7 @@
 0.0.0.0 unmoved.tk
 0.0.0.0 unnava.in
 0.0.0.0 unnok.biz
+0.0.0.0 uno-play.online
 0.0.0.0 unoblock.gq
 0.0.0.0 unoblock.hu.tl
 0.0.0.0 unocl45trpuoefft.054t69.bid
@@ -220264,6 +220281,7 @@
 0.0.0.0 webcrawlers.info
 0.0.0.0 webcredit.tk
 0.0.0.0 webcrewforex.tk
+0.0.0.0 webcstore.pw
 0.0.0.0 webcurtain.info
 0.0.0.0 webdaili.tk
 0.0.0.0 webdaili10.tk
@@ -222950,6 +222968,7 @@
 0.0.0.0 wizzhack.co.uk
 0.0.0.0 wizzoo.info
 0.0.0.0 wizzshop.trade
+0.0.0.0 wizzyaddon.com
 0.0.0.0 wjct.zg7wnt.casa
 0.0.0.0 wjfkoqueatxdmqw.biz
 0.0.0.0 wjjh359.com
@@ -223209,6 +223228,7 @@
 0.0.0.0 woocommerce01.datatrics.com
 0.0.0.0 wood-pol.mom
 0.0.0.0 woode.cf
+0.0.0.0 woodenships-wholesale.com
 0.0.0.0 woodentunnel.info
 0.0.0.0 woodentunnel.tk
 0.0.0.0 woodentunnell.tk
@@ -224929,6 +224949,7 @@
 0.0.0.0 www.2be79.5i0372.com
 0.0.0.0 www.2bigtobetrue.com
 0.0.0.0 www.2busty.net
+0.0.0.0 www.2bxvrc1.com
 0.0.0.0 www.2c.jk8jie.casa
 0.0.0.0 www.2cam.xxx
 0.0.0.0 www.2d-market.com
@@ -238917,6 +238938,7 @@
 0.0.0.0 www.gernad.click
 0.0.0.0 www.gershop.com
 0.0.0.0 www.gertibaldi.com
+0.0.0.0 www.gestroom.it
 0.0.0.0 www.get-avast.com
 0.0.0.0 www.get-derila.com
 0.0.0.0 www.get-express-vpn.com
@@ -264446,6 +264468,7 @@
 0.0.0.0 x99av.com
 0.0.0.0 x9b.info
 0.0.0.0 x9f3.ofsets.lat
+0.0.0.0 x9v2mq4t.bossbey.store
 0.0.0.0 xa.shinobi.jp
 0.0.0.0 xa195.info
 0.0.0.0 xabiprx.co.cc
@@ -271609,6 +271632,7 @@
 0.0.0.0 zenithaitrade.net
 0.0.0.0 zenithblockify.com
 0.0.0.0 zenithcapitange.click
+0.0.0.0 zenithclient.com
 0.0.0.0 zenithpekty.info
 0.0.0.0 zenithvalorect.org
 0.0.0.0 zenithvinstmere.net
