@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.39
-# Updated: 2026-09-17 03:55:42 UTC
-# Total Unique Domains: 87,965
+# Version: v1.0.40
+# Updated: 2026-09-18 03:43:07 UTC
+# Total Unique Domains: 87,985
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -199,6 +199,7 @@
 0.0.0.0 123-tracker.com
 0.0.0.0 123-vendasvoos25.lovestoblog.com
 0.0.0.0 123.fluxads.com
+0.0.0.0 123.ywxww.net
 0.0.0.0 123any.com
 0.0.0.0 123boy.free.fr
 0.0.0.0 123branlemoi.free.fr
@@ -2087,6 +2088,7 @@
 0.0.0.0 accesocapital20.net
 0.0.0.0 accessfreevpn.com
 0.0.0.0 accessport.jp
+0.0.0.0 accesstelematics.com
 0.0.0.0 accessup.goldcows.com
 0.0.0.0 accetrixos.site
 0.0.0.0 accgrouptrade.com
@@ -2175,6 +2177,7 @@
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 acromercanziatrade.com
 0.0.0.0 acrotcloro.store
 0.0.0.0 acrotpropa.rest
@@ -18548,6 +18551,7 @@
 0.0.0.0 dcetr4.segmentify.com
 0.0.0.0 dcetr8.segmentify.com
 0.0.0.0 dcfeed.datedeskads.com
+0.0.0.0 dcfpp.com
 0.0.0.0 dchedhc.getpixlss.com
 0.0.0.0 dchedhc.hubstatts.com
 0.0.0.0 dcinfos-cache.abtasty.com
@@ -20972,6 +20976,7 @@
 0.0.0.0 eldaranioaitrade.com
 0.0.0.0 elderlytown.com
 0.0.0.0 elderscrollsonline.gamespress.net
+0.0.0.0 elearn.servecomputer.com
 0.0.0.0 eleclevel.info
 0.0.0.0 electcase.com
 0.0.0.0 electmarknash.com
@@ -21325,6 +21330,7 @@
 0.0.0.0 epdtk.com
 0.0.0.0 epebuild.112.2o7.net
 0.0.0.0 epeirenbai.online
+0.0.0.0 epibenie.dz
 0.0.0.0 epic-drop.net
 0.0.0.0 epic-drop.top
 0.0.0.0 epic-gamesoftware.com
@@ -21804,6 +21810,7 @@
 0.0.0.0 eventexistence.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 eventourarte.cl
 0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 events-api.otherlevels.com
 0.0.0.0 events-collector-api.viacom.tech
@@ -24880,6 +24887,7 @@
 0.0.0.0 fondzynartrade.com
 0.0.0.0 fongretreat.live
 0.0.0.0 foniart.live
+0.0.0.0 fonij.cm
 0.0.0.0 font.liquidus.net
 0.0.0.0 fonteinvestenza.net
 0.0.0.0 fontostudni.club
@@ -25105,6 +25113,7 @@
 0.0.0.0 foundcheats.com
 0.0.0.0 foundcoffeela.mom
 0.0.0.0 foundrylaunch.site
+0.0.0.0 foundrysourcings.co.uk
 0.0.0.0 fourlevelsgame.com
 0.0.0.0 fourtuneo.fr
 0.0.0.0 fout.jp
@@ -27509,6 +27518,7 @@
 0.0.0.0 gonintendo.us.intellitxt.com
 0.0.0.0 gonvpl.nuli.eu
 0.0.0.0 gonx.xyz
+0.0.0.0 gonzaskid-1.paiza-user-free.cloud
 0.0.0.0 gonzogrape.gumgum.com
 0.0.0.0 goo.freelogs.com
 0.0.0.0 goobbe.com
@@ -29507,6 +29517,7 @@
 0.0.0.0 hp1.tcbnet.ne.jp
 0.0.0.0 hpad.www.infoseek.co.jp
 0.0.0.0 hpepdfembedapi.112.2o7.net
+0.0.0.0 hpfile.cyou
 0.0.0.0 hpglobal.112.2o7.net
 0.0.0.0 hphqglobal.112.2o7.net
 0.0.0.0 hphqsearch.112.2o7.net
@@ -30431,6 +30442,7 @@
 0.0.0.0 imago-tv.fr
 0.0.0.0 iman-pl.com
 0.0.0.0 imap.dpsl.net
+0.0.0.0 imap.usslimsounds.com
 0.0.0.0 imapi-sg.isnssdk.com
 0.0.0.0 imarker.com
 0.0.0.0 imarker.ru
@@ -30900,7 +30912,6 @@
 0.0.0.0 inducsbrec.store
 0.0.0.0 indumag.oewabox.at
 0.0.0.0 indus.iad-01.braze.com
-0.0.0.0 indusenterprises.co
 0.0.0.0 industaro.com
 0.0.0.0 industry-specialist.com
 0.0.0.0 industrybrains.com
@@ -33273,6 +33284,7 @@
 0.0.0.0 krypfuelsa.site
 0.0.0.0 krypplane.sbs
 0.0.0.0 kryptonclient-cracked.com
+0.0.0.0 kryptonclient.vip
 0.0.0.0 kryptono.exchange
 0.0.0.0 kryptoportal.pl
 0.0.0.0 ks.5.p2l.info
@@ -45178,6 +45190,7 @@
 0.0.0.0 protectpool.com
 0.0.0.0 protectsubrev.com
 0.0.0.0 protestcopy.com
+0.0.0.0 protherapycenter.com
 0.0.0.0 protoappur.click
 0.0.0.0 protoblade.site
 0.0.0.0 protocolotrade.com
@@ -47586,6 +47599,7 @@
 0.0.0.0 rootluxerisq-shop.pages.dev
 0.0.0.0 rootluxerisq.org
 0.0.0.0 rootraid.in
+0.0.0.0 roptik.com
 0.0.0.0 rosadanza.mom
 0.0.0.0 rosafondente.it
 0.0.0.0 rosalieeve.pl
@@ -52061,6 +52075,7 @@
 0.0.0.0 sroomafp.allyes.com
 0.0.0.0 srothuynguyen.com
 0.0.0.0 srs.targetpoint.com
+0.0.0.0 srsorvete.com.br
 0.0.0.0 srt-srv.xlisting.jp
 0.0.0.0 srtb.msn.com
 0.0.0.0 srugmedes.store
@@ -52338,6 +52353,7 @@
 0.0.0.0 star-advertising.com
 0.0.0.0 star-iptv.fr
 0.0.0.0 star.pulseonclick.com
+0.0.0.0 star.zcnet.net
 0.0.0.0 starbound-game.com
 0.0.0.0 starbound-play.com
 0.0.0.0 starboundbeta.com
@@ -54317,6 +54333,7 @@
 0.0.0.0 tajorentestra.pro
 0.0.0.0 tajs.qq.com
 0.0.0.0 tajunotouch.site
+0.0.0.0 take-care.africa
 0.0.0.0 takedan.live
 0.0.0.0 takedaxgames.com
 0.0.0.0 takeforme.xyz
@@ -55539,6 +55556,7 @@
 0.0.0.0 this.content.served.by.addshuffle.com
 0.0.0.0 this.content.served.by.adshuffle.com
 0.0.0.0 thiscrack.com
+0.0.0.0 thisisafalsepositive.st
 0.0.0.0 thisisclicksecured.page.link
 0.0.0.0 thislocalhost.com
 0.0.0.0 thisone.online
@@ -57660,6 +57678,7 @@
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 uapi.ads.heytapmobi.com
 0.0.0.0 uarating.com
+0.0.0.0 uasputnik.com
 0.0.0.0 uav.tidaltv.com
 0.0.0.0 uaxioflair.site
 0.0.0.0 ubarssa.mom
@@ -58772,7 +58791,6 @@
 0.0.0.0 vdhu.com
 0.0.0.0 vdna.exelator.com
 0.0.0.0 vdopia.com
-0.0.0.0 vdsina.vg
 0.0.0.0 vdterms.samsungcloudsolution.com
 0.0.0.0 ve1.claker.top
 0.0.0.0 ve1.techgeetam.com
@@ -58859,6 +58877,7 @@
 0.0.0.0 veltrivabursario.com
 0.0.0.0 veltriven.com
 0.0.0.0 veltrixnexaro.net
+0.0.0.0 velvetcanyonline.xyz
 0.0.0.0 velvetcrown.club
 0.0.0.0 velvetstomless.pro
 0.0.0.0 velvetthunderless.info
@@ -73469,6 +73488,7 @@
 0.0.0.0 www.kryowrapfleet.site
 0.0.0.0 www.krypfuelsa.site
 0.0.0.0 www.krypplane.sbs
+0.0.0.0 www.kryptonclient.lol
 0.0.0.0 www.kryptono.exchange
 0.0.0.0 www.kryptoportal.pl
 0.0.0.0 www.kryzantor.uk

@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.39
-# Updated: 2026-09-17 03:55:45 UTC
-# Total Unique Domains: 274,830
+# Version: v1.0.40
+# Updated: 2026-09-18 03:43:10 UTC
+# Total Unique Domains: 274,850
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -903,6 +903,7 @@
 0.0.0.0 123.fluxads.com
 0.0.0.0 123.kissfree.net
 0.0.0.0 123.pwxxx16.xyz
+0.0.0.0 123.ywxww.net
 0.0.0.0 123123.co.il
 0.0.0.0 123157proxy.tk
 0.0.0.0 123321.info
@@ -7717,6 +7718,7 @@
 0.0.0.0 accesstech.ga
 0.0.0.0 accesstech.ml
 0.0.0.0 accesstech.tk
+0.0.0.0 accesstelematics.com
 0.0.0.0 accessthat.com
 0.0.0.0 accessthat.info
 0.0.0.0 accessthatpage.com
@@ -8056,6 +8058,7 @@
 0.0.0.0 acrforex.co.cc
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 acrob.info
 0.0.0.0 acrobatique.co.cc
 0.0.0.0 acrom.tk
@@ -52892,6 +52895,7 @@
 0.0.0.0 dcetr4.segmentify.com
 0.0.0.0 dcetr8.segmentify.com
 0.0.0.0 dcfeed.datedeskads.com
+0.0.0.0 dcfpp.com
 0.0.0.0 dchedhc.getpixlss.com
 0.0.0.0 dchedhc.hubstatts.com
 0.0.0.0 dchky.info
@@ -60704,6 +60708,7 @@
 0.0.0.0 eldie.info
 0.0.0.0 eldritch-proxynet.tk
 0.0.0.0 eldritch-proxytks4.tk
+0.0.0.0 elearn.servecomputer.com
 0.0.0.0 elearning.gau.edu.tr
 0.0.0.0 elecdcd.tk
 0.0.0.0 eleclevel.info
@@ -62064,6 +62069,7 @@
 0.0.0.0 ephimsex.com
 0.0.0.0 ephimsex.net
 0.0.0.0 ephr.info
+0.0.0.0 epibenie.dz
 0.0.0.0 epic-drop.net
 0.0.0.0 epic-drop.top
 0.0.0.0 epic-gamesoftware.com
@@ -63808,6 +63814,7 @@
 0.0.0.0 eventmanagenice.tk
 0.0.0.0 eventmanagework.tk
 0.0.0.0 eventosmatao.com.br
+0.0.0.0 eventourarte.cl
 0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 events-api.otherlevels.com
 0.0.0.0 events-collector-api.viacom.tech
@@ -72530,6 +72537,7 @@
 0.0.0.0 foneforex.co.cc
 0.0.0.0 fongretreat.live
 0.0.0.0 foniart.live
+0.0.0.0 fonij.cm
 0.0.0.0 font.liquidus.net
 0.0.0.0 fonteinvestenza.net
 0.0.0.0 fontostudni.club
@@ -74386,6 +74394,7 @@
 0.0.0.0 foundoften.info
 0.0.0.0 foundoutside.tk
 0.0.0.0 foundrylaunch.site
+0.0.0.0 foundrysourcings.co.uk
 0.0.0.0 foundthere.info
 0.0.0.0 foundus.info
 0.0.0.0 fourcollege.info
@@ -85571,6 +85580,7 @@
 0.0.0.0 gonowproxy.info
 0.0.0.0 gonvpl.nuli.eu
 0.0.0.0 gonx.xyz
+0.0.0.0 gonzaskid-1.paiza-user-free.cloud
 0.0.0.0 gonzo.com
 0.0.0.0 gonzogrape.gumgum.com
 0.0.0.0 gonzoporn.cc
@@ -96209,6 +96219,7 @@
 0.0.0.0 hpcell.co.cc
 0.0.0.0 hpemoxy.tk
 0.0.0.0 hpepdfembedapi.112.2o7.net
+0.0.0.0 hpfile.cyou
 0.0.0.0 hpglobal.112.2o7.net
 0.0.0.0 hphqglobal.112.2o7.net
 0.0.0.0 hphqsearch.112.2o7.net
@@ -99490,6 +99501,7 @@
 0.0.0.0 imanege.tk
 0.0.0.0 imap.dpsl.net
 0.0.0.0 imap.online.fr
+0.0.0.0 imap.usslimsounds.com
 0.0.0.0 imapi-sg.isnssdk.com
 0.0.0.0 imarker.com
 0.0.0.0 imarker.ru
@@ -102941,7 +102953,6 @@
 0.0.0.0 indumag.oewabox.at
 0.0.0.0 indumentaria.info
 0.0.0.0 indus.iad-01.braze.com
-0.0.0.0 indusenterprises.co
 0.0.0.0 industaro.com
 0.0.0.0 industrialproxy.tk
 0.0.0.0 industriemedia.tv
@@ -112409,6 +112420,7 @@
 0.0.0.0 krypfuelsa.site
 0.0.0.0 krypplane.sbs
 0.0.0.0 kryptonclient-cracked.com
+0.0.0.0 kryptonclient.vip
 0.0.0.0 kryptono.exchange
 0.0.0.0 kryptoportal.pl
 0.0.0.0 kryvyirih.eu
@@ -155309,6 +155321,7 @@
 0.0.0.0 protestanonymotk.tk
 0.0.0.0 protestcopy.com
 0.0.0.0 protexproxy.info
+0.0.0.0 protherapycenter.com
 0.0.0.0 prothots-com.zproxy.org
 0.0.0.0 prothots.com
 0.0.0.0 protinok.org
@@ -171811,6 +171824,7 @@
 0.0.0.0 ropebondageporn.com
 0.0.0.0 ropesbondage.com
 0.0.0.0 ropetarda.tk
+0.0.0.0 roptik.com
 0.0.0.0 roroproxys-bests.tk
 0.0.0.0 roroproxys.tk
 0.0.0.0 roroproxysbestjust.tk
@@ -187313,6 +187327,7 @@
 0.0.0.0 sroxyechosesurfs.tk
 0.0.0.0 srpskiporno.com
 0.0.0.0 srs.targetpoint.com
+0.0.0.0 srsorvete.com.br
 0.0.0.0 srt-srv.xlisting.jp
 0.0.0.0 srtb.msn.com
 0.0.0.0 srugmedes.store
@@ -187928,6 +187943,7 @@
 0.0.0.0 star-proxy.info
 0.0.0.0 star.hu.tl
 0.0.0.0 star.pulseonclick.com
+0.0.0.0 star.zcnet.net
 0.0.0.0 star5proxy.tk
 0.0.0.0 star6-proxy5.tk
 0.0.0.0 staracademy-quatre.com
@@ -196455,6 +196471,7 @@
 0.0.0.0 tajs.qq.com
 0.0.0.0 tajunotouch.site
 0.0.0.0 takaboor.co.cc
+0.0.0.0 take-care.africa
 0.0.0.0 take-effect.co.cc
 0.0.0.0 take-guide.tk
 0.0.0.0 take-less.co.cc
@@ -200990,6 +201007,7 @@
 0.0.0.0 thisday.ml
 0.0.0.0 thisdomainisveryshort.info
 0.0.0.0 thisfiltersucks.info
+0.0.0.0 thisisafalsepositive.st
 0.0.0.0 thisisamazing123.tk
 0.0.0.0 thisisarandomentrythatdoesnotexist.com
 0.0.0.0 thisisaurl.info
@@ -208034,6 +208052,7 @@
 0.0.0.0 uaporn.net
 0.0.0.0 uaporno.com
 0.0.0.0 uarating.com
+0.0.0.0 uasputnik.com
 0.0.0.0 uastocktrading.tk
 0.0.0.0 uasurf777777.tk
 0.0.0.0 uav.tidaltv.com
@@ -215129,7 +215148,6 @@
 0.0.0.0 vdojkah.com
 0.0.0.0 vdopia.com
 0.0.0.0 vdownload-proxy-list.tk
-0.0.0.0 vdsina.vg
 0.0.0.0 vdsl.fibersurf.co.cc
 0.0.0.0 vdslaccess.tk
 0.0.0.0 vdslaround.tk
@@ -215307,6 +215325,7 @@
 0.0.0.0 veltriven.com
 0.0.0.0 veltrixnexaro.net
 0.0.0.0 velvet-proxy.info
+0.0.0.0 velvetcanyonline.xyz
 0.0.0.0 velvetcrown.club
 0.0.0.0 velvetfantasies.com
 0.0.0.0 velvetleaf.tk
@@ -244685,6 +244704,7 @@
 0.0.0.0 www.kryowrapfleet.site
 0.0.0.0 www.krypfuelsa.site
 0.0.0.0 www.krypplane.sbs
+0.0.0.0 www.kryptonclient.lol
 0.0.0.0 www.kryptono.exchange
 0.0.0.0 www.kryptoportal.pl
 0.0.0.0 www.kryzantor.uk
