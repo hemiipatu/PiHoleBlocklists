@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.40
-# Updated: 2026-09-18 03:43:10 UTC
-# Total Unique Domains: 274,850
+# Version: v1.0.41
+# Updated: 2026-09-19 03:39:59 UTC
+# Total Unique Domains: 274,852
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -7718,7 +7718,6 @@
 0.0.0.0 accesstech.ga
 0.0.0.0 accesstech.ml
 0.0.0.0 accesstech.tk
-0.0.0.0 accesstelematics.com
 0.0.0.0 accessthat.com
 0.0.0.0 accessthat.info
 0.0.0.0 accessthatpage.com
@@ -8058,7 +8057,6 @@
 0.0.0.0 acrforex.co.cc
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
-0.0.0.0 acrilicoporto.pt
 0.0.0.0 acrob.info
 0.0.0.0 acrobatique.co.cc
 0.0.0.0 acrom.tk
@@ -19818,6 +19816,7 @@
 0.0.0.0 api-proxy.bee7.com
 0.0.0.0 api-public.addthis.com
 0.0.0.0 api-public.luckycrush.live
+0.0.0.0 api-relay.cc
 0.0.0.0 api-resource.youzicheng.net
 0.0.0.0 api-rewarded-video.fyber.com
 0.0.0.0 api-rssocks.youzicheng.net
@@ -32436,7 +32435,6 @@
 0.0.0.0 booking-theater.fun
 0.0.0.0 booking.ampergohoms.com
 0.0.0.0 booking.bookingverif2421.com
-0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 booking.cheksupdguest-parthers.com
 0.0.0.0 booking.digitalguestform.com
 0.0.0.0 booking.flowbookingrooms-id735291.co
@@ -36940,6 +36938,7 @@
 0.0.0.0 c1.cdnjav.com
 0.0.0.0 c1.cembuyukhanli.com
 0.0.0.0 c1.coomer.su
+0.0.0.0 c1.dstatbots.win
 0.0.0.0 c1.gostats.com
 0.0.0.0 c1.gostats.vn
 0.0.0.0 c1.kemono.su
@@ -60708,7 +60707,6 @@
 0.0.0.0 eldie.info
 0.0.0.0 eldritch-proxynet.tk
 0.0.0.0 eldritch-proxytks4.tk
-0.0.0.0 elearn.servecomputer.com
 0.0.0.0 elearning.gau.edu.tr
 0.0.0.0 elecdcd.tk
 0.0.0.0 eleclevel.info
@@ -63814,7 +63812,6 @@
 0.0.0.0 eventmanagenice.tk
 0.0.0.0 eventmanagework.tk
 0.0.0.0 eventosmatao.com.br
-0.0.0.0 eventourarte.cl
 0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 events-api.otherlevels.com
 0.0.0.0 events-collector-api.viacom.tech
@@ -72537,7 +72534,6 @@
 0.0.0.0 foneforex.co.cc
 0.0.0.0 fongretreat.live
 0.0.0.0 foniart.live
-0.0.0.0 fonij.cm
 0.0.0.0 font.liquidus.net
 0.0.0.0 fonteinvestenza.net
 0.0.0.0 fontostudni.club
@@ -82502,6 +82498,7 @@
 0.0.0.0 genomed.tk
 0.0.0.0 genomeproxy.info
 0.0.0.0 genometake.net
+0.0.0.0 genovaw.com
 0.0.0.0 genovawalutentrade.com
 0.0.0.0 genoveva.info
 0.0.0.0 genproxy.info
@@ -102030,6 +102027,7 @@
 0.0.0.0 impit.tradedouble.com
 0.0.0.0 impit.tradedoubler.com
 0.0.0.0 impl.onscroll.com
+0.0.0.0 implantdentistrytx.com
 0.0.0.0 implebrisk.store
 0.0.0.0 implemented.clawed.info
 0.0.0.0 impleplug.info
@@ -112420,6 +112418,7 @@
 0.0.0.0 krypfuelsa.site
 0.0.0.0 krypplane.sbs
 0.0.0.0 kryptonclient-cracked.com
+0.0.0.0 kryptonclient-donutsmp.com
 0.0.0.0 kryptonclient.vip
 0.0.0.0 kryptono.exchange
 0.0.0.0 kryptoportal.pl
@@ -121214,6 +121213,7 @@
 0.0.0.0 masseurporn.com
 0.0.0.0 massextreme.pl
 0.0.0.0 massgravel.dev
+0.0.0.0 massgravel.net
 0.0.0.0 masshide.info
 0.0.0.0 massivecams.tv
 0.0.0.0 massivecat.info
@@ -123659,6 +123659,7 @@
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.gnc.com
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.hackerrank.com.edgekey.net
 0.0.0.0 metrics.harley-davidson.com
@@ -155321,7 +155322,6 @@
 0.0.0.0 protestanonymotk.tk
 0.0.0.0 protestcopy.com
 0.0.0.0 protexproxy.info
-0.0.0.0 protherapycenter.com
 0.0.0.0 prothots-com.zproxy.org
 0.0.0.0 prothots.com
 0.0.0.0 protinok.org
@@ -167687,6 +167687,7 @@
 0.0.0.0 radiounder.rest
 0.0.0.0 radishproxy.xyz
 0.0.0.0 raditz.net
+0.0.0.0 radium-client.org
 0.0.0.0 radius.ed.mu
 0.0.0.0 radius.ws
 0.0.0.0 radixicloud.site
@@ -171291,6 +171292,7 @@
 0.0.0.0 rmfproxy.com
 0.0.0.0 rmgparcelforcecom.112.2o7.net
 0.0.0.0 rmgroyalmailcom.112.2o7.net
+0.0.0.0 rmm.smartscreen.lifestyle
 0.0.0.0 rmm1u.checkm8.com
 0.0.0.0 rmp.rakuten.com
 0.0.0.0 rmshqa.com
@@ -196471,7 +196473,6 @@
 0.0.0.0 tajs.qq.com
 0.0.0.0 tajunotouch.site
 0.0.0.0 takaboor.co.cc
-0.0.0.0 take-care.africa
 0.0.0.0 take-effect.co.cc
 0.0.0.0 take-guide.tk
 0.0.0.0 take-less.co.cc
@@ -212850,6 +212851,7 @@
 0.0.0.0 update.adflex.vn
 0.0.0.0 update.adsrvr.org
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.googlecert.help
 0.0.0.0 update.hiconversion.com
 0.0.0.0 update.ib.adnxs.com
 0.0.0.0 update.indexww.com

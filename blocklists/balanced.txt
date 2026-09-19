@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.40
-# Updated: 2026-09-18 03:43:07 UTC
-# Total Unique Domains: 87,985
+# Version: v1.0.41
+# Updated: 2026-09-19 03:39:53 UTC
+# Total Unique Domains: 87,987
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -2088,7 +2088,6 @@
 0.0.0.0 accesocapital20.net
 0.0.0.0 accessfreevpn.com
 0.0.0.0 accessport.jp
-0.0.0.0 accesstelematics.com
 0.0.0.0 accessup.goldcows.com
 0.0.0.0 accetrixos.site
 0.0.0.0 accgrouptrade.com
@@ -2177,7 +2176,6 @@
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
-0.0.0.0 acrilicoporto.pt
 0.0.0.0 acromercanziatrade.com
 0.0.0.0 acrotcloro.store
 0.0.0.0 acrotpropa.rest
@@ -8501,6 +8499,7 @@
 0.0.0.0 api-n.outgrow.co
 0.0.0.0 api-proxy.bee7.com
 0.0.0.0 api-public.addthis.com
+0.0.0.0 api-relay.cc
 0.0.0.0 api-resource.youzicheng.net
 0.0.0.0 api-rewarded-video.fyber.com
 0.0.0.0 api-rssocks.youzicheng.net
@@ -12184,7 +12183,6 @@
 0.0.0.0 booking-theater.fun
 0.0.0.0 booking.ampergohoms.com
 0.0.0.0 booking.bookingverif2421.com
-0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 booking.cheksupdguest-parthers.com
 0.0.0.0 booking.digitalguestform.com
 0.0.0.0 booking.flowbookingrooms-id735291.co
@@ -13163,6 +13161,7 @@
 0.0.0.0 c1.amazingcounters.com
 0.0.0.0 c1.atdmt.com
 0.0.0.0 c1.cembuyukhanli.com
+0.0.0.0 c1.dstatbots.win
 0.0.0.0 c1.gostats.com
 0.0.0.0 c1.gostats.vn
 0.0.0.0 c1.onedmp.com
@@ -20976,7 +20975,6 @@
 0.0.0.0 eldaranioaitrade.com
 0.0.0.0 elderlytown.com
 0.0.0.0 elderscrollsonline.gamespress.net
-0.0.0.0 elearn.servecomputer.com
 0.0.0.0 eleclevel.info
 0.0.0.0 electcase.com
 0.0.0.0 electmarknash.com
@@ -21810,7 +21808,6 @@
 0.0.0.0 eventexistence.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 eventlogger.soundcloud.com
-0.0.0.0 eventourarte.cl
 0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 events-api.otherlevels.com
 0.0.0.0 events-collector-api.viacom.tech
@@ -24887,7 +24884,6 @@
 0.0.0.0 fondzynartrade.com
 0.0.0.0 fongretreat.live
 0.0.0.0 foniart.live
-0.0.0.0 fonij.cm
 0.0.0.0 font.liquidus.net
 0.0.0.0 fonteinvestenza.net
 0.0.0.0 fontostudni.club
@@ -26723,6 +26719,7 @@
 0.0.0.0 genmay.us.intellitxt.com
 0.0.0.0 genmonet.com
 0.0.0.0 gennewggffyjhsad.edgeone.dev
+0.0.0.0 genovaw.com
 0.0.0.0 genovawalutentrade.com
 0.0.0.0 gentldopia.store
 0.0.0.0 gentle-ocean-0d11ee403.6.azurestaticapps.net
@@ -30707,6 +30704,7 @@
 0.0.0.0 impit.tradedouble.com
 0.0.0.0 impit.tradedoubler.com
 0.0.0.0 impl.onscroll.com
+0.0.0.0 implantdentistrytx.com
 0.0.0.0 implebrisk.store
 0.0.0.0 implt.tradedoubler.com
 0.0.0.0 impnl.tradedoubler.com
@@ -33284,6 +33282,7 @@
 0.0.0.0 krypfuelsa.site
 0.0.0.0 krypplane.sbs
 0.0.0.0 kryptonclient-cracked.com
+0.0.0.0 kryptonclient-donutsmp.com
 0.0.0.0 kryptonclient.vip
 0.0.0.0 kryptono.exchange
 0.0.0.0 kryptoportal.pl
@@ -36124,6 +36123,7 @@
 0.0.0.0 massage-v-almaty.kz
 0.0.0.0 massextreme.pl
 0.0.0.0 massgravel.dev
+0.0.0.0 massgravel.net
 0.0.0.0 massivehacking.com
 0.0.0.0 masszip.com
 0.0.0.0 mastcard.sbs
@@ -36968,6 +36968,7 @@
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.gnc.com
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.hackerrank.com.edgekey.net
 0.0.0.0 metrics.harley-davidson.com
@@ -45190,7 +45191,6 @@
 0.0.0.0 protectpool.com
 0.0.0.0 protectsubrev.com
 0.0.0.0 protestcopy.com
-0.0.0.0 protherapycenter.com
 0.0.0.0 protoappur.click
 0.0.0.0 protoblade.site
 0.0.0.0 protocolotrade.com
@@ -46240,6 +46240,7 @@
 0.0.0.0 radioprogr.online
 0.0.0.0 radiorage.com
 0.0.0.0 radiounder.rest
+0.0.0.0 radium-client.org
 0.0.0.0 radixicloud.site
 0.0.0.0 radnupi.shop
 0.0.0.0 radopackfi.site
@@ -47448,6 +47449,7 @@
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmgparcelforcecom.112.2o7.net
 0.0.0.0 rmgroyalmailcom.112.2o7.net
+0.0.0.0 rmm.smartscreen.lifestyle
 0.0.0.0 rmm1u.checkm8.com
 0.0.0.0 rmp.rakuten.com
 0.0.0.0 rmsi.nuggad.net
@@ -54333,7 +54335,6 @@
 0.0.0.0 tajorentestra.pro
 0.0.0.0 tajs.qq.com
 0.0.0.0 tajunotouch.site
-0.0.0.0 take-care.africa
 0.0.0.0 takedan.live
 0.0.0.0 takedaxgames.com
 0.0.0.0 takeforme.xyz
@@ -58117,6 +58118,7 @@
 0.0.0.0 update.adflex.vn
 0.0.0.0 update.adsrvr.org
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.googlecert.help
 0.0.0.0 update.hiconversion.com
 0.0.0.0 update.ib.adnxs.com
 0.0.0.0 update.indexww.com
