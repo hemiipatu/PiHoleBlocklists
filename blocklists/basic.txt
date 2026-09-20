@@ -1,7 +1,7 @@
 # Blocklist Tier: Basic
-# Version: v1.0.41
-# Updated: 2026-09-19 03:39:52 UTC
-# Total Unique Domains: 6,925
+# Version: v1.0.42
+# Updated: 2026-09-20 03:55:35 UTC
+# Total Unique Domains: 6,914
 
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
 0.0.0.0 0following.com
@@ -109,6 +109,7 @@
 0.0.0.0 6384.eu-api.swrve.com
 0.0.0.0 6384.eu-content.swrve.com
 0.0.0.0 6491480h9-capi.taplytics.com
+0.0.0.0 6ak-tehnik.si
 0.0.0.0 6b73d00a-d4a1-4350-825a-cd3f49afa460.register.collector.scopely.io
 0.0.0.0 6psex-axuft.ads.tremorhub.com
 0.0.0.0 6psex-fm1gy.ads.tremorhub.com
@@ -341,6 +342,7 @@
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 acme.tango.me
 0.0.0.0 acms.saleseos.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 activate.ensighten.com
 0.0.0.0 activemetering.com
 0.0.0.0 ad-cdn.technoratimedia.com
@@ -1639,9 +1641,9 @@
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
-0.0.0.0 beak.in
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 becof.org
 0.0.0.0 beeswaxdisplay108801632049.s.moatpixel.com
 0.0.0.0 belgikanst.iad-03.braze.com
 0.0.0.0 bepolite.eu
@@ -1699,6 +1701,7 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bluekai.com.edgekey.net
 0.0.0.0 bluelithium.com
+0.0.0.0 blueprint-71.com
 0.0.0.0 bm.adentifi.com
 0.0.0.0 bmdcompany.com
 0.0.0.0 bmedia.justservingfiles.net
@@ -1710,6 +1713,7 @@
 0.0.0.0 bob.dmpxs.com
 0.0.0.0 bond.iad-03.braze.com
 0.0.0.0 book.rollingvideogames.com
+0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 boost.mobileposse.com
 0.0.0.0 bootstrap.upsight-api.com
 0.0.0.0 boxoffice.urbanairship.com
@@ -1948,7 +1952,6 @@
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdn.exelator.com
-0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.flashtalking.com.edgekey.net
 0.0.0.0 cdn.flurry.com
@@ -2568,7 +2571,6 @@
 0.0.0.0 dc.webtrends.com
 0.0.0.0 dc.yieldify.com
 0.0.0.0 dcdn.adnxs.com
-0.0.0.0 dcfpp.com
 0.0.0.0 dcinfos-cache.abtasty.com
 0.0.0.0 dco-assets.everestads.net
 0.0.0.0 dco-jads-727222375.us-west-2.elb.amazonaws.com
@@ -2833,7 +2835,6 @@
 0.0.0.0 entree.igetget.com
 0.0.0.0 envs.sh
 0.0.0.0 epanpano.com
-0.0.0.0 epibenie.dz
 0.0.0.0 epiv.cardlytics.com
 0.0.0.0 epom.com
 0.0.0.0 epsinf.com
@@ -3032,7 +3033,7 @@
 0.0.0.0 fota5t.adups.com
 0.0.0.0 fota5tbk.adups.com
 0.0.0.0 fotacontrol.adfuture.cn
-0.0.0.0 foundrysourcings.co.uk
+0.0.0.0 fotosdepuebla.org
 0.0.0.0 fout.jp
 0.0.0.0 fox.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 foxnet.demdex.net
@@ -3174,7 +3175,6 @@
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 glance-internal.inmobi.com
 0.0.0.0 glance.inmobi.com
-0.0.0.0 glbeletronica.com.br
 0.0.0.0 glispa.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 global-wildcard.insightexpressai.com.edgekey.net
@@ -3215,7 +3215,6 @@
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goload.wecloud.io
 0.0.0.0 gong-eb.qubit.com
-0.0.0.0 gonzaskid-1.paiza-user-free.cloud
 0.0.0.0 goodsp.admicro.vn
 0.0.0.0 goodwaythetradedeskvideo910663478306.s.moatpixel.com
 0.0.0.0 google-analytics.com
@@ -3328,7 +3327,6 @@
 0.0.0.0 hot-mob.com
 0.0.0.0 hotapi-va.isnssdk.com
 0.0.0.0 howdoesin.net
-0.0.0.0 hpfile.cyou
 0.0.0.0 hpr.outbrain.com
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 hrzn-nxt.com
@@ -3485,7 +3483,6 @@
 0.0.0.0 images2.zemanta.com
 0.0.0.0 images9.engageya.com
 0.0.0.0 imagesrv.adition.com
-0.0.0.0 imap.usslimsounds.com
 0.0.0.0 imces.inmobi.com
 0.0.0.0 img-cdn.clinch.co
 0.0.0.0 img.3lift.com
@@ -3555,6 +3552,7 @@
 0.0.0.0 index-winners-us-west-2-rtb.adroll.com
 0.0.0.0 indonesias.me
 0.0.0.0 indus.iad-01.braze.com
+0.0.0.0 indusenterprises.co
 0.0.0.0 inferna.iad-03.braze.com
 0.0.0.0 influencers.tapinfluence.com
 0.0.0.0 info.adacado.com
@@ -3666,7 +3664,6 @@
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 jampp.com
-0.0.0.0 jawaratekno.com
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
@@ -3748,7 +3745,6 @@
 0.0.0.0 krxd.net
 0.0.0.0 kryptonclient-cracked.com
 0.0.0.0 kryptonclient-donutsmp.com
-0.0.0.0 kryptonclient.vip
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kyson.ad.daum.net
 0.0.0.0 kz.tns-counter.ru
@@ -3980,6 +3976,7 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 mainadv.com
 0.0.0.0 malupieng.com.br
+0.0.0.0 mandarin.net.au
 0.0.0.0 manifest-server.naiadsystems.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
@@ -4366,7 +4363,6 @@
 0.0.0.0 odr.mookie1.com
 0.0.0.0 offer.fyber.com
 0.0.0.0 offers.cdn.natpal.com
-0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
 0.0.0.0 olc.yodo1api.com
@@ -4486,7 +4482,6 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pages-stats.rbl.ms
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 pandg.tapad.com
 0.0.0.0 pandoramedia-mkt-prod1-t.campaign.adobe.com
 0.0.0.0 panel.moat.com
@@ -4785,6 +4780,7 @@
 0.0.0.0 promo-images.ttpsdk.info
 0.0.0.0 prooffactor.com
 0.0.0.0 protect.geoedge.be
+0.0.0.0 protherapycenter.com
 0.0.0.0 proton.flurry.com
 0.0.0.0 prov-lg.alphonso.tv
 0.0.0.0 proximitykit.radiusnetworks.com
@@ -5000,7 +4996,6 @@
 0.0.0.0 robertrowe.com
 0.0.0.0 rodeoconfig.yodo1api.com
 0.0.0.0 roimedia.advertserve.com
-0.0.0.0 roptik.com
 0.0.0.0 rotaban.ru
 0.0.0.0 rotanev.iad-03.braze.com
 0.0.0.0 roundrobin-log.agoop.net
@@ -5177,6 +5172,7 @@
 0.0.0.0 sanalytics.verizon.com
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 sandbox.tinypass.com
+0.0.0.0 sandboxle.com.cn
 0.0.0.0 sargas.iad-03.braze.com
 0.0.0.0 sax.sina.cn
 0.0.0.0 saymedia.com
@@ -5317,7 +5313,6 @@
 0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 sdkv2.imaginationunwired.com
 0.0.0.0 sds.livesegmentservice.com
-0.0.0.0 sdufkghdfshds.cfd
 0.0.0.0 se-gmtdmp.mookie1.com
 0.0.0.0 se.monetate.net
 0.0.0.0 sea.advertising.yahoo.com
@@ -5469,7 +5464,6 @@
 0.0.0.0 sift-campaign-creatives.sift.co
 0.0.0.0 sigma-statistics-push.proxima.nie.easebar.com
 0.0.0.0 sigmaclient.net
-0.0.0.0 signageinsignia.co.za
 0.0.0.0 signal-beacon.s-onetag.com
 0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 silver-fir.cd.segmentapis.com
@@ -5731,7 +5725,6 @@
 0.0.0.0 static.gridsumdissector.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.hyprmx.com
-0.0.0.0 static.ilclock.com
 0.0.0.0 static.innovid.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.iterable.com
@@ -5815,7 +5808,6 @@
 0.0.0.0 statsf.tubemogul.com
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.adtima.vn
-0.0.0.0 stdown.dinju.com
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 step-service.crossinstall.io
@@ -5864,6 +5856,7 @@
 0.0.0.0 sw88.go.com
 0.0.0.0 swa.demdex.net
 0.0.0.0 sweb.ulta.com
+0.0.0.0 swiftfusion.tech
 0.0.0.0 switch.atdmt.com
 0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 swrve.com
@@ -6032,6 +6025,7 @@
 0.0.0.0 tajs.qq.com
 0.0.0.0 tali.iad-03.braze.com
 0.0.0.0 talk.igexin.com
+0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tap-cdn.rubiconproject.com
@@ -6322,7 +6316,6 @@
 0.0.0.0 ua-myfitnesspal.adsbynimbus.com
 0.0.0.0 ua.supersonicads.com
 0.0.0.0 uaid-linkage.imrworldwide.com
-0.0.0.0 uasputnik.com
 0.0.0.0 uberads.com
 0.0.0.0 uberm.bttn.io
 0.0.0.0 ubimoinappdisplay34181600889.s.moatpixel.com
@@ -6366,7 +6359,6 @@
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 universe.send.microad.jp
 0.0.0.0 uop.umeng.com
-0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upalytics.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.3lift.com
@@ -6538,7 +6530,6 @@
 0.0.0.0 vdna.exelator.com
 0.0.0.0 vdopia.com
 0.0.0.0 vela.iad-01.braze.com
-0.0.0.0 velvetcanyonline.xyz
 0.0.0.0 vendimob.pl
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 verification.jiguang.cn
@@ -6746,7 +6737,6 @@
 0.0.0.0 worker24.advertnative.com
 0.0.0.0 worker3.advertnative.com
 0.0.0.0 worker4.advertnative.com
-0.0.0.0 workerstats.net
 0.0.0.0 world.rw.yieldmo.com
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wpm.neustar.biz
@@ -6800,7 +6790,6 @@
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.geoplugin.net
-0.0.0.0 www.gestroom.it
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.hostingcloud.science
@@ -6811,12 +6800,12 @@
 0.0.0.0 www.kenwillzltd.com
 0.0.0.0 www.khavar.com
 0.0.0.0 www.konsor.ru
-0.0.0.0 www.kryptonclient.lol
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.localytics.com
 0.0.0.0 www.mczbf.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.minecraft-cheats.com
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
 0.0.0.0 www.nccommunication.be

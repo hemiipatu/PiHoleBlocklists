@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.41
-# Updated: 2026-09-19 03:39:53 UTC
-# Total Unique Domains: 87,987
+# Version: v1.0.42
+# Updated: 2026-09-20 03:55:36 UTC
+# Total Unique Domains: 87,989
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -1149,6 +1149,7 @@
 0.0.0.0 69er.de
 0.0.0.0 69fcb79c002e689734cad7411fe0d2e2000.appwrite.network
 0.0.0.0 69net.de
+0.0.0.0 6ak-tehnik.si
 0.0.0.0 6amateure.net
 0.0.0.0 6b73d00a-d4a1-4350-825a-cd3f49afa460.register.collector.scopely.io
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
@@ -2176,6 +2177,7 @@
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 acromercanziatrade.com
 0.0.0.0 acrotcloro.store
 0.0.0.0 acrotpropa.rest
@@ -11126,6 +11128,7 @@
 0.0.0.0 beccacogli.store
 0.0.0.0 becconet.com
 0.0.0.0 beck-ouravale.net
+0.0.0.0 becof.org
 0.0.0.0 becomegorgeous.us.intellitxt.com
 0.0.0.0 becomeiguana.com
 0.0.0.0 bedance.mom
@@ -12008,6 +12011,7 @@
 0.0.0.0 bluenile.mom
 0.0.0.0 bluepartner.fr
 0.0.0.0 bluepeaktrading.net
+0.0.0.0 blueprint-71.com
 0.0.0.0 blueqplatform.com
 0.0.0.0 bluescreenalert.com
 0.0.0.0 blueserving.com
@@ -12183,6 +12187,7 @@
 0.0.0.0 booking-theater.fun
 0.0.0.0 booking.ampergohoms.com
 0.0.0.0 booking.bookingverif2421.com
+0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 booking.cheksupdguest-parthers.com
 0.0.0.0 booking.digitalguestform.com
 0.0.0.0 booking.flowbookingrooms-id735291.co
@@ -18550,7 +18555,6 @@
 0.0.0.0 dcetr4.segmentify.com
 0.0.0.0 dcetr8.segmentify.com
 0.0.0.0 dcfeed.datedeskads.com
-0.0.0.0 dcfpp.com
 0.0.0.0 dchedhc.getpixlss.com
 0.0.0.0 dchedhc.hubstatts.com
 0.0.0.0 dcinfos-cache.abtasty.com
@@ -21328,7 +21332,6 @@
 0.0.0.0 epdtk.com
 0.0.0.0 epebuild.112.2o7.net
 0.0.0.0 epeirenbai.online
-0.0.0.0 epibenie.dz
 0.0.0.0 epic-drop.net
 0.0.0.0 epic-drop.top
 0.0.0.0 epic-gamesoftware.com
@@ -25093,6 +25096,7 @@
 0.0.0.0 fotoplus.mom
 0.0.0.0 fotopoddachem.mom
 0.0.0.0 fotoprimo.mom
+0.0.0.0 fotosdepuebla.org
 0.0.0.0 fotoseiten.heimat.eu
 0.0.0.0 fotosilesia.mom
 0.0.0.0 fotosliwka.mom
@@ -25109,7 +25113,6 @@
 0.0.0.0 foundcheats.com
 0.0.0.0 foundcoffeela.mom
 0.0.0.0 foundrylaunch.site
-0.0.0.0 foundrysourcings.co.uk
 0.0.0.0 fourlevelsgame.com
 0.0.0.0 fourtuneo.fr
 0.0.0.0 fout.jp
@@ -27515,7 +27518,6 @@
 0.0.0.0 gonintendo.us.intellitxt.com
 0.0.0.0 gonvpl.nuli.eu
 0.0.0.0 gonx.xyz
-0.0.0.0 gonzaskid-1.paiza-user-free.cloud
 0.0.0.0 gonzogrape.gumgum.com
 0.0.0.0 goo.freelogs.com
 0.0.0.0 goobbe.com
@@ -29514,7 +29516,6 @@
 0.0.0.0 hp1.tcbnet.ne.jp
 0.0.0.0 hpad.www.infoseek.co.jp
 0.0.0.0 hpepdfembedapi.112.2o7.net
-0.0.0.0 hpfile.cyou
 0.0.0.0 hpglobal.112.2o7.net
 0.0.0.0 hphqglobal.112.2o7.net
 0.0.0.0 hphqsearch.112.2o7.net
@@ -30439,7 +30440,6 @@
 0.0.0.0 imago-tv.fr
 0.0.0.0 iman-pl.com
 0.0.0.0 imap.dpsl.net
-0.0.0.0 imap.usslimsounds.com
 0.0.0.0 imapi-sg.isnssdk.com
 0.0.0.0 imarker.com
 0.0.0.0 imarker.ru
@@ -30910,6 +30910,7 @@
 0.0.0.0 inducsbrec.store
 0.0.0.0 indumag.oewabox.at
 0.0.0.0 indus.iad-01.braze.com
+0.0.0.0 indusenterprises.co
 0.0.0.0 industaro.com
 0.0.0.0 industry-specialist.com
 0.0.0.0 industrybrains.com
@@ -33283,7 +33284,6 @@
 0.0.0.0 krypplane.sbs
 0.0.0.0 kryptonclient-cracked.com
 0.0.0.0 kryptonclient-donutsmp.com
-0.0.0.0 kryptonclient.vip
 0.0.0.0 kryptono.exchange
 0.0.0.0 kryptoportal.pl
 0.0.0.0 ks.5.p2l.info
@@ -35923,6 +35923,7 @@
 0.0.0.0 managewebappadn93h0g342sfg.suvashshahthakuri.com.np
 0.0.0.0 managewebappanfd93bn54kjsdfg.turbominivan.net
 0.0.0.0 manaraai.org
+0.0.0.0 mandarin.net.au
 0.0.0.0 mandarv.com
 0.0.0.0 mandialrelay.fr
 0.0.0.0 manga.boy.jp
@@ -45191,6 +45192,7 @@
 0.0.0.0 protectpool.com
 0.0.0.0 protectsubrev.com
 0.0.0.0 protestcopy.com
+0.0.0.0 protherapycenter.com
 0.0.0.0 protoappur.click
 0.0.0.0 protoblade.site
 0.0.0.0 protocolotrade.com
@@ -47601,7 +47603,6 @@
 0.0.0.0 rootluxerisq-shop.pages.dev
 0.0.0.0 rootluxerisq.org
 0.0.0.0 rootraid.in
-0.0.0.0 roptik.com
 0.0.0.0 rosadanza.mom
 0.0.0.0 rosafondente.it
 0.0.0.0 rosalieeve.pl
@@ -48537,6 +48538,7 @@
 0.0.0.0 sandbox.googleanalytics.com
 0.0.0.0 sandbox.livejasmin.com
 0.0.0.0 sandbox.tinypass.com
+0.0.0.0 sandboxle.com.cn
 0.0.0.0 sandomir.pl
 0.0.0.0 sanfordcorporation.112.2o7.net
 0.0.0.0 sangritv.com
@@ -53811,6 +53813,7 @@
 0.0.0.0 swift-bintex-pro.pages.dev
 0.0.0.0 swiftdownload.net
 0.0.0.0 swiftflaremedia.com
+0.0.0.0 swiftfusion.tech
 0.0.0.0 swiftlogicd.pro
 0.0.0.0 swiftlogicty.info
 0.0.0.0 swiftpressd.info
@@ -54354,6 +54357,7 @@
 0.0.0.0 talk.igexin.com
 0.0.0.0 talk99.cn
 0.0.0.0 talkactive.mom
+0.0.0.0 talkandtypeapp.com
 0.0.0.0 talkaxis.com
 0.0.0.0 talker4speak.com
 0.0.0.0 talksense.net
@@ -57679,7 +57683,6 @@
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 uapi.ads.heytapmobi.com
 0.0.0.0 uarating.com
-0.0.0.0 uasputnik.com
 0.0.0.0 uav.tidaltv.com
 0.0.0.0 uaxioflair.site
 0.0.0.0 ubarssa.mom
@@ -58879,7 +58882,6 @@
 0.0.0.0 veltrivabursario.com
 0.0.0.0 veltriven.com
 0.0.0.0 veltrixnexaro.net
-0.0.0.0 velvetcanyonline.xyz
 0.0.0.0 velvetcrown.club
 0.0.0.0 velvetstomless.pro
 0.0.0.0 velvetthunderless.info
@@ -73490,7 +73492,6 @@
 0.0.0.0 www.kryowrapfleet.site
 0.0.0.0 www.krypfuelsa.site
 0.0.0.0 www.krypplane.sbs
-0.0.0.0 www.kryptonclient.lol
 0.0.0.0 www.kryptono.exchange
 0.0.0.0 www.kryptoportal.pl
 0.0.0.0 www.kryzantor.uk
@@ -74920,6 +74921,7 @@
 0.0.0.0 www.milosnerozmowy.pl
 0.0.0.0 www.milpasoskatowice.mom
 0.0.0.0 www.mindaromaskin.mom
+0.0.0.0 www.minecraft-cheats.com
 0.0.0.0 www.minervcorvesse.com
 0.0.0.0 www.ministerstwokawy.mom
 0.0.0.0 www.minosfera.mom
