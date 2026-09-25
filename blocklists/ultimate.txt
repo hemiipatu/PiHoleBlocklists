@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.46
-# Updated: 2026-09-24 03:40:21 UTC
-# Total Unique Domains: 271,304
+# Version: v1.0.47
+# Updated: 2026-09-25 03:56:39 UTC
+# Total Unique Domains: 271,330
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -1413,6 +1413,7 @@
 0.0.0.0 195en2b1.xyz
 0.0.0.0 198-macros.com
 0.0.0.0 198348.gl
+0.0.0.0 198macros.org
 0.0.0.0 199107.engine.mobileapptracking.com
 0.0.0.0 199496proxy.tk
 0.0.0.0 19a9xx7d.xyz
@@ -8068,6 +8069,7 @@
 0.0.0.0 acrforex.co.cc
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 acrob.info
 0.0.0.0 acrobatique.co.cc
 0.0.0.0 acrom.tk
@@ -8176,6 +8178,7 @@
 0.0.0.0 activefast.info
 0.0.0.0 activefiles.org
 0.0.0.0 activefollowerz.xyz
+0.0.0.0 activegrp.co.za
 0.0.0.0 activehacks.com
 0.0.0.0 activehide.tk
 0.0.0.0 activehiden.tk
@@ -21591,6 +21594,7 @@
 0.0.0.0 armedzone.tk
 0.0.0.0 armhack.com
 0.0.0.0 armogo.com
+0.0.0.0 armoniamiddleeast.ae
 0.0.0.0 armora.net
 0.0.0.0 armorhack.com
 0.0.0.0 armovs.com
@@ -33395,6 +33399,7 @@
 0.0.0.0 breedmeraw.com
 0.0.0.0 breeze.nz.gs
 0.0.0.0 breezeclient.com
+0.0.0.0 breezeclient.org
 0.0.0.0 breezer.tk
 0.0.0.0 breezers.info
 0.0.0.0 breezfourc.store
@@ -36877,7 +36882,6 @@
 0.0.0.0 c2.gostats.vn
 0.0.0.0 c2.kemono.su
 0.0.0.0 c2.l.qq.com
-0.0.0.0 c2.mc-live.online
 0.0.0.0 c2.ng-source.com
 0.0.0.0 c2.outster.com
 0.0.0.0 c2.popads.net
@@ -43592,6 +43596,7 @@
 0.0.0.0 christymackofficial.com
 0.0.0.0 chrliehebdo.fr
 0.0.0.0 chrome-proxy.com
+0.0.0.0 chrome.windows-browser.net
 0.0.0.0 chromeberry.info
 0.0.0.0 chromebewfk.top
 0.0.0.0 chromebox.info
@@ -45352,6 +45357,7 @@
 0.0.0.0 cloudmyproxy.tk
 0.0.0.0 cloudname.info
 0.0.0.0 cloudnavigate.info
+0.0.0.0 cloudnewsfeed.com
 0.0.0.0 cloudnow.info
 0.0.0.0 cloudoxy.tk
 0.0.0.0 cloudpack.tk
@@ -48152,7 +48158,6 @@
 0.0.0.0 coralfondecto.net
 0.0.0.0 coralinethomson.girlsflashingtits.com
 0.0.0.0 coralinvertia.net
-0.0.0.0 coralpac.com
 0.0.0.0 coralpatrimivo.net
 0.0.0.0 coralproxy.info
 0.0.0.0 coralshell.info
@@ -60653,6 +60658,7 @@
 0.0.0.0 elqorvantabrimex.net
 0.0.0.0 elqoryvane.com
 0.0.0.0 elreyx.com
+0.0.0.0 elrneba.com
 0.0.0.0 elsa-jean.ru
 0.0.0.0 elsabriyan.info
 0.0.0.0 elsahfy.com
@@ -65485,6 +65491,8 @@
 0.0.0.0 family-tube.net
 0.0.0.0 family1st.ca
 0.0.0.0 familyabroad.net
+0.0.0.0 familyaddons.com
+0.0.0.0 familyaddons.org
 0.0.0.0 familycruises.tk
 0.0.0.0 familydicks.com
 0.0.0.0 familyfavoriteonline.xyz
@@ -66832,6 +66840,7 @@
 0.0.0.0 fastspeedy.tk
 0.0.0.0 fastspot.info
 0.0.0.0 fastsrf.co.cc
+0.0.0.0 fastsrunners.com
 0.0.0.0 fastssgl.tk
 0.0.0.0 fastssl-proxyula.tk
 0.0.0.0 fastssl.tk
@@ -67393,7 +67402,6 @@
 0.0.0.0 fdownload52.com
 0.0.0.0 fdplatform.digital
 0.0.0.0 fdschoolproxy.tk
-0.0.0.0 fdstat.vip
 0.0.0.0 fduforex.co.cc
 0.0.0.0 fdvd.info
 0.0.0.0 fdylkrdy.com
@@ -71423,6 +71431,8 @@
 0.0.0.0 floon.com
 0.0.0.0 floorplans.tk
 0.0.0.0 floozytube.com
+0.0.0.0 floppaclient.com
+0.0.0.0 floppaclient.org
 0.0.0.0 floppy-tits.com
 0.0.0.0 flopsforde.tk
 0.0.0.0 flopsfordes.tk
@@ -79017,6 +79027,7 @@
 0.0.0.0 fullindiansexvideos.com
 0.0.0.0 fullindianxxx.cc
 0.0.0.0 fullindianxxx.pro
+0.0.0.0 fullinstall.sbs
 0.0.0.0 fulljavporn.pro
 0.0.0.0 fullke.us
 0.0.0.0 fulllengthpornvideos.net
@@ -79276,6 +79287,7 @@
 0.0.0.0 funnylocked.tk
 0.0.0.0 funnylove.info
 0.0.0.0 funnymap.net
+0.0.0.0 funnymap.org
 0.0.0.0 funnyname.info
 0.0.0.0 funnyparts.cf
 0.0.0.0 funnyparts.ga
@@ -80689,7 +80701,6 @@
 0.0.0.0 garnedapp.shop
 0.0.0.0 garnetts.tk
 0.0.0.0 garnifin.com
-0.0.0.0 garogradba.mk
 0.0.0.0 garooms.info
 0.0.0.0 garotacomlocal.com
 0.0.0.0 garotalinda.com.br
@@ -82553,6 +82564,7 @@
 0.0.0.0 gfamateur.com
 0.0.0.0 gfb0y4rfaf.explorethewoods.de
 0.0.0.0 gfcuxnaek.ru
+0.0.0.0 gfgxcx.com
 0.0.0.0 gfianalysis.tk
 0.0.0.0 gfiled.com
 0.0.0.0 gfilter.info
@@ -83693,6 +83705,7 @@
 0.0.0.0 gmter.com
 0.0.0.0 gmuforex.co.cc
 0.0.0.0 gmx.oewabox.at
+0.0.0.0 gmxx.online
 0.0.0.0 gmyspace.info
 0.0.0.0 gnarb.com
 0.0.0.0 gnawaproxy.tk
@@ -84087,6 +84100,7 @@
 0.0.0.0 gobid.info
 0.0.0.0 gobigtitsporn.com
 0.0.0.0 gobio.info
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 goblocksite.com
 0.0.0.0 gobokep.com
 0.0.0.0 goboobs.info
@@ -95622,7 +95636,6 @@
 0.0.0.0 htcsurf.tk
 0.0.0.0 htctranspre.tk
 0.0.0.0 htctranspres.tk
-0.0.0.0 htdentshop.com
 0.0.0.0 htkcream.tk
 0.0.0.0 htkcreams.tk
 0.0.0.0 htkseesite.tk
@@ -107925,6 +107938,7 @@
 0.0.0.0 joinmy.site
 0.0.0.0 joinorgy.gay
 0.0.0.0 joinourwebsite.com
+0.0.0.0 jointaxel.online
 0.0.0.0 jointinfo.tk
 0.0.0.0 jointinvestmentplan.com
 0.0.0.0 jointproxy.com
@@ -110889,6 +110903,7 @@
 0.0.0.0 komurek.shop
 0.0.0.0 konachan.com
 0.0.0.0 konacho.tk
+0.0.0.0 konakonacricket.com
 0.0.0.0 konax.kontera.com
 0.0.0.0 konayka.fbhosting.com
 0.0.0.0 konchap.com
@@ -117714,6 +117729,7 @@
 0.0.0.0 luminarte24.pl
 0.0.0.0 lumineuxinvexustrade.com
 0.0.0.0 luminexclient.com
+0.0.0.0 luminexclient.net
 0.0.0.0 luminouspath.tk
 0.0.0.0 luminouspower.com.pk
 0.0.0.0 lumiquenstack.site
@@ -135583,6 +135599,7 @@
 0.0.0.0 odgtnkmq.pw
 0.0.0.0 odim.info
 0.0.0.0 odinclient.com
+0.0.0.0 odinmod.org
 0.0.0.0 odinmode.tk
 0.0.0.0 odintemple.tk
 0.0.0.0 odir.be
@@ -153245,6 +153262,7 @@
 0.0.0.0 profilemaniacs.com
 0.0.0.0 profilenetflix.com
 0.0.0.0 profilenotice.info
+0.0.0.0 profileone.jo3.org
 0.0.0.0 profilep.tk
 0.0.0.0 profilepitstop-proxy.com
 0.0.0.0 profiler.nz.gs
@@ -153981,6 +153999,7 @@
 0.0.0.0 prov.alphonso.tv
 0.0.0.0 provacy.com
 0.0.0.0 proveacmo.store
+0.0.0.0 proveedoradeproyectosysoluciones.com
 0.0.0.0 provencart.com
 0.0.0.0 provence-ouyillage.fr
 0.0.0.0 provenfeedback.com
@@ -175742,6 +175761,7 @@
 0.0.0.0 segura-capitavia.org
 0.0.0.0 seguracapitavia.com
 0.0.0.0 seguracapitavia.net
+0.0.0.0 seguranca.versionnova.site
 0.0.0.0 seguridad.in
 0.0.0.0 seguridadai.net
 0.0.0.0 seguridadengine-com.pages.dev
@@ -179906,6 +179926,7 @@
 0.0.0.0 shramet0room0masr0elhob.wordpress.com
 0.0.0.0 shredform.com
 0.0.0.0 shredingbusinees.co.cc
+0.0.0.0 shreesaiseva.org
 0.0.0.0 shrek.6.cn
 0.0.0.0 shrewdemploy.tk
 0.0.0.0 shrillspoon.com
@@ -180079,6 +180100,8 @@
 0.0.0.0 sigma-statistics-push.proxima.nie.easebar.com
 0.0.0.0 sigmabrowse.com
 0.0.0.0 sigmabypass.info
+0.0.0.0 sigmaclient.net
+0.0.0.0 sigmaclient.org
 0.0.0.0 sigmapic.com
 0.0.0.0 sigmapics.com
 0.0.0.0 sigmaproxy.com
@@ -193747,6 +193770,7 @@
 0.0.0.0 swiftcarinsurances.tk
 0.0.0.0 swiftdownload.net
 0.0.0.0 swiftfox.info
+0.0.0.0 swiftfusion.tech
 0.0.0.0 swifthide.com
 0.0.0.0 swifthide.info
 0.0.0.0 swiftlyproxy.info
@@ -221675,6 +221699,8 @@
 0.0.0.0 widnows.net
 0.0.0.0 widoo.info
 0.0.0.0 wiecejnizflirt.com
+0.0.0.0 wielixclient.com
+0.0.0.0 wielixclient.net
 0.0.0.0 wielkanagroda.com
 0.0.0.0 wielkaniespodzianka.pl
 0.0.0.0 wielunkapitektron-click.pages.dev

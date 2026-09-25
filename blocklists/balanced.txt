@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.46
-# Updated: 2026-09-24 03:40:16 UTC
-# Total Unique Domains: 84,335
+# Version: v1.0.47
+# Updated: 2026-09-25 03:56:35 UTC
+# Total Unique Domains: 84,361
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -302,6 +302,7 @@
 0.0.0.0 195724.engine.mobileapptracking.com
 0.0.0.0 198-macros.com
 0.0.0.0 198348.gl
+0.0.0.0 198macros.org
 0.0.0.0 199107.engine.mobileapptracking.com
 0.0.0.0 19blog.com
 0.0.0.0 1adult.com
@@ -2187,6 +2188,7 @@
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 acromercanziatrade.com
 0.0.0.0 acrotcloro.store
 0.0.0.0 acrotpropa.rest
@@ -2231,6 +2233,7 @@
 0.0.0.0 activedemolitionservices.co.uk
 0.0.0.0 activefiles.org
 0.0.0.0 activefollowerz.xyz
+0.0.0.0 activegrp.co.za
 0.0.0.0 activehacks.com
 0.0.0.0 activeideas.net
 0.0.0.0 activeinvestorsm.com
@@ -9377,6 +9380,7 @@
 0.0.0.0 armantark.com
 0.0.0.0 armconsul.ru
 0.0.0.0 armhack.com
+0.0.0.0 armoniamiddleeast.ae
 0.0.0.0 armorhack.com
 0.0.0.0 arms.livedoor.net
 0.0.0.0 armsart.com
@@ -12364,6 +12368,7 @@
 0.0.0.0 brealtime.com
 0.0.0.0 bredfortjenstad.net
 0.0.0.0 breezeclient.com
+0.0.0.0 breezeclient.org
 0.0.0.0 breezfourc.store
 0.0.0.0 breg.fr
 0.0.0.0 breitbart.fr
@@ -13078,7 +13083,6 @@
 0.0.0.0 c2.clickprotects.com
 0.0.0.0 c2.gostats.vn
 0.0.0.0 c2.l.qq.com
-0.0.0.0 c2.mc-live.online
 0.0.0.0 c2.outster.com
 0.0.0.0 c2.popads.net
 0.0.0.0 c2.qbk1.com
@@ -14887,6 +14891,7 @@
 0.0.0.0 christmasgiftsau.com
 0.0.0.0 christmasvoucher.net
 0.0.0.0 chrliehebdo.fr
+0.0.0.0 chrome.windows-browser.net
 0.0.0.0 chron-telefon.com
 0.0.0.0 chronicbee.com
 0.0.0.0 chronicexpress.com
@@ -15583,6 +15588,7 @@
 0.0.0.0 cloudguppy.com
 0.0.0.0 cloudmeshix.pro
 0.0.0.0 cloudmobi.net
+0.0.0.0 cloudnewsfeed.com
 0.0.0.0 cloudportis.pro
 0.0.0.0 cloudreconnect.icu
 0.0.0.0 cloudserver098095.home.pl
@@ -16490,7 +16496,6 @@
 0.0.0.0 coralasargetia.ro
 0.0.0.0 coralfondecto.net
 0.0.0.0 coralinvertia.net
-0.0.0.0 coralpac.com
 0.0.0.0 coralpatrimivo.net
 0.0.0.0 coraltradix.net
 0.0.0.0 coralvaulhaven.net
@@ -20736,6 +20741,7 @@
 0.0.0.0 eloqua.122.2o7.net
 0.0.0.0 elqorvantabrimex.net
 0.0.0.0 elqoryvane.com
+0.0.0.0 elrneba.com
 0.0.0.0 elskins.com
 0.0.0.0 eltrummoxis.com
 0.0.0.0 eltrummoxisware.com
@@ -22072,6 +22078,8 @@
 0.0.0.0 familienzahnaerzte.com
 0.0.0.0 family1st.ca
 0.0.0.0 familyabroad.net
+0.0.0.0 familyaddons.com
+0.0.0.0 familyaddons.org
 0.0.0.0 familyholiday.ml
 0.0.0.0 familyhomefinance.com.au
 0.0.0.0 famir.com
@@ -22183,6 +22191,7 @@
 0.0.0.0 fasts-downloads.com
 0.0.0.0 fastseascape.ru
 0.0.0.0 fastskins4you.com
+0.0.0.0 fastsrunners.com
 0.0.0.0 fastway-pay.ocband.org
 0.0.0.0 fastwebcounter.com
 0.0.0.0 fata.ero-advertising.com
@@ -22332,7 +22341,6 @@
 0.0.0.0 fdoverbilled.com
 0.0.0.0 fdownload52.com
 0.0.0.0 fdplatform.digital
-0.0.0.0 fdstat.vip
 0.0.0.0 fdylkrdy.com
 0.0.0.0 fdz.flashtalking.com
 0.0.0.0 fe-au.imrworldwide.com
@@ -24039,6 +24047,8 @@
 0.0.0.0 flonase.3.p2l.info
 0.0.0.0 flonase.4.p2l.info
 0.0.0.0 floodprincipal.com
+0.0.0.0 floppaclient.com
+0.0.0.0 floppaclient.org
 0.0.0.0 floral-leaf-c698.natashalenayasfmf5256.workers.dev
 0.0.0.0 floratelecom.com
 0.0.0.0 floreoarc.com
@@ -25116,6 +25126,7 @@
 0.0.0.0 fullgamesonline.com
 0.0.0.0 fullgamespc.com
 0.0.0.0 fullgamingacc.com
+0.0.0.0 fullinstall.sbs
 0.0.0.0 fullke.us
 0.0.0.0 fullmovieaz.com
 0.0.0.0 fullmovieplay.com
@@ -25173,6 +25184,7 @@
 0.0.0.0 funnelscripts.com
 0.0.0.0 funnelytics.io
 0.0.0.0 funnymap.net
+0.0.0.0 funnymap.org
 0.0.0.0 funrat.co
 0.0.0.0 funruncoinsgenerator.com
 0.0.0.0 funshared.com
@@ -25668,7 +25680,6 @@
 0.0.0.0 garlenixai-pro.pages.dev
 0.0.0.0 garnedapp.shop
 0.0.0.0 garnifin.com
-0.0.0.0 garogradba.mk
 0.0.0.0 garpeli.shop
 0.0.0.0 garroammes.rest
 0.0.0.0 garsipomes.lovable.app
@@ -26151,6 +26162,7 @@
 0.0.0.0 gezinti.com
 0.0.0.0 gfacebook.in
 0.0.0.0 gfb0y4rfaf.explorethewoods.de
+0.0.0.0 gfgxcx.com
 0.0.0.0 gfiled.com
 0.0.0.0 gflinks.industrybrains.com
 0.0.0.0 gfr.j9ylbz.qpon
@@ -26485,6 +26497,7 @@
 0.0.0.0 gmtdmp.mookie1.com
 0.0.0.0 gmter.com
 0.0.0.0 gmx.oewabox.at
+0.0.0.0 gmxx.online
 0.0.0.0 gntbcstglobal.112.2o7.net
 0.0.0.0 gntbcstkare.112.2o7.net
 0.0.0.0 gntbcstksdk.112.2o7.net
@@ -26603,6 +26616,7 @@
 0.0.0.0 goawos.com
 0.0.0.0 gobang.top
 0.0.0.0 gobettygo.com
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 gobusinessloan.com
 0.0.0.0 gocarosel.com
 0.0.0.0 gocarrot.com
@@ -28661,7 +28675,6 @@
 0.0.0.0 ht.pornhub.com
 0.0.0.0 ht.tube8.com
 0.0.0.0 ht.xtube.com
-0.0.0.0 htdentshop.com
 0.0.0.0 htl.bid
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 htlb.casalemedia.com.edgekey.net
@@ -31154,6 +31167,7 @@
 0.0.0.0 joinhoney.com
 0.0.0.0 joinmy.site
 0.0.0.0 joinourwebsite.com
+0.0.0.0 jointaxel.online
 0.0.0.0 jointinvestmentplan.com
 0.0.0.0 jokelaoks.net
 0.0.0.0 joker-dz.com
@@ -32044,6 +32058,7 @@
 0.0.0.0 kompak29.eu.cc
 0.0.0.0 kompasads.com
 0.0.0.0 komurek.shop
+0.0.0.0 konakonacricket.com
 0.0.0.0 konax.kontera.com
 0.0.0.0 kondoractivanza.pro
 0.0.0.0 kondorvalorio.net
@@ -34258,6 +34273,7 @@
 0.0.0.0 luminarte24.pl
 0.0.0.0 lumineuxinvexustrade.com
 0.0.0.0 luminexclient.com
+0.0.0.0 luminexclient.net
 0.0.0.0 luminouspower.com.pk
 0.0.0.0 lumiquenstack.site
 0.0.0.0 lumisarvestre.com
@@ -39085,6 +39101,7 @@
 0.0.0.0 oderkaopole.pl
 0.0.0.0 odevo.pl
 0.0.0.0 odinclient.com
+0.0.0.0 odinmod.org
 0.0.0.0 odnlj.snap-affairs.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 oe24.oewabox.at
@@ -43525,6 +43542,7 @@
 0.0.0.0 profileconfirm.info
 0.0.0.0 profilenetflix.com
 0.0.0.0 profilenotice.info
+0.0.0.0 profileone.jo3.org
 0.0.0.0 profiles.hitslink.com
 0.0.0.0 profiles.segment.com
 0.0.0.0 profiline-berlin.de
@@ -43786,6 +43804,7 @@
 0.0.0.0 prov-lg.alphonso.tv
 0.0.0.0 prov.alphonso.tv
 0.0.0.0 proveacmo.store
+0.0.0.0 proveedoradeproyectosysoluciones.com
 0.0.0.0 provence-ouyillage.fr
 0.0.0.0 provenfeedback.com
 0.0.0.0 provenpixel.com
@@ -47873,6 +47892,7 @@
 0.0.0.0 segura-capitavia.org
 0.0.0.0 seguracapitavia.com
 0.0.0.0 seguracapitavia.net
+0.0.0.0 seguranca.versionnova.site
 0.0.0.0 seguridadai.net
 0.0.0.0 seguridadengine-com.pages.dev
 0.0.0.0 seguro-tradex-gpt.net
@@ -48611,6 +48631,7 @@
 0.0.0.0 showup-tv.com.pl
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 shredform.com
+0.0.0.0 shreesaiseva.org
 0.0.0.0 shrek.6.cn
 0.0.0.0 shrillspoon.com
 0.0.0.0 shrimpsqueezed.com
@@ -48656,6 +48677,8 @@
 0.0.0.0 sift-campaign-creatives.sift.co
 0.0.0.0 sig.tecnologicosucre.edu.ec
 0.0.0.0 sigma-statistics-push.proxima.nie.easebar.com
+0.0.0.0 sigmaclient.net
+0.0.0.0 sigmaclient.org
 0.0.0.0 sigmglithash.site
 0.0.0.0 sigmziedge.site
 0.0.0.0 signal-beacon.s-onetag.com
@@ -52113,6 +52136,7 @@
 0.0.0.0 swiezaki.weebly.com
 0.0.0.0 swift-bintex-pro.pages.dev
 0.0.0.0 swiftdownload.net
+0.0.0.0 swiftfusion.tech
 0.0.0.0 swiftventaris.net
 0.0.0.0 swiftype.fr
 0.0.0.0 swimcash.org
@@ -59283,6 +59307,8 @@
 0.0.0.0 widgets.zemanta.com
 0.0.0.0 widgetv4.subiz.com
 0.0.0.0 wiecejnizflirt.com
+0.0.0.0 wielixclient.com
+0.0.0.0 wielixclient.net
 0.0.0.0 wielkanagroda.com
 0.0.0.0 wielkaniespodzianka.pl
 0.0.0.0 wielunkapitektron-click.pages.dev
