@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.50
-# Updated: 2026-09-28 04:15:30 UTC
-# Total Unique Domains: 82,578
+# Version: v1.0.51
+# Updated: 2026-09-29 04:46:44 UTC
+# Total Unique Domains: 82,592
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -6221,6 +6221,7 @@
 0.0.0.0 ahoravideo-schnellvpn.com
 0.0.0.0 ahoravideo-schnellvpn.xyz
 0.0.0.0 ahorixvendotrade.com
+0.0.0.0 ahsniper.org
 0.0.0.0 ahzahg6ohb.com
 0.0.0.0 ai-arvulonikanz.net
 0.0.0.0 ai-controlengine.com
@@ -7337,6 +7338,7 @@
 0.0.0.0 alt2.googleanalytics.com
 0.0.0.0 alt4.googleanalytics.com
 0.0.0.0 altahaciendor.net
+0.0.0.0 altamoorgoods.com
 0.0.0.0 altaprstrio.com
 0.0.0.0 altarioveyrontrade.com
 0.0.0.0 altariuscapital.net
@@ -9563,6 +9565,7 @@
 0.0.0.0 astralgamble.com
 0.0.0.0 astralis-giveaway.fun
 0.0.0.0 astralis-loot.fun
+0.0.0.0 astraluxclient.com
 0.0.0.0 astrasuite.info
 0.0.0.0 astrategy.beacon.qq.com
 0.0.0.0 astratrasg.store
@@ -12398,6 +12401,7 @@
 0.0.0.0 bugsee-api-prod.elasticbeanstalk.com
 0.0.0.0 bugsense.com
 0.0.0.0 build-cdn.liftoff.io
+0.0.0.0 build.polysupport.team
 0.0.0.0 build.waikatocycleways.info
 0.0.0.0 buildart.pl
 0.0.0.0 builderonlinecom.112.2o7.net
@@ -16871,6 +16875,7 @@
 0.0.0.0 cryptpostc.store
 0.0.0.0 crysis3keygen.org
 0.0.0.0 crystalboulevard.com
+0.0.0.0 crystalbranchtw.blog
 0.0.0.0 crystalfury.top
 0.0.0.0 crystalpvp.ru
 0.0.0.0 crystalslot.com
@@ -24575,6 +24580,7 @@
 0.0.0.0 fuckfinder.com
 0.0.0.0 fuckforfree.com
 0.0.0.0 fuckmebook.com
+0.0.0.0 fucktermedfir.st
 0.0.0.0 fuckworld.com
 0.0.0.0 fudgegenie.com
 0.0.0.0 fuenteprofitaje.com
@@ -30104,6 +30110,7 @@
 0.0.0.0 itanito.ru
 0.0.0.0 itbeginner.fr
 0.0.0.0 itc.insighttrailco.com
+0.0.0.0 itco.pe
 0.0.0.0 itcompany.com
 0.0.0.0 itelecoms.be
 0.0.0.0 itempana.site
@@ -35665,6 +35672,7 @@
 0.0.0.0 mlsend.com
 0.0.0.0 mlsglobal.112.2o7.net
 0.0.0.0 mltrk.io
+0.0.0.0 mm-mvshahacademy.ac.ke
 0.0.0.0 mm.chitika.net
 0.0.0.0 mm.j9vnfc.casa
 0.0.0.0 mm.markandmini.com
@@ -35951,6 +35959,7 @@
 0.0.0.0 moneytree.sextracker.com
 0.0.0.0 monfex.com
 0.0.0.0 monia-ai.com
+0.0.0.0 moniquejhingon.com
 0.0.0.0 monitor-stsdk.vivo.com.cn
 0.0.0.0 monitor-tools.cn.miaozhen.com
 0.0.0.0 monitor.clickcease.com
@@ -36556,6 +36565,7 @@
 0.0.0.0 myanyone.net
 0.0.0.0 myao.adocean.pl
 0.0.0.0 myasiantv.gsspcln.jp
+0.0.0.0 myayurvedashoppe.com
 0.0.0.0 mybancoschiles.gets-it.net
 0.0.0.0 mybb.ero-advertising.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
@@ -37788,6 +37798,7 @@
 0.0.0.0 norrellov14trade.com
 0.0.0.0 nortefondanza.net
 0.0.0.0 nortelcom.112.2o7.net
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 northeus.digital
 0.0.0.0 northfacepolska.pl
 0.0.0.0 northfacewyprzedaz.org
@@ -38082,6 +38093,7 @@
 0.0.0.0 nutrigolabburner.pl
 0.0.0.0 nutrigolabstrength.pl
 0.0.0.0 nutrired.org
+0.0.0.0 nutrisc.com.br
 0.0.0.0 nuvamaamc.net
 0.0.0.0 nuvetmintaitrade.com
 0.0.0.0 nuvexoril.com
@@ -44085,6 +44097,7 @@
 0.0.0.0 rabatplshop.com
 0.0.0.0 rabatt-torget.se
 0.0.0.0 rabatynamarke.shop
+0.0.0.0 rabbids.cc
 0.0.0.0 rabbihavoc.store
 0.0.0.0 rabbitfiles.com
 0.0.0.0 rabbitrifle.com
@@ -51777,7 +51790,6 @@
 0.0.0.0 taicheetee.com
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
-0.0.0.0 taizi.fdstat.vip
 0.0.0.0 tajnder.pl
 0.0.0.0 tajorentestra.pro
 0.0.0.0 tajs.qq.com
@@ -54650,6 +54662,7 @@
 0.0.0.0 truopngte.lovable.app
 0.0.0.0 truoptik.com
 0.0.0.0 trusearch.net
+0.0.0.0 trust-soft.cc
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trustaffs.com
 0.0.0.0 trustbitboosttrade.com
@@ -81294,6 +81307,7 @@
 0.0.0.0 xenkrupom.de
 0.0.0.0 xenogear.blog
 0.0.0.0 xenon.studio
+0.0.0.0 xenonclient.com
 0.0.0.0 xenotra.online
 0.0.0.0 xenqoria-ca.online
 0.0.0.0 xenvor-pulse-shop.pages.dev

@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.50
-# Updated: 2026-09-28 04:15:34 UTC
-# Total Unique Domains: 269,583
+# Version: v1.0.51
+# Updated: 2026-09-29 04:46:47 UTC
+# Total Unique Domains: 269,597
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -13375,6 +13375,7 @@
 0.0.0.0 ahsexfilme.com
 0.0.0.0 ahsexo.com
 0.0.0.0 ahsmall.tik.porn
+0.0.0.0 ahsniper.org
 0.0.0.0 ahsqbeospcdrngfv.info
 0.0.0.0 ahtforex.co.cc
 0.0.0.0 ahtops.com
@@ -15541,6 +15542,7 @@
 0.0.0.0 alt4.googleanalytics.com
 0.0.0.0 altahaciendor.net
 0.0.0.0 altairporn.com
+0.0.0.0 altamoorgoods.com
 0.0.0.0 altaprstrio.com
 0.0.0.0 altarioveyrontrade.com
 0.0.0.0 altariuscapital.net
@@ -22579,6 +22581,7 @@
 0.0.0.0 astralgamble.com
 0.0.0.0 astralis-giveaway.fun
 0.0.0.0 astralis-loot.fun
+0.0.0.0 astraluxclient.com
 0.0.0.0 astraok.gq
 0.0.0.0 astraproxy.co.cc
 0.0.0.0 astraproxy.info
@@ -34587,6 +34590,7 @@
 0.0.0.0 build-cdn.liftoff.io
 0.0.0.0 build-powerful.xyz
 0.0.0.0 build-up-track.co.cc
+0.0.0.0 build.polysupport.team
 0.0.0.0 build.waikatocycleways.info
 0.0.0.0 build2hideb.tk
 0.0.0.0 buildaproxy.com
@@ -49579,6 +49583,7 @@
 0.0.0.0 crysis3keygen.org
 0.0.0.0 crystal.net.ar
 0.0.0.0 crystalboulevard.com
+0.0.0.0 crystalbranchtw.blog
 0.0.0.0 crystalbrowser.info
 0.0.0.0 crystalforge.info
 0.0.0.0 crystalfury.top
@@ -78327,6 +78332,7 @@
 0.0.0.0 fuckteenpussy.net
 0.0.0.0 fuckteensporn.com
 0.0.0.0 fuckteenyoung.com
+0.0.0.0 fucktermedfir.st
 0.0.0.0 fuckthefilters.co.uk
 0.0.0.0 fucktheprincess.com
 0.0.0.0 fuckthisshemale.com
@@ -104783,6 +104789,7 @@
 0.0.0.0 itcheap.tk
 0.0.0.0 itcheat.info
 0.0.0.0 itchzed.com.nu
+0.0.0.0 itco.pe
 0.0.0.0 itcompany.com
 0.0.0.0 itechni.com
 0.0.0.0 itechproxyx.tk
@@ -123305,6 +123312,7 @@
 0.0.0.0 mlsglobal.112.2o7.net
 0.0.0.0 mltrk.io
 0.0.0.0 mltt.info
+0.0.0.0 mm-mvshahacademy.ac.ke
 0.0.0.0 mm.7-7-7-partner.org
 0.0.0.0 mm.777livecams.com
 0.0.0.0 mm.chitika.net
@@ -124416,6 +124424,7 @@
 0.0.0.0 monicamilf.com
 0.0.0.0 monicas.co.cc
 0.0.0.0 moniquealexander.com
+0.0.0.0 moniquejhingon.com
 0.0.0.0 monitor-sailbests.tk
 0.0.0.0 monitor-stsdk.vivo.com.cn
 0.0.0.0 monitor-tools.cn.miaozhen.com
@@ -126606,6 +126615,7 @@
 0.0.0.0 myauthentic.eu
 0.0.0.0 myav.com
 0.0.0.0 myavlive.com
+0.0.0.0 myayurvedashoppe.com
 0.0.0.0 mybabydomainname.xyz
 0.0.0.0 mybabyporn.com
 0.0.0.0 mybabysittersclub.com
@@ -132952,6 +132962,7 @@
 0.0.0.0 northernfire.tk
 0.0.0.0 northernstar.tk
 0.0.0.0 northernsurf.tk
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 northeus.digital
 0.0.0.0 northfacepolska.pl
 0.0.0.0 northfacewyprzedaz.org
@@ -134254,6 +134265,7 @@
 0.0.0.0 nutrigolabstrength.pl
 0.0.0.0 nutrilab.tk
 0.0.0.0 nutrired.org
+0.0.0.0 nutrisc.com.br
 0.0.0.0 nutritionbeauty.info
 0.0.0.0 nutritionforhealth.info
 0.0.0.0 nutsurf.info
@@ -165511,6 +165523,7 @@
 0.0.0.0 rabatplshop.com
 0.0.0.0 rabatt-torget.se
 0.0.0.0 rabatynamarke.shop
+0.0.0.0 rabbids.cc
 0.0.0.0 rabbihavoc.store
 0.0.0.0 rabbit-feed.co.cc
 0.0.0.0 rabbitfiles.com
@@ -193955,7 +193968,6 @@
 0.0.0.0 taityproxys.tk
 0.0.0.0 taiwanexportss.co.cc
 0.0.0.0 taiyanghongyulecheng.zsysxx.com
-0.0.0.0 taizi.fdstat.vip
 0.0.0.0 tajfc.blogfa.com
 0.0.0.0 tajikskoe.ru
 0.0.0.0 tajnder.pl
@@ -203336,6 +203348,7 @@
 0.0.0.0 trushtrrast.tk
 0.0.0.0 trust-links.com
 0.0.0.0 trust-proxy.com
+0.0.0.0 trust-soft.cc
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trustaffs.com
 0.0.0.0 trustbitboosttrade.com
@@ -261760,6 +261773,7 @@
 0.0.0.0 xenology.co.cc
 0.0.0.0 xenology.tk
 0.0.0.0 xenon.studio
+0.0.0.0 xenonclient.com
 0.0.0.0 xenonproxy.com
 0.0.0.0 xenonstock.tk
 0.0.0.0 xenotra.online
