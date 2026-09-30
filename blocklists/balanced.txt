@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.51
-# Updated: 2026-09-29 04:46:44 UTC
-# Total Unique Domains: 82,592
+# Version: v1.0.52
+# Updated: 2026-09-30 04:32:26 UTC
+# Total Unique Domains: 82,611
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -934,7 +934,6 @@
 0.0.0.0 4fizjosport.shop
 0.0.0.0 4fizjoto.shop
 0.0.0.0 4fizjozpl.shop
-0.0.0.0 4flng-filedrive.sbs
 0.0.0.0 4fpl.detaliczny.co
 0.0.0.0 4fsportspl.shop
 0.0.0.0 4girlsfingerpaint.com
@@ -1180,6 +1179,7 @@
 0.0.0.0 6stuff.com
 0.0.0.0 6te7te.buzz
 0.0.0.0 6tf.u3divh.qpon
+0.0.0.0 6tu2zzl7q5wtdm6icmutlb6ifr7zz3z2svxvieaz7u4pqxrbblc7ltid.onion
 0.0.0.0 6uru47.pics
 0.0.0.0 6w1.sharedlinkconnect.com
 0.0.0.0 6wte4t.pics
@@ -7338,7 +7338,6 @@
 0.0.0.0 alt2.googleanalytics.com
 0.0.0.0 alt4.googleanalytics.com
 0.0.0.0 altahaciendor.net
-0.0.0.0 altamoorgoods.com
 0.0.0.0 altaprstrio.com
 0.0.0.0 altarioveyrontrade.com
 0.0.0.0 altariuscapital.net
@@ -11580,6 +11579,7 @@
 0.0.0.0 blasze.com
 0.0.0.0 blasze.tk
 0.0.0.0 blatfee.ero-advertising.com
+0.0.0.0 blaxllantas.com
 0.0.0.0 blazeblend-hub-com.pages.dev
 0.0.0.0 blazeblend-hub.com
 0.0.0.0 blazingskins.com
@@ -13195,6 +13195,7 @@
 0.0.0.0 carbonads.net
 0.0.0.0 carboneas.com
 0.0.0.0 carbonite.tt.omtrdc.net
+0.0.0.0 carcaran.com
 0.0.0.0 carcistere.cyou
 0.0.0.0 card.swisxfunded.com
 0.0.0.0 carderprofit.ws
@@ -16546,6 +16547,7 @@
 0.0.0.0 cpmstar.com
 0.0.0.0 cpo.adflex.vn
 0.0.0.0 cpocommerceinc.112.2o7.net
+0.0.0.0 cpofficial.com
 0.0.0.0 cpro.baidu.com
 0.0.0.0 cpro.su
 0.0.0.0 cpu.samsungelectronics.com
@@ -18216,6 +18218,7 @@
 0.0.0.0 delore.pl
 0.0.0.0 deloton.com
 0.0.0.0 delp-heizungsbau.de
+0.0.0.0 delphiaonline.top
 0.0.0.0 delphicom.112.2o7.net
 0.0.0.0 delphix.fr
 0.0.0.0 delta.rspcdn.com
@@ -19190,6 +19193,7 @@
 0.0.0.0 download.weatherblink.com
 0.0.0.0 download.wildcard.applovin.com.edgekey.net
 0.0.0.0 download.yesmessenger.com
+0.0.0.0 download.youlovemybiba.com
 0.0.0.0 download.ytdownloader.com
 0.0.0.0 download10-25.ru
 0.0.0.0 download14.fifa4free.com
@@ -19382,6 +19386,7 @@
 0.0.0.0 dreamhome.112.2o7.net
 0.0.0.0 dreamlist.top
 0.0.0.0 dreammates.112.2o7.net
+0.0.0.0 dreamwatchevent.com
 0.0.0.0 drecentreshu.info
 0.0.0.0 drei.oewabox.at
 0.0.0.0 drelkawon.ru
@@ -20451,6 +20456,7 @@
 0.0.0.0 embed.tempest-identity.prod.saymedia.com
 0.0.0.0 embed.wiinvent.com.vn
 0.0.0.0 embed.wiinvent.tv
+0.0.0.0 embedone.com
 0.0.0.0 embemy.com
 0.0.0.0 emberfrostty.top
 0.0.0.0 emberkapstone.net
@@ -21070,6 +21076,7 @@
 0.0.0.0 ev.yieldbuild.com
 0.0.0.0 eva-ad.24hstatic.com
 0.0.0.0 evaairline.com
+0.0.0.0 evacompltd.site
 0.0.0.0 evad3rs.me
 0.0.0.0 evad3rsdevteam.com
 0.0.0.0 evad3rsevasion.com
@@ -25117,6 +25124,7 @@
 0.0.0.0 gamingshow.net
 0.0.0.0 gamingstreet.org
 0.0.0.0 gammamaximum.com
+0.0.0.0 gammanort.thekielement.com
 0.0.0.0 gammaplatform.com
 0.0.0.0 gammassp.com
 0.0.0.0 gammtrontev.site
@@ -27751,6 +27759,7 @@
 0.0.0.0 hizenaitrade.com
 0.0.0.0 hj-podatki.n-pdtk.com
 0.0.0.0 hj67fadszx.appspot.com
+0.0.0.0 hjha.ao
 0.0.0.0 hk-gmtdmp.mookie1.com
 0.0.0.0 hk-match.taboola.com
 0.0.0.0 hk-sync.taboola.com
@@ -28687,6 +28696,7 @@
 0.0.0.0 idgenterprise.112.2o7.net
 0.0.0.0 idgenterprise.d1.sc.omtrdc.net
 0.0.0.0 idi9378g2387g3f9h8f2.sbs
+0.0.0.0 idid.pl
 0.0.0.0 idkom.com
 0.0.0.0 idm.hit.gemius.pl
 0.0.0.0 idm.us.intellitxt.com
@@ -30101,6 +30111,7 @@
 0.0.0.0 it.adserver.yahoo.com
 0.0.0.0 it.bannerout.com
 0.0.0.0 it.erosadv.com
+0.0.0.0 ita-airwaysva.com
 0.0.0.0 ita-facebook.com
 0.0.0.0 itacimiman.store
 0.0.0.0 italai.net
@@ -31150,6 +31161,7 @@
 0.0.0.0 kazar-fr.com
 0.0.0.0 kazarfrance.com
 0.0.0.0 kazargermany.com
+0.0.0.0 kazdiyden.ru
 0.0.0.0 kbbdfp963631743209.s.moatpixel.com
 0.0.0.0 kbbmain.112.2o7.net
 0.0.0.0 kbc-software.shop
@@ -31331,7 +31343,6 @@
 0.0.0.0 kilo.intrack.ir
 0.0.0.0 kilomniadst.info
 0.0.0.0 kilut.ru
-0.0.0.0 kimdoo-app.top
 0.0.0.0 kimhaynesphoto.com
 0.0.0.0 kimyen.net
 0.0.0.0 kinako.ru
@@ -35121,7 +35132,6 @@
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.gnc.com
-0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.hackerrank.com.edgekey.net
 0.0.0.0 metrics.harley-davidson.com
@@ -36565,7 +36575,6 @@
 0.0.0.0 myanyone.net
 0.0.0.0 myao.adocean.pl
 0.0.0.0 myasiantv.gsspcln.jp
-0.0.0.0 myayurvedashoppe.com
 0.0.0.0 mybancoschiles.gets-it.net
 0.0.0.0 mybb.ero-advertising.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
@@ -38093,7 +38102,6 @@
 0.0.0.0 nutrigolabburner.pl
 0.0.0.0 nutrigolabstrength.pl
 0.0.0.0 nutrired.org
-0.0.0.0 nutrisc.com.br
 0.0.0.0 nuvamaamc.net
 0.0.0.0 nuvetmintaitrade.com
 0.0.0.0 nuvexoril.com
@@ -39748,6 +39756,7 @@
 0.0.0.0 otherossettlement.com
 0.0.0.0 otherprofit.com
 0.0.0.0 otheve.beacon.qq.com
+0.0.0.0 otkrytkadnya.ru
 0.0.0.0 otletdivak.hu
 0.0.0.0 oto-konto-34632.top
 0.0.0.0 otomoto-verif.idscan.eu.cc
@@ -40095,6 +40104,7 @@
 0.0.0.0 palcotresorio.com
 0.0.0.0 paleleaf.com
 0.0.0.0 paleoleap.usesfathom.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 palm-vermogrove.online
 0.0.0.0 palmafondivo.net
 0.0.0.0 palmarendario.com
@@ -40677,6 +40687,7 @@
 0.0.0.0 petzel.be
 0.0.0.0 petzlstore-eu.shop
 0.0.0.0 pevnex.net
+0.0.0.0 pevrix.com
 0.0.0.0 pewnaodbior.shop
 0.0.0.0 pewnekonta.pl
 0.0.0.0 pewnosc-2367.sbs
@@ -44670,6 +44681,7 @@
 0.0.0.0 reinefondange.cfd
 0.0.0.0 reinefondange.live
 0.0.0.0 reinefondange.online
+0.0.0.0 reinigung-kosanke.de
 0.0.0.0 reinnleese.store
 0.0.0.0 reinoflujencia.net
 0.0.0.0 reinvristo.store
@@ -45098,6 +45110,7 @@
 0.0.0.0 ricredisne.store
 0.0.0.0 ridedownloads.com
 0.0.0.0 ridepush.com
+0.0.0.0 riderspin.com
 0.0.0.0 ridevsgonn.store
 0.0.0.0 ridgegrowantion.net
 0.0.0.0 ridgenocic.store
@@ -47958,6 +47971,7 @@
 0.0.0.0 simple-vox.com
 0.0.0.0 simpleads.net
 0.0.0.0 simpleanalytics.io
+0.0.0.0 simplecheck.online
 0.0.0.0 simpledownloadz.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplelifetimeapp.com
@@ -49950,6 +49964,7 @@
 0.0.0.0 star-advertising.com
 0.0.0.0 star-iptv.fr
 0.0.0.0 star.pulseonclick.com
+0.0.0.0 star.zcnet.net
 0.0.0.0 starbound-game.com
 0.0.0.0 starbound-play.com
 0.0.0.0 starboundbeta.com
@@ -51193,6 +51208,7 @@
 0.0.0.0 survymonkey.xyz
 0.0.0.0 susazu.ru
 0.0.0.0 suscotrk.com
+0.0.0.0 sushiandpoke.pt
 0.0.0.0 susi.adtech.fr
 0.0.0.0 susi.adtech.us
 0.0.0.0 susm0q6jys.com
@@ -51277,7 +51293,6 @@
 0.0.0.0 swaptaire.pro
 0.0.0.0 swapxpkionex.com
 0.0.0.0 swarmscape.com
-0.0.0.0 swatting.wiki
 0.0.0.0 swcs.jp
 0.0.0.0 sweb.ulta.com
 0.0.0.0 sweemhtcraft.shop
@@ -52510,6 +52525,7 @@
 0.0.0.0 telezstars.club
 0.0.0.0 telezstars.help
 0.0.0.0 telfy.pl
+0.0.0.0 telpak.icu
 0.0.0.0 telpaunman.store
 0.0.0.0 telpay.fr
 0.0.0.0 telstra.imrworldwide.com
@@ -54930,6 +54946,7 @@
 0.0.0.0 twinsunip.xyz
 0.0.0.0 twirlskins.com
 0.0.0.0 twisty.net
+0.0.0.0 twitch.tj
 0.0.0.0 twitchguru.us.intellitxt.com
 0.0.0.0 twitchindoor.best
 0.0.0.0 twitchloot.com
@@ -55062,6 +55079,7 @@
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 uapi.ads.heytapmobi.com
 0.0.0.0 uarating.com
+0.0.0.0 uasputnik.com
 0.0.0.0 uav.tidaltv.com
 0.0.0.0 uaxioflair.site
 0.0.0.0 uberads.com
@@ -58090,6 +58108,7 @@
 0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
 0.0.0.0 weborg.hut1.ru
+0.0.0.0 webpagehelp.online
 0.0.0.0 webpagetest.net
 0.0.0.0 webpageupdate.co
 0.0.0.0 webpaypal.com
@@ -62858,6 +62877,7 @@
 0.0.0.0 www.caixainvesttrade.com
 0.0.0.0 www.cakeglobal-offers.com
 0.0.0.0 www.cakeglobaloffers.com
+0.0.0.0 www.cakkaao.com
 0.0.0.0 www.cakrainvest.net
 0.0.0.0 www.calafstrub.store
 0.0.0.0 www.caldescign.store
@@ -67086,7 +67106,6 @@
 0.0.0.0 www.gershop.com
 0.0.0.0 www.gerteuzonimtrade.com
 0.0.0.0 www.gestaproet.store
-0.0.0.0 www.gestroom.it
 0.0.0.0 www.get-avast.com
 0.0.0.0 www.get-derila.com
 0.0.0.0 www.get-express-vpn.com

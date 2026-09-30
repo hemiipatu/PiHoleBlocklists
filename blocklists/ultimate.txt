@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.51
-# Updated: 2026-09-29 04:46:47 UTC
-# Total Unique Domains: 269,597
+# Version: v1.0.52
+# Updated: 2026-09-30 04:32:29 UTC
+# Total Unique Domains: 269,616
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -3704,7 +3704,6 @@
 0.0.0.0 4fizjosport.shop
 0.0.0.0 4fizjoto.shop
 0.0.0.0 4fizjozpl.shop
-0.0.0.0 4flng-filedrive.sbs
 0.0.0.0 4flyumoms.tk
 0.0.0.0 4fpl.detaliczny.co
 0.0.0.0 4fproxies.tk
@@ -5137,6 +5136,7 @@
 0.0.0.0 6te7te.buzz
 0.0.0.0 6tf.u3divh.qpon
 0.0.0.0 6thanksgiving7.tk
+0.0.0.0 6tu2zzl7q5wtdm6icmutlb6ifr7zz3z2svxvieaz7u4pqxrbblc7ltid.onion
 0.0.0.0 6tun.info
 0.0.0.0 6tunnel.com
 0.0.0.0 6turn.info
@@ -15542,7 +15542,6 @@
 0.0.0.0 alt4.googleanalytics.com
 0.0.0.0 altahaciendor.net
 0.0.0.0 altairporn.com
-0.0.0.0 altamoorgoods.com
 0.0.0.0 altaprstrio.com
 0.0.0.0 altarioveyrontrade.com
 0.0.0.0 altariuscapital.net
@@ -30387,6 +30386,7 @@
 0.0.0.0 blasze.tk
 0.0.0.0 blatfee.ero-advertising.com
 0.0.0.0 blauspeed.tk
+0.0.0.0 blaxllantas.com
 0.0.0.0 blaydeshouse.info
 0.0.0.0 blaz.info
 0.0.0.0 blazeangel.com
@@ -37969,6 +37969,7 @@
 0.0.0.0 carbonsurf.info
 0.0.0.0 carbrowse.info
 0.0.0.0 carbuy.tk
+0.0.0.0 carcaran.com
 0.0.0.0 carcardonations.co.cc
 0.0.0.0 carcenter.cz.cc
 0.0.0.0 carcistere.cyou
@@ -48587,6 +48588,7 @@
 0.0.0.0 cpmstar.com
 0.0.0.0 cpo.adflex.vn
 0.0.0.0 cpocommerceinc.112.2o7.net
+0.0.0.0 cpofficial.com
 0.0.0.0 cpornplanet.com
 0.0.0.0 cpr0x.com
 0.0.0.0 cpr0xy.info
@@ -53570,6 +53572,7 @@
 0.0.0.0 delore.pl
 0.0.0.0 deloton.com
 0.0.0.0 delp-heizungsbau.de
+0.0.0.0 delphiaonline.top
 0.0.0.0 delphicom.112.2o7.net
 0.0.0.0 delphix.fr
 0.0.0.0 delprox.blogspot.com
@@ -56936,6 +56939,7 @@
 0.0.0.0 download.wiki-clips.com
 0.0.0.0 download.wildcard.applovin.com.edgekey.net
 0.0.0.0 download.yesmessenger.com
+0.0.0.0 download.youlovemybiba.com
 0.0.0.0 download.ytdownloader.com
 0.0.0.0 download10-25.ru
 0.0.0.0 download14.fifa4free.com
@@ -57417,6 +57421,7 @@
 0.0.0.0 dreamvpn.us
 0.0.0.0 dreamvvsproxy.tk
 0.0.0.0 dreamvvsproxycar.tk
+0.0.0.0 dreamwatchevent.com
 0.0.0.0 dreamwavenetwork.info
 0.0.0.0 dreamwire.tk
 0.0.0.0 dreamxp.info
@@ -60426,6 +60431,7 @@
 0.0.0.0 embed.wiinvent.com.vn
 0.0.0.0 embed.wiinvent.tv
 0.0.0.0 embedapprove.tk
+0.0.0.0 embedone.com
 0.0.0.0 embedproxies.com
 0.0.0.0 embedproxy.com
 0.0.0.0 embedproxyscript.com
@@ -62999,6 +63005,7 @@
 0.0.0.0 evaangelinavideos.net
 0.0.0.0 evaangelinax.com
 0.0.0.0 evaangelinaxxxx.com
+0.0.0.0 evacompltd.site
 0.0.0.0 evad3r.info
 0.0.0.0 evad3rs.me
 0.0.0.0 evad3rsdevteam.com
@@ -80074,6 +80081,7 @@
 0.0.0.0 gammaentertainment.com
 0.0.0.0 gammag.info
 0.0.0.0 gammamaximum.com
+0.0.0.0 gammanort.thekielement.com
 0.0.0.0 gammaplatform.com
 0.0.0.0 gammassp.com
 0.0.0.0 gammer.hu.tl
@@ -92574,6 +92582,7 @@
 0.0.0.0 hj-proxys.tk
 0.0.0.0 hj67fadszx.appspot.com
 0.0.0.0 hjd2048.com
+0.0.0.0 hjha.ao
 0.0.0.0 hjhqmbxyinislkkt.11bwgu.top
 0.0.0.0 hjhqmbxyinislkkt.127axt.top
 0.0.0.0 hjhqmbxyinislkkt.12bsy8.top
@@ -97099,6 +97108,7 @@
 0.0.0.0 idhad.com
 0.0.0.0 idi9378g2387g3f9h8f2.sbs
 0.0.0.0 idianproxy.com
+0.0.0.0 idid.pl
 0.0.0.0 idiotforex.co.cc
 0.0.0.0 idiotptp.info
 0.0.0.0 idisappear.info
@@ -104746,6 +104756,7 @@
 0.0.0.0 it.youporn.com
 0.0.0.0 it101.info
 0.0.0.0 it121.co.cc
+0.0.0.0 ita-airwaysva.com
 0.0.0.0 ita-facebook.com
 0.0.0.0 ita.xhamster.com
 0.0.0.0 ita.xhchannel2.com
@@ -109029,6 +109040,7 @@
 0.0.0.0 kazargermany.com
 0.0.0.0 kazatube.com
 0.0.0.0 kazatube.mobi
+0.0.0.0 kazdiyden.ru
 0.0.0.0 kazimir.net
 0.0.0.0 kazishare.info
 0.0.0.0 kazooki.info
@@ -109653,7 +109665,6 @@
 0.0.0.0 kimberden.cuntcam.club
 0.0.0.0 kimberleelive.com
 0.0.0.0 kimberlyprx.info
-0.0.0.0 kimdoo-app.top
 0.0.0.0 kimdotcom.info
 0.0.0.0 kimhaynesphoto.com
 0.0.0.0 kimholland.nl
@@ -121823,7 +121834,6 @@
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.gnc.com
-0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.hackerrank.com.edgekey.net
 0.0.0.0 metrics.harley-davidson.com
@@ -126615,7 +126625,6 @@
 0.0.0.0 myauthentic.eu
 0.0.0.0 myav.com
 0.0.0.0 myavlive.com
-0.0.0.0 myayurvedashoppe.com
 0.0.0.0 mybabydomainname.xyz
 0.0.0.0 mybabyporn.com
 0.0.0.0 mybabysittersclub.com
@@ -134265,7 +134274,6 @@
 0.0.0.0 nutrigolabstrength.pl
 0.0.0.0 nutrilab.tk
 0.0.0.0 nutrired.org
-0.0.0.0 nutrisc.com.br
 0.0.0.0 nutritionbeauty.info
 0.0.0.0 nutritionforhealth.info
 0.0.0.0 nutsurf.info
@@ -138768,6 +138776,7 @@
 0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 otip.info
 0.0.0.0 otja.info
+0.0.0.0 otkrytkadnya.ru
 0.0.0.0 otletdivak.hu
 0.0.0.0 otlp.xyz
 0.0.0.0 otmp3.com
@@ -141102,6 +141111,7 @@
 0.0.0.0 paleoleap.usesfathom.com
 0.0.0.0 palevo.com
 0.0.0.0 paleyforex.info
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 palimas.com
 0.0.0.0 palimas.org
 0.0.0.0 palimas.tv
@@ -143043,6 +143053,7 @@
 0.0.0.0 petzel.be
 0.0.0.0 petzlstore-eu.shop
 0.0.0.0 pevnex.net
+0.0.0.0 pevrix.com
 0.0.0.0 pewnaodbior.shop
 0.0.0.0 pewnekonta.pl
 0.0.0.0 pewnosc-2367.sbs
@@ -167723,6 +167734,7 @@
 0.0.0.0 reinefondange.live
 0.0.0.0 reinefondange.online
 0.0.0.0 reinforcefly.tk
+0.0.0.0 reinigung-kosanke.de
 0.0.0.0 reinnleese.store
 0.0.0.0 reinoflujencia.net
 0.0.0.0 reinvristo.store
@@ -168792,6 +168804,7 @@
 0.0.0.0 riderbrowsing.tk
 0.0.0.0 riderless.com
 0.0.0.0 ridersecuresurf.tk
+0.0.0.0 riderspin.com
 0.0.0.0 ridersurf.info
 0.0.0.0 ridesurf.co.cc
 0.0.0.0 ridesurf.info
@@ -179626,6 +179639,7 @@
 0.0.0.0 simplebrowse.info
 0.0.0.0 simplebypass.ml
 0.0.0.0 simplebypasshide.tk
+0.0.0.0 simplecheck.online
 0.0.0.0 simplecolor.co.cc
 0.0.0.0 simpledownloadz.com
 0.0.0.0 simplefilter.info
@@ -185585,6 +185599,7 @@
 0.0.0.0 star-proxy.info
 0.0.0.0 star.hu.tl
 0.0.0.0 star.pulseonclick.com
+0.0.0.0 star.zcnet.net
 0.0.0.0 star5proxy.tk
 0.0.0.0 star6-proxy5.tk
 0.0.0.0 staracademy-quatre.com
@@ -192596,6 +192611,7 @@
 0.0.0.0 susazu.ru
 0.0.0.0 suschoolproxy.tk
 0.0.0.0 suscotrk.com
+0.0.0.0 sushiandpoke.pt
 0.0.0.0 susi.adtech.fr
 0.0.0.0 susi.adtech.us
 0.0.0.0 susi.live
@@ -192775,7 +192791,6 @@
 0.0.0.0 swarmscape.com
 0.0.0.0 swassa.info
 0.0.0.0 swataward.tk
-0.0.0.0 swatting.wiki
 0.0.0.0 swaydasafo.info
 0.0.0.0 swayed.clawed.info
 0.0.0.0 swaylove.tk
@@ -196333,6 +196348,7 @@
 0.0.0.0 telltunel.tk
 0.0.0.0 tellyplay.com
 0.0.0.0 telochki.org
+0.0.0.0 telpak.icu
 0.0.0.0 telpaunman.store
 0.0.0.0 telpay.fr
 0.0.0.0 telstra.imrworldwide.com
@@ -205147,6 +205163,7 @@
 0.0.0.0 twistys.com
 0.0.0.0 twistys.nudegirlserotica.com
 0.0.0.0 twistysnetwork.com
+0.0.0.0 twitch.tj
 0.0.0.0 twitchguru.us.intellitxt.com
 0.0.0.0 twitchindoor.best
 0.0.0.0 twitchloot.com
@@ -205481,6 +205498,7 @@
 0.0.0.0 uaporn.net
 0.0.0.0 uaporno.com
 0.0.0.0 uarating.com
+0.0.0.0 uasputnik.com
 0.0.0.0 uastocktrading.tk
 0.0.0.0 uasurf777777.tk
 0.0.0.0 uav.tidaltv.com
@@ -219108,6 +219126,7 @@
 0.0.0.0 weboxy.info
 0.0.0.0 webpackedki.tk
 0.0.0.0 webpagefirewall.co.cc
+0.0.0.0 webpagehelp.online
 0.0.0.0 webpageproxy.ga
 0.0.0.0 webpageproxy.gq
 0.0.0.0 webpageproxy.ml
@@ -229624,6 +229643,7 @@
 0.0.0.0 www.caixainvesttrade.com
 0.0.0.0 www.cakeglobal-offers.com
 0.0.0.0 www.cakeglobaloffers.com
+0.0.0.0 www.cakkaao.com
 0.0.0.0 www.cakrainvest.net
 0.0.0.0 www.calafstrub.store
 0.0.0.0 www.caldescign.store
@@ -236493,7 +236513,6 @@
 0.0.0.0 www.gerteuzonimtrade.com
 0.0.0.0 www.gertibaldi.com
 0.0.0.0 www.gestaproet.store
-0.0.0.0 www.gestroom.it
 0.0.0.0 www.get-avast.com
 0.0.0.0 www.get-derila.com
 0.0.0.0 www.get-express-vpn.com
