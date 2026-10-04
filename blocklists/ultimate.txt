@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.55
-# Updated: 2026-10-03 04:17:57 UTC
-# Total Unique Domains: 267,065
+# Version: v1.0.56
+# Updated: 2026-10-04 04:49:23 UTC
+# Total Unique Domains: 267,084
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -15531,6 +15531,7 @@
 0.0.0.0 allowcookie.ga
 0.0.0.0 allowcookie.gq
 0.0.0.0 allowcookie.ml
+0.0.0.0 allowcsxan2.site
 0.0.0.0 allowd.com
 0.0.0.0 allowedsurf.tk
 0.0.0.0 allowedx.tk
@@ -22899,6 +22900,7 @@
 0.0.0.0 astrocash.org
 0.0.0.0 astrohacks.com
 0.0.0.0 astrohones.store
+0.0.0.0 astroliper.ac
 0.0.0.0 astrollers.fr
 0.0.0.0 astronevoenlycs-shop.pages.dev
 0.0.0.0 astronomiass6.tk
@@ -23670,6 +23672,7 @@
 0.0.0.0 autofireevolve.tk
 0.0.0.0 autofirew.tk
 0.0.0.0 autofirewall.info
+0.0.0.0 autoflotte-vergabe.de
 0.0.0.0 autoforex.co.tv
 0.0.0.0 autoforum-businessday.pl
 0.0.0.0 autoforums.us.intellitxt.com
@@ -24664,6 +24667,7 @@
 0.0.0.0 ba.afl.rakuten.co.jp
 0.0.0.0 ba.club-vip.live
 0.0.0.0 baaer4.tk
+0.0.0.0 baainbw-vergabe.de
 0.0.0.0 baao.info
 0.0.0.0 baap.info
 0.0.0.0 baaq.info
@@ -43028,6 +43032,7 @@
 0.0.0.0 chefvillehacks.info
 0.0.0.0 cheggit.me
 0.0.0.0 chek-proxy.ml
+0.0.0.0 chekcms432.cc
 0.0.0.0 chelcdesigns.tk
 0.0.0.0 chelentano.info
 0.0.0.0 chelseaprx.info
@@ -43103,6 +43108,7 @@
 0.0.0.0 chibiangel86.bravejournal.com
 0.0.0.0 chibiprox.tk
 0.0.0.0 chibiprox56.tk
+0.0.0.0 chibomaydan.devs.surf
 0.0.0.0 chic-avenue.fr
 0.0.0.0 chicaangelical.com.ar
 0.0.0.0 chicafruta.com
@@ -45301,6 +45307,7 @@
 0.0.0.0 cloverwealthmere-digital.pages.dev
 0.0.0.0 clowney.tk
 0.0.0.0 clownforex.co.cc
+0.0.0.0 clownguard.us
 0.0.0.0 clownsong.com
 0.0.0.0 clowntable.com
 0.0.0.0 clowy.top
@@ -48747,6 +48754,7 @@
 0.0.0.0 cpmstar.com
 0.0.0.0 cpo.adflex.vn
 0.0.0.0 cpocommerceinc.112.2o7.net
+0.0.0.0 cpofficial.com
 0.0.0.0 cpornplanet.com
 0.0.0.0 cpr0x.com
 0.0.0.0 cpr0xy.info
@@ -56635,9 +56643,11 @@
 0.0.0.0 dontwork.info
 0.0.0.0 dontworryme.info
 0.0.0.0 dontyouknow.info
+0.0.0.0 donutclients.org
 0.0.0.0 donutproxy.com
 0.0.0.0 donutslice.com
 0.0.0.0 donutsmpcheats.org
+0.0.0.0 donutsmpclient.com
 0.0.0.0 donutsurf.com
 0.0.0.0 donval.112.2o7.net
 0.0.0.0 donwloadproxip.tk
@@ -63823,6 +63833,7 @@
 0.0.0.0 expiredate.info
 0.0.0.0 expiredsession.com
 0.0.0.0 expiretunnel.tk
+0.0.0.0 expirience.icu
 0.0.0.0 explicit-amaranth-qng8tdbe.edgeone.dev
 0.0.0.0 explicite-art.com
 0.0.0.0 explicitgames.tk
@@ -64509,6 +64520,7 @@
 0.0.0.0 fabulousgiftcard.info
 0.0.0.0 fabulousproxy.co.cc
 0.0.0.0 fabulousproxy.tk
+0.0.0.0 facai.makaaop.cc
 0.0.0.0 facbookonline.info
 0.0.0.0 face-book.tk
 0.0.0.0 face-book6.tk
@@ -64916,6 +64928,7 @@
 0.0.0.0 fagtubes.com
 0.0.0.0 fahlawy.com
 0.0.0.0 fahrrad.bikesshop.de
+0.0.0.0 fahrzeugvergabe.de
 0.0.0.0 fahu.info
 0.0.0.0 faicirlingrent.reblog.hu
 0.0.0.0 fail18.com
@@ -83209,6 +83222,7 @@
 0.0.0.0 gobid.info
 0.0.0.0 gobigtitsporn.com
 0.0.0.0 gobio.info
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 gobli.world
 0.0.0.0 goblocksite.com
 0.0.0.0 gobokep.com
@@ -101043,6 +101057,7 @@
 0.0.0.0 indonesianporn.com.es
 0.0.0.0 indonesiaporn.monster
 0.0.0.0 indonesiaproxy.me
+0.0.0.0 indonesias.me
 0.0.0.0 indoporn.pro
 0.0.0.0 indoporntv.com
 0.0.0.0 indosexterbaru.icu
@@ -104301,6 +104316,7 @@
 0.0.0.0 it101.info
 0.0.0.0 it121.co.cc
 0.0.0.0 it6j9-vhg-n07n-rni9q-23-09-2026-hh.pages.dev
+0.0.0.0 ita-airwaysva.com
 0.0.0.0 ita-facebook.com
 0.0.0.0 ita.xhamster.com
 0.0.0.0 ita.xhchannel2.com
@@ -125440,6 +125456,7 @@
 0.0.0.0 multimediamail.tk
 0.0.0.0 multimoney.tk
 0.0.0.0 multionline.info
+0.0.0.0 multiplay.at
 0.0.0.0 multiplayercharacterdlc.sharezips.info
 0.0.0.0 multiplayercharacterdlc.sharezips.net
 0.0.0.0 multiple6proxy.tk
@@ -132204,6 +132221,7 @@
 0.0.0.0 nordivoliving.com
 0.0.0.0 nordkapitbach.de
 0.0.0.0 nordkvarn.net
+0.0.0.0 nordmann-automobilgruppe.de
 0.0.0.0 nordstern-ai.de
 0.0.0.0 nordsternaiapp-gpt.com
 0.0.0.0 nordsternaiappgpt.net
@@ -134817,7 +134835,6 @@
 0.0.0.0 oilslipsurf.tk
 0.0.0.0 oiltanking.ee
 0.0.0.0 oilyhandjobs.com
-0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 oinkchan.org
@@ -136509,6 +136526,7 @@
 0.0.0.0 onlyfansnudes.cc
 0.0.0.0 onlyfaps.club
 0.0.0.0 onlyfatchiks.com
+0.0.0.0 onlyfiles.com
 0.0.0.0 onlyfiles.net
 0.0.0.0 onlyfinance.org.uk
 0.0.0.0 onlyforyou.tech
@@ -140387,7 +140405,6 @@
 0.0.0.0 paleoleap.usesfathom.com
 0.0.0.0 palevo.com
 0.0.0.0 paleyforex.info
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 palimas.com
 0.0.0.0 palimas.org
 0.0.0.0 palimas.tv
@@ -151714,7 +151731,6 @@
 0.0.0.0 prodifairox.com
 0.0.0.0 prodigitfx.net
 0.0.0.0 prodilll-proxysa.tk
-0.0.0.0 prodimetal.com
 0.0.0.0 prodomainserverproxy.tk
 0.0.0.0 prodprero123.tk
 0.0.0.0 produced-by.co.cc
@@ -167875,6 +167891,7 @@
 0.0.0.0 riderbrowsing.tk
 0.0.0.0 riderless.com
 0.0.0.0 ridersecuresurf.tk
+0.0.0.0 riderspin.com
 0.0.0.0 ridersurf.info
 0.0.0.0 ridesjaspo.store
 0.0.0.0 ridesurf.co.cc
@@ -171214,7 +171231,6 @@
 0.0.0.0 sandi-banks-anal.uporniacom.ru
 0.0.0.0 sandiego-dui-lawyer.info
 0.0.0.0 sandiegoduilawyer.tk
-0.0.0.0 sandiegomobiletire.com
 0.0.0.0 sandomir.pl
 0.0.0.0 sandprox.tk
 0.0.0.0 sandproxy.com
@@ -174946,6 +174962,7 @@
 0.0.0.0 serwisy.gremimedia.pl
 0.0.0.0 serytsopaz.shop
 0.0.0.0 sesaonpass.sharezips.info
+0.0.0.0 sesdigitalsolutions.com
 0.0.0.0 seshopne.com
 0.0.0.0 sesja-81.web.id
 0.0.0.0 sesja-v-519204.eu.cc
@@ -186593,7 +186610,6 @@
 0.0.0.0 streamled.co.cc
 0.0.0.0 streamlivesex.com
 0.0.0.0 streamm4u.ws
-0.0.0.0 streammobs.com
 0.0.0.0 streamnine.info
 0.0.0.0 streamone.info
 0.0.0.0 streamoporn.xyz
@@ -202280,6 +202296,7 @@
 0.0.0.0 trustyclue.tk
 0.0.0.0 trustyfine.com
 0.0.0.0 trusurround.co.cc
+0.0.0.0 truswallet.foundation
 0.0.0.0 truteratrade.net
 0.0.0.0 truth4-market.tk
 0.0.0.0 truthaboutabs.name
@@ -235011,6 +235028,7 @@
 0.0.0.0 www.gertibaldi.com
 0.0.0.0 www.gestaproet.store
 0.0.0.0 www.gestione-patrimoniale.com
+0.0.0.0 www.gestroom.it
 0.0.0.0 www.get-avast.com
 0.0.0.0 www.get-derila.com
 0.0.0.0 www.get-express-vpn.com
@@ -256208,6 +256226,7 @@
 0.0.0.0 www.wtp101.com
 0.0.0.0 www.wu4652.com.tw
 0.0.0.0 www.wueu.shop
+0.0.0.0 www.wuming0.tech
 0.0.0.0 www.wunbuck.com
 0.0.0.0 www.wunschpenis.com
 0.0.0.0 www.ww.angelswifelovers.com

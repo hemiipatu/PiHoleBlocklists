@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.55
-# Updated: 2026-10-03 04:17:54 UTC
-# Total Unique Domains: 80,048
+# Version: v1.0.56
+# Updated: 2026-10-04 04:49:18 UTC
+# Total Unique Domains: 80,067
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -7637,6 +7637,7 @@
 0.0.0.0 allopass-generator.com
 0.0.0.0 allornamenti.com
 0.0.0.0 allostargen.com
+0.0.0.0 allowcsxan2.site
 0.0.0.0 allowlisted.net
 0.0.0.0 alloysteel.ru
 0.0.0.0 allpdfmags.net
@@ -9877,6 +9878,7 @@
 0.0.0.0 astrocash.org
 0.0.0.0 astrohacks.com
 0.0.0.0 astrohones.store
+0.0.0.0 astroliper.ac
 0.0.0.0 astronevoenlycs-shop.pages.dev
 0.0.0.0 astrsk.net
 0.0.0.0 astuce-triche-cheat.com
@@ -10156,6 +10158,7 @@
 0.0.0.0 autocounter.marketgid.com
 0.0.0.0 autodaggro.store
 0.0.0.0 autodiscover.livejasmin.com
+0.0.0.0 autoflotte-vergabe.de
 0.0.0.0 autoforum-businessday.pl
 0.0.0.0 autoforums.us.intellitxt.com
 0.0.0.0 autohipnose.com
@@ -10455,6 +10458,7 @@
 0.0.0.0 b97.yahoo.co.jp
 0.0.0.0 b9tk.vy8xkb.sbs
 0.0.0.0 ba.afl.rakuten.co.jp
+0.0.0.0 baainbw-vergabe.de
 0.0.0.0 babanetwork.adk2x.com
 0.0.0.0 babe.ants.vn
 0.0.0.0 babel.innertrends.com
@@ -14727,6 +14731,7 @@
 0.0.0.0 cheetah-buck-approve.icu
 0.0.0.0 chefeladlevi.com
 0.0.0.0 chefvillehacks.info
+0.0.0.0 chekcms432.cc
 0.0.0.0 cheminfundriasoftware.shop
 0.0.0.0 cheriefm.fr
 0.0.0.0 cherriescare.com
@@ -14747,6 +14752,7 @@
 0.0.0.0 chiasakura.digital
 0.0.0.0 chiazmargi.store
 0.0.0.0 chibauni.com
+0.0.0.0 chibomaydan.devs.surf
 0.0.0.0 chic-avenue.fr
 0.0.0.0 chicagosuntimes.122.2o7.net
 0.0.0.0 chickenwaves.com
@@ -15480,6 +15486,7 @@
 0.0.0.0 cloverkapithaven.shop
 0.0.0.0 clovermistaq.info
 0.0.0.0 cloverwealthmere-digital.pages.dev
+0.0.0.0 clownguard.us
 0.0.0.0 clownsong.com
 0.0.0.0 clp-revalidation.com
 0.0.0.0 clpfoundation.org
@@ -16706,6 +16713,7 @@
 0.0.0.0 cpmstar.com
 0.0.0.0 cpo.adflex.vn
 0.0.0.0 cpocommerceinc.112.2o7.net
+0.0.0.0 cpofficial.com
 0.0.0.0 cpro.baidu.com
 0.0.0.0 cpro.su
 0.0.0.0 cpu.samsungelectronics.com
@@ -19142,7 +19150,9 @@
 0.0.0.0 dontacos.fr
 0.0.0.0 dontradezipsoft.click
 0.0.0.0 dontwatch.us
+0.0.0.0 donutclients.org
 0.0.0.0 donutsmpcheats.org
+0.0.0.0 donutsmpclient.com
 0.0.0.0 donval.112.2o7.net
 0.0.0.0 doodle.oewabox.at
 0.0.0.0 doogi.eu
@@ -21412,6 +21422,7 @@
 0.0.0.0 expired-antiviruses.com
 0.0.0.0 expired-targeted.com
 0.0.0.0 expiredsession.com
+0.0.0.0 expirience.icu
 0.0.0.0 explicit-amaranth-qng8tdbe.edgeone.dev
 0.0.0.0 explorads.com
 0.0.0.0 exploreemail.net
@@ -21579,6 +21590,7 @@
 0.0.0.0 fabricam-creative-hub.base44.app
 0.0.0.0 fabricsewingh.com
 0.0.0.0 fabryka-nagrod.com
+0.0.0.0 facai.makaaop.cc
 0.0.0.0 face-geek.com
 0.0.0.0 face-hijack.fr
 0.0.0.0 face-secu.com
@@ -21675,6 +21687,7 @@
 0.0.0.0 faggotry.com
 0.0.0.0 fagruvil-shop.pages.dev
 0.0.0.0 fahrrad.bikesshop.de
+0.0.0.0 fahrzeugvergabe.de
 0.0.0.0 faineeleva.store
 0.0.0.0 fair-2sale.com
 0.0.0.0 fairfax.demdex.net
@@ -25725,6 +25738,7 @@
 0.0.0.0 goawos.com
 0.0.0.0 gobang.top
 0.0.0.0 gobettygo.com
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 gobli.world
 0.0.0.0 gobusinessloan.com
 0.0.0.0 gocarosel.com
@@ -29004,6 +29018,7 @@
 0.0.0.0 indisancal.com
 0.0.0.0 indium.openx.net
 0.0.0.0 indo.autoads.asia
+0.0.0.0 indonesias.me
 0.0.0.0 indpolice.com
 0.0.0.0 indqqehiscences.info
 0.0.0.0 inducsbrec.store
@@ -29656,6 +29671,7 @@
 0.0.0.0 it.bannerout.com
 0.0.0.0 it.erosadv.com
 0.0.0.0 it6j9-vhg-n07n-rni9q-23-09-2026-hh.pages.dev
+0.0.0.0 ita-airwaysva.com
 0.0.0.0 ita-facebook.com
 0.0.0.0 italai.net
 0.0.0.0 italiapagamen.com
@@ -35806,6 +35822,7 @@
 0.0.0.0 multikino-pl.over-blog.com
 0.0.0.0 multimc.info
 0.0.0.0 multimedia-projector.katrina.ru
+0.0.0.0 multiplay.at
 0.0.0.0 multiplayercharacterdlc.sharezips.info
 0.0.0.0 multiplayercharacterdlc.sharezips.net
 0.0.0.0 multiplecurrencies.com
@@ -37088,6 +37105,7 @@
 0.0.0.0 nordivoliving.com
 0.0.0.0 nordkapitbach.de
 0.0.0.0 nordkvarn.net
+0.0.0.0 nordmann-automobilgruppe.de
 0.0.0.0 nordstern-ai.de
 0.0.0.0 nordsternaiapp-gpt.com
 0.0.0.0 nordsternaiappgpt.net
@@ -37983,7 +38001,6 @@
 0.0.0.0 oilfund-ai.com
 0.0.0.0 oilllx.shop
 0.0.0.0 oilprofit-click.pages.dev
-0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 ois.is
@@ -38637,6 +38654,7 @@
 0.0.0.0 only2date.com
 0.0.0.0 onlycart.net
 0.0.0.0 onlyczat.pl
+0.0.0.0 onlyfiles.com
 0.0.0.0 onlyfiles.net
 0.0.0.0 onlyforyou.tech
 0.0.0.0 onlyfreekeys.com
@@ -39380,7 +39398,6 @@
 0.0.0.0 palcotresorio.com
 0.0.0.0 paleleaf.com
 0.0.0.0 paleoleap.usesfathom.com
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 palm-vermogrove.online
 0.0.0.0 palmafondivo.net
 0.0.0.0 palmarendario.com
@@ -42029,7 +42046,6 @@
 0.0.0.0 prodentim101.com
 0.0.0.0 prodesigners.club
 0.0.0.0 prodigitfx.net
-0.0.0.0 prodimetal.com
 0.0.0.0 product-cdn.liftoff-creatives.io
 0.0.0.0 product-reviews.uk.intellitxt.com
 0.0.0.0 product.adingo.jp.eimg.jp
@@ -44181,6 +44197,7 @@
 0.0.0.0 ricredisne.store
 0.0.0.0 ridedownloads.com
 0.0.0.0 ridepush.com
+0.0.0.0 riderspin.com
 0.0.0.0 ridesjaspo.store
 0.0.0.0 ridevsgonn.store
 0.0.0.0 ridgegrowantion.net
@@ -45344,7 +45361,6 @@
 0.0.0.0 sandbox.googleanalytics.com
 0.0.0.0 sandbox.livejasmin.com
 0.0.0.0 sandbox.tinypass.com
-0.0.0.0 sandiegomobiletire.com
 0.0.0.0 sandomir.pl
 0.0.0.0 sanfordcorporation.112.2o7.net
 0.0.0.0 sangritv.com
@@ -46519,6 +46535,7 @@
 0.0.0.0 serwisy.gremimedia.pl
 0.0.0.0 serytsopaz.shop
 0.0.0.0 sesaonpass.sharezips.info
+0.0.0.0 sesdigitalsolutions.com
 0.0.0.0 seshopne.com
 0.0.0.0 sesja-81.web.id
 0.0.0.0 sesja-v-519204.eu.cc
@@ -49808,7 +49825,6 @@
 0.0.0.0 streamingfilmhd.com
 0.0.0.0 streamingvideoonline.net
 0.0.0.0 streamjs.investing.com
-0.0.0.0 streammobs.com
 0.0.0.0 streamoptcelexa.net
 0.0.0.0 streams24.tv
 0.0.0.0 streamsaison.com
@@ -53555,6 +53571,7 @@
 0.0.0.0 truststep.space
 0.0.0.0 trusturl.top
 0.0.0.0 trustx.org
+0.0.0.0 truswallet.foundation
 0.0.0.0 truteratrade.net
 0.0.0.0 truthfulmilkshake.com
 0.0.0.0 truvantamarnoxisglobal.pro
@@ -65598,6 +65615,7 @@
 0.0.0.0 www.gerteuzonimtrade.com
 0.0.0.0 www.gestaproet.store
 0.0.0.0 www.gestione-patrimoniale.com
+0.0.0.0 www.gestroom.it
 0.0.0.0 www.get-avast.com
 0.0.0.0 www.get-derila.com
 0.0.0.0 www.get-express-vpn.com
@@ -77740,6 +77758,7 @@
 0.0.0.0 www.wtp101.com
 0.0.0.0 www.wu4652.com.tw
 0.0.0.0 www.wueu.shop
+0.0.0.0 www.wuming0.tech
 0.0.0.0 www.ww0javip.shop
 0.0.0.0 www.ww1.e-kino.tv
 0.0.0.0 www.ww2.ero-advertising.com
