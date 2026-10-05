@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.56
-# Updated: 2026-10-04 04:49:23 UTC
-# Total Unique Domains: 267,084
+# Version: v1.0.57
+# Updated: 2026-10-05 04:37:14 UTC
+# Total Unique Domains: 267,110
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -7660,6 +7660,7 @@
 0.0.0.0 abigonion.com
 0.0.0.0 ability-become.co.cc
 0.0.0.0 abismo.info
+0.0.0.0 abitcoinbull.com
 0.0.0.0 abitergy.info
 0.0.0.0 abitronfin.org
 0.0.0.0 abitzer.com
@@ -23652,6 +23653,7 @@
 0.0.0.0 autocarcomprod.112.2o7.net
 0.0.0.0 autocert.tk
 0.0.0.0 autocfirml.store
+0.0.0.0 autoclinic.autos
 0.0.0.0 autocolli.tk
 0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 autoconfig.support.blondehoer.com
@@ -24597,6 +24599,7 @@
 0.0.0.0 b2.trafficdeposit.com
 0.0.0.0 b206213.com
 0.0.0.0 b2b-update.appwrite.network
+0.0.0.0 b2b.jewmailer.net
 0.0.0.0 b2b3.info
 0.0.0.0 b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
 0.0.0.0 b2be.tk
@@ -35119,6 +35122,7 @@
 0.0.0.0 burtonconstablehall.info
 0.0.0.0 buruckobama.co.cc
 0.0.0.0 burungbergaris.xyz
+0.0.0.0 buruujtech.com
 0.0.0.0 buryforex.tk
 0.0.0.0 burytheblocks.info
 0.0.0.0 burythefilters.info
@@ -43501,7 +43505,6 @@
 0.0.0.0 christymackofficial.com
 0.0.0.0 chrliehebdo.fr
 0.0.0.0 chrome-proxy.com
-0.0.0.0 chrome.browserdownloads.ru
 0.0.0.0 chrome.windows-browser.net
 0.0.0.0 chromeberry.info
 0.0.0.0 chromebewfk.top
@@ -48754,7 +48757,6 @@
 0.0.0.0 cpmstar.com
 0.0.0.0 cpo.adflex.vn
 0.0.0.0 cpocommerceinc.112.2o7.net
-0.0.0.0 cpofficial.com
 0.0.0.0 cpornplanet.com
 0.0.0.0 cpr0x.com
 0.0.0.0 cpr0xy.info
@@ -49382,6 +49384,7 @@
 0.0.0.0 crestvaulmore.online
 0.0.0.0 crestvaultshire.live
 0.0.0.0 crestwhitestripscoupons.info
+0.0.0.0 cresvin.com
 0.0.0.0 cretefortunois.digital
 0.0.0.0 cretproxy.tk
 0.0.0.0 creview.adbureau.net
@@ -56648,6 +56651,7 @@
 0.0.0.0 donutslice.com
 0.0.0.0 donutsmpcheats.org
 0.0.0.0 donutsmpclient.com
+0.0.0.0 donutsmpdupe.com
 0.0.0.0 donutsurf.com
 0.0.0.0 donval.112.2o7.net
 0.0.0.0 donwloadproxip.tk
@@ -59403,6 +59407,7 @@
 0.0.0.0 ebuddyproxy.com
 0.0.0.0 ebuforex.co.cc
 0.0.0.0 ebuha.cc
+0.0.0.0 ebullientlife.in
 0.0.0.0 ebun.pro
 0.0.0.0 ebun.tv
 0.0.0.0 ebunpro.cc
@@ -59639,6 +59644,7 @@
 0.0.0.0 edu-huayu.com
 0.0.0.0 eduardorodrigues.adv.br
 0.0.0.0 educable.info
+0.0.0.0 educacom.com.br
 0.0.0.0 educatesecure4.info
 0.0.0.0 educatethis.info
 0.0.0.0 education-securiter-routiere.fr
@@ -80621,6 +80627,7 @@
 0.0.0.0 gedeg.info
 0.0.0.0 gedich.com
 0.0.0.0 geeb.pro
+0.0.0.0 geeconglobal.com
 0.0.0.0 geefap.com
 0.0.0.0 geefly.com
 0.0.0.0 geeg.tv
@@ -83222,7 +83229,6 @@
 0.0.0.0 gobid.info
 0.0.0.0 gobigtitsporn.com
 0.0.0.0 gobio.info
-0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 gobli.world
 0.0.0.0 goblocksite.com
 0.0.0.0 gobokep.com
@@ -89549,6 +89555,7 @@
 0.0.0.0 heute.oewabox.at
 0.0.0.0 heutenochficken.net
 0.0.0.0 heuteporno.com
+0.0.0.0 hewadexchange.com
 0.0.0.0 hewed.info
 0.0.0.0 hewilsonproxy.tk
 0.0.0.0 hewletproxy.co.cc
@@ -101057,7 +101064,6 @@
 0.0.0.0 indonesianporn.com.es
 0.0.0.0 indonesiaporn.monster
 0.0.0.0 indonesiaproxy.me
-0.0.0.0 indonesias.me
 0.0.0.0 indoporn.pro
 0.0.0.0 indoporntv.com
 0.0.0.0 indosexterbaru.icu
@@ -104316,7 +104322,6 @@
 0.0.0.0 it101.info
 0.0.0.0 it121.co.cc
 0.0.0.0 it6j9-vhg-n07n-rni9q-23-09-2026-hh.pages.dev
-0.0.0.0 ita-airwaysva.com
 0.0.0.0 ita-facebook.com
 0.0.0.0 ita.xhamster.com
 0.0.0.0 ita.xhchannel2.com
@@ -113211,6 +113216,7 @@
 0.0.0.0 likecorn.tk
 0.0.0.0 likecoxy.tk
 0.0.0.0 likedomain.co.cc
+0.0.0.0 likedrink.beer
 0.0.0.0 likeeverychild.tk
 0.0.0.0 likeface-007.tk
 0.0.0.0 likeface01.tk
@@ -114657,6 +114663,7 @@
 0.0.0.0 loanmail.cf
 0.0.0.0 loanmail.ml
 0.0.0.0 loanme.pl
+0.0.0.0 loanoffer.co.in
 0.0.0.0 loanoffice.tk
 0.0.0.0 loanplace.info
 0.0.0.0 loanprograms.tk
@@ -118012,6 +118019,7 @@
 0.0.0.0 malyo.cn
 0.0.0.0 malyu.cn
 0.0.0.0 mama.pipi.ne.jp
+0.0.0.0 mamabearcoffee.com
 0.0.0.0 mamacitaz-com.pornproxy.app
 0.0.0.0 mamacitaz.com
 0.0.0.0 mamaerotica.com
@@ -119484,6 +119492,7 @@
 0.0.0.0 mauz5yxj.life
 0.0.0.0 maveledstead.com
 0.0.0.0 maven.blueconic.net
+0.0.0.0 maverick174.org
 0.0.0.0 maverickmerch.win
 0.0.0.0 mavi-marmara.co.cc
 0.0.0.0 mavimarmara.co.cc
@@ -119632,6 +119641,7 @@
 0.0.0.0 maxwork.info
 0.0.0.0 maxxa.info
 0.0.0.0 maxxisproduct.com
+0.0.0.0 maxxlavalink.cyou
 0.0.0.0 maxxx-clips.com
 0.0.0.0 maxxx247wins.com
 0.0.0.0 maxxxhits.com
@@ -120359,6 +120369,7 @@
 0.0.0.0 medium-large.co.cc
 0.0.0.0 medlafare.com
 0.0.0.0 medleyads.com
+0.0.0.0 medlinelab.com
 0.0.0.0 medmed.cf
 0.0.0.0 medokin.de
 0.0.0.0 medoles-forex.tk
@@ -123789,6 +123800,7 @@
 0.0.0.0 moneyisecondgod.com
 0.0.0.0 moneyisforexbro.co.cc
 0.0.0.0 moneylist.info
+0.0.0.0 moneylord.org
 0.0.0.0 moneyluck.info
 0.0.0.0 moneymakingcourse.co.cc
 0.0.0.0 moneymatter.tk
@@ -143255,6 +143267,7 @@
 0.0.0.0 physicalproxy1a.tk
 0.0.0.0 physicalsproxy.tk
 0.0.0.0 physicsarticles.info
+0.0.0.0 physicsbyfiziks.org
 0.0.0.0 physique4ever.com
 0.0.0.0 physique4ever.tk
 0.0.0.0 physorg.uk.intellitxt.com
@@ -145384,6 +145397,7 @@
 0.0.0.0 plenacapitoria-pro.pages.dev
 0.0.0.0 plenerowy.com
 0.0.0.0 plenerowy.shop
+0.0.0.0 plenia.pt
 0.0.0.0 plenisxentartech.com
 0.0.0.0 plenisxentartechhub.com
 0.0.0.0 plenisxentartechsystem.com
@@ -151967,6 +151981,7 @@
 0.0.0.0 proipx.tk
 0.0.0.0 projeco.top
 0.0.0.0 project-private.info
+0.0.0.0 project0.cc
 0.0.0.0 project1content.com
 0.0.0.0 projectbypass.com
 0.0.0.0 projectfund.tk
@@ -165207,6 +165222,7 @@
 0.0.0.0 raptp.fr
 0.0.0.0 raqc.net
 0.0.0.0 raqito.world
+0.0.0.0 raqmnh.com
 0.0.0.0 raquelexibida.com
 0.0.0.0 raquelexibida.net
 0.0.0.0 rarbg.com
@@ -186490,7 +186506,6 @@
 0.0.0.0 strategywargame.info
 0.0.0.0 strategywargames.info
 0.0.0.0 stratford.tk
-0.0.0.0 stratos-delta.com
 0.0.0.0 stratus.campaign-image.com.cn
 0.0.0.0 strauss-vip.shop
 0.0.0.0 strauss-workwear-discount.shop
@@ -186610,6 +186625,7 @@
 0.0.0.0 streamled.co.cc
 0.0.0.0 streamlivesex.com
 0.0.0.0 streamm4u.ws
+0.0.0.0 streammobs.com
 0.0.0.0 streamnine.info
 0.0.0.0 streamone.info
 0.0.0.0 streamoporn.xyz
@@ -186972,6 +186988,7 @@
 0.0.0.0 studio.faphouse.com
 0.0.0.0 studio100investtrade.com
 0.0.0.0 studiofow.com
+0.0.0.0 studiogioeli.it
 0.0.0.0 studiomake.digital
 0.0.0.0 studiomugnaini.eu
 0.0.0.0 studioomovie.com
@@ -187339,6 +187356,7 @@
 0.0.0.0 sucksex.com
 0.0.0.0 suckstob.eu
 0.0.0.0 sucktheball.co.cc
+0.0.0.0 sudariocontabilidade.com.br
 0.0.0.0 suddenfuture.cn
 0.0.0.0 suddengeneral.cn
 0.0.0.0 suddenoffer.tk
@@ -187437,6 +187455,7 @@
 0.0.0.0 sullbjectivity.info
 0.0.0.0 sullecoste.tk
 0.0.0.0 suloki.ru
+0.0.0.0 sultanaexecutive.com
 0.0.0.0 sultanswomen.com
 0.0.0.0 sultratrade.tk
 0.0.0.0 suluhnilaiwan.net
@@ -192391,6 +192410,7 @@
 0.0.0.0 t-h-u-m-b-s.com
 0.0.0.0 t-id.ads.heytapmobile.com
 0.0.0.0 t-in.ads.heytapmobile.com
+0.0.0.0 t-me.xyz
 0.0.0.0 t-mobiles.tk
 0.0.0.0 t-o-kitano.com
 0.0.0.0 t-odx.op-mobile.opera.com
@@ -192641,6 +192661,7 @@
 0.0.0.0 ta.toprework.vn
 0.0.0.0 taabook.info
 0.0.0.0 tab.dellrescue.com
+0.0.0.0 tabak.hr
 0.0.0.0 tabblad.com
 0.0.0.0 tabelog.com.102.112.2o7.net
 0.0.0.0 taberna.info
@@ -193317,6 +193338,7 @@
 0.0.0.0 tarsaltunnel.xyz
 0.0.0.0 tarsan.g2afse.com
 0.0.0.0 tarsan.media-412.com
+0.0.0.0 tartaklegnica.pl
 0.0.0.0 tartas.info
 0.0.0.0 tartono.co.cc
 0.0.0.0 taruneek.in
@@ -195615,7 +195637,6 @@
 0.0.0.0 tetra-invest.co
 0.0.0.0 tetra.hitbox.com
 0.0.0.0 tetraproxy.info
-0.0.0.0 tetris-supdate.xyz
 0.0.0.0 tetris.vip
 0.0.0.0 tetrixporn.com
 0.0.0.0 tettediferro.net
@@ -197091,6 +197112,7 @@
 0.0.0.0 thesafesurf.com
 0.0.0.0 thesafetyt.tk
 0.0.0.0 thesafetyta.tk
+0.0.0.0 thesalons.in
 0.0.0.0 thesameip.com
 0.0.0.0 thesandfly.com
 0.0.0.0 thesandwichproxy.com
@@ -209225,6 +209247,7 @@
 0.0.0.0 uplinesite.tk
 0.0.0.0 upload.adtech.fr
 0.0.0.0 upload.adtech.us
+0.0.0.0 upload.filehost.lol
 0.0.0.0 upload.luckyorange.net
 0.0.0.0 upload.luscious.net
 0.0.0.0 upload.mobpowertech.com
@@ -219621,6 +219644,7 @@
 0.0.0.0 wickerholestock.tk
 0.0.0.0 wickerstock.tk
 0.0.0.0 wickywow.info
+0.0.0.0 wicresetconnect.com
 0.0.0.0 wide3lyb.tk
 0.0.0.0 widearclk.tk
 0.0.0.0 widebandsbypass.tk
@@ -234987,6 +235011,7 @@
 0.0.0.0 www.geldronaisolution.digital
 0.0.0.0 www.geldronaitrade.com
 0.0.0.0 www.gelgnamb.lovable.app
+0.0.0.0 www.gemrazorback.com
 0.0.0.0 www.gemverify.com
 0.0.0.0 www.gen2server.com
 0.0.0.0 www.general-guidance-overview-ac52.s236063.workers.dev
@@ -236982,6 +237007,7 @@
 0.0.0.0 www.icloud.fairbox.pl
 0.0.0.0 www.iclsas.com
 0.0.0.0 www.ico.re
+0.0.0.0 www.icomsa.com.mx
 0.0.0.0 www.iconatsbs.com
 0.0.0.0 www.iconic.jonwai-tw.com
 0.0.0.0 www.iconmale.com
