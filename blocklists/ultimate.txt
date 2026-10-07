@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.58
-# Updated: 2026-10-06 05:23:31 UTC
-# Total Unique Domains: 267,100
+# Version: v1.0.59
+# Updated: 2026-10-07 04:52:27 UTC
+# Total Unique Domains: 267,117
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -8215,6 +8215,7 @@
 0.0.0.0 accesstech.ga
 0.0.0.0 accesstech.ml
 0.0.0.0 accesstech.tk
+0.0.0.0 accesstelematics.com
 0.0.0.0 accessthat.com
 0.0.0.0 accessthat.info
 0.0.0.0 accessthatpage.com
@@ -15812,6 +15813,7 @@
 0.0.0.0 aloofmetal.com
 0.0.0.0 aloofvest.com
 0.0.0.0 alora.gen.tr
+0.0.0.0 alotic.net
 0.0.0.0 alotofmoney.org
 0.0.0.0 alotofproxy.com
 0.0.0.0 alotoftime.tk
@@ -19802,6 +19804,7 @@
 0.0.0.0 aolfinance.tk
 0.0.0.0 aolgam.122.2o7.net
 0.0.0.0 aolgamedaily.122.2o7.net
+0.0.0.0 aolgepacklng.com
 0.0.0.0 aolinttlb.122.2o7.net
 0.0.0.0 aoljournals.122.2o7.net
 0.0.0.0 aollatblog.122.2o7.net
@@ -24596,7 +24599,6 @@
 0.0.0.0 b2.trafficdeposit.com
 0.0.0.0 b206213.com
 0.0.0.0 b2b-update.appwrite.network
-0.0.0.0 b2b.jewmailer.net
 0.0.0.0 b2b3.info
 0.0.0.0 b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
 0.0.0.0 b2be.tk
@@ -25134,6 +25136,7 @@
 0.0.0.0 baei.info
 0.0.0.0 baemprox.com
 0.0.0.0 bafana-bafana.co.cc
+0.0.0.0 bafdili.com
 0.0.0.0 bafflingsafesurf.info
 0.0.0.0 bafly.top
 0.0.0.0 baforexi.tk
@@ -38769,7 +38772,6 @@
 0.0.0.0 castortama.fr
 0.0.0.0 castplatform.com
 0.0.0.0 castrolproxy.co.cc
-0.0.0.0 castroycontadores.com
 0.0.0.0 casual.sexxo.baby
 0.0.0.0 casualdating.com
 0.0.0.0 casualproxy.info
@@ -48750,6 +48752,7 @@
 0.0.0.0 cpmstar.com
 0.0.0.0 cpo.adflex.vn
 0.0.0.0 cpocommerceinc.112.2o7.net
+0.0.0.0 cpofficial.com
 0.0.0.0 cpornplanet.com
 0.0.0.0 cpr0x.com
 0.0.0.0 cpr0xy.info
@@ -55975,6 +55978,7 @@
 0.0.0.0 docproxy.com
 0.0.0.0 docs-downloading.com
 0.0.0.0 docs-lab.com
+0.0.0.0 docs.cs-supplements.de
 0.0.0.0 docs.hentai.xxx
 0.0.0.0 docs.ukr.net.ssl2.in
 0.0.0.0 docs1.iwon.com
@@ -56639,6 +56643,8 @@
 0.0.0.0 dontwork.info
 0.0.0.0 dontworryme.info
 0.0.0.0 dontyouknow.info
+0.0.0.0 donutclients.st
+0.0.0.0 donutdupe.com
 0.0.0.0 donutproxy.com
 0.0.0.0 donutslice.com
 0.0.0.0 donutsmpcheats.org
@@ -58981,6 +58987,7 @@
 0.0.0.0 easycookie.tk
 0.0.0.0 easycopeprox.info
 0.0.0.0 easycreditstore.info
+0.0.0.0 easycryptos.org
 0.0.0.0 easydiets.tk
 0.0.0.0 easydigi.info
 0.0.0.0 easyearnonline.in
@@ -59399,6 +59406,7 @@
 0.0.0.0 ebuddyproxy.com
 0.0.0.0 ebuforex.co.cc
 0.0.0.0 ebuha.cc
+0.0.0.0 ebullientlife.in
 0.0.0.0 ebun.pro
 0.0.0.0 ebun.tv
 0.0.0.0 ebunpro.cc
@@ -60019,6 +60027,7 @@
 0.0.0.0 ei3.t8cdn.com
 0.0.0.0 ei9.org
 0.0.0.0 eichekapivolt.digital
+0.0.0.0 eidoss.mx
 0.0.0.0 eigenaars.com
 0.0.0.0 eigenwahrenzehrliches.com
 0.0.0.0 eigh.info
@@ -72793,6 +72802,7 @@
 0.0.0.0 found-extremely.co.cc
 0.0.0.0 found.clawed.info
 0.0.0.0 found.ee
+0.0.0.0 foundationforwomenshealth.com
 0.0.0.0 foundationpilotxxxcredit.org
 0.0.0.0 foundcheats.com
 0.0.0.0 founddead.tk
@@ -89549,6 +89559,7 @@
 0.0.0.0 heute.oewabox.at
 0.0.0.0 heutenochficken.net
 0.0.0.0 heuteporno.com
+0.0.0.0 hewadexchange.com
 0.0.0.0 hewed.info
 0.0.0.0 hewilsonproxy.tk
 0.0.0.0 hewletproxy.co.cc
@@ -97202,6 +97213,7 @@
 0.0.0.0 iknowthatgirl.com
 0.0.0.0 iknowthetrick.info
 0.0.0.0 ikohs.com
+0.0.0.0 ikovrsps.com
 0.0.0.0 iksde.com
 0.0.0.0 ikstwast.info
 0.0.0.0 iktonix.ru
@@ -101057,7 +101069,6 @@
 0.0.0.0 indonesianporn.com.es
 0.0.0.0 indonesiaporn.monster
 0.0.0.0 indonesiaproxy.me
-0.0.0.0 indonesias.me
 0.0.0.0 indoporn.pro
 0.0.0.0 indoporntv.com
 0.0.0.0 indosexterbaru.icu
@@ -113211,7 +113222,6 @@
 0.0.0.0 likecorn.tk
 0.0.0.0 likecoxy.tk
 0.0.0.0 likedomain.co.cc
-0.0.0.0 likedrink.beer
 0.0.0.0 likeeverychild.tk
 0.0.0.0 likeface-007.tk
 0.0.0.0 likeface01.tk
@@ -114658,6 +114668,7 @@
 0.0.0.0 loanmail.cf
 0.0.0.0 loanmail.ml
 0.0.0.0 loanme.pl
+0.0.0.0 loanoffer.co.in
 0.0.0.0 loanoffice.tk
 0.0.0.0 loanplace.info
 0.0.0.0 loanprograms.tk
@@ -117730,6 +117741,7 @@
 0.0.0.0 main.dlajisqvhequt.amplifyapp.com
 0.0.0.0 main.exoclick.com
 0.0.0.0 main.exosrv.com
+0.0.0.0 main.lahoreshoes.com
 0.0.0.0 main.rampidads.com
 0.0.0.0 main.sanktor.com
 0.0.0.0 main.vodonet.net
@@ -118245,6 +118257,7 @@
 0.0.0.0 manmap.ga
 0.0.0.0 manmap.ml
 0.0.0.0 manmarker.tk
+0.0.0.0 manmenduster.online
 0.0.0.0 mannen-shopping.com
 0.0.0.0 manneperqu.store
 0.0.0.0 mannesoth.com
@@ -119486,7 +119499,6 @@
 0.0.0.0 mauz5yxj.life
 0.0.0.0 maveledstead.com
 0.0.0.0 maven.blueconic.net
-0.0.0.0 maverick174.org
 0.0.0.0 maverickmerch.win
 0.0.0.0 mavi-marmara.co.cc
 0.0.0.0 mavimarmara.co.cc
@@ -119635,7 +119647,6 @@
 0.0.0.0 maxwork.info
 0.0.0.0 maxxa.info
 0.0.0.0 maxxisproduct.com
-0.0.0.0 maxxlavalink.cyou
 0.0.0.0 maxxx-clips.com
 0.0.0.0 maxxx247wins.com
 0.0.0.0 maxxxhits.com
@@ -123240,6 +123251,7 @@
 0.0.0.0 mockfrog.tk
 0.0.0.0 mocking-muffler.co.cc
 0.0.0.0 mockingclap.info
+0.0.0.0 mockupcorporation.com
 0.0.0.0 moclon.cc
 0.0.0.0 moda-polana.com
 0.0.0.0 modaarchivepln.com
@@ -130726,7 +130738,6 @@
 0.0.0.0 nezyda.com
 0.0.0.0 nezzproxy.co.cc
 0.0.0.0 nf.5.p2l.info
-0.0.0.0 nfadealer.top
 0.0.0.0 nfan.org
 0.0.0.0 nfbio.com
 0.0.0.0 nfbusty.com
@@ -134747,6 +134758,7 @@
 0.0.0.0 ohfree.net
 0.0.0.0 ohgeekz.com
 0.0.0.0 ohgratisporrfilm.com
+0.0.0.0 ohhhhhmoney.com
 0.0.0.0 ohhow.com
 0.0.0.0 ohhwin.com
 0.0.0.0 ohide.info
@@ -135775,6 +135787,7 @@
 0.0.0.0 oms-t.ants.vn
 0.0.0.0 oms.nuggad.net
 0.0.0.0 omsaild.info
+0.0.0.0 omskin.org
 0.0.0.0 omt.honda.com
 0.0.0.0 omt.shinobi.jp
 0.0.0.0 omtrdc.net
@@ -143260,6 +143273,7 @@
 0.0.0.0 physicalproxy1a.tk
 0.0.0.0 physicalsproxy.tk
 0.0.0.0 physicsarticles.info
+0.0.0.0 physicsbyfiziks.org
 0.0.0.0 physique4ever.com
 0.0.0.0 physique4ever.tk
 0.0.0.0 physorg.uk.intellitxt.com
@@ -151973,7 +151987,6 @@
 0.0.0.0 proipx.tk
 0.0.0.0 projeco.top
 0.0.0.0 project-private.info
-0.0.0.0 project0.cc
 0.0.0.0 project1content.com
 0.0.0.0 projectbypass.com
 0.0.0.0 projectfund.tk
@@ -152490,6 +152503,7 @@
 0.0.0.0 protestanonymotk.tk
 0.0.0.0 protestcopy.com
 0.0.0.0 protexproxy.info
+0.0.0.0 protherapycenter.com
 0.0.0.0 prothots-com.zproxy.org
 0.0.0.0 prothots.com
 0.0.0.0 protinok.org
@@ -163842,6 +163856,7 @@
 0.0.0.0 qproxy.cf
 0.0.0.0 qps.cint.com
 0.0.0.0 qpussy.com
+0.0.0.0 qpwot.cfd
 0.0.0.0 qq-8fbe.vercel.app
 0.0.0.0 qq-oversightmss.tk
 0.0.0.0 qq.sexxx1.online
@@ -171255,6 +171270,7 @@
 0.0.0.0 sanduskyx.tk
 0.0.0.0 sandwic.tk
 0.0.0.0 sandwiche.tk
+0.0.0.0 sandybeachesandsunsets.com
 0.0.0.0 sanenurse.tk
 0.0.0.0 sanfankui.tk
 0.0.0.0 sanfordcorporation.112.2o7.net
@@ -185884,6 +185900,7 @@
 0.0.0.0 stellarium.ed.mu
 0.0.0.0 stellarium.fr
 0.0.0.0 stellarproxy.info
+0.0.0.0 stellaspicy.org
 0.0.0.0 stelltkgtunbnels.tk
 0.0.0.0 stelmio.pl
 0.0.0.0 steloriaki.com
@@ -186619,7 +186636,6 @@
 0.0.0.0 streamled.co.cc
 0.0.0.0 streamlivesex.com
 0.0.0.0 streamm4u.ws
-0.0.0.0 streammobs.com
 0.0.0.0 streamnine.info
 0.0.0.0 streamone.info
 0.0.0.0 streamoporn.xyz
@@ -192652,6 +192668,7 @@
 0.0.0.0 ta.toprework.vn
 0.0.0.0 taabook.info
 0.0.0.0 tab.dellrescue.com
+0.0.0.0 tabak.hr
 0.0.0.0 tabblad.com
 0.0.0.0 tabelog.com.102.112.2o7.net
 0.0.0.0 taberna.info
@@ -202581,6 +202598,7 @@
 0.0.0.0 ttrueonltke.tk
 0.0.0.0 ttrueonltkessh.tk
 0.0.0.0 ttsurfer.co.cc
+0.0.0.0 tttkkkssww.com
 0.0.0.0 tttlou.cn
 0.0.0.0 tttset.party
 0.0.0.0 ttttt.cz.cc
@@ -209235,7 +209253,6 @@
 0.0.0.0 uplinesite.tk
 0.0.0.0 upload.adtech.fr
 0.0.0.0 upload.adtech.us
-0.0.0.0 upload.filehost.lol
 0.0.0.0 upload.luckyorange.net
 0.0.0.0 upload.luscious.net
 0.0.0.0 upload.mobpowertech.com
