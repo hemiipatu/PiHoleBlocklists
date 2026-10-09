@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.60
-# Updated: 2026-10-08 05:02:36 UTC
-# Total Unique Domains: 80,350
+# Version: v1.0.61
+# Updated: 2026-10-09 05:05:34 UTC
+# Total Unique Domains: 80,360
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -346,7 +346,6 @@
 0.0.0.0 19533.hittail.com
 0.0.0.0 195724.engine.mobileapptracking.com
 0.0.0.0 198-macros.com
-0.0.0.0 198348.gl
 0.0.0.0 199107.engine.mobileapptracking.com
 0.0.0.0 19blog.com
 0.0.0.0 1adult.com
@@ -9625,6 +9624,7 @@
 0.0.0.0 ascesafinportsolution.com
 0.0.0.0 aschreib.oewabox.at
 0.0.0.0 ascilinvest.net
+0.0.0.0 ascomsecurity.com.au
 0.0.0.0 ascopus.org
 0.0.0.0 ascout24.oewabox.at
 0.0.0.0 ascribe.rqmob.com
@@ -11123,6 +11123,7 @@
 0.0.0.0 bergadimspower.com
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 bergkuppeportiasoftware.pro
+0.0.0.0 bergmann-automobile.de
 0.0.0.0 bergmann-core.de
 0.0.0.0 bergsignal-gpt.com
 0.0.0.0 bergsignal-gpt.org
@@ -11143,6 +11144,7 @@
 0.0.0.0 bershkasale.top
 0.0.0.0 bertelwissenprod.122.2o7.net
 0.0.0.0 besacon.fr
+0.0.0.0 beschaffung-portal.de
 0.0.0.0 besidehacks.com
 0.0.0.0 bespoke.iln8.net
 0.0.0.0 bespokeshirtsmail.com
@@ -12949,6 +12951,7 @@
 0.0.0.0 c23.statcounter.com
 0.0.0.0 c2366475.c.youradexchange.com
 0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
+0.0.0.0 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 0.0.0.0 c24.statcounter.com
 0.0.0.0 c25.statcounter.com
 0.0.0.0 c26.statcounter.com
@@ -14363,6 +14366,7 @@
 0.0.0.0 century21certfctus.net
 0.0.0.0 centuryuniversalssdlaboratory.com
 0.0.0.0 ceongmyeongpinteuregseu.com
+0.0.0.0 cepde.org
 0.0.0.0 cephalexin.ourtablets.com
 0.0.0.0 ceres.iad-03.braze.com
 0.0.0.0 cereserpe.store
@@ -15427,6 +15431,7 @@
 0.0.0.0 cloverkapithaven-ie.com
 0.0.0.0 cloverkapithaven.shop
 0.0.0.0 cloverwealthmere-digital.pages.dev
+0.0.0.0 clownguard.us
 0.0.0.0 clownsong.com
 0.0.0.0 clozenglenor.com
 0.0.0.0 clp-revalidation.com
@@ -19144,6 +19149,7 @@
 0.0.0.0 dontradezipsoft.click
 0.0.0.0 dontwatch.us
 0.0.0.0 donutclients.st
+0.0.0.0 donutclientsmods.xyz
 0.0.0.0 donutdupe.com
 0.0.0.0 donutsmpclient.com
 0.0.0.0 donval.112.2o7.net
@@ -19261,7 +19267,6 @@
 0.0.0.0 down.feiyang163.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.sqlnetcat.com
 0.0.0.0 down.us2.mclick.mobi
 0.0.0.0 down140.mclick.mobi
@@ -21260,6 +21265,7 @@
 0.0.0.0 everestmarkets.com
 0.0.0.0 everesttech.net
 0.0.0.0 everexedgefoundationes.com
+0.0.0.0 evergabe-bund.de
 0.0.0.0 evergage.com
 0.0.0.0 evergreen-cloth.shop
 0.0.0.0 everlywell.cname.getrockerbox.com
@@ -29193,7 +29199,6 @@
 0.0.0.0 intelglobal.112.2o7.net
 0.0.0.0 intellariotradepro-ai.com
 0.0.0.0 intellariotradeproapp-pro.pages.dev
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
@@ -29542,6 +29547,7 @@
 0.0.0.0 it.bannerout.com
 0.0.0.0 it.erosadv.com
 0.0.0.0 it6j9-vhg-n07n-rni9q-23-09-2026-hh.pages.dev
+0.0.0.0 ita-airwaysva.com
 0.0.0.0 ita-facebook.com
 0.0.0.0 italiapagamen.com
 0.0.0.0 itanitellytrade.com
@@ -33624,6 +33630,7 @@
 0.0.0.0 marlinvestara.net
 0.0.0.0 marljivadobitova.com
 0.0.0.0 marlonfin.net
+0.0.0.0 marlowclient.com
 0.0.0.0 marlowpillow.sjv.io
 0.0.0.0 marmalade.adthrive.com
 0.0.0.0 maroon5.streams24.tv
@@ -37071,7 +37078,6 @@
 0.0.0.0 norrellov14trade.com
 0.0.0.0 nortefondanza.net
 0.0.0.0 nortelcom.112.2o7.net
-0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 northfacepolska.pl
 0.0.0.0 northfacewyprzedaz.org
 0.0.0.0 northflowaitrading.com
@@ -45587,6 +45593,7 @@
 0.0.0.0 sayhello.popunder.ru
 0.0.0.0 sayherbal.com
 0.0.0.0 saymedia.com
+0.0.0.0 sayosay.cc
 0.0.0.0 sazerdy.shop
 0.0.0.0 sazertyj.shop
 0.0.0.0 sazonvalia.net
@@ -49017,6 +49024,7 @@
 0.0.0.0 stamplive.com
 0.0.0.0 stampscom.112.2o7.net
 0.0.0.0 stampscom.tt.omtrdc.net
+0.0.0.0 stanarcservice.com
 0.0.0.0 stanbridgeestate.com
 0.0.0.0 standard-id9932.top
 0.0.0.0 standartsheet.com
@@ -50941,6 +50949,7 @@
 0.0.0.0 tarrowmintprime.net
 0.0.0.0 tarsan.g2afse.com
 0.0.0.0 tarsan.media-412.com
+0.0.0.0 tartaklegnica.pl
 0.0.0.0 tas-ba.toboads.com
 0.0.0.0 tas-bg.toboads.com
 0.0.0.0 tas-cz.toboads.com
@@ -64136,6 +64145,7 @@
 0.0.0.0 www.epargniture.net
 0.0.0.0 www.epayenergy.net
 0.0.0.0 www.epibbcurisms.info
+0.0.0.0 www.epibenie.dz
 0.0.0.0 www.epic500maxalttrade.com
 0.0.0.0 www.epicgameads.com
 0.0.0.0 www.epiclexiprolab-platform.com

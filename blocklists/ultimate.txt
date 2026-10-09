@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.60
-# Updated: 2026-10-08 05:02:43 UTC
-# Total Unique Domains: 267,394
+# Version: v1.0.61
+# Updated: 2026-10-09 05:05:38 UTC
+# Total Unique Domains: 267,404
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -1457,7 +1457,6 @@
 0.0.0.0 195724.engine.mobileapptracking.com
 0.0.0.0 195en2b1.xyz
 0.0.0.0 198-macros.com
-0.0.0.0 198348.gl
 0.0.0.0 199107.engine.mobileapptracking.com
 0.0.0.0 199496proxy.tk
 0.0.0.0 19a9xx7d.xyz
@@ -22010,6 +22009,7 @@
 0.0.0.0 asciipr0n.com
 0.0.0.0 ascilinvest.net
 0.0.0.0 ascollegeproxy.tk
+0.0.0.0 ascomsecurity.com.au
 0.0.0.0 ascopus.org
 0.0.0.0 ascout24.oewabox.at
 0.0.0.0 ascribe.rqmob.com
@@ -27267,6 +27267,7 @@
 0.0.0.0 bergelmer.info
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 bergkuppeportiasoftware.pro
+0.0.0.0 bergmann-automobile.de
 0.0.0.0 bergmann-core.de
 0.0.0.0 bergot.tk
 0.0.0.0 bergot9.tk
@@ -27333,6 +27334,7 @@
 0.0.0.0 bes.anonyma.name
 0.0.0.0 besacon.fr
 0.0.0.0 besan.info
+0.0.0.0 beschaffung-portal.de
 0.0.0.0 beshady.com
 0.0.0.0 beshutdown.tk
 0.0.0.0 besideclockk.org
@@ -36754,6 +36756,7 @@
 0.0.0.0 c23.statcounter.com
 0.0.0.0 c2366475.c.youradexchange.com
 0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
+0.0.0.0 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 0.0.0.0 c24.cdn3x.com
 0.0.0.0 c24.statcounter.com
 0.0.0.0 c25.cdn3x.com
@@ -41904,6 +41907,7 @@
 0.0.0.0 cep9eranusf.tk
 0.0.0.0 cep9eranusf7.tk
 0.0.0.0 cepat.biz
+0.0.0.0 cepde.org
 0.0.0.0 cephalexin.ourtablets.com
 0.0.0.0 cephalokal.com
 0.0.0.0 cephones.tk
@@ -45248,6 +45252,7 @@
 0.0.0.0 cloverwealthmere-digital.pages.dev
 0.0.0.0 clowney.tk
 0.0.0.0 clownforex.co.cc
+0.0.0.0 clownguard.us
 0.0.0.0 clownsong.com
 0.0.0.0 clowntable.com
 0.0.0.0 clowy.top
@@ -56637,6 +56642,7 @@
 0.0.0.0 dontworryme.info
 0.0.0.0 dontyouknow.info
 0.0.0.0 donutclients.st
+0.0.0.0 donutclientsmods.xyz
 0.0.0.0 donutdupe.com
 0.0.0.0 donutproxy.com
 0.0.0.0 donutslice.com
@@ -56990,7 +56996,6 @@
 0.0.0.0 down.feiyang163.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.sqlnetcat.com
 0.0.0.0 down.us2.mclick.mobi
 0.0.0.0 down10bandage.tk
@@ -63270,6 +63275,7 @@
 0.0.0.0 everesttech.net
 0.0.0.0 everexedgefoundationes.com
 0.0.0.0 everfree.info
+0.0.0.0 evergabe-bund.de
 0.0.0.0 evergage.com
 0.0.0.0 evergramnows.tk
 0.0.0.0 evergreen-cloth.shop
@@ -101710,7 +101716,6 @@
 0.0.0.0 intelinschool.info
 0.0.0.0 intellariotradepro-ai.com
 0.0.0.0 intellariotradeproapp-pro.pages.dev
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
@@ -104188,6 +104193,7 @@
 0.0.0.0 it101.info
 0.0.0.0 it121.co.cc
 0.0.0.0 it6j9-vhg-n07n-rni9q-23-09-2026-hh.pages.dev
+0.0.0.0 ita-airwaysva.com
 0.0.0.0 ita-facebook.com
 0.0.0.0 ita.xhamster.com
 0.0.0.0 ita.xhchannel2.com
@@ -118540,6 +118546,7 @@
 0.0.0.0 marlinvestara.net
 0.0.0.0 marljivadobitova.com
 0.0.0.0 marlonfin.net
+0.0.0.0 marlowclient.com
 0.0.0.0 marlowpillow.sjv.io
 0.0.0.0 marmaduk.tk
 0.0.0.0 marmalade.adthrive.com
@@ -132237,7 +132244,6 @@
 0.0.0.0 northernfire.tk
 0.0.0.0 northernstar.tk
 0.0.0.0 northernsurf.tk
-0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 northfacepolska.pl
 0.0.0.0 northfacewyprzedaz.org
 0.0.0.0 northflowaitrading.com
@@ -171735,6 +171741,7 @@
 0.0.0.0 sayherbal.com
 0.0.0.0 saylog.tk
 0.0.0.0 saymedia.com
+0.0.0.0 sayosay.cc
 0.0.0.0 sayproxy.info
 0.0.0.0 saysock.net
 0.0.0.0 saytik.com
@@ -184627,6 +184634,7 @@
 0.0.0.0 stamplive.com
 0.0.0.0 stampscom.112.2o7.net
 0.0.0.0 stampscom.tt.omtrdc.net
+0.0.0.0 stanarcservice.com
 0.0.0.0 stanbridgeestate.com
 0.0.0.0 stand-byme.tk
 0.0.0.0 standa.tk
@@ -193421,6 +193429,7 @@
 0.0.0.0 tarsaltunnel.xyz
 0.0.0.0 tarsan.g2afse.com
 0.0.0.0 tarsan.media-412.com
+0.0.0.0 tartaklegnica.pl
 0.0.0.0 tartas.info
 0.0.0.0 tartono.co.cc
 0.0.0.0 taruneek.in
@@ -232164,6 +232173,7 @@
 0.0.0.0 www.epargniture.net
 0.0.0.0 www.epayenergy.net
 0.0.0.0 www.epibbcurisms.info
+0.0.0.0 www.epibenie.dz
 0.0.0.0 www.epic500maxalttrade.com
 0.0.0.0 www.epicbikini.com
 0.0.0.0 www.epicgameads.com
