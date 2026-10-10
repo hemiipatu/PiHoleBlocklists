@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.61
-# Updated: 2026-10-09 05:05:38 UTC
-# Total Unique Domains: 267,404
+# Version: v1.0.62
+# Updated: 2026-10-10 04:51:23 UTC
+# Total Unique Domains: 267,416
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -1732,6 +1732,7 @@
 0.0.0.0 1ri.info
 0.0.0.0 1ro4u.webout.life
 0.0.0.0 1rqffde.pics
+0.0.0.0 1rvrental.com
 0.0.0.0 1rx.io
 0.0.0.0 1s6.info
 0.0.0.0 1safesurf.info
@@ -13198,7 +13199,6 @@
 0.0.0.0 aesurf-anonymotksdes.tk
 0.0.0.0 aesvpn.tk
 0.0.0.0 aetforex.co.cc
-0.0.0.0 aetherius.live
 0.0.0.0 aethonliving.com
 0.0.0.0 aetnaaetnaprod2018.112.2o7.net
 0.0.0.0 aetv.112.2o7.net
@@ -24408,7 +24408,6 @@
 0.0.0.0 b.boyfriendtv.com
 0.0.0.0 b.burungbergaris.xyz
 0.0.0.0 b.casalemedia.com
-0.0.0.0 b.clu-e.eu
 0.0.0.0 b.codeonclick.com
 0.0.0.0 b.criteo.com
 0.0.0.0 b.de.inmobi.com
@@ -33335,6 +33334,7 @@
 0.0.0.0 brianeyler.com
 0.0.0.0 brianlee.tk
 0.0.0.0 brianna-beach.ru
+0.0.0.0 briannacorporation.com
 0.0.0.0 briannajordan.com
 0.0.0.0 brianproxy.co.cc
 0.0.0.0 briceangel.over-blog.com
@@ -36741,6 +36741,7 @@
 0.0.0.0 c2.rfihub.net
 0.0.0.0 c2.somalisounds.com
 0.0.0.0 c2.taboola.com
+0.0.0.0 c2.teamzeroday.net
 0.0.0.0 c2.tentaculos.net
 0.0.0.0 c2.thecounter.de
 0.0.0.0 c2.ttcache.com
@@ -53078,6 +53079,7 @@
 0.0.0.0 deathaddict.com
 0.0.0.0 deathandreality.com
 0.0.0.0 deathbeam.tk
+0.0.0.0 deathboundcraft.com
 0.0.0.0 deathbyporno2.chatango.com
 0.0.0.0 deathprophet.tk
 0.0.0.0 deathstrokedlc.sharezips.info
@@ -53394,7 +53396,6 @@
 0.0.0.0 defenseproxy.tk
 0.0.0.0 deferenggtially.info
 0.0.0.0 deferredbrowsing.info
-0.0.0.0 deffnelreports.bramblequarz.ru
 0.0.0.0 defiled18.com
 0.0.0.0 defilt.info
 0.0.0.0 defilter.co.uk
@@ -55968,7 +55969,6 @@
 0.0.0.0 docproxy.com
 0.0.0.0 docs-downloading.com
 0.0.0.0 docs-lab.com
-0.0.0.0 docs.cs-supplements.de
 0.0.0.0 docs.hentai.xxx
 0.0.0.0 docs.ukr.net.ssl2.in
 0.0.0.0 docs1.iwon.com
@@ -56996,6 +56996,7 @@
 0.0.0.0 down.feiyang163.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.sqlnetcat.com
 0.0.0.0 down.us2.mclick.mobi
 0.0.0.0 down10bandage.tk
@@ -57118,6 +57119,7 @@
 0.0.0.0 downloadproxyl.tk
 0.0.0.0 downloadproxylsa.tk
 0.0.0.0 downloadps3jailbreak.com
+0.0.0.0 downloads.go-xlr.com
 0.0.0.0 downloads.larivieracasino.com
 0.0.0.0 downloads.mytvandmovies.com
 0.0.0.0 downloads.pcsecurityshield.com
@@ -67898,6 +67900,7 @@
 0.0.0.0 fictionanonymousy.tk
 0.0.0.0 fictitiousus.tk
 0.0.0.0 fictory.gq
+0.0.0.0 ficus.in
 0.0.0.0 fid.newsone.ws
 0.0.0.0 fidelemonvexortrade.com
 0.0.0.0 fidelisinvona.com
@@ -101716,6 +101719,7 @@
 0.0.0.0 intelinschool.info
 0.0.0.0 intellariotradepro-ai.com
 0.0.0.0 intellariotradeproapp-pro.pages.dev
+0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
@@ -104193,7 +104197,6 @@
 0.0.0.0 it101.info
 0.0.0.0 it121.co.cc
 0.0.0.0 it6j9-vhg-n07n-rni9q-23-09-2026-hh.pages.dev
-0.0.0.0 ita-airwaysva.com
 0.0.0.0 ita-facebook.com
 0.0.0.0 ita.xhamster.com
 0.0.0.0 ita.xhchannel2.com
@@ -121628,6 +121631,7 @@
 0.0.0.0 microxysurfs.tk
 0.0.0.0 microxyz.com
 0.0.0.0 micrsoftupgradex.1apps.com
+0.0.0.0 micstndasap.world
 0.0.0.0 mid.rkdms.com
 0.0.0.0 midala.112.2o7.net
 0.0.0.0 midar.112.2o7.net
@@ -125709,6 +125713,7 @@
 0.0.0.0 mx00.cityads.com
 0.0.0.0 mx1.freemail.ne.jp
 0.0.0.0 mx4.alphacbase01.com
+0.0.0.0 mx9x.com
 0.0.0.0 mxapple-icloud.com
 0.0.0.0 mxase.clmbtech.com
 0.0.0.0 mxbpointcodes.com
@@ -128376,6 +128381,7 @@
 0.0.0.0 natalyhunter.cammodels.club
 0.0.0.0 natalymiler.hotlivejasmincams.com
 0.0.0.0 natanielcandrade.com
+0.0.0.0 natashamohan.com
 0.0.0.0 natashanice.puba.com
 0.0.0.0 natashyabaydesign.com
 0.0.0.0 natasja.info
@@ -138007,6 +138013,7 @@
 0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 osb14ovah.eu.cc
 0.0.0.0 osbglmoail.com
+0.0.0.0 osbot.net
 0.0.0.0 oscar-nominated.tk
 0.0.0.0 oscarproxy.co.cc
 0.0.0.0 osciachip.site
@@ -145481,7 +145488,6 @@
 0.0.0.0 plexxxx.org
 0.0.0.0 plezorix.net
 0.0.0.0 plezzo.com
-0.0.0.0 plf7x.valci.store
 0.0.0.0 plfbvdrpvsm.pw
 0.0.0.0 plgov.jake.eu
 0.0.0.0 plhomla.shop
@@ -163931,6 +163937,7 @@
 0.0.0.0 qpwot.cfd
 0.0.0.0 qq-8fbe.vercel.app
 0.0.0.0 qq-oversightmss.tk
+0.0.0.0 qq.kipsharijan.cfd
 0.0.0.0 qq.sexxx1.online
 0.0.0.0 qq8.ag
 0.0.0.0 qq801.me
@@ -164597,6 +164604,7 @@
 0.0.0.0 qwertysurf.com
 0.0.0.0 qwestfull.112.2o7.net
 0.0.0.0 qwestmedr.org
+0.0.0.0 qwfwhg4.lol
 0.0.0.0 qwhh.com
 0.0.0.0 qwiketube.com
 0.0.0.0 qwiklnk.com
@@ -193832,6 +193840,7 @@
 0.0.0.0 techbargins.com
 0.0.0.0 techblogs.info
 0.0.0.0 techbrowser.info
+0.0.0.0 techbud.ro
 0.0.0.0 techcampus.info
 0.0.0.0 techcloak.com
 0.0.0.0 techcloak.info
@@ -202139,6 +202148,7 @@
 0.0.0.0 trollrogue.info
 0.0.0.0 trollshaman.info
 0.0.0.0 trollwarrior.info
+0.0.0.0 tronzadorasnng.com
 0.0.0.0 troopers.tk
 0.0.0.0 trophan.com
 0.0.0.0 trophyporn.com
@@ -216430,6 +216440,7 @@
 0.0.0.0 w5.hitbox.com
 0.0.0.0 w55c.net
 0.0.0.0 w595505.com
+0.0.0.0 w5q.eu
 0.0.0.0 w5r8gj2.pics
 0.0.0.0 w6.hitbox.com
 0.0.0.0 w61.1piecemanga.com
@@ -243969,6 +243980,7 @@
 0.0.0.0 www.osciynmesh.site
 0.0.0.0 www.osexxx.com
 0.0.0.0 www.osge.org
+0.0.0.0 www.osmb.net
 0.0.0.0 www.osn10ovad.eu.cc
 0.0.0.0 www.osn11ovat.eu.cc
 0.0.0.0 www.osn15ovaad.eu.cc

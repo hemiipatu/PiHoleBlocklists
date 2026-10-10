@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.61
-# Updated: 2026-10-09 05:05:34 UTC
-# Total Unique Domains: 80,360
+# Version: v1.0.62
+# Updated: 2026-10-10 04:51:19 UTC
+# Total Unique Domains: 80,372
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -405,6 +405,7 @@
 0.0.0.0 1qingdao.com
 0.0.0.0 1re.info
 0.0.0.0 1rqffde.pics
+0.0.0.0 1rvrental.com
 0.0.0.0 1rx.io
 0.0.0.0 1se.cqcounter.com
 0.0.0.0 1sexe1.free.fr
@@ -6397,7 +6398,6 @@
 0.0.0.0 aerosky.be
 0.0.0.0 aerserv.com
 0.0.0.0 aesthetist.org
-0.0.0.0 aetherius.live
 0.0.0.0 aethonliving.com
 0.0.0.0 aetnaaetnaprod2018.112.2o7.net
 0.0.0.0 aetv.112.2o7.net
@@ -10267,7 +10267,6 @@
 0.0.0.0 b.alot.com
 0.0.0.0 b.am15.net
 0.0.0.0 b.casalemedia.com
-0.0.0.0 b.clu-e.eu
 0.0.0.0 b.codeonclick.com
 0.0.0.0 b.criteo.com
 0.0.0.0 b.de.inmobi.com
@@ -12284,6 +12283,7 @@
 0.0.0.0 brevondraxonlabsynergy.com
 0.0.0.0 brevondraxonlabsynergy.pro
 0.0.0.0 brevunoxalique.net
+0.0.0.0 briannacorporation.com
 0.0.0.0 bricksandstonesgossip.us.intellitxt.com
 0.0.0.0 bricolage-avec-robert.fr
 0.0.0.0 bricolo-blogger.fr
@@ -12941,6 +12941,7 @@
 0.0.0.0 c2.rfihub.net
 0.0.0.0 c2.somalisounds.com
 0.0.0.0 c2.taboola.com
+0.0.0.0 c2.teamzeroday.net
 0.0.0.0 c2.tentaculos.net
 0.0.0.0 c2.thecounter.de
 0.0.0.0 c2.xxxcounter.com
@@ -18174,6 +18175,7 @@
 0.0.0.0 dealpicks.de
 0.0.0.0 deangelustrade.com
 0.0.0.0 deanstextiles.com
+0.0.0.0 deathboundcraft.com
 0.0.0.0 deathstrokedlc.sharezips.info
 0.0.0.0 deathstrokedlc.sharezips.net
 0.0.0.0 debbgringolades.info
@@ -18224,7 +18226,6 @@
 0.0.0.0 defcon.pro
 0.0.0.0 defencelawtrade.com
 0.0.0.0 deferenggtially.info
-0.0.0.0 deffnelreports.bramblequarz.ru
 0.0.0.0 defolspett.store
 0.0.0.0 defpush.com
 0.0.0.0 defrost.pl
@@ -19021,7 +19022,6 @@
 0.0.0.0 dockdigestion.com
 0.0.0.0 docketupload.com
 0.0.0.0 docs-downloading.com
-0.0.0.0 docs.cs-supplements.de
 0.0.0.0 docs.ukr.net.ssl2.in
 0.0.0.0 docs1.iwon.com
 0.0.0.0 docsworking.com
@@ -19267,6 +19267,7 @@
 0.0.0.0 down.feiyang163.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.sqlnetcat.com
 0.0.0.0 down.us2.mclick.mobi
 0.0.0.0 down140.mclick.mobi
@@ -19360,6 +19361,7 @@
 0.0.0.0 downloadpokemonxandy.com
 0.0.0.0 downloadpokemonxy.com
 0.0.0.0 downloadps3jailbreak.com
+0.0.0.0 downloads.go-xlr.com
 0.0.0.0 downloads.larivieracasino.com
 0.0.0.0 downloads.mytvandmovies.com
 0.0.0.0 downloads.pcsecurityshield.com
@@ -22198,6 +22200,7 @@
 0.0.0.0 ficfahecheap.lovable.app
 0.0.0.0 fichier-pdfr.fr
 0.0.0.0 fichierload.fr
+0.0.0.0 ficus.in
 0.0.0.0 fidelemonvexortrade.com
 0.0.0.0 fidelisinvona.com
 0.0.0.0 fidelity-assetltd.com
@@ -29199,6 +29202,7 @@
 0.0.0.0 intelglobal.112.2o7.net
 0.0.0.0 intellariotradepro-ai.com
 0.0.0.0 intellariotradeproapp-pro.pages.dev
+0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
@@ -29547,7 +29551,6 @@
 0.0.0.0 it.bannerout.com
 0.0.0.0 it.erosadv.com
 0.0.0.0 it6j9-vhg-n07n-rni9q-23-09-2026-hh.pages.dev
-0.0.0.0 ita-airwaysva.com
 0.0.0.0 ita-facebook.com
 0.0.0.0 italiapagamen.com
 0.0.0.0 itanitellytrade.com
@@ -34758,6 +34761,7 @@
 0.0.0.0 microuploaded.com
 0.0.0.0 microwinds.de
 0.0.0.0 micrsoftupgradex.1apps.com
+0.0.0.0 micstndasap.world
 0.0.0.0 mid.rkdms.com
 0.0.0.0 midala.112.2o7.net
 0.0.0.0 midar.112.2o7.net
@@ -35859,6 +35863,7 @@
 0.0.0.0 mx.ero-advertising.com
 0.0.0.0 mx00.cityads.com
 0.0.0.0 mx1.freemail.ne.jp
+0.0.0.0 mx9x.com
 0.0.0.0 mxapple-icloud.com
 0.0.0.0 mxase.clmbtech.com
 0.0.0.0 mxbpointcodes.com
@@ -36228,6 +36233,7 @@
 0.0.0.0 naszemiasto-fakty24.x9.eu
 0.0.0.0 naszemiasto-wiadomosci24.x9.eu
 0.0.0.0 nata.ero-advertising.com
+0.0.0.0 natashamohan.com
 0.0.0.0 natashyabaydesign.com
 0.0.0.0 natgeoedit.112.2o7.net
 0.0.0.0 natgeoeditco.112.2o7.net
@@ -39042,6 +39048,7 @@
 0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 osb14ovah.eu.cc
 0.0.0.0 osbglmoail.com
+0.0.0.0 osbot.net
 0.0.0.0 osciachip.site
 0.0.0.0 osciynmesh.site
 0.0.0.0 osd-onead.cdn.hinet.net
@@ -41190,7 +41197,6 @@
 0.0.0.0 pleno-dexlin.org
 0.0.0.0 plexion.pro
 0.0.0.0 plezorix.net
-0.0.0.0 plf7x.valci.store
 0.0.0.0 plgov.jake.eu
 0.0.0.0 plhomla.shop
 0.0.0.0 pliiauditharelip.info
@@ -43025,6 +43031,7 @@
 0.0.0.0 qps.cint.com
 0.0.0.0 qpwot.cfd
 0.0.0.0 qq-8fbe.vercel.app
+0.0.0.0 qq.kipsharijan.cfd
 0.0.0.0 qq8.ag
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qqrp.adj.st
@@ -43222,6 +43229,7 @@
 0.0.0.0 qwebirc.swiftirc.net
 0.0.0.0 qwertylopixtrade.de
 0.0.0.0 qwestfull.112.2o7.net
+0.0.0.0 qwfwhg4.lol
 0.0.0.0 qwiklnk.com
 0.0.0.0 qxbroker.com
 0.0.0.0 qxfaoai-click.pages.dev
@@ -51093,6 +51101,7 @@
 0.0.0.0 tech-faq.us.intellitxt.com
 0.0.0.0 tech.zapps.me
 0.0.0.0 techbargins.com
+0.0.0.0 techbud.ro
 0.0.0.0 techeblog.us.intellitxt.com
 0.0.0.0 techexpert.site
 0.0.0.0 techfan.pl
@@ -53571,6 +53580,7 @@
 0.0.0.0 trkpnt.ongage.net
 0.0.0.0 trkweb.clinch.co
 0.0.0.0 trmit.com
+0.0.0.0 tronzadorasnng.com
 0.0.0.0 trourted.pro
 0.0.0.0 trouvermotdepassefacebook.com
 0.0.0.0 trouveunfilm.fr
@@ -56771,6 +56781,7 @@
 0.0.0.0 w5.hitbox.com
 0.0.0.0 w55c.net
 0.0.0.0 w595505.com
+0.0.0.0 w5q.eu
 0.0.0.0 w5r8gj2.pics
 0.0.0.0 w6.hitbox.com
 0.0.0.0 w61.1piecemanga.com
@@ -70751,6 +70762,7 @@
 0.0.0.0 www.osciachip.site
 0.0.0.0 www.osciynmesh.site
 0.0.0.0 www.osge.org
+0.0.0.0 www.osmb.net
 0.0.0.0 www.osn10ovad.eu.cc
 0.0.0.0 www.osn11ovat.eu.cc
 0.0.0.0 www.osn15ovaad.eu.cc

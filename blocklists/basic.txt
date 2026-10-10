@@ -1,7 +1,7 @@
 # Blocklist Tier: Basic
-# Version: v1.0.61
-# Updated: 2026-10-09 05:05:32 UTC
-# Total Unique Domains: 6,935
+# Version: v1.0.62
+# Updated: 2026-10-10 04:51:17 UTC
+# Total Unique Domains: 6,936
 
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
 0.0.0.0 100016075.collect.igodigital.com
@@ -27,6 +27,7 @@
 0.0.0.0 194192.engine.mobileapptracking.com
 0.0.0.0 195724.engine.mobileapptracking.com
 0.0.0.0 198-macros.com
+0.0.0.0 1rvrental.com
 0.0.0.0 20298.engine.mobileapptracking.com
 0.0.0.0 20738914p.rfihub.com
 0.0.0.0 20766699p.rfihub.com
@@ -426,6 +427,7 @@
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcanopus.offerstrack.net
 0.0.0.0 adcdn.goo.ne.jp
+0.0.0.0 adcentral.com.mx
 0.0.0.0 adcfg.intowow.com
 0.0.0.0 adcolony.com
 0.0.0.0 adconf.rqmob.com
@@ -782,7 +784,6 @@
 0.0.0.0 adzmedia.com
 0.0.0.0 adztec.com
 0.0.0.0 aerserv.com
-0.0.0.0 aetherius.live
 0.0.0.0 aetv.tt.omtrdc.net
 0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 af.monetate.net
@@ -965,7 +966,6 @@
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticssystems.net
 0.0.0.0 and-ads.pulse.weatherbug.net
-0.0.0.0 andbake.cam
 0.0.0.0 andomedia.com
 0.0.0.0 android-quinoa-config-prod.sense360eng.com
 0.0.0.0 android.bugly.qq.com
@@ -1548,7 +1548,6 @@
 0.0.0.0 b.admedia.com
 0.0.0.0 b.adnxs.com
 0.0.0.0 b.ads1.msn.com
-0.0.0.0 b.clu-e.eu
 0.0.0.0 b.criteo.com
 0.0.0.0 b.de.inmobi.com
 0.0.0.0 b.fox.com
@@ -1727,6 +1726,7 @@
 0.0.0.0 brands.kmsmep.com
 0.0.0.0 braze.com
 0.0.0.0 brealtime.com
+0.0.0.0 briannacorporation.com
 0.0.0.0 bridge.lga1.admarketplace.net
 0.0.0.0 bridge.sfo1.admarketplace.net
 0.0.0.0 bridgeroad.maverickpreviews.com
@@ -1798,6 +1798,7 @@
 0.0.0.0 c1exchange.com
 0.0.0.0 c2.qbk1.com
 0.0.0.0 c2.taboola.com
+0.0.0.0 c2.teamzeroday.net
 0.0.0.0 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 0.0.0.0 c3.taboola.com
 0.0.0.0 c4d-cdn.adcolony.com
@@ -2408,6 +2409,7 @@
 0.0.0.0 cpa.adcolony.com
 0.0.0.0 cpc188.day
 0.0.0.0 cpmstar.com
+0.0.0.0 cpofficial.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxiappnexusvpaidvideo235346.s.moatpixel.com
 0.0.0.0 cpxigen865632366955.s.moatpixel.com
@@ -2581,12 +2583,12 @@
 0.0.0.0 de1-bid.adsrvr.org
 0.0.0.0 deagroup-ks.com
 0.0.0.0 dealerdotcomdisplay576919175878.s.moatpixel.com
+0.0.0.0 deathboundcraft.com
 0.0.0.0 debug.aerserv.com
 0.0.0.0 debugify.net
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 decision.taplytics.com
 0.0.0.0 deeplink.mobileapptracking.com
-0.0.0.0 deffnelreports.bramblequarz.ru
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery.adnetwork.vn
 0.0.0.0 delivery.advanseads.com
@@ -2674,7 +2676,6 @@
 0.0.0.0 dmp.truoptik.com
 0.0.0.0 dmpsync.3lift.com
 0.0.0.0 dmx.districtm.io
-0.0.0.0 docs.cs-supplements.de
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 donutclients.st
 0.0.0.0 donutclientsmods.xyz
@@ -2686,12 +2687,14 @@
 0.0.0.0 doubleverify.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
+0.0.0.0 downloads.go-xlr.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dpmsrv.com
 0.0.0.0 dps.jp.cinarra.com
@@ -2980,11 +2983,10 @@
 0.0.0.0 ffconf.ecbsn.com
 0.0.0.0 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 0.0.0.0 fi-analytics.mgsn.it
-0.0.0.0 fibernetperu.pe
+0.0.0.0 ficus.in
 0.0.0.0 fidelity-media.com
 0.0.0.0 fiksu.com
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 filter.ezmob.com
 0.0.0.0 filteradkernel.adsimilate.com
@@ -3155,7 +3157,6 @@
 0.0.0.0 ghkbid.adview.com
 0.0.0.0 gi-js.genieessp.com
 0.0.0.0 ginf.adfurikun.jp
-0.0.0.0 gitrm.cfd
 0.0.0.0 gizmo.serving-sys.com
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gj.gds.mmstat.com
@@ -3320,7 +3321,6 @@
 0.0.0.0 hmi-hershey.hrzn-nxt.com
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 hobbes.blueoxtech.com
-0.0.0.0 hobobot.net
 0.0.0.0 holder.com.ua
 0.0.0.0 homedepot.tt.omtrdc.net
 0.0.0.0 homify.com.mx
@@ -3338,7 +3338,6 @@
 0.0.0.0 hs-analytics.net
 0.0.0.0 hseda.com
 0.0.0.0 ht.adups.com
-0.0.0.0 htdentshop.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 html-img.revcontent.com
 0.0.0.0 html5.adsrvr.org
@@ -3605,6 +3604,7 @@
 0.0.0.0 int.vaicore.xyz
 0.0.0.0 integration-assets.sharethrough.com
 0.0.0.0 integration.richrelevance.com
+0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 interaction.apester.com
 0.0.0.0 intermarkets.net
@@ -3655,7 +3655,6 @@
 0.0.0.0 isiore.com.co
 0.0.0.0 ispot.tv
 0.0.0.0 it-gmtdmp.mookie1.com
-0.0.0.0 ita-airwaysva.com
 0.0.0.0 itco.pe
 0.0.0.0 iteratehq.com
 0.0.0.0 itim.vn
@@ -4126,6 +4125,7 @@
 0.0.0.0 micro.marketo.com
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
+0.0.0.0 micstndasap.world
 0.0.0.0 mid.rkdms.com
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 midoweb.offerstrack.net
@@ -4191,7 +4191,6 @@
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 monetize-api.coronalabs.com
-0.0.0.0 moneylord.org
 0.0.0.0 monitor-stsdk.vivo.com.cn
 0.0.0.0 monitor.clickcease.com
 0.0.0.0 monitor.uu.qq.com
@@ -4232,7 +4231,6 @@
 0.0.0.0 muaklekcoop.com
 0.0.0.0 mug.criteo.com
 0.0.0.0 mug.da1.vip.prod.criteo.com
-0.0.0.0 muledo.com
 0.0.0.0 multi-cluster.directservices.it
 0.0.0.0 multiplay.at
 0.0.0.0 munchkin.marketo.net
@@ -4241,6 +4239,7 @@
 0.0.0.0 mv.outbrain.com
 0.0.0.0 mw-encyclopediabritannica.adsbynimbus.com
 0.0.0.0 mwzeom.zeotap.com
+0.0.0.0 mx9x.com
 0.0.0.0 mxase.clmbtech.com
 0.0.0.0 mxpnl.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -4275,6 +4274,7 @@
 0.0.0.0 nanigans.com
 0.0.0.0 nappyattack.com
 0.0.0.0 narwhal.mobidia.com
+0.0.0.0 natashamohan.com
 0.0.0.0 nation.marketo.com
 0.0.0.0 native-set-tags.otherlevels.com
 0.0.0.0 native.sharethrough.com
@@ -4377,7 +4377,6 @@
 0.0.0.0 olc.yodo1api.com
 0.0.0.0 omax.admarvel.com
 0.0.0.0 omgmta.qq.com
-0.0.0.0 omskin.org
 0.0.0.0 omtrdc.net
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onelink.appsflyer.com
@@ -4438,6 +4437,7 @@
 0.0.0.0 ort-stsdk.vivo.com.cn
 0.0.0.0 ort.stsdk.vivo.com.cn
 0.0.0.0 oryj8-jzbmc.ads.tremorhub.com
+0.0.0.0 osbot.net
 0.0.0.0 osimg.nbcuni.com
 0.0.0.0 other.upqzfile.com
 0.0.0.0 otherlevels.com
@@ -4492,6 +4492,7 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pages-stats.rbl.ms
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 pandg.tapad.com
 0.0.0.0 pandoramedia-mkt-prod1-t.campaign.adobe.com
 0.0.0.0 panel.moat.com
@@ -4655,7 +4656,6 @@
 0.0.0.0 placebubble.gimbal.com
 0.0.0.0 placed.com
 0.0.0.0 placements.tapjoy.com
-0.0.0.0 planetariumobil.ro
 0.0.0.0 planning-analytics.ibmcloud.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethis.com
@@ -4671,7 +4671,6 @@
 0.0.0.0 playtest-api.topaz-analytics.com
 0.0.0.0 playtime.tubemogul.com
 0.0.0.0 plbslog.umeng.com
-0.0.0.0 plf7x.valci.store
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 plugins.blueconic.net
 0.0.0.0 plus.tapsell.ir
@@ -4788,6 +4787,7 @@
 0.0.0.0 profile.localytics.com
 0.0.0.0 profiles.segment.com
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
+0.0.0.0 project0.cc
 0.0.0.0 promo-images.ttpsdk.info
 0.0.0.0 prooffactor.com
 0.0.0.0 protect.geoedge.be
@@ -4875,6 +4875,7 @@
 0.0.0.0 qds0l.publishers.tremorhub.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qps.cint.com
+0.0.0.0 qq.kipsharijan.cfd
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qsearch.media.net
 0.0.0.0 quantcast.partners.tremorhub.com
@@ -4890,6 +4891,7 @@
 0.0.0.0 quillchant14.com
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
 0.0.0.0 qv.co.ke
+0.0.0.0 qwfwhg4.lol
 0.0.0.0 r-ad.ne.jp
 0.0.0.0 r.3gl.net
 0.0.0.0 r.adrta.com
@@ -5183,7 +5185,6 @@
 0.0.0.0 sanalytics.verizon.com
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 sandbox.tinypass.com
-0.0.0.0 sandybeachesandsunsets.com
 0.0.0.0 sargas.iad-03.braze.com
 0.0.0.0 sax.sina.cn
 0.0.0.0 saymedia.com
@@ -5424,7 +5425,6 @@
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 setting.adzcore.com
 0.0.0.0 setting.rayjump.com
-0.0.0.0 severidades.cfd
 0.0.0.0 sf.bizible.com
 0.0.0.0 sfo1.ipromote.com
 0.0.0.0 sfo2.ipromote.com
@@ -5687,7 +5687,6 @@
 0.0.0.0 staging-tlx.3lift.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 stanarcservice.com
-0.0.0.0 star.zcnet.net
 0.0.0.0 startappservice.com
 0.0.0.0 startup.oupeng.com
 0.0.0.0 stas.outbrain.com
@@ -5836,6 +5835,7 @@
 0.0.0.0 storeen.ldmnq.com
 0.0.0.0 stra.hasmobi.net
 0.0.0.0 streamguys.deliveryengine.adswizz.com
+0.0.0.0 streammobs.com
 0.0.0.0 strikeiron.com
 0.0.0.0 strtrk.adacado.com
 0.0.0.0 sts.batmobi.net
@@ -6076,6 +6076,7 @@
 0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tealium.hs.llnwd.net
 0.0.0.0 tealiumiq.com
+0.0.0.0 techbud.ro
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 telaria.adhaven.com
@@ -6098,7 +6099,6 @@
 0.0.0.0 tg.dr.socdm.com
 0.0.0.0 tg1.aniview.com
 0.0.0.0 th-gmtdmp.mookie1.com
-0.0.0.0 thehaider.com
 0.0.0.0 theholidayroads.com
 0.0.0.0 themaintechnician.us
 0.0.0.0 thementordirectory.com
@@ -6297,6 +6297,7 @@
 0.0.0.0 trk.tidaltv.com
 0.0.0.0 trk.vidible.tv
 0.0.0.0 trk.wdacashtrk.com
+0.0.0.0 tronzadorasnng.com
 0.0.0.0 trtmyanmar.com
 0.0.0.0 tru.am
 0.0.0.0 truex.com
@@ -6649,6 +6650,7 @@
 0.0.0.0 w.usabilla.com
 0.0.0.0 w.yieldmo.com
 0.0.0.0 w.zhzy999.net
+0.0.0.0 w5q.eu
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 wa.kuwo.cn
 0.0.0.0 wahacondrax.iad-03.braze.com
@@ -6672,7 +6674,6 @@
 0.0.0.0 web0.track.appier.net
 0.0.0.0 webanalytics.localytics.com
 0.0.0.0 webapi.hot-mob.com
-0.0.0.0 webcstore.pw
 0.0.0.0 webfile.adview.com
 0.0.0.0 webhook.logentries.com
 0.0.0.0 webid.ad.daum.net
@@ -6692,7 +6693,6 @@
 0.0.0.0 whitelabel.media.net
 0.0.0.0 who.nie.easebar.com
 0.0.0.0 whos.amung.us
-0.0.0.0 wicresetconnect.com
 0.0.0.0 widespace.com
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 widget-cdn.rpxnow.com
@@ -6834,6 +6834,7 @@
 0.0.0.0 www.npttech.com
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
+0.0.0.0 www.osmb.net
 0.0.0.0 www.pointtohealth.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
@@ -6852,6 +6853,7 @@
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.test.peperoncinochepassione.it
+0.0.0.0 www.tmcksa.com
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.usefomo.com
@@ -6885,7 +6887,6 @@
 0.0.0.0 xml.revrtb.com
 0.0.0.0 xml1.adsimilate.com
 0.0.0.0 xmlserving.mobagent.com
-0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 xpig-dev.directservices.it
 0.0.0.0 xpromo.g5e.com
 0.0.0.0 xshop.com.tr
