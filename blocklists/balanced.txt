@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.62
-# Updated: 2026-10-10 04:51:19 UTC
-# Total Unique Domains: 80,372
+# Version: v1.0.63
+# Updated: 2026-10-11 04:37:38 UTC
+# Total Unique Domains: 80,374
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -41,6 +41,7 @@
 0.0.0.0 01apple.com
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 0202.com.tw
+0.0.0.0 035bc-ff4b-4cab-bca6-2b633b15def0.gorsefield.cc
 0.0.0.0 03e.info
 0.0.0.0 03p.info
 0.0.0.0 0427d7.se
@@ -55,6 +56,7 @@
 0.0.0.0 064bdf.r.axf8.net
 0.0.0.0 070806142521.c.mystat-in.net
 0.0.0.0 07634.com
+0.0.0.0 0807.st
 0.0.0.0 0900-telefonerotik.de
 0.0.0.0 090906042103.c.mystat-in.net
 0.0.0.0 092-informacja.cfd
@@ -9624,7 +9626,6 @@
 0.0.0.0 ascesafinportsolution.com
 0.0.0.0 aschreib.oewabox.at
 0.0.0.0 ascilinvest.net
-0.0.0.0 ascomsecurity.com.au
 0.0.0.0 ascopus.org
 0.0.0.0 ascout24.oewabox.at
 0.0.0.0 ascribe.rqmob.com
@@ -11122,7 +11123,6 @@
 0.0.0.0 bergadimspower.com
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 bergkuppeportiasoftware.pro
-0.0.0.0 bergmann-automobile.de
 0.0.0.0 bergmann-core.de
 0.0.0.0 bergsignal-gpt.com
 0.0.0.0 bergsignal-gpt.org
@@ -11143,7 +11143,6 @@
 0.0.0.0 bershkasale.top
 0.0.0.0 bertelwissenprod.122.2o7.net
 0.0.0.0 besacon.fr
-0.0.0.0 beschaffung-portal.de
 0.0.0.0 besidehacks.com
 0.0.0.0 bespoke.iln8.net
 0.0.0.0 bespokeshirtsmail.com
@@ -12387,6 +12386,7 @@
 0.0.0.0 brothersoft.us.intellitxt.com
 0.0.0.0 brovitorsen-ai.com
 0.0.0.0 brownbagmarketing.click
+0.0.0.0 brows-check.codes
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
 0.0.0.0 browser-intake-datadoghq.com
@@ -12952,7 +12952,6 @@
 0.0.0.0 c23.statcounter.com
 0.0.0.0 c2366475.c.youradexchange.com
 0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
-0.0.0.0 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 0.0.0.0 c24.statcounter.com
 0.0.0.0 c25.statcounter.com
 0.0.0.0 c26.statcounter.com
@@ -16345,6 +16344,7 @@
 0.0.0.0 coremetrics.carrier.com
 0.0.0.0 coremetrics.com
 0.0.0.0 corenlp.admicro.vn
+0.0.0.0 coreprotector.org
 0.0.0.0 corexisforce.click
 0.0.0.0 corexsoftware-pro.pages.dev
 0.0.0.0 corezone.pl
@@ -19149,7 +19149,6 @@
 0.0.0.0 dontradezipsoft.click
 0.0.0.0 dontwatch.us
 0.0.0.0 donutclients.st
-0.0.0.0 donutclientsmods.xyz
 0.0.0.0 donutdupe.com
 0.0.0.0 donutsmpclient.com
 0.0.0.0 donval.112.2o7.net
@@ -21267,7 +21266,6 @@
 0.0.0.0 everestmarkets.com
 0.0.0.0 everesttech.net
 0.0.0.0 everexedgefoundationes.com
-0.0.0.0 evergabe-bund.de
 0.0.0.0 evergage.com
 0.0.0.0 evergreen-cloth.shop
 0.0.0.0 everlywell.cname.getrockerbox.com
@@ -21377,6 +21375,7 @@
 0.0.0.0 exclusivenewhacks.com
 0.0.0.0 exclusividadesvip.es
 0.0.0.0 exe.bid
+0.0.0.0 exec-roblox.com
 0.0.0.0 execulink.112.2o7.net
 0.0.0.0 execution-use.ci360.sas.com
 0.0.0.0 executiveannualreward.im
@@ -25656,6 +25655,7 @@
 0.0.0.0 gonx.xyz
 0.0.0.0 gonzogrape.gumgum.com
 0.0.0.0 goo.freelogs.com
+0.0.0.0 goobaaclient.com
 0.0.0.0 goobbe.com
 0.0.0.0 good-deal.org
 0.0.0.0 good-games.org
@@ -35189,6 +35189,7 @@
 0.0.0.0 mobilesoft.fr
 0.0.0.0 mobilestrikecheats.com
 0.0.0.0 mobilestrikehacking.com
+0.0.0.0 mobiletoolapp.com
 0.0.0.0 mobilewhack.us.intellitxt.com
 0.0.0.0 mobilityguru.us.intellitxt.com
 0.0.0.0 mobilnarecepta.pl
@@ -35778,7 +35779,6 @@
 0.0.0.0 multikino-pl.over-blog.com
 0.0.0.0 multimc.info
 0.0.0.0 multimedia-projector.katrina.ru
-0.0.0.0 multiplay.at
 0.0.0.0 multiplayercharacterdlc.sharezips.info
 0.0.0.0 multiplayercharacterdlc.sharezips.net
 0.0.0.0 multiplecurrencies.com
@@ -35863,7 +35863,6 @@
 0.0.0.0 mx.ero-advertising.com
 0.0.0.0 mx00.cityads.com
 0.0.0.0 mx1.freemail.ne.jp
-0.0.0.0 mx9x.com
 0.0.0.0 mxapple-icloud.com
 0.0.0.0 mxase.clmbtech.com
 0.0.0.0 mxbpointcodes.com
@@ -36841,6 +36840,7 @@
 0.0.0.0 nievelucrorio-click.pages.dev
 0.0.0.0 nievelucrorio-italy.com
 0.0.0.0 nievelucrorio-spain.com
+0.0.0.0 niggersmp.net
 0.0.0.0 nightingbbaledefects.info
 0.0.0.0 nightmegaburner.pl
 0.0.0.0 nightoctoa.store
@@ -39059,6 +39059,7 @@
 0.0.0.0 osimg.nbcuni.com
 0.0.0.0 osiristrading.112.2o7.net
 0.0.0.0 osm-onead.cdn.hinet.net
+0.0.0.0 osmb.net
 0.0.0.0 osmovie.xyz
 0.0.0.0 osn10ovad.eu.cc
 0.0.0.0 osn11ovat.eu.cc
@@ -41414,6 +41415,7 @@
 0.0.0.0 polar-gainode.com
 0.0.0.0 polar-wertane.org
 0.0.0.0 polar-zinsmere.co
+0.0.0.0 polar.moe
 0.0.0.0 polarcapridge.live
 0.0.0.0 polarcapridge.site
 0.0.0.0 polarcdn-pentos.com
@@ -44990,6 +44992,7 @@
 0.0.0.0 rx-stats3.unrulymedia.com
 0.0.0.0 rx.targeting.unrulymedia.com
 0.0.0.0 rx8club.us.intellitxt.com
+0.0.0.0 rxb.immortales.fun
 0.0.0.0 rxbulkorder.com
 0.0.0.0 rxhealthprescriptions.com
 0.0.0.0 rycelvafok.com
@@ -45601,7 +45604,6 @@
 0.0.0.0 sayhello.popunder.ru
 0.0.0.0 sayherbal.com
 0.0.0.0 saymedia.com
-0.0.0.0 sayosay.cc
 0.0.0.0 sazerdy.shop
 0.0.0.0 sazertyj.shop
 0.0.0.0 sazonvalia.net
@@ -46653,6 +46655,7 @@
 0.0.0.0 sesja-81.web.id
 0.0.0.0 sesja-v-519204.eu.cc
 0.0.0.0 sesja-v-840291.eu.cc
+0.0.0.0 session.bugsnag.kindle.amazon.dev
 0.0.0.0 sessionapi.veinteractive.com
 0.0.0.0 sessionapihk.veinteractive.com
 0.0.0.0 sessioncam.com
@@ -50359,6 +50362,7 @@
 0.0.0.0 sweet-water.org
 0.0.0.0 sweetchicks.net
 0.0.0.0 sweetsforfree.com
+0.0.0.0 swervimgbackj.top
 0.0.0.0 swfhostltd.com
 0.0.0.0 swflightinfo.bond
 0.0.0.0 swiat-wodny-suntago.com
@@ -51101,7 +51105,6 @@
 0.0.0.0 tech-faq.us.intellitxt.com
 0.0.0.0 tech.zapps.me
 0.0.0.0 techbargins.com
-0.0.0.0 techbud.ro
 0.0.0.0 techeblog.us.intellitxt.com
 0.0.0.0 techexpert.site
 0.0.0.0 techfan.pl
@@ -64156,7 +64159,6 @@
 0.0.0.0 www.epargniture.net
 0.0.0.0 www.epayenergy.net
 0.0.0.0 www.epibbcurisms.info
-0.0.0.0 www.epibenie.dz
 0.0.0.0 www.epic500maxalttrade.com
 0.0.0.0 www.epicgameads.com
 0.0.0.0 www.epiclexiprolab-platform.com
@@ -79211,6 +79213,7 @@
 0.0.0.0 xenical.3.p2l.info
 0.0.0.0 xenical.4.p2l.info
 0.0.0.0 xenkrupom.de
+0.0.0.0 xeno-cheats.xyz
 0.0.0.0 xenogear.blog
 0.0.0.0 xenon.studio
 0.0.0.0 xenonclient.com
@@ -79242,7 +79245,6 @@
 0.0.0.0 xhealthmobiltools.112.2o7.net
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0 xiaomovie.com
-0.0.0.0 xiazailianjie.com
 0.0.0.0 xidibumu.ru
 0.0.0.0 xidurfin.com
 0.0.0.0 xilvarion.digital

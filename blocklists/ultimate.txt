@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.62
-# Updated: 2026-10-10 04:51:23 UTC
-# Total Unique Domains: 267,416
+# Version: v1.0.63
+# Updated: 2026-10-11 04:37:44 UTC
+# Total Unique Domains: 267,418
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -293,6 +293,7 @@
 0.0.0.0 0331.info
 0.0.0.0 0332.info
 0.0.0.0 0345.info
+0.0.0.0 035bc-ff4b-4cab-bca6-2b633b15def0.gorsefield.cc
 0.0.0.0 037jav.com
 0.0.0.0 0383.org
 0.0.0.0 03953.tk
@@ -363,6 +364,7 @@
 0.0.0.0 07s.info
 0.0.0.0 07usevpn.website
 0.0.0.0 0800.info
+0.0.0.0 0807.st
 0.0.0.0 08browsethe.website
 0.0.0.0 08browsewith.pw
 0.0.0.0 08elections.info
@@ -22009,7 +22011,6 @@
 0.0.0.0 asciipr0n.com
 0.0.0.0 ascilinvest.net
 0.0.0.0 ascollegeproxy.tk
-0.0.0.0 ascomsecurity.com.au
 0.0.0.0 ascopus.org
 0.0.0.0 ascout24.oewabox.at
 0.0.0.0 ascribe.rqmob.com
@@ -27266,7 +27267,6 @@
 0.0.0.0 bergelmer.info
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 bergkuppeportiasoftware.pro
-0.0.0.0 bergmann-automobile.de
 0.0.0.0 bergmann-core.de
 0.0.0.0 bergot.tk
 0.0.0.0 bergot9.tk
@@ -27333,7 +27333,6 @@
 0.0.0.0 bes.anonyma.name
 0.0.0.0 besacon.fr
 0.0.0.0 besan.info
-0.0.0.0 beschaffung-portal.de
 0.0.0.0 beshady.com
 0.0.0.0 beshutdown.tk
 0.0.0.0 besideclockk.org
@@ -33732,6 +33731,7 @@
 0.0.0.0 brownunblock.info
 0.0.0.0 brownway.info
 0.0.0.0 browny.info
+0.0.0.0 brows-check.codes
 0.0.0.0 brows123.tk
 0.0.0.0 brows3.com
 0.0.0.0 brows3.tk
@@ -36757,7 +36757,6 @@
 0.0.0.0 c23.statcounter.com
 0.0.0.0 c2366475.c.youradexchange.com
 0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
-0.0.0.0 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 0.0.0.0 c24.cdn3x.com
 0.0.0.0 c24.statcounter.com
 0.0.0.0 c25.cdn3x.com
@@ -48034,6 +48033,7 @@
 0.0.0.0 coremetrics.com
 0.0.0.0 corenlp.admicro.vn
 0.0.0.0 coreonline.tk
+0.0.0.0 coreprotector.org
 0.0.0.0 coreproxy.com
 0.0.0.0 coreproxy.info
 0.0.0.0 coreproxy.net
@@ -56642,7 +56642,6 @@
 0.0.0.0 dontworryme.info
 0.0.0.0 dontyouknow.info
 0.0.0.0 donutclients.st
-0.0.0.0 donutclientsmods.xyz
 0.0.0.0 donutdupe.com
 0.0.0.0 donutproxy.com
 0.0.0.0 donutslice.com
@@ -63277,7 +63276,6 @@
 0.0.0.0 everesttech.net
 0.0.0.0 everexedgefoundationes.com
 0.0.0.0 everfree.info
-0.0.0.0 evergabe-bund.de
 0.0.0.0 evergage.com
 0.0.0.0 evergramnows.tk
 0.0.0.0 evergreen-cloth.shop
@@ -63653,6 +63651,7 @@
 0.0.0.0 exdoor.tk
 0.0.0.0 exe.bid
 0.0.0.0 exe3qt2183.spankbang.com
+0.0.0.0 exec-roblox.com
 0.0.0.0 execconcert.tk
 0.0.0.0 execsurf.tk
 0.0.0.0 execulink.112.2o7.net
@@ -83725,6 +83724,7 @@
 0.0.0.0 gonzoxxx.pro
 0.0.0.0 goo.freelogs.com
 0.0.0.0 goo4itnow.info
+0.0.0.0 goobaaclient.com
 0.0.0.0 goobbe.com
 0.0.0.0 gooberbot.com
 0.0.0.0 gooboog.co.cc
@@ -123137,6 +123137,7 @@
 0.0.0.0 mobiletechvirtual.info
 0.0.0.0 mobiletechvirtual.tk
 0.0.0.0 mobiletechvirtual2.tk
+0.0.0.0 mobiletoolapp.com
 0.0.0.0 mobiletunnel.info
 0.0.0.0 mobileupload-1.tk
 0.0.0.0 mobileupload-2.tk
@@ -125414,7 +125415,6 @@
 0.0.0.0 multimediamail.tk
 0.0.0.0 multimoney.tk
 0.0.0.0 multionline.info
-0.0.0.0 multiplay.at
 0.0.0.0 multiplayercharacterdlc.sharezips.info
 0.0.0.0 multiplayercharacterdlc.sharezips.net
 0.0.0.0 multiple6proxy.tk
@@ -125713,7 +125713,6 @@
 0.0.0.0 mx00.cityads.com
 0.0.0.0 mx1.freemail.ne.jp
 0.0.0.0 mx4.alphacbase01.com
-0.0.0.0 mx9x.com
 0.0.0.0 mxapple-icloud.com
 0.0.0.0 mxase.clmbtech.com
 0.0.0.0 mxbpointcodes.com
@@ -130942,6 +130941,7 @@
 0.0.0.0 niftyfood.ml
 0.0.0.0 niftyfood.tk
 0.0.0.0 nigga.com
+0.0.0.0 niggersmp.net
 0.0.0.0 nighproxy.com
 0.0.0.0 nightangel.com
 0.0.0.0 nightanonymotk.tk
@@ -138038,6 +138038,7 @@
 0.0.0.0 osliving.net
 0.0.0.0 osloproxy.nz.gs
 0.0.0.0 osm-onead.cdn.hinet.net
+0.0.0.0 osmb.net
 0.0.0.0 osmovie.xyz
 0.0.0.0 osn10ovad.eu.cc
 0.0.0.0 osn11ovat.eu.cc
@@ -145989,6 +145990,7 @@
 0.0.0.0 polar-gainode.com
 0.0.0.0 polar-wertane.org
 0.0.0.0 polar-zinsmere.co
+0.0.0.0 polar.moe
 0.0.0.0 polarcapridge.live
 0.0.0.0 polarcapridge.site
 0.0.0.0 polarcdn-pentos.com
@@ -170168,6 +170170,7 @@
 0.0.0.0 rx10.tk
 0.0.0.0 rx8club.us.intellitxt.com
 0.0.0.0 rx931fans.com
+0.0.0.0 rxb.immortales.fun
 0.0.0.0 rxbulkorder.com
 0.0.0.0 rxdemo.tk
 0.0.0.0 rxhealthprescriptions.com
@@ -171749,7 +171752,6 @@
 0.0.0.0 sayherbal.com
 0.0.0.0 saylog.tk
 0.0.0.0 saymedia.com
-0.0.0.0 sayosay.cc
 0.0.0.0 sayproxy.info
 0.0.0.0 saysock.net
 0.0.0.0 saytik.com
@@ -175092,6 +175094,7 @@
 0.0.0.0 seslichat.at
 0.0.0.0 sesqueo.net
 0.0.0.0 sesrotes.com
+0.0.0.0 session.bugsnag.kindle.amazon.dev
 0.0.0.0 sessionapi.veinteractive.com
 0.0.0.0 sessionapihk.veinteractive.com
 0.0.0.0 sessioncam.com
@@ -192003,6 +192006,7 @@
 0.0.0.0 swegold.com
 0.0.0.0 swel.info
 0.0.0.0 swellpersonalb.tk
+0.0.0.0 swervimgbackj.top
 0.0.0.0 swesterneurope3.tk
 0.0.0.0 swetgame.com
 0.0.0.0 swfhostltd.com
@@ -193840,7 +193844,6 @@
 0.0.0.0 techbargins.com
 0.0.0.0 techblogs.info
 0.0.0.0 techbrowser.info
-0.0.0.0 techbud.ro
 0.0.0.0 techcampus.info
 0.0.0.0 techcloak.com
 0.0.0.0 techcloak.info
@@ -232184,7 +232187,6 @@
 0.0.0.0 www.epargniture.net
 0.0.0.0 www.epayenergy.net
 0.0.0.0 www.epibbcurisms.info
-0.0.0.0 www.epibenie.dz
 0.0.0.0 www.epic500maxalttrade.com
 0.0.0.0 www.epicbikini.com
 0.0.0.0 www.epicgameads.com
@@ -259714,6 +259716,7 @@
 0.0.0.0 xenical.4.p2l.info
 0.0.0.0 xenkrupom.de
 0.0.0.0 xennexinc.com
+0.0.0.0 xeno-cheats.xyz
 0.0.0.0 xenogear.blog
 0.0.0.0 xenology.co.cc
 0.0.0.0 xenology.tk
@@ -260201,7 +260204,6 @@
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0 xiaomovie.com
 0.0.0.0 xiaoou.tv
-0.0.0.0 xiazailianjie.com
 0.0.0.0 xibe.info
 0.0.0.0 xicms.cn
 0.0.0.0 xicz.com
