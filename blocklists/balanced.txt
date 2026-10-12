@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.63
-# Updated: 2026-10-11 04:37:38 UTC
-# Total Unique Domains: 80,374
+# Version: v1.0.64
+# Updated: 2026-10-12 04:52:47 UTC
+# Total Unique Domains: 80,391
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -407,7 +407,6 @@
 0.0.0.0 1qingdao.com
 0.0.0.0 1re.info
 0.0.0.0 1rqffde.pics
-0.0.0.0 1rvrental.com
 0.0.0.0 1rx.io
 0.0.0.0 1se.cqcounter.com
 0.0.0.0 1sexe1.free.fr
@@ -991,6 +990,7 @@
 0.0.0.0 4info.com
 0.0.0.0 4jejb4e3e.pics
 0.0.0.0 4jnzhl0d0.com
+0.0.0.0 4k4iard.tupek.store
 0.0.0.0 4kei4e.pics
 0.0.0.0 4kejiu4.sbs
 0.0.0.0 4kejjh4.cyou
@@ -11740,6 +11740,7 @@
 0.0.0.0 blasze.com
 0.0.0.0 blasze.tk
 0.0.0.0 blatfee.ero-advertising.com
+0.0.0.0 blaze-x.com
 0.0.0.0 blazeblend-hub-com.pages.dev
 0.0.0.0 blazeblend-hub.com
 0.0.0.0 blazingskins.com
@@ -12262,6 +12263,7 @@
 0.0.0.0 breaktime.com.tw
 0.0.0.0 brealtime.com
 0.0.0.0 bredfortjenstad.net
+0.0.0.0 breezeclient.com
 0.0.0.0 breezra-23.pages.dev
 0.0.0.0 breg.fr
 0.0.0.0 breitbart.fr
@@ -14366,7 +14368,6 @@
 0.0.0.0 century21certfctus.net
 0.0.0.0 centuryuniversalssdlaboratory.com
 0.0.0.0 ceongmyeongpinteuregseu.com
-0.0.0.0 cepde.org
 0.0.0.0 cephalexin.ourtablets.com
 0.0.0.0 ceres.iad-03.braze.com
 0.0.0.0 cereserpe.store
@@ -14664,6 +14665,7 @@
 0.0.0.0 checonsigli.it
 0.0.0.0 cheersfile.net
 0.0.0.0 cheetah-buck-approve.icu
+0.0.0.0 cheetoclient.com
 0.0.0.0 chefedyycinquecentist.info
 0.0.0.0 chefeladlevi.com
 0.0.0.0 chefvillehacks.info
@@ -18175,7 +18177,6 @@
 0.0.0.0 dealpicks.de
 0.0.0.0 deangelustrade.com
 0.0.0.0 deanstextiles.com
-0.0.0.0 deathboundcraft.com
 0.0.0.0 deathstrokedlc.sharezips.info
 0.0.0.0 deathstrokedlc.sharezips.net
 0.0.0.0 debbgringolades.info
@@ -19150,6 +19151,7 @@
 0.0.0.0 dontwatch.us
 0.0.0.0 donutclients.st
 0.0.0.0 donutdupe.com
+0.0.0.0 donutdupe.skyblock-qol.com
 0.0.0.0 donutsmpclient.com
 0.0.0.0 donval.112.2o7.net
 0.0.0.0 doodle.oewabox.at
@@ -19266,7 +19268,6 @@
 0.0.0.0 down.feiyang163.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.sqlnetcat.com
 0.0.0.0 down.us2.mclick.mobi
 0.0.0.0 down140.mclick.mobi
@@ -19360,7 +19361,6 @@
 0.0.0.0 downloadpokemonxandy.com
 0.0.0.0 downloadpokemonxy.com
 0.0.0.0 downloadps3jailbreak.com
-0.0.0.0 downloads.go-xlr.com
 0.0.0.0 downloads.larivieracasino.com
 0.0.0.0 downloads.mytvandmovies.com
 0.0.0.0 downloads.pcsecurityshield.com
@@ -21603,6 +21603,7 @@
 0.0.0.0 faathnach.com
 0.0.0.0 faberfin.com
 0.0.0.0 fabhabitat.fr
+0.0.0.0 fable-shine.com
 0.0.0.0 faboshine.com
 0.0.0.0 fabric.io
 0.0.0.0 fabricam-creative-hub.base44.app
@@ -21791,6 +21792,7 @@
 0.0.0.0 familienzahnaerzte.com
 0.0.0.0 family1st.ca
 0.0.0.0 familyabroad.net
+0.0.0.0 familyaddons.com
 0.0.0.0 familyholiday.ml
 0.0.0.0 familyhomefinance.com.au
 0.0.0.0 famir.com
@@ -22065,6 +22067,7 @@
 0.0.0.0 fedi.6751242.cc
 0.0.0.0 fedup.tv
 0.0.0.0 fee-hydrocodone.bebto.com
+0.0.0.0 feed-delta.com
 0.0.0.0 feed.4wnet.com
 0.0.0.0 feed.mikle.com
 0.0.0.0 feed.minpos.com
@@ -22199,7 +22202,6 @@
 0.0.0.0 ficfahecheap.lovable.app
 0.0.0.0 fichier-pdfr.fr
 0.0.0.0 fichierload.fr
-0.0.0.0 ficus.in
 0.0.0.0 fidelemonvexortrade.com
 0.0.0.0 fidelisinvona.com
 0.0.0.0 fidelity-assetltd.com
@@ -22263,6 +22265,7 @@
 0.0.0.0 fijnwaardeveratrade.com
 0.0.0.0 fikercosmoperfumes.com
 0.0.0.0 fiksu.com
+0.0.0.0 fil.immortales.life
 0.0.0.0 filarinwestryn.net
 0.0.0.0 filateliadimauro.com
 0.0.0.0 file-save.com
@@ -22421,6 +22424,7 @@
 0.0.0.0 filewhite.com
 0.0.0.0 fileyellow.com
 0.0.0.0 filezfast.com
+0.0.0.0 filezilla.cc
 0.0.0.0 filezilla.fr
 0.0.0.0 filezip.net
 0.0.0.0 filezsharing.com
@@ -22911,6 +22915,7 @@
 0.0.0.0 fitfloppl.com
 0.0.0.0 fitfloppolskaoutlet.com
 0.0.0.0 fitflopspolskaoutlet.com
+0.0.0.0 fitforevercavan.ie
 0.0.0.0 fitges.oewabox.at
 0.0.0.0 fitness-for-ever.com
 0.0.0.0 fitness.storepl.shop
@@ -23332,6 +23337,7 @@
 0.0.0.0 fotologaso.miss-web.es
 0.0.0.0 fotoontgertont.com
 0.0.0.0 fotopegaz.pl
+0.0.0.0 fotoschop.cl
 0.0.0.0 fotoseiten.heimat.eu
 0.0.0.0 fottrtnights.info
 0.0.0.0 found.ee
@@ -25104,6 +25110,7 @@
 0.0.0.0 getmyfile.org
 0.0.0.0 getmyfreegiftcard.com
 0.0.0.0 getnexuscard.com
+0.0.0.0 getoutofthebackseat.com
 0.0.0.0 getoutofyourmind.com
 0.0.0.0 getpasswordonline.com
 0.0.0.0 getpixlss.com
@@ -28667,6 +28674,7 @@
 0.0.0.0 immensehoney.com
 0.0.0.0 immidiateedge.com
 0.0.0.0 immobili.oewabox.at
+0.0.0.0 immortales.fun
 0.0.0.0 immosuch.oewabox.at
 0.0.0.0 immutable-bitwavesoftware.com
 0.0.0.0 imnotobsessed.us.intellitxt.com
@@ -29202,7 +29210,6 @@
 0.0.0.0 intelglobal.112.2o7.net
 0.0.0.0 intellariotradepro-ai.com
 0.0.0.0 intellariotradeproapp-pro.pages.dev
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
@@ -31089,6 +31096,7 @@
 0.0.0.0 krxd.net
 0.0.0.0 kryanexcore-digital.pages.dev
 0.0.0.0 kryonixvaltor-shop.pages.dev
+0.0.0.0 kryptonclient-cracked.com
 0.0.0.0 kryptono.exchange
 0.0.0.0 kryptoportal.pl
 0.0.0.0 kryptozantor-shop.pages.dev
@@ -33042,6 +33050,7 @@
 0.0.0.0 luminae.fr
 0.0.0.0 luminarte24.pl
 0.0.0.0 lumineuxinvexustrade.com
+0.0.0.0 luminexclient.com
 0.0.0.0 luminexclient.net
 0.0.0.0 luminouspower.com.pk
 0.0.0.0 lumitexai.net
@@ -33488,6 +33497,7 @@
 0.0.0.0 managewebappand93yosdg232sf.tujw456yhdfgdfj.com
 0.0.0.0 managwebajkas8gy328isdg.dfgj35tygsdgdfhjsd.com
 0.0.0.0 manaraai.org
+0.0.0.0 mandarin.net.au
 0.0.0.0 mandarv.com
 0.0.0.0 mandialrelay.fr
 0.0.0.0 manga.boy.jp
@@ -34761,7 +34771,6 @@
 0.0.0.0 microuploaded.com
 0.0.0.0 microwinds.de
 0.0.0.0 micrsoftupgradex.1apps.com
-0.0.0.0 micstndasap.world
 0.0.0.0 mid.rkdms.com
 0.0.0.0 midala.112.2o7.net
 0.0.0.0 midar.112.2o7.net
@@ -35779,6 +35788,7 @@
 0.0.0.0 multikino-pl.over-blog.com
 0.0.0.0 multimc.info
 0.0.0.0 multimedia-projector.katrina.ru
+0.0.0.0 multiplay.at
 0.0.0.0 multiplayercharacterdlc.sharezips.info
 0.0.0.0 multiplayercharacterdlc.sharezips.net
 0.0.0.0 multiplecurrencies.com
@@ -36232,7 +36242,6 @@
 0.0.0.0 naszemiasto-fakty24.x9.eu
 0.0.0.0 naszemiasto-wiadomosci24.x9.eu
 0.0.0.0 nata.ero-advertising.com
-0.0.0.0 natashamohan.com
 0.0.0.0 natashyabaydesign.com
 0.0.0.0 natgeoedit.112.2o7.net
 0.0.0.0 natgeoeditco.112.2o7.net
@@ -37146,6 +37155,7 @@
 0.0.0.0 nottepad-plus-plus.org
 0.0.0.0 nottinghamsuburbanrailway.co.uk
 0.0.0.0 nouvelles247.com
+0.0.0.0 nova-client.com
 0.0.0.0 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 0.0.0.0 nova-office.pl
 0.0.0.0 nova.collect.igodigital.com
@@ -37978,6 +37988,7 @@
 0.0.0.0 oilfund-ai.com
 0.0.0.0 oilllx.shop
 0.0.0.0 oilprofit-click.pages.dev
+0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 ois.is
@@ -38028,6 +38039,7 @@
 0.0.0.0 old.umcl.us
 0.0.0.0 oldftp.otenet.gr
 0.0.0.0 oldgames.zp.ua
+0.0.0.0 oldisgoldgameis.com
 0.0.0.0 oldschool-runescape.co
 0.0.0.0 olduyh.lol
 0.0.0.0 oleksy.net.pl
@@ -38680,6 +38692,7 @@
 0.0.0.0 onlinewebfind.com
 0.0.0.0 onlinewideo.pl
 0.0.0.0 onlinexploits.com
+0.0.0.0 onlocity.com
 0.0.0.0 only-date.ct8.pl
 0.0.0.0 only-valium.shengen.ru
 0.0.0.0 only.best-games.today
@@ -38979,6 +38992,7 @@
 0.0.0.0 origin-st-a.anthill.vn
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
+0.0.0.0 origin.nemoclawcloud.com
 0.0.0.0 origin.optimost.io
 0.0.0.0 originagro.net
 0.0.0.0 originalhack.info
@@ -42842,6 +42856,7 @@
 0.0.0.0 puzzleanddragonscheat.elitegamershub.com
 0.0.0.0 pv.vipads.cc
 0.0.0.0 pv4u.com
+0.0.0.0 pvphood.cc
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run
 0.0.0.0 pvz2.amazinglyhot.com
@@ -43033,7 +43048,6 @@
 0.0.0.0 qps.cint.com
 0.0.0.0 qpwot.cfd
 0.0.0.0 qq-8fbe.vercel.app
-0.0.0.0 qq.kipsharijan.cfd
 0.0.0.0 qq8.ag
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qqrp.adj.st
@@ -43231,7 +43245,6 @@
 0.0.0.0 qwebirc.swiftirc.net
 0.0.0.0 qwertylopixtrade.de
 0.0.0.0 qwestfull.112.2o7.net
-0.0.0.0 qwfwhg4.lol
 0.0.0.0 qwiklnk.com
 0.0.0.0 qxbroker.com
 0.0.0.0 qxfaoai-click.pages.dev
@@ -47025,6 +47038,7 @@
 0.0.0.0 sift-campaign-creatives.sift.co
 0.0.0.0 sig.tecnologicosucre.edu.ec
 0.0.0.0 sigma-statistics-push.proxima.nie.easebar.com
+0.0.0.0 sigmaclient.net
 0.0.0.0 signal-beacon.s-onetag.com
 0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 signalarkherplex.net
@@ -48434,6 +48448,7 @@
 0.0.0.0 sp.clickmedias.info
 0.0.0.0 sp.eroido.jp
 0.0.0.0 sp.gmossp-sp.jp
+0.0.0.0 sp.negrrwe.info
 0.0.0.0 sp.preaf.jp
 0.0.0.0 sp1cluster.cxense.com
 0.0.0.0 sp28ct5-nolvi-biz-zemur-fakti.pages.dev
@@ -49035,7 +49050,6 @@
 0.0.0.0 stamplive.com
 0.0.0.0 stampscom.112.2o7.net
 0.0.0.0 stampscom.tt.omtrdc.net
-0.0.0.0 stanarcservice.com
 0.0.0.0 stanbridgeestate.com
 0.0.0.0 standard-id9932.top
 0.0.0.0 standartsheet.com
@@ -50986,6 +51000,7 @@
 0.0.0.0 tatranziskovintrade.com
 0.0.0.0 tats.cecash.com
 0.0.0.0 tatsumi-sys.jp
+0.0.0.0 taunahi.skyblock-qol.com
 0.0.0.0 taunahi.st
 0.0.0.0 taupe-bag.shop
 0.0.0.0 tavanuzmani.net
@@ -53583,7 +53598,6 @@
 0.0.0.0 trkpnt.ongage.net
 0.0.0.0 trkweb.clinch.co
 0.0.0.0 trmit.com
-0.0.0.0 tronzadorasnng.com
 0.0.0.0 trourted.pro
 0.0.0.0 trouvermotdepassefacebook.com
 0.0.0.0 trouveunfilm.fr
@@ -56433,6 +56447,7 @@
 0.0.0.0 vogelservices.122.2o7.net
 0.0.0.0 voicefive.com
 0.0.0.0 voiciu.fr
+0.0.0.0 voidgame.ink
 0.0.0.0 voil-le-travail.fr
 0.0.0.0 voipwise.fr
 0.0.0.0 vokahoko.ru
@@ -57397,6 +57412,7 @@
 0.0.0.0 whiskeywealthclub.com
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whiskyswiat.shop
+0.0.0.0 whisone.cc
 0.0.0.0 whisperingcascade.com
 0.0.0.0 whisperingcrib.com
 0.0.0.0 whisperingsummit.com
@@ -57954,6 +57970,7 @@
 0.0.0.0 wsback-videotracking.presage.io
 0.0.0.0 wsback2b.prod.cloud.ogury.io
 0.0.0.0 wsc1.webspectator.com
+0.0.0.0 wsd.immortales.fun
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wserver.vidazoo.com
 0.0.0.0 wsod.com
@@ -64398,6 +64415,7 @@
 0.0.0.0 www.eyelinerinterclvvuster.info
 0.0.0.0 www.eyes.by
 0.0.0.0 www.eyewonder.com
+0.0.0.0 www.eyqw474.com
 0.0.0.0 www.ez-mailer.com
 0.0.0.0 www.ezeb.saldi-scholl.shop
 0.0.0.0 www.ezebra.dailysaver.co
@@ -70764,7 +70782,6 @@
 0.0.0.0 www.osciachip.site
 0.0.0.0 www.osciynmesh.site
 0.0.0.0 www.osge.org
-0.0.0.0 www.osmb.net
 0.0.0.0 www.osn10ovad.eu.cc
 0.0.0.0 www.osn11ovat.eu.cc
 0.0.0.0 www.osn15ovaad.eu.cc
