@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.64
-# Updated: 2026-10-12 04:52:50 UTC
-# Total Unique Domains: 267,435
+# Version: v1.0.65
+# Updated: 2026-10-13 05:55:09 UTC
+# Total Unique Domains: 267,451
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -293,7 +293,6 @@
 0.0.0.0 0331.info
 0.0.0.0 0332.info
 0.0.0.0 0345.info
-0.0.0.0 035bc-ff4b-4cab-bca6-2b633b15def0.gorsefield.cc
 0.0.0.0 037jav.com
 0.0.0.0 0383.org
 0.0.0.0 03953.tk
@@ -364,7 +363,6 @@
 0.0.0.0 07s.info
 0.0.0.0 07usevpn.website
 0.0.0.0 0800.info
-0.0.0.0 0807.st
 0.0.0.0 08browsethe.website
 0.0.0.0 08browsewith.pw
 0.0.0.0 08elections.info
@@ -5099,6 +5097,7 @@
 0.0.0.0 654.stats.misstrends.com
 0.0.0.0 6545238.top
 0.0.0.0 654666s.tk
+0.0.0.0 65512.cfd
 0.0.0.0 6551794246-prawnicy.storage.googleapis.com
 0.0.0.0 655232proxy.tk
 0.0.0.0 65536ports.com
@@ -8603,6 +8602,7 @@
 0.0.0.0 activefast.info
 0.0.0.0 activefiles.org
 0.0.0.0 activefollowerz.xyz
+0.0.0.0 activegrp.co.za
 0.0.0.0 activehacks.com
 0.0.0.0 activehide.tk
 0.0.0.0 activehiden.tk
@@ -13764,6 +13764,7 @@
 0.0.0.0 ahsexfilme.com
 0.0.0.0 ahsexo.com
 0.0.0.0 ahsmall.tik.porn
+0.0.0.0 ahsniper.org
 0.0.0.0 ahsqbeospcdrngfv.info
 0.0.0.0 ahtforex.co.cc
 0.0.0.0 ahtops.com
@@ -15839,6 +15840,7 @@
 0.0.0.0 alt2.googleanalytics.com
 0.0.0.0 alt4.googleanalytics.com
 0.0.0.0 altairporn.com
+0.0.0.0 altamoorgoods.com
 0.0.0.0 altarendora.shop
 0.0.0.0 altariuscapital.net
 0.0.0.0 altasoft.online
@@ -26526,6 +26528,7 @@
 0.0.0.0 beamer-app.pro
 0.0.0.0 beamfall.info
 0.0.0.0 beamroute.tk
+0.0.0.0 beamtechmacros.com
 0.0.0.0 bean-jims-0023.pages.dev
 0.0.0.0 bean.clawed.info
 0.0.0.0 beanbounce.net
@@ -33733,7 +33736,6 @@
 0.0.0.0 brownunblock.info
 0.0.0.0 brownway.info
 0.0.0.0 browny.info
-0.0.0.0 brows-check.codes
 0.0.0.0 brows123.tk
 0.0.0.0 brows3.com
 0.0.0.0 brows3.tk
@@ -35510,6 +35512,7 @@
 0.0.0.0 bvdy.com
 0.0.0.0 bvic01.atspace.com
 0.0.0.0 bvlgarijapan.com
+0.0.0.0 bvmatqnam.com.vn
 0.0.0.0 bvondaruven-platform.org
 0.0.0.0 bvpn.win
 0.0.0.0 bvuforex.co.cc
@@ -36480,6 +36483,7 @@
 0.0.0.0 bzupload.com
 0.0.0.0 bzykrandki.pl
 0.0.0.0 bzzq.com
+0.0.0.0 c--617b5f35-a107-4800-9047-a429934c0483-prod.lovable.cloud
 0.0.0.0 c-123milhas.shop
 0.0.0.0 c-c-c.shop
 0.0.0.0 c-c.one
@@ -45841,6 +45845,7 @@
 0.0.0.0 cocosislandsairport.com
 0.0.0.0 cocospeed.tk
 0.0.0.0 cocoteh.co.cc
+0.0.0.0 cocuktekstil.com
 0.0.0.0 cod-modernwarfare3-hacks.upfiles.eu
 0.0.0.0 cod24.net
 0.0.0.0 codadvancedwarfarehacks.net
@@ -50121,6 +50126,7 @@
 0.0.0.0 csground.com
 0.0.0.0 csground.net
 0.0.0.0 csground.org
+0.0.0.0 csgroup.host
 0.0.0.0 csh.actiondesk.com
 0.0.0.0 cshacks.org
 0.0.0.0 csharpcorner.us.intellitxt.com
@@ -51998,6 +52004,7 @@
 0.0.0.0 darmowyfilmrfm44.ek1.pl
 0.0.0.0 darmowyfilmzlektoremoas10.ek1.pl
 0.0.0.0 darnapress.com
+0.0.0.0 darngavel.com
 0.0.0.0 darobuzz.pw
 0.0.0.0 darseo.popunder.ru
 0.0.0.0 darsex.online
@@ -56997,6 +57004,7 @@
 0.0.0.0 down.feiyang163.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.sqlnetcat.com
 0.0.0.0 down.us2.mclick.mobi
 0.0.0.0 down10bandage.tk
@@ -63651,7 +63659,6 @@
 0.0.0.0 exdoor.tk
 0.0.0.0 exe.bid
 0.0.0.0 exe3qt2183.spankbang.com
-0.0.0.0 exec-roblox.com
 0.0.0.0 execconcert.tk
 0.0.0.0 execsurf.tk
 0.0.0.0 execulink.112.2o7.net
@@ -69908,7 +69915,6 @@
 0.0.0.0 fitfloppl.com
 0.0.0.0 fitfloppolskaoutlet.com
 0.0.0.0 fitflopspolskaoutlet.com
-0.0.0.0 fitforevercavan.ie
 0.0.0.0 fitfunk.tk
 0.0.0.0 fitga.ru
 0.0.0.0 fitges.oewabox.at
@@ -70447,6 +70453,7 @@
 0.0.0.0 floorplans.tk
 0.0.0.0 floozytube.com
 0.0.0.0 floppaclient.com
+0.0.0.0 floppaclient.org
 0.0.0.0 floppy-tits.com
 0.0.0.0 flopsforde.tk
 0.0.0.0 flopsfordes.tk
@@ -83731,7 +83738,6 @@
 0.0.0.0 gonzoxxx.pro
 0.0.0.0 goo.freelogs.com
 0.0.0.0 goo4itnow.info
-0.0.0.0 goobaaclient.com
 0.0.0.0 goobbe.com
 0.0.0.0 gooberbot.com
 0.0.0.0 gooboog.co.cc
@@ -95863,6 +95869,7 @@
 0.0.0.0 ibeworking.info
 0.0.0.0 ibg.hitbox.com
 0.0.0.0 ibibo.112.2o7.net
+0.0.0.0 ibidasjohnnraplc.com
 0.0.0.0 ibihua.net
 0.0.0.0 ibilisk.iad-01.braze.com
 0.0.0.0 ibillboard.com
@@ -101727,6 +101734,7 @@
 0.0.0.0 intelinschool.info
 0.0.0.0 intellariotradepro-ai.com
 0.0.0.0 intellariotradeproapp-pro.pages.dev
+0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
@@ -101921,6 +101929,7 @@
 0.0.0.0 internetjobcentre.in
 0.0.0.0 internetliaisons.in
 0.0.0.0 internetloan.tk
+0.0.0.0 internetlouisiana.com
 0.0.0.0 internetmix.in
 0.0.0.0 internetninja.info
 0.0.0.0 internetorbitale.tk
@@ -110132,6 +110141,7 @@
 0.0.0.0 krater.iprom.net
 0.0.0.0 kratingdaeng.tk
 0.0.0.0 krauli.rereres.org
+0.0.0.0 krause-fahrzeuge.de
 0.0.0.0 kravikpr0of-netherlands.sbs
 0.0.0.0 kravikpr0of-spain.sbs
 0.0.0.0 krazie.mserle.net
@@ -114346,6 +114356,7 @@
 0.0.0.0 livingbody.cf
 0.0.0.0 livingbypass.tk
 0.0.0.0 livinggate.tk
+0.0.0.0 livinginpurpose.co.za
 0.0.0.0 livinglongerandbetter.com
 0.0.0.0 livingsleet.com
 0.0.0.0 livingswell.tk
@@ -130950,7 +130961,6 @@
 0.0.0.0 niftyfood.ml
 0.0.0.0 niftyfood.tk
 0.0.0.0 nigga.com
-0.0.0.0 niggersmp.net
 0.0.0.0 nighproxy.com
 0.0.0.0 nightangel.com
 0.0.0.0 nightanonymotk.tk
@@ -134824,7 +134834,6 @@
 0.0.0.0 oilslipsurf.tk
 0.0.0.0 oiltanking.ee
 0.0.0.0 oilyhandjobs.com
-0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 oinkchan.org
@@ -138027,7 +138036,6 @@
 0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 osb14ovah.eu.cc
 0.0.0.0 osbglmoail.com
-0.0.0.0 osbot.net
 0.0.0.0 oscar-nominated.tk
 0.0.0.0 oscarproxy.co.cc
 0.0.0.0 osciachip.site
@@ -138052,7 +138060,6 @@
 0.0.0.0 osliving.net
 0.0.0.0 osloproxy.nz.gs
 0.0.0.0 osm-onead.cdn.hinet.net
-0.0.0.0 osmb.net
 0.0.0.0 osmovie.xyz
 0.0.0.0 osn10ovad.eu.cc
 0.0.0.0 osn11ovat.eu.cc
@@ -146004,7 +146011,6 @@
 0.0.0.0 polar-gainode.com
 0.0.0.0 polar-wertane.org
 0.0.0.0 polar-zinsmere.co
-0.0.0.0 polar.moe
 0.0.0.0 polarcapridge.live
 0.0.0.0 polarcapridge.site
 0.0.0.0 polarcdn-pentos.com
@@ -146053,6 +146059,7 @@
 0.0.0.0 polideportivo.info
 0.0.0.0 polidhelme.store
 0.0.0.0 poliglu.com
+0.0.0.0 polinex.org
 0.0.0.0 polinexclient.org
 0.0.0.0 polish-angels.com
 0.0.0.0 polish-clothing.shop
@@ -163456,7 +163463,6 @@
 0.0.0.0 pvideo.cz
 0.0.0.0 pvideos.org
 0.0.0.0 pvoxytoday.info
-0.0.0.0 pvphood.cc
 0.0.0.0 pvrpics1.pornvideo.rodeo
 0.0.0.0 pvrpics2.pornvideo.rodeo
 0.0.0.0 pvrpics3.pornvideo.rodeo
@@ -169250,6 +169256,7 @@
 0.0.0.0 rs2.qq.com
 0.0.0.0 rs6.net
 0.0.0.0 rs6129.craftum.io
+0.0.0.0 rs74ed.s.gy
 0.0.0.0 rsa.pub
 0.0.0.0 rsagency.tk
 0.0.0.0 rsbelex.site
@@ -170183,7 +170190,6 @@
 0.0.0.0 rx10.tk
 0.0.0.0 rx8club.us.intellitxt.com
 0.0.0.0 rx931fans.com
-0.0.0.0 rxb.immortales.fun
 0.0.0.0 rxbulkorder.com
 0.0.0.0 rxdemo.tk
 0.0.0.0 rxhealthprescriptions.com
@@ -170528,6 +170534,7 @@
 0.0.0.0 s19.trafficdeposit.com
 0.0.0.0 s1on1.com
 0.0.0.0 s1p.info
+0.0.0.0 s1w21.comen.store
 0.0.0.0 s2.adform.net
 0.0.0.0 s2.aflamk1.net
 0.0.0.0 s2.amateurs-gone-wild.com
@@ -171303,6 +171310,7 @@
 0.0.0.0 samsungthreatersystem.com
 0.0.0.0 samsworkplace.info
 0.0.0.0 samuel-beckett.site
+0.0.0.0 samul.elblag.pl
 0.0.0.0 samurai.hu.tl
 0.0.0.0 samurai99.com
 0.0.0.0 samuraibangalore.com
@@ -173941,6 +173949,7 @@
 0.0.0.0 securisurf.com
 0.0.0.0 securite.01net.com
 0.0.0.0 securitize.info
+0.0.0.0 security-analyze.ltd
 0.0.0.0 security-e-gold.com
 0.0.0.0 security-info.zyns.com
 0.0.0.0 security-proxies.tk
@@ -173997,6 +174006,7 @@
 0.0.0.0 sedoparking.com
 0.0.0.0 sedot.in
 0.0.0.0 sedotracker.com
+0.0.0.0 sedrezltd.best
 0.0.0.0 seduce.nl
 0.0.0.0 seduced.com
 0.0.0.0 seducedangel.com
@@ -179824,6 +179834,7 @@
 0.0.0.0 skynetproducts.net
 0.0.0.0 skynetproject.tk
 0.0.0.0 skynetwork.info
+0.0.0.0 skynetwork.lat
 0.0.0.0 skyninja.info
 0.0.0.0 skyover.tk
 0.0.0.0 skype-on.co.cc
@@ -181870,6 +181881,7 @@
 0.0.0.0 software.networkinglab.net
 0.0.0.0 software.rewarduniverse.com
 0.0.0.0 software.richcolo.com
+0.0.0.0 software.security-analyze.ltd
 0.0.0.0 software.superblackberrystore.com
 0.0.0.0 software.superplaystationstore.com
 0.0.0.0 software.unclepetesgyros.com
@@ -184660,6 +184672,7 @@
 0.0.0.0 stamplive.com
 0.0.0.0 stampscom.112.2o7.net
 0.0.0.0 stampscom.tt.omtrdc.net
+0.0.0.0 stanarcservice.com
 0.0.0.0 stanbridgeestate.com
 0.0.0.0 stand-byme.tk
 0.0.0.0 standa.tk
@@ -187643,6 +187656,7 @@
 0.0.0.0 summit-wertgrove.com
 0.0.0.0 summitbusinessmedia.112.2o7.net
 0.0.0.0 summitcapitalpatners.info
+0.0.0.0 summitcapitalpatners.ink
 0.0.0.0 summitluxuria.net
 0.0.0.0 summitvalnexapp-pro.pages.dev
 0.0.0.0 summonedman.co.cc
@@ -192020,7 +192034,6 @@
 0.0.0.0 swegold.com
 0.0.0.0 swel.info
 0.0.0.0 swellpersonalb.tk
-0.0.0.0 swervimgbackj.top
 0.0.0.0 swesterneurope3.tk
 0.0.0.0 swetgame.com
 0.0.0.0 swfhostltd.com
@@ -197775,6 +197788,7 @@
 0.0.0.0 threefastnet.co.cc
 0.0.0.0 threegamess.tk
 0.0.0.0 threehundredproxy.tk
+0.0.0.0 threejrev.com
 0.0.0.0 threepod.co.cc
 0.0.0.0 threesomepornvideos.com
 0.0.0.0 thrifthailandstore.shop
@@ -198789,6 +198803,7 @@
 0.0.0.0 tmplock.info
 0.0.0.0 tmpnetwork.info
 0.0.0.0 tmprotectprotect.com
+0.0.0.0 tms.hazentransferllc.com
 0.0.0.0 tmscdn.coremetrics.com
 0.0.0.0 tmscene.org
 0.0.0.0 tmserver-1.com
@@ -204056,6 +204071,7 @@
 0.0.0.0 tweetspace.info
 0.0.0.0 tweetunlock.tk
 0.0.0.0 tweetygotbackis.tk
+0.0.0.0 twejamaica.org
 0.0.0.0 twelvedawn.com
 0.0.0.0 twelvenet.ga
 0.0.0.0 twelvenet.ml
@@ -216458,7 +216474,6 @@
 0.0.0.0 w5.hitbox.com
 0.0.0.0 w55c.net
 0.0.0.0 w595505.com
-0.0.0.0 w5q.eu
 0.0.0.0 w5r8gj2.pics
 0.0.0.0 w6.hitbox.com
 0.0.0.0 w61.1piecemanga.com
@@ -216610,6 +216625,7 @@
 0.0.0.0 walkwithgod-ip.tk
 0.0.0.0 walkyforex.co.cc
 0.0.0.0 wall.adgaterewards.com
+0.0.0.0 wall.casajuanchos.com
 0.0.0.0 wallaporno.com
 0.0.0.0 wallcutter.tk
 0.0.0.0 wallet.mediaz.vn
@@ -222645,6 +222661,7 @@
 0.0.0.0 www.2girls1cup.ws
 0.0.0.0 www.2girls1cupvideo.com
 0.0.0.0 www.2girls1finger.org
+0.0.0.0 www.2goelectricity.cloud
 0.0.0.0 www.2guys1stump.org
 0.0.0.0 www.2iwjuyh2.sbs
 0.0.0.0 www.2j1j9.bemobtrk.com
@@ -259733,7 +259750,6 @@
 0.0.0.0 xenical.4.p2l.info
 0.0.0.0 xenkrupom.de
 0.0.0.0 xennexinc.com
-0.0.0.0 xeno-cheats.xyz
 0.0.0.0 xenogear.blog
 0.0.0.0 xenology.co.cc
 0.0.0.0 xenology.tk
