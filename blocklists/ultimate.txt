@@ -1,6 +1,6 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.65
-# Updated: 2026-10-13 05:55:09 UTC
+# Version: v1.0.66
+# Updated: 2026-10-14 03:58:12 UTC
 # Total Unique Domains: 267,451
 
 0.0.0.0 0------------0-------------0.0n-line.biz
@@ -3792,7 +3792,6 @@
 0.0.0.0 4k-sexvideos.com
 0.0.0.0 4k-vr.com
 0.0.0.0 4k-xxx.ru
-0.0.0.0 4k4iard.tupek.store
 0.0.0.0 4kcfnm.com
 0.0.0.0 4kda.info
 0.0.0.0 4kdesifuck.com
@@ -7317,6 +7316,7 @@
 0.0.0.0 aadroid.net
 0.0.0.0 aads.treehugger.com
 0.0.0.0 aadultwork.com
+0.0.0.0 aafesorder.com
 0.0.0.0 aafp.org.102.122.2o7.net
 0.0.0.0 aag.yahooapis.jp
 0.0.0.0 aageographers.com
@@ -15840,7 +15840,6 @@
 0.0.0.0 alt2.googleanalytics.com
 0.0.0.0 alt4.googleanalytics.com
 0.0.0.0 altairporn.com
-0.0.0.0 altamoorgoods.com
 0.0.0.0 altarendora.shop
 0.0.0.0 altariuscapital.net
 0.0.0.0 altasoft.online
@@ -22956,7 +22955,6 @@
 0.0.0.0 athospital.ga
 0.0.0.0 athospital.ml
 0.0.0.0 athospital.tk
-0.0.0.0 athuselevadores.com.br
 0.0.0.0 athwartwhoafat.com
 0.0.0.0 atibt.com
 0.0.0.0 atinna.com
@@ -27223,6 +27221,7 @@
 0.0.0.0 benwords.tk
 0.0.0.0 benwork.tk
 0.0.0.0 benzasce.com
+0.0.0.0 benzinclick.live
 0.0.0.0 benzine.tv
 0.0.0.0 benzkartel.duckdns.org
 0.0.0.0 benzonline.tk
@@ -30552,7 +30551,6 @@
 0.0.0.0 blauspeed.tk
 0.0.0.0 blaydeshouse.info
 0.0.0.0 blaz.info
-0.0.0.0 blaze-x.com
 0.0.0.0 blazeangel.com
 0.0.0.0 blazeblend-hub-com.pages.dev
 0.0.0.0 blazeblend-hub.com
@@ -41913,6 +41911,7 @@
 0.0.0.0 cep9eranusf.tk
 0.0.0.0 cep9eranusf7.tk
 0.0.0.0 cepat.biz
+0.0.0.0 cepde.org
 0.0.0.0 cephalexin.ourtablets.com
 0.0.0.0 cephalokal.com
 0.0.0.0 cephones.tk
@@ -42979,6 +42978,7 @@
 0.0.0.0 chelseaprx.info
 0.0.0.0 chelseawin.co.cc
 0.0.0.0 chemicalsunit.tk
+0.0.0.0 cheminees-philippe45.com
 0.0.0.0 cheminfundriasoftware.shop
 0.0.0.0 chemistry.ed.mu
 0.0.0.0 chemistryisfun.info
@@ -48783,6 +48783,7 @@
 0.0.0.0 crackdb.info
 0.0.0.0 cracked.sx
 0.0.0.0 cracked.to
+0.0.0.0 crackedclients.com
 0.0.0.0 crackedcraft.org
 0.0.0.0 crackedgirls.com
 0.0.0.0 crackedpack.tk
@@ -54505,6 +54506,7 @@
 0.0.0.0 devporn.net
 0.0.0.0 devruntime.cy
 0.0.0.0 devs.data.mob.com
+0.0.0.0 devs.kantales.life
 0.0.0.0 devteamjailbreak.com
 0.0.0.0 devyn.info
 0.0.0.0 dewafilm.xyz
@@ -56651,7 +56653,6 @@
 0.0.0.0 dontyouknow.info
 0.0.0.0 donutclients.st
 0.0.0.0 donutdupe.com
-0.0.0.0 donutdupe.skyblock-qol.com
 0.0.0.0 donutproxy.com
 0.0.0.0 donutslice.com
 0.0.0.0 donutsmpclient.com
@@ -67186,7 +67187,6 @@
 0.0.0.0 feeblemale.cn
 0.0.0.0 feeblesecret.cn
 0.0.0.0 feecwg1.xxxpor.org
-0.0.0.0 feed-delta.com
 0.0.0.0 feed-media.adult-webcontent.com
 0.0.0.0 feed.4wnet.com
 0.0.0.0 feed.mikle.com
@@ -68029,7 +68029,6 @@
 0.0.0.0 fikfapcams.com
 0.0.0.0 fiksu.com
 0.0.0.0 fikuliforex.co.cc
-0.0.0.0 fil.immortales.life
 0.0.0.0 filae.cf
 0.0.0.0 filarinwestryn.net
 0.0.0.0 filateliadimauro.com
@@ -72597,7 +72596,6 @@
 0.0.0.0 fotosbor.com
 0.0.0.0 fotoscaiunanet.com
 0.0.0.0 fotoscaiunaweb.online
-0.0.0.0 fotoschop.cl
 0.0.0.0 fotosdeamadoras.com
 0.0.0.0 fotosdebucetas.com
 0.0.0.0 fotosdemulheresnuas.net
@@ -77601,6 +77599,7 @@
 0.0.0.0 ftoxmpdipwobp4qy.lxvmhm.top
 0.0.0.0 ftp-proxy.info
 0.0.0.0 ftp.dns-info.dyndns.pro
+0.0.0.0 ftp.vietnam852.com
 0.0.0.0 ftp5.ahcdn.com
 0.0.0.0 ftpadmin.edv-stumpf.de
 0.0.0.0 ftpclean.com
@@ -99981,7 +99980,6 @@
 0.0.0.0 immobili.oewabox.at
 0.0.0.0 immobiliare-ruscigni.com
 0.0.0.0 immorallive.com
-0.0.0.0 immortales.fun
 0.0.0.0 immortalproxy.com
 0.0.0.0 immosuch.oewabox.at
 0.0.0.0 immutable-bitwavesoftware.com
@@ -132498,6 +132496,7 @@
 0.0.0.0 novacapitalia.com
 0.0.0.0 novafinanza.com
 0.0.0.0 novafintrade.com
+0.0.0.0 novagames.cc
 0.0.0.0 novahacks.com
 0.0.0.0 novaireluxent.com
 0.0.0.0 novanet.vn
@@ -135096,7 +135095,6 @@
 0.0.0.0 oldhdporn.com
 0.0.0.0 oldiepornos.com
 0.0.0.0 oldies.name
-0.0.0.0 oldisgoldgameis.com
 0.0.0.0 oldjobs.tk
 0.0.0.0 oldladies.su
 0.0.0.0 oldladyass.com
@@ -136509,7 +136507,6 @@
 0.0.0.0 onllinexxxvideos.com
 0.0.0.0 onloansecuresurf.tk
 0.0.0.0 onloansecuresurfy.tk
-0.0.0.0 onlocity.com
 0.0.0.0 onltke-proxiess.tk
 0.0.0.0 onltke-proxsis.tk
 0.0.0.0 onltke-sroxytradtkg.tk
@@ -137895,7 +137892,6 @@
 0.0.0.0 origin-st-a.anthill.vn
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
-0.0.0.0 origin.nemoclawcloud.com
 0.0.0.0 origin.optimost.io
 0.0.0.0 origin.pornhub.com
 0.0.0.0 origin.shameless.com
@@ -138060,6 +138056,7 @@
 0.0.0.0 osliving.net
 0.0.0.0 osloproxy.nz.gs
 0.0.0.0 osm-onead.cdn.hinet.net
+0.0.0.0 osmb.net
 0.0.0.0 osmovie.xyz
 0.0.0.0 osn10ovad.eu.cc
 0.0.0.0 osn11ovat.eu.cc
@@ -174472,6 +174469,7 @@
 0.0.0.0 sendingproxy.tk
 0.0.0.0 sendingurl.com
 0.0.0.0 sendingurl.net
+0.0.0.0 sendit.sh
 0.0.0.0 sendlargefiles.biz
 0.0.0.0 sendmepixel.com
 0.0.0.0 sendmini.com
@@ -179798,6 +179796,7 @@
 0.0.0.0 skyauction.122.2o7.net
 0.0.0.0 skybest-proxysjp.tk
 0.0.0.0 skyblock-addons.com
+0.0.0.0 skyblock-qol.com
 0.0.0.0 skyblueproxy.cn
 0.0.0.0 skyblueproxy.info
 0.0.0.0 skycloaker.info
@@ -184920,6 +184919,7 @@
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.aport.ru
 0.0.0.0 stat.appsgeyser.com
+0.0.0.0 stat.bestcompliance.net
 0.0.0.0 stat.cliche.se
 0.0.0.0 stat.clickfrog.ru
 0.0.0.0 stat.cncenter.cz
@@ -193548,7 +193548,6 @@
 0.0.0.0 taucbase01.com
 0.0.0.0 taught.clawed.info
 0.0.0.0 taughtme.tk
-0.0.0.0 taunahi.skyblock-qol.com
 0.0.0.0 taunahi.st
 0.0.0.0 taunter.net
 0.0.0.0 taupe-bag.shop
@@ -215273,7 +215272,6 @@
 0.0.0.0 voictkgsafesurfsuk.tk
 0.0.0.0 voictkgsafesurfsuks.tk
 0.0.0.0 voidage.info
-0.0.0.0 voidgame.ink
 0.0.0.0 voidid.com
 0.0.0.0 voil-le-travail.fr
 0.0.0.0 voilaporno.com
@@ -219586,7 +219584,6 @@
 0.0.0.0 whiskeywealthclub.com
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whiskyswiat.shop
-0.0.0.0 whisone.cc
 0.0.0.0 whisperednews.com
 0.0.0.0 whisperingcascade.com
 0.0.0.0 whisperingcrib.com
@@ -220208,6 +220205,7 @@
 0.0.0.0 willinsura.com
 0.0.0.0 willlsoansurf.tk
 0.0.0.0 willnotgodown.tk
+0.0.0.0 willow-13.com
 0.0.0.0 willowivyoak.com
 0.0.0.0 willowtv.tk
 0.0.0.0 willpconfi.store
@@ -221703,7 +221701,6 @@
 0.0.0.0 wsback-videotracking.presage.io
 0.0.0.0 wsback2b.prod.cloud.ogury.io
 0.0.0.0 wsc1.webspectator.com
-0.0.0.0 wsd.immortales.fun
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wserver.vidazoo.com
 0.0.0.0 wsexcomics.com
@@ -244017,6 +244014,7 @@
 0.0.0.0 www.osciynmesh.site
 0.0.0.0 www.osexxx.com
 0.0.0.0 www.osge.org
+0.0.0.0 www.osmb.net
 0.0.0.0 www.osn10ovad.eu.cc
 0.0.0.0 www.osn11ovat.eu.cc
 0.0.0.0 www.osn15ovaad.eu.cc
@@ -246808,6 +246806,7 @@
 0.0.0.0 www.portrei12.shop
 0.0.0.0 www.portuguesinhas.com
 0.0.0.0 www.portutopcas.com
+0.0.0.0 www.porvootransitioncare.com
 0.0.0.0 www.porwo.com
 0.0.0.0 www.porzo.club
 0.0.0.0 www.porzo.com
@@ -253360,6 +253359,7 @@
 0.0.0.0 www.trezorephuntatec.shop
 0.0.0.0 www.trianglelibertin.com
 0.0.0.0 www.tribalfusion.com
+0.0.0.0 www.tribot.co.uk
 0.0.0.0 www.tribute-to.com
 0.0.0.0 www.tributumtrade.com
 0.0.0.0 www.trickunrem.store
