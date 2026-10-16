@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.67
-# Updated: 2026-10-15 03:40:01 UTC
-# Total Unique Domains: 268,556
+# Version: v1.0.68
+# Updated: 2026-10-16 03:36:19 UTC
+# Total Unique Domains: 268,611
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -8489,7 +8489,6 @@
 0.0.0.0 acrforex.co.cc
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
-0.0.0.0 acrilicoporto.pt
 0.0.0.0 acrob.info
 0.0.0.0 acrobatique.co.cc
 0.0.0.0 acrobatscrap.com
@@ -15673,6 +15672,7 @@
 0.0.0.0 alphaproxy.tk
 0.0.0.0 alphaprx.eu
 0.0.0.0 alphardgolf.fr
+0.0.0.0 alpharettaagency.com
 0.0.0.0 alphasurfer.tk
 0.0.0.0 alphatango.info
 0.0.0.0 alphateenies.com
@@ -19238,6 +19238,7 @@
 0.0.0.0 anthemsurfs8.tk
 0.0.0.0 anthill.vn
 0.0.0.0 anthole.info
+0.0.0.0 anthonyspizzeriainc.com
 0.0.0.0 anthonyvella.net
 0.0.0.0 anti-abortions.tk
 0.0.0.0 anti-block.com
@@ -33610,6 +33611,7 @@
 0.0.0.0 brothersisterincestsexporn.com
 0.0.0.0 brothersistersex.me
 0.0.0.0 brothersoft.us.intellitxt.com
+0.0.0.0 brotherspizzapeoria.com
 0.0.0.0 brothersporn.pro
 0.0.0.0 brouwse.com
 0.0.0.0 brovitorsen-ai.com
@@ -34952,6 +34954,7 @@
 0.0.0.0 burtonconstablehall.info
 0.0.0.0 buruckobama.co.cc
 0.0.0.0 burungbergaris.xyz
+0.0.0.0 buruujtech.com
 0.0.0.0 buryforex.tk
 0.0.0.0 burytheblocks.info
 0.0.0.0 burythefilters.info
@@ -36404,6 +36407,7 @@
 0.0.0.0 c-eu5.stripst.com
 0.0.0.0 c-eu8.stripst.com
 0.0.0.0 c-eus.w.inmobi.com
+0.0.0.0 c-f-u.com
 0.0.0.0 c-h-o-c-o-l-a-t-e.info
 0.0.0.0 c-heads.com
 0.0.0.0 c-martinique.fr
@@ -41470,12 +41474,14 @@
 0.0.0.0 cdsusa.veinteractive.com
 0.0.0.0 cdt-highrisk.tk
 0.0.0.0 cdt-technical-analysis.tk
+0.0.0.0 cdt.omsules.life
 0.0.0.0 cdtanalysis.tk
 0.0.0.0 cdtapoxy.tk
 0.0.0.0 cdtextreme.tk
 0.0.0.0 cdtforex.tk
 0.0.0.0 cdvseeker.eu
 0.0.0.0 cdvseeker.fr
+0.0.0.0 cdw.omsules.life
 0.0.0.0 cdweb.info
 0.0.0.0 cdx.18teenpornpics.com
 0.0.0.0 cdxbbpngq.pw
@@ -43341,6 +43347,7 @@
 0.0.0.0 christiecover.tk
 0.0.0.0 christiestevens.com
 0.0.0.0 christinaangel.com
+0.0.0.0 christinadudley.com
 0.0.0.0 christinamar.lindaspy.com
 0.0.0.0 christinaprx.info
 0.0.0.0 christmas-evecn.tk
@@ -49298,6 +49305,7 @@
 0.0.0.0 crestvaulmore.online
 0.0.0.0 crestvaultshire.live
 0.0.0.0 crestwhitestripscoupons.info
+0.0.0.0 cresvin.com
 0.0.0.0 cretefortunois.digital
 0.0.0.0 cretproxy.tk
 0.0.0.0 creview.adbureau.net
@@ -51151,6 +51159,7 @@
 0.0.0.0 d-groov.com
 0.0.0.0 d-h-l.com
 0.0.0.0 d-itc.be
+0.0.0.0 d-j-d.com
 0.0.0.0 d-markets.net
 0.0.0.0 d-mp3.info
 0.0.0.0 d-oh.net
@@ -52358,6 +52367,7 @@
 0.0.0.0 dazkori.shop
 0.0.0.0 dazzler.liquidus.net
 0.0.0.0 db-z.fr
+0.0.0.0 db.foodbook.pk
 0.0.0.0 db.seexxvid.com
 0.0.0.0 db.utag.ijinshan.com
 0.0.0.0 db0.sitestats.com
@@ -53164,6 +53174,7 @@
 0.0.0.0 debugcard.tk
 0.0.0.0 debugged.mask.wtf.la
 0.0.0.0 debuggermaster.tk
+0.0.0.0 debugify.net
 0.0.0.0 debypasswallproxys.tk
 0.0.0.0 decadeago.tk
 0.0.0.0 decades-old.tk
@@ -55095,6 +55106,7 @@
 0.0.0.0 dipt.info
 0.0.0.0 diquf.ru
 0.0.0.0 dir.opank.com
+0.0.0.0 dir.sonikjp.org
 0.0.0.0 dird.info
 0.0.0.0 dirdforex.co.cc
 0.0.0.0 dirdvpn.tk
@@ -55723,6 +55735,7 @@
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 dken.cf
 0.0.0.0 dken.ga
+0.0.0.0 dklak.cam
 0.0.0.0 dkoipg.pw
 0.0.0.0 dkproxy.cf
 0.0.0.0 dkproxy.com
@@ -58997,6 +59010,7 @@
 0.0.0.0 easycookie.tk
 0.0.0.0 easycopeprox.info
 0.0.0.0 easycreditstore.info
+0.0.0.0 easycryptos.org
 0.0.0.0 easydiets.tk
 0.0.0.0 easydigi.info
 0.0.0.0 easyearnonline.in
@@ -59664,6 +59678,7 @@
 0.0.0.0 edu-huayu.com
 0.0.0.0 eduardorodrigues.adv.br
 0.0.0.0 educable.info
+0.0.0.0 educacom.com.br
 0.0.0.0 educatesecure4.info
 0.0.0.0 educatethis.info
 0.0.0.0 education-securiter-routiere.fr
@@ -60428,6 +60443,7 @@
 0.0.0.0 elmarinyxquxyttrade.de
 0.0.0.0 elmayo.com
 0.0.0.0 elmbriqon.com
+0.0.0.0 elmejorlocal.com.co
 0.0.0.0 elminatedebt.tk
 0.0.0.0 elmqari.shop
 0.0.0.0 elmstree.info
@@ -65263,6 +65279,7 @@
 0.0.0.0 family-tube.net
 0.0.0.0 family1st.ca
 0.0.0.0 familyabroad.net
+0.0.0.0 familyaddons.com
 0.0.0.0 familycruises.tk
 0.0.0.0 familydicks.com
 0.0.0.0 familyfavoriteonline.xyz
@@ -72785,6 +72802,7 @@
 0.0.0.0 found-extremely.co.cc
 0.0.0.0 found.clawed.info
 0.0.0.0 found.ee
+0.0.0.0 foundationforwomenshealth.com
 0.0.0.0 foundationofintegrity.org
 0.0.0.0 foundationpilotxxxcredit.org
 0.0.0.0 foundcheats.com
@@ -81157,6 +81175,7 @@
 0.0.0.0 gestaproet.store
 0.0.0.0 gestenow.info
 0.0.0.0 gestione-patrimoniale.com
+0.0.0.0 gestroom.it
 0.0.0.0 get-0hidden.tk
 0.0.0.0 get-access.org
 0.0.0.0 get-always.co.cc
@@ -81820,6 +81839,7 @@
 0.0.0.0 gggsite.info
 0.0.0.0 gggtube.org
 0.0.0.0 gghosting.info
+0.0.0.0 ggi.dietondemand.com
 0.0.0.0 ggjav.com
 0.0.0.0 gglelogtkla.tk
 0.0.0.0 gglelogtklassl.tk
@@ -85824,6 +85844,7 @@
 0.0.0.0 gridproxy.info
 0.0.0.0 gridsolutions.info
 0.0.0.0 gried.info
+0.0.0.0 griffcar.com.br
 0.0.0.0 griffle.tk
 0.0.0.0 griforex.co.cc
 0.0.0.0 grigtube.com
@@ -89648,6 +89669,7 @@
 0.0.0.0 heute.oewabox.at
 0.0.0.0 heutenochficken.net
 0.0.0.0 heuteporno.com
+0.0.0.0 hewadexchange.com
 0.0.0.0 hewed.info
 0.0.0.0 hewilsonproxy.tk
 0.0.0.0 hewletproxy.co.cc
@@ -95218,6 +95240,7 @@
 0.0.0.0 humansite4.tk
 0.0.0.0 humansite77.tk
 0.0.0.0 humanverify.net
+0.0.0.0 humasjatim.id
 0.0.0.0 humblebenefit.com
 0.0.0.0 humbler.info
 0.0.0.0 hummelen-assen.com
@@ -101924,6 +101947,7 @@
 0.0.0.0 intelglobal.112.2o7.net
 0.0.0.0 intelinschool.info
 0.0.0.0 intellariotradeproapp-pro.pages.dev
+0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
@@ -102119,6 +102143,7 @@
 0.0.0.0 internetjobcentre.in
 0.0.0.0 internetliaisons.in
 0.0.0.0 internetloan.tk
+0.0.0.0 internetmissouri.com
 0.0.0.0 internetmix.in
 0.0.0.0 internetninja.info
 0.0.0.0 internetorbitale.tk
@@ -110479,6 +110504,7 @@
 0.0.0.0 krx18.com
 0.0.0.0 krxd.net
 0.0.0.0 kryanexcore-digital.pages.dev
+0.0.0.0 kryptonclient-cracked.com
 0.0.0.0 kryptono.exchange
 0.0.0.0 kryptoportal.pl
 0.0.0.0 kryptozantor-shop.pages.dev
@@ -111803,6 +111829,7 @@
 0.0.0.0 lcsdk.3g.qq.com
 0.0.0.0 lcslearn.tk
 0.0.0.0 lcwkj.com
+0.0.0.0 ld-cf.com
 0.0.0.0 ld-eu.shop
 0.0.0.0 ld-we-papke782.eu.cc
 0.0.0.0 ldglob01.adtech.fr
@@ -114855,6 +114882,7 @@
 0.0.0.0 loanmail.cf
 0.0.0.0 loanmail.ml
 0.0.0.0 loanme.pl
+0.0.0.0 loanoffer.co.in
 0.0.0.0 loanoffice.tk
 0.0.0.0 loanplace.info
 0.0.0.0 loanprograms.tk
@@ -116741,6 +116769,7 @@
 0.0.0.0 lulul.info
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 luluthanks.info
+0.0.0.0 lumacrea.com
 0.0.0.0 lumarapath.com
 0.0.0.0 lumarwcart.shop
 0.0.0.0 lumbertrading.tk
@@ -117870,6 +117899,7 @@
 0.0.0.0 mail.ioc.ac.ru
 0.0.0.0 mail.ismporno.com
 0.0.0.0 mail.issas.ac.cn
+0.0.0.0 mail.laborpartyjo.com
 0.0.0.0 mail.maniacdiaries.nl
 0.0.0.0 mail.masturbationlist.com
 0.0.0.0 mail.passionforporn.net
@@ -117949,6 +117979,7 @@
 0.0.0.0 main.dlajisqvhequt.amplifyapp.com
 0.0.0.0 main.exoclick.com
 0.0.0.0 main.exosrv.com
+0.0.0.0 main.lahoreshoes.com
 0.0.0.0 main.rampidads.com
 0.0.0.0 main.sanktor.com
 0.0.0.0 main.vodonet.net
@@ -120960,6 +120991,7 @@
 0.0.0.0 mellttssyllabication.info
 0.0.0.0 melocoton.info
 0.0.0.0 melol.net
+0.0.0.0 melonandworld.top
 0.0.0.0 melonbooks.akamaized.net
 0.0.0.0 melonbooks.co.jp
 0.0.0.0 melonbox.info
@@ -125246,6 +125278,7 @@
 0.0.0.0 mrstiff.com
 0.0.0.0 mrsurf.co.cc
 0.0.0.0 mrsurf.info
+0.0.0.0 mrsweaterltd.com
 0.0.0.0 mrtb-nj.lfstmedia.com
 0.0.0.0 mrtbmopub-nj.lfstmedia.com
 0.0.0.0 mrteeny.info
@@ -129979,6 +130012,7 @@
 0.0.0.0 new.livejasmin.com
 0.0.0.0 new.mmtimes.org
 0.0.0.0 new.naked.com
+0.0.0.0 new.omsules.life
 0.0.0.0 new.proxmachine.com
 0.0.0.0 new.siblaguna.org
 0.0.0.0 new.superguide.net.au
@@ -132833,6 +132867,7 @@
 0.0.0.0 nourishgrow.tk
 0.0.0.0 nouvelles247.com
 0.0.0.0 nouveuroxy.gq
+0.0.0.0 nova-client.com
 0.0.0.0 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 0.0.0.0 nova-office.pl
 0.0.0.0 nova.collect.igodigital.com
@@ -140889,7 +140924,6 @@
 0.0.0.0 paleoleap.usesfathom.com
 0.0.0.0 palevo.com
 0.0.0.0 paleyforex.info
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 palimas.com
 0.0.0.0 palimas.org
 0.0.0.0 palimas.tv
@@ -141690,6 +141724,7 @@
 0.0.0.0 pawg.com
 0.0.0.0 pawking.net
 0.0.0.0 pawldis.info
+0.0.0.0 pawn-shop.trustzonecam.com
 0.0.0.0 pawn.se
 0.0.0.0 pawned.info
 0.0.0.0 pawnstar.tk
@@ -143776,6 +143811,7 @@
 0.0.0.0 physicalproxy1a.tk
 0.0.0.0 physicalsproxy.tk
 0.0.0.0 physicsarticles.info
+0.0.0.0 physicsbyfiziks.org
 0.0.0.0 physiopathiiologies.info
 0.0.0.0 physique4ever.com
 0.0.0.0 physique4ever.tk
@@ -145950,6 +145986,7 @@
 0.0.0.0 pleger.t35.com
 0.0.0.0 plenerowy.com
 0.0.0.0 plenerowy.shop
+0.0.0.0 plenia.pt
 0.0.0.0 plenisxentartech.com
 0.0.0.0 plenisxentartechhub.com
 0.0.0.0 plenisxentartechsystem.com
@@ -145996,6 +146033,7 @@
 0.0.0.0 plnplna.cfd
 0.0.0.0 ploans-consolidationa.tk
 0.0.0.0 ploaz54.com
+0.0.0.0 plochcarsportsball.top
 0.0.0.0 plodforex.co.cc
 0.0.0.0 ploferta-93742993.shop
 0.0.0.0 ploferta8393937.shop
@@ -150482,6 +150520,7 @@
 0.0.0.0 porzo.tv
 0.0.0.0 porzo.xxxcumhub.pro
 0.0.0.0 pos.baidu.com
+0.0.0.0 pos.nittosupport.ca
 0.0.0.0 pos24pl.eu.cc
 0.0.0.0 posatacqui.store
 0.0.0.0 poseparty.com
@@ -165807,6 +165846,7 @@
 0.0.0.0 raptp.fr
 0.0.0.0 rapyoie-2043.theanvoonkho.workers.dev
 0.0.0.0 raqc.net
+0.0.0.0 raqmnh.com
 0.0.0.0 raquelexibida.com
 0.0.0.0 raquelexibida.net
 0.0.0.0 rarbg.com
@@ -165917,6 +165957,7 @@
 0.0.0.0 ratewforex.co.cc
 0.0.0.0 rather-bigfree.co.cc
 0.0.0.0 ratherbebrowing.info
+0.0.0.0 rathodsoftware.in
 0.0.0.0 ratiforex.co.cc
 0.0.0.0 rating.kinopoisk.ru
 0.0.0.0 ratingassistance.info
@@ -173309,6 +173350,7 @@
 0.0.0.0 screwthesystem.com
 0.0.0.0 scrhotpoljk.lovable.app
 0.0.0.0 scribbens.fr
+0.0.0.0 scribblebubblebibi.top
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 scribe.ttwitter.com
 0.0.0.0 scribe.twitter.com
@@ -175143,6 +175185,7 @@
 0.0.0.0 seowatt.com
 0.0.0.0 seox.info
 0.0.0.0 seoyour.com
+0.0.0.0 sep.dailytechinsight.com
 0.0.0.0 separated.clawed.info
 0.0.0.0 separated.mask.wtf.la
 0.0.0.0 separated.tk
@@ -179001,6 +179044,7 @@
 0.0.0.0 sigma-statistics-push.proxima.nie.easebar.com
 0.0.0.0 sigmabrowse.com
 0.0.0.0 sigmabypass.info
+0.0.0.0 sigmaclient.net
 0.0.0.0 sigmapic.com
 0.0.0.0 sigmapics.com
 0.0.0.0 sigmaproxy.com
@@ -186519,6 +186563,7 @@
 0.0.0.0 steeljaws.tk
 0.0.0.0 steelprox.info
 0.0.0.0 steelproxy.com
+0.0.0.0 steelstanleystaystrong.top
 0.0.0.0 steelstone.tk
 0.0.0.0 steeltunnel.info
 0.0.0.0 steeltunnel.tk
@@ -187642,6 +187687,7 @@
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 studio.faphouse.com
 0.0.0.0 studiofow.com
+0.0.0.0 studiogioeli.it
 0.0.0.0 studiomugnaini.eu
 0.0.0.0 studioomovie.com
 0.0.0.0 studioproxy.com
@@ -188024,6 +188070,7 @@
 0.0.0.0 sucksex.com
 0.0.0.0 suckstob.eu
 0.0.0.0 sucktheball.co.cc
+0.0.0.0 sudariocontabilidade.com.br
 0.0.0.0 suddenfuture.cn
 0.0.0.0 suddengeneral.cn
 0.0.0.0 suddenoffer.tk
@@ -193356,6 +193403,7 @@
 0.0.0.0 taatisb.shop
 0.0.0.0 taatisn.shop
 0.0.0.0 tab.dellrescue.com
+0.0.0.0 tabak.hr
 0.0.0.0 tabblad.com
 0.0.0.0 tabelog.com.102.112.2o7.net
 0.0.0.0 taberna.info
@@ -197668,6 +197716,7 @@
 0.0.0.0 therapis-justfoxs.tk
 0.0.0.0 therapisfoxs.tk
 0.0.0.0 therapistla.com
+0.0.0.0 therapygeorgia.com
 0.0.0.0 therapyporn.com
 0.0.0.0 therapyschool.info
 0.0.0.0 therapysurf.tk
@@ -211263,6 +211312,7 @@
 0.0.0.0 v-tunnel.info
 0.0.0.0 v-tunnel.org
 0.0.0.0 v-voice.com
+0.0.0.0 v-w-v.com
 0.0.0.0 v-wrd.com
 0.0.0.0 v.100porno.one
 0.0.0.0 v.100shmar.net
@@ -218462,6 +218512,7 @@
 0.0.0.0 webcrawlers.info
 0.0.0.0 webcredit.tk
 0.0.0.0 webcrewforex.tk
+0.0.0.0 webcstore.pw
 0.0.0.0 webcurtain.info
 0.0.0.0 webcustomdesign.store
 0.0.0.0 webdaili.tk
@@ -220469,6 +220520,7 @@
 0.0.0.0 widoo.info
 0.0.0.0 wiecejnizflirt.com
 0.0.0.0 wielixclient.com
+0.0.0.0 wielixclient.net
 0.0.0.0 wielkanagroda.com
 0.0.0.0 wielkaniespodzianka.pl
 0.0.0.0 wielunkapitektron-click.pages.dev
@@ -222427,6 +222479,7 @@
 0.0.0.0 ww-site.ru
 0.0.0.0 ww.angelswifelovers.com
 0.0.0.0 ww.animalsex.site
+0.0.0.0 ww.menara5d.net
 0.0.0.0 ww.pornhub.com
 0.0.0.0 ww.pornoafisha.xyz
 0.0.0.0 ww.proxigate.info
@@ -237870,6 +237923,7 @@
 0.0.0.0 www.icloud.fairbox.pl
 0.0.0.0 www.iclsas.com
 0.0.0.0 www.ico.re
+0.0.0.0 www.icomsa.com.mx
 0.0.0.0 www.iconatsbs.com
 0.0.0.0 www.iconmale.com
 0.0.0.0 www.icoocash.com
@@ -259644,6 +259698,7 @@
 0.0.0.0 www.zhbirfa.shop
 0.0.0.0 www.zhentube.com
 0.0.0.0 www.zhibruntur.org
+0.0.0.0 www.zhikey.com
 0.0.0.0 www.zhirok.com
 0.0.0.0 www.zhokvarit-digital.pages.dev
 0.0.0.0 www.zhondamuloai.nl
