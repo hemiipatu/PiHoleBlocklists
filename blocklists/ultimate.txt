@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.69
-# Updated: 2026-10-17 03:26:23 UTC
-# Total Unique Domains: 268,616
+# Version: v1.0.70
+# Updated: 2026-10-18 03:32:36 UTC
+# Total Unique Domains: 268,619
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -1461,6 +1461,7 @@
 0.0.0.0 195724.engine.mobileapptracking.com
 0.0.0.0 195en2b1.xyz
 0.0.0.0 198-macros.com
+0.0.0.0 198macros.org
 0.0.0.0 199107.engine.mobileapptracking.com
 0.0.0.0 199496proxy.tk
 0.0.0.0 19a9xx7d.xyz
@@ -5832,6 +5833,7 @@
 0.0.0.0 8078794.cc
 0.0.0.0 8080proxylist.com
 0.0.0.0 8080proxylist.info
+0.0.0.0 80a6jnaz.basickantoor1.nl
 0.0.0.0 80d4b6e40cc712bf92fcdbabdd4345fd.safeframe.googlesyndication.com
 0.0.0.0 80hr.info
 0.0.0.0 80i.org
@@ -19240,7 +19242,6 @@
 0.0.0.0 anthemsurfs8.tk
 0.0.0.0 anthill.vn
 0.0.0.0 anthole.info
-0.0.0.0 anthonyspizzeriainc.com
 0.0.0.0 anthonyvella.net
 0.0.0.0 anti-abortions.tk
 0.0.0.0 anti-block.com
@@ -23465,6 +23466,7 @@
 0.0.0.0 autoforums.us.intellitxt.com
 0.0.0.0 autogateway.info
 0.0.0.0 autographshope.info
+0.0.0.0 autohaus-bender.de
 0.0.0.0 autohide.hu.tl
 0.0.0.0 autohide.info
 0.0.0.0 autohipnose.com
@@ -26401,7 +26403,6 @@
 0.0.0.0 beadedgold.tk
 0.0.0.0 beadhead.co.cc
 0.0.0.0 beads.sx.atl.publicus.com
-0.0.0.0 beak.in
 0.0.0.0 beakoncapitholm.shop
 0.0.0.0 beam-in.info
 0.0.0.0 beam.hlserve.com
@@ -33207,6 +33208,7 @@
 0.0.0.0 breedmeraw.com
 0.0.0.0 breeze.nz.gs
 0.0.0.0 breezeclient.com
+0.0.0.0 breezeclient.org
 0.0.0.0 breezer.tk
 0.0.0.0 breezers.info
 0.0.0.0 breezra-23.pages.dev
@@ -33613,7 +33615,6 @@
 0.0.0.0 brothersisterincestsexporn.com
 0.0.0.0 brothersistersex.me
 0.0.0.0 brothersoft.us.intellitxt.com
-0.0.0.0 brotherspizzapeoria.com
 0.0.0.0 brothersporn.pro
 0.0.0.0 brouwse.com
 0.0.0.0 brovitorsen-ai.com
@@ -36408,7 +36409,6 @@
 0.0.0.0 c-eu5.stripst.com
 0.0.0.0 c-eu8.stripst.com
 0.0.0.0 c-eus.w.inmobi.com
-0.0.0.0 c-f-u.com
 0.0.0.0 c-h-o-c-o-l-a-t-e.info
 0.0.0.0 c-heads.com
 0.0.0.0 c-martinique.fr
@@ -38970,6 +38970,7 @@
 0.0.0.0 cdcc.info
 0.0.0.0 cdd.omsules.life
 0.0.0.0 cdddfia.hornylocals24.com
+0.0.0.0 cde.monther.life
 0.0.0.0 cde.omsules.life
 0.0.0.0 cdex.info
 0.0.0.0 cdexvangxfarwl.com
@@ -41476,14 +41477,12 @@
 0.0.0.0 cdsusa.veinteractive.com
 0.0.0.0 cdt-highrisk.tk
 0.0.0.0 cdt-technical-analysis.tk
-0.0.0.0 cdt.omsules.life
 0.0.0.0 cdtanalysis.tk
 0.0.0.0 cdtapoxy.tk
 0.0.0.0 cdtextreme.tk
 0.0.0.0 cdtforex.tk
 0.0.0.0 cdvseeker.eu
 0.0.0.0 cdvseeker.fr
-0.0.0.0 cdw.omsules.life
 0.0.0.0 cdweb.info
 0.0.0.0 cdx.18teenpornpics.com
 0.0.0.0 cdxbbpngq.pw
@@ -45069,6 +45068,7 @@
 0.0.0.0 clothslineproxy.info
 0.0.0.0 clothunlock.info
 0.0.0.0 clotured.com
+0.0.0.0 cloubflare.net
 0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-observer.ip-label.net
@@ -48720,6 +48720,7 @@
 0.0.0.0 cpxiappnexusvpaidvideo235346.s.moatpixel.com
 0.0.0.0 cpxigen865632366955.s.moatpixel.com
 0.0.0.0 cpxinteractive.com
+0.0.0.0 cpxlt.cn
 0.0.0.0 cpxproxies.co.cc
 0.0.0.0 cpyrltela.pw
 0.0.0.0 cq5o.c7r2v9p.pics
@@ -51163,7 +51164,6 @@
 0.0.0.0 d-groov.com
 0.0.0.0 d-h-l.com
 0.0.0.0 d-itc.be
-0.0.0.0 d-j-d.com
 0.0.0.0 d-markets.net
 0.0.0.0 d-mp3.info
 0.0.0.0 d-oh.net
@@ -55740,7 +55740,6 @@
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 dken.cf
 0.0.0.0 dken.ga
-0.0.0.0 dklak.cam
 0.0.0.0 dkoipg.pw
 0.0.0.0 dkproxy.cf
 0.0.0.0 dkproxy.com
@@ -56671,6 +56670,7 @@
 0.0.0.0 donutproxy.com
 0.0.0.0 donutslice.com
 0.0.0.0 donutsmpclient.com
+0.0.0.0 donutsmpdupes.lol
 0.0.0.0 donutsurf.com
 0.0.0.0 donval.112.2o7.net
 0.0.0.0 donwloadproxip.tk
@@ -63819,6 +63819,7 @@
 0.0.0.0 exmovie.xyz
 0.0.0.0 exmovies.co.in
 0.0.0.0 exnqhgk.xyz
+0.0.0.0 exo-api.tf
 0.0.0.0 exoav.com
 0.0.0.0 exobypass.info
 0.0.0.0 exocams.com
@@ -65285,6 +65286,7 @@
 0.0.0.0 family1st.ca
 0.0.0.0 familyabroad.net
 0.0.0.0 familyaddons.com
+0.0.0.0 familyaddons.org
 0.0.0.0 familycruises.tk
 0.0.0.0 familydicks.com
 0.0.0.0 familyfavoriteonline.xyz
@@ -67200,6 +67202,7 @@
 0.0.0.0 fdplatform.digital
 0.0.0.0 fdrzwkc.shop
 0.0.0.0 fdschoolproxy.tk
+0.0.0.0 fdstat.vip
 0.0.0.0 fdtbniym.shop
 0.0.0.0 fduforex.co.cc
 0.0.0.0 fdvd.info
@@ -73445,6 +73448,7 @@
 0.0.0.0 fragyourmom.info
 0.0.0.0 fraja4.com
 0.0.0.0 fral.info
+0.0.0.0 frame-kite.com
 0.0.0.0 frame2uavaprosystem.digital
 0.0.0.0 framehiberixhub-ai.net
 0.0.0.0 frameimitrex500.org
@@ -81179,6 +81183,7 @@
 0.0.0.0 gestaproet.store
 0.0.0.0 gestenow.info
 0.0.0.0 gestione-patrimoniale.com
+0.0.0.0 gestroom.it
 0.0.0.0 get-0hidden.tk
 0.0.0.0 get-access.org
 0.0.0.0 get-always.co.cc
@@ -82371,6 +82376,9 @@
 0.0.0.0 gitorm.info
 0.0.0.0 gitrdone.cn
 0.0.0.0 gitrdun.info
+0.0.0.0 gitrm.sbs
+0.0.0.0 gitsl.xyz
+0.0.0.0 gitview.sbs
 0.0.0.0 gitybdjgbxd.nl
 0.0.0.0 giuforex.co.cc
 0.0.0.0 giulli.fr
@@ -101950,7 +101958,6 @@
 0.0.0.0 intelglobal.112.2o7.net
 0.0.0.0 intelinschool.info
 0.0.0.0 intellariotradeproapp-pro.pages.dev
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
@@ -102146,7 +102153,6 @@
 0.0.0.0 internetjobcentre.in
 0.0.0.0 internetliaisons.in
 0.0.0.0 internetloan.tk
-0.0.0.0 internetmissouri.com
 0.0.0.0 internetmix.in
 0.0.0.0 internetninja.info
 0.0.0.0 internetorbitale.tk
@@ -104444,6 +104450,7 @@
 0.0.0.0 itanitellytrade.com
 0.0.0.0 itanito.ru
 0.0.0.0 itaproxy.tk
+0.0.0.0 itbakersfield.com
 0.0.0.0 itbeginner.fr
 0.0.0.0 itbrowser-ipjps.tk
 0.0.0.0 itbrowserip.tk
@@ -109558,6 +109565,7 @@
 0.0.0.0 kirstie-alley.tk
 0.0.0.0 kirtuclub.com
 0.0.0.0 kirykoy.com
+0.0.0.0 kis.marketing
 0.0.0.0 kishur.info
 0.0.0.0 kiska.tv
 0.0.0.0 kismyhead.co.cc
@@ -111834,7 +111842,6 @@
 0.0.0.0 lcsdk.3g.qq.com
 0.0.0.0 lcslearn.tk
 0.0.0.0 lcwkj.com
-0.0.0.0 ld-cf.com
 0.0.0.0 ld-eu.shop
 0.0.0.0 ld-we-papke782.eu.cc
 0.0.0.0 ldglob01.adtech.fr
@@ -115756,6 +115763,7 @@
 0.0.0.0 londinium.ed.mu
 0.0.0.0 londo.mobi
 0.0.0.0 london.puba.com
+0.0.0.0 londonairportstransfer.co.uk
 0.0.0.0 londonescortslist.net
 0.0.0.0 londonfurnituremakers.shop
 0.0.0.0 londonhidden.info
@@ -116773,7 +116781,6 @@
 0.0.0.0 lulul.info
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 luluthanks.info
-0.0.0.0 lumacrea.com
 0.0.0.0 lumarapath.com
 0.0.0.0 lumarwcart.shop
 0.0.0.0 lumbertrading.tk
@@ -120993,7 +121000,6 @@
 0.0.0.0 mellttssyllabication.info
 0.0.0.0 melocoton.info
 0.0.0.0 melol.net
-0.0.0.0 melonandworld.top
 0.0.0.0 melonbooks.akamaized.net
 0.0.0.0 melonbooks.co.jp
 0.0.0.0 melonbox.info
@@ -122525,6 +122531,7 @@
 0.0.0.0 minecraftserverforfree.com
 0.0.0.0 minecraftt.fr
 0.0.0.0 minefieald.fr
+0.0.0.0 minefox.lol
 0.0.0.0 minegone.tk
 0.0.0.0 mineian.tk
 0.0.0.0 mineinvoice.com
@@ -124709,6 +124716,7 @@
 0.0.0.0 mothersonporn.xyz
 0.0.0.0 mothersontube.com
 0.0.0.0 motherspeed.tk
+0.0.0.0 mothertouch.ac.zw
 0.0.0.0 motherwank.com
 0.0.0.0 mothman.tk
 0.0.0.0 motifiles.com
@@ -125279,7 +125287,6 @@
 0.0.0.0 mrstiff.com
 0.0.0.0 mrsurf.co.cc
 0.0.0.0 mrsurf.info
-0.0.0.0 mrsweaterltd.com
 0.0.0.0 mrtb-nj.lfstmedia.com
 0.0.0.0 mrtbmopub-nj.lfstmedia.com
 0.0.0.0 mrteeny.info
@@ -125363,7 +125370,6 @@
 0.0.0.0 msg.simeji.baidu.jp
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 msgoldcodes.epickeys.com
-0.0.0.0 msgrouppolicy.vg
 0.0.0.0 mshardweb.co.cc
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 mshide.info
@@ -130016,7 +130022,6 @@
 0.0.0.0 new.livejasmin.com
 0.0.0.0 new.mmtimes.org
 0.0.0.0 new.naked.com
-0.0.0.0 new.omsules.life
 0.0.0.0 new.proxmachine.com
 0.0.0.0 new.siblaguna.org
 0.0.0.0 new.superguide.net.au
@@ -137292,6 +137297,7 @@
 0.0.0.0 oopsie.tube
 0.0.0.0 oopsmovs.com
 0.0.0.0 oopt.fr
+0.0.0.0 oopz.app
 0.0.0.0 oorex-managed-accounts-3.tk
 0.0.0.0 oornag.nu
 0.0.0.0 oosc.info
@@ -142229,6 +142235,7 @@
 0.0.0.0 pedipaw.co.uk
 0.0.0.0 pedometer-rocklike-unwashed.ngrok-free.dev
 0.0.0.0 peducation.tk
+0.0.0.0 pee-files.nl
 0.0.0.0 peeblo.com
 0.0.0.0 peednolimit.tk
 0.0.0.0 peeing-outdoors.com
@@ -146037,7 +146044,6 @@
 0.0.0.0 plnplna.cfd
 0.0.0.0 ploans-consolidationa.tk
 0.0.0.0 ploaz54.com
-0.0.0.0 plochcarsportsball.top
 0.0.0.0 plodforex.co.cc
 0.0.0.0 ploferta-93742993.shop
 0.0.0.0 ploferta8393937.shop
@@ -166211,6 +166217,7 @@
 0.0.0.0 re-direct.pl
 0.0.0.0 re-election.tk
 0.0.0.0 re-fashion.com
+0.0.0.0 re-id-v3.com
 0.0.0.0 re-worker.com
 0.0.0.0 re.animemoonx.org
 0.0.0.0 re.directrev.com
@@ -173354,7 +173361,6 @@
 0.0.0.0 screwthesystem.com
 0.0.0.0 scrhotpoljk.lovable.app
 0.0.0.0 scribbens.fr
-0.0.0.0 scribblebubblebibi.top
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 scribe.ttwitter.com
 0.0.0.0 scribe.twitter.com
@@ -179049,6 +179055,7 @@
 0.0.0.0 sigmabrowse.com
 0.0.0.0 sigmabypass.info
 0.0.0.0 sigmaclient.net
+0.0.0.0 sigmaclient.org
 0.0.0.0 sigmapic.com
 0.0.0.0 sigmapics.com
 0.0.0.0 sigmaproxy.com
@@ -186567,7 +186574,6 @@
 0.0.0.0 steeljaws.tk
 0.0.0.0 steelprox.info
 0.0.0.0 steelproxy.com
-0.0.0.0 steelstanleystaystrong.top
 0.0.0.0 steelstone.tk
 0.0.0.0 steeltunnel.info
 0.0.0.0 steeltunnel.tk
@@ -197717,7 +197723,6 @@
 0.0.0.0 therapis-justfoxs.tk
 0.0.0.0 therapisfoxs.tk
 0.0.0.0 therapistla.com
-0.0.0.0 therapygeorgia.com
 0.0.0.0 therapyporn.com
 0.0.0.0 therapyschool.info
 0.0.0.0 therapysurf.tk
@@ -208788,7 +208793,6 @@
 0.0.0.0 universalmarkets.org
 0.0.0.0 universalpeel.tk
 0.0.0.0 universalproxy.info
-0.0.0.0 universami.ge
 0.0.0.0 universblack.com
 0.0.0.0 universe.nz.gs
 0.0.0.0 universe.send.microad.jp
@@ -211315,7 +211319,6 @@
 0.0.0.0 v-tunnel.info
 0.0.0.0 v-tunnel.org
 0.0.0.0 v-voice.com
-0.0.0.0 v-w-v.com
 0.0.0.0 v-wrd.com
 0.0.0.0 v.100porno.one
 0.0.0.0 v.100shmar.net
@@ -213783,6 +213786,7 @@
 0.0.0.0 viewfreely.info
 0.0.0.0 viewgals-com.ru
 0.0.0.0 viewgals.com
+0.0.0.0 viewgit.sbs
 0.0.0.0 viewhdporn.com
 0.0.0.0 viewindian.com
 0.0.0.0 viewinput.tk
@@ -218517,7 +218521,6 @@
 0.0.0.0 webcrawlers.info
 0.0.0.0 webcredit.tk
 0.0.0.0 webcrewforex.tk
-0.0.0.0 webcstore.pw
 0.0.0.0 webcurtain.info
 0.0.0.0 webcustomdesign.store
 0.0.0.0 webdaili.tk
