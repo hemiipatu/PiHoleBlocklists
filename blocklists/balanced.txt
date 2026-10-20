@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.71
-# Updated: 2026-10-19 03:43:22 UTC
-# Total Unique Domains: 79,316
+# Version: v1.0.72
+# Updated: 2026-10-20 03:54:26 UTC
+# Total Unique Domains: 79,340
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -1378,6 +1378,7 @@
 0.0.0.0 69er.de
 0.0.0.0 69fcb79c002e689734cad7411fe0d2e2000.appwrite.network
 0.0.0.0 69net.de
+0.0.0.0 6ak-tehnik.si
 0.0.0.0 6amateure.net
 0.0.0.0 6b73d00a-d4a1-4350-825a-cd3f49afa460.register.collector.scopely.io
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
@@ -10262,6 +10263,7 @@
 0.0.0.0 bankofamerica.tt.omtrdc.net
 0.0.0.0 bankportal.net
 0.0.0.0 bankrate.112.2o7.net
+0.0.0.0 bankruptcyrhodeisland.com
 0.0.0.0 banktips.space
 0.0.0.0 bankwest.112.2o7.net
 0.0.0.0 banman.isoftmarketing.com
@@ -10742,6 +10744,7 @@
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 beacon.tru.am
 0.0.0.0 beacon.tunecore.com
+0.0.0.0 beacon.viafoura.io
 0.0.0.0 beacon.walmart.ca
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
@@ -11037,6 +11040,7 @@
 0.0.0.0 betawildstarkey.com
 0.0.0.0 betclic.com
 0.0.0.0 betheball.112.2o7.net
+0.0.0.0 betmagik.com
 0.0.0.0 betmaster.site
 0.0.0.0 betpromo247.com
 0.0.0.0 betr-for-tod.com
@@ -11309,6 +11313,7 @@
 0.0.0.0 biserka.xyz
 0.0.0.0 bisesdiaphragmatccically.info
 0.0.0.0 bisikletgonulbirligi.com
+0.0.0.0 bismarckchiropractor.com
 0.0.0.0 bisoncasino2.io
 0.0.0.0 bispostyle.com
 0.0.0.0 bit-60-lexipro.com
@@ -15109,6 +15114,7 @@
 0.0.0.0 closefly.com
 0.0.0.0 closetlondon.org
 0.0.0.0 cloubflare.net
+0.0.0.0 cloubflare.top
 0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-observer.ip-label.net
@@ -18118,6 +18124,7 @@
 0.0.0.0 derekhail.us.intellitxt.com
 0.0.0.0 deriv.com
 0.0.0.0 derkeiler.com
+0.0.0.0 dermaclinicmd.com
 0.0.0.0 dermalentesog.pro
 0.0.0.0 derstand.oewabox.at
 0.0.0.0 derstandard.nuggad.net
@@ -18802,6 +18809,7 @@
 0.0.0.0 domainfwding.com
 0.0.0.0 domaining.in
 0.0.0.0 domainloading.net
+0.0.0.0 domainmob.com
 0.0.0.0 domainplayersclub.com
 0.0.0.0 domainport.net
 0.0.0.0 domains-resolver.net
@@ -19044,6 +19052,7 @@
 0.0.0.0 download.pdf00.com
 0.0.0.0 download.realtimegaming.com
 0.0.0.0 download.televisionfanatic.com
+0.0.0.0 download.vertex-software.digital
 0.0.0.0 download.weatherblink.com
 0.0.0.0 download.wildcard.applovin.com.edgekey.net
 0.0.0.0 download.yesmessenger.com
@@ -24333,6 +24342,7 @@
 0.0.0.0 gabecsgo.com
 0.0.0.0 gabinetnewline.pl
 0.0.0.0 gabrielahlavack.samcart.com
+0.0.0.0 gabyagozetim.com
 0.0.0.0 gaccrishness.info
 0.0.0.0 gaczynski.pl
 0.0.0.0 gad.impresionesweb.com
@@ -26066,6 +26076,7 @@
 0.0.0.0 groupstats.event.zalo.me
 0.0.0.0 groutlance.com
 0.0.0.0 grovehue.shop
+0.0.0.0 groverudder12.com
 0.0.0.0 grow.gab.com
 0.0.0.0 grow.rtk.io
 0.0.0.0 growgreenhorizons.com
@@ -30314,6 +30325,7 @@
 0.0.0.0 juliolongares.com
 0.0.0.0 juliyea.sbs
 0.0.0.0 julyneeds.com
+0.0.0.0 jumalputty.com
 0.0.0.0 jumcna.cjt1.net
 0.0.0.0 jump.aragontrack.com
 0.0.0.0 jump.ewoss.net
@@ -30767,6 +30779,7 @@
 0.0.0.0 kilo.intrack.ir
 0.0.0.0 kilomniadst.info
 0.0.0.0 kilut.ru
+0.0.0.0 kimberly.digital
 0.0.0.0 kimbexo.shop
 0.0.0.0 kimhaynesphoto.com
 0.0.0.0 kimyen.net
@@ -31600,6 +31613,7 @@
 0.0.0.0 leadsynaptic.go2jump.org
 0.0.0.0 leadzu.com
 0.0.0.0 leadzupc.com
+0.0.0.0 leafdraft18.com
 0.0.0.0 leaffi.jp
 0.0.0.0 leafridere.info
 0.0.0.0 league-gamers.com
@@ -35591,6 +35605,7 @@
 0.0.0.0 msdk.qq.com
 0.0.0.0 msdk.rqmob.com
 0.0.0.0 msdtcupdate.com
+0.0.0.0 msedge.vg
 0.0.0.0 msend.microad.jp
 0.0.0.0 mseuppremain.112.2o7.net
 0.0.0.0 mseupwinxpfam.112.2o7.net
@@ -37910,6 +37925,7 @@
 0.0.0.0 oiexsfuj.shop
 0.0.0.0 oilllx.shop
 0.0.0.0 oilprofit-click.pages.dev
+0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 ois.is
@@ -41644,6 +41660,7 @@
 0.0.0.0 povarczq.shop
 0.0.0.0 powaifinearts.org
 0.0.0.0 powellsbooks.122.2o7.net
+0.0.0.0 power-shell.cc
 0.0.0.0 powerad.ai
 0.0.0.0 poweredbyliquidfire.mobi
 0.0.0.0 poweredlock.com
@@ -42397,6 +42414,7 @@
 0.0.0.0 przytulny.com
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-jp.amazon-adsystem.com
+0.0.0.0 ps-ps.cc
 0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 ps.eyeota.net
 0.0.0.0 ps.innity.com
@@ -44795,6 +44813,7 @@
 0.0.0.0 rundexo.shop
 0.0.0.0 rundsp.com
 0.0.0.0 runedo.ru
+0.0.0.0 runelight.net
 0.0.0.0 runelite.cc
 0.0.0.0 runerank.org
 0.0.0.0 runionv62ul3roit.onion.pet
@@ -50154,6 +50173,7 @@
 0.0.0.0 sworkitads.herokuapp.com
 0.0.0.0 swrap.tradedoubler.com
 0.0.0.0 swrve.com
+0.0.0.0 swscripts.com
 0.0.0.0 swsoft.122.2o7.net
 0.0.0.0 swtkes.com
 0.0.0.0 sx.nazari.org
@@ -53604,6 +53624,7 @@
 0.0.0.0 txtspy.org
 0.0.0.0 txx.tjme.io
 0.0.0.0 ty65xcc-smart-manatee.mybluemix.net
+0.0.0.0 tycons.com
 0.0.0.0 tylko-dla-ciebie.com
 0.0.0.0 tynt.com
 0.0.0.0 typerguru.online
@@ -54804,6 +54825,7 @@
 0.0.0.0 verifiedreview.online
 0.0.0.0 verifiedreview.today
 0.0.0.0 verifiedxmarkets.net
+0.0.0.0 verifing-server.codes
 0.0.0.0 verify-log.top
 0.0.0.0 verify.mob.com
 0.0.0.0 verify.rambler-profile.site
@@ -55132,6 +55154,7 @@
 0.0.0.0 vincenzodellavecchia.xyz
 0.0.0.0 vindicosuite.com
 0.0.0.0 vindictushack.us
+0.0.0.0 vine-linen.com
 0.0.0.0 vinewosxxmically.info
 0.0.0.0 vinkelvej12.dk
 0.0.0.0 vinobmmannered.info
@@ -79066,6 +79089,7 @@
 0.0.0.0 zimanew.ru
 0.0.0.0 zimmernroofingservices.com
 0.0.0.0 zimunap.ru
+0.0.0.0 zimzar.site
 0.0.0.0 zinamax.pl
 0.0.0.0 zinfold.online
 0.0.0.0 zingmarkbit-digital.pages.dev
