@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.72
-# Updated: 2026-10-20 03:54:31 UTC
-# Total Unique Domains: 266,416
+# Version: v1.0.73
+# Updated: 2026-10-21 03:44:16 UTC
+# Total Unique Domains: 266,438
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -2534,6 +2534,7 @@
 0.0.0.0 2hidden.tk
 0.0.0.0 2hide.net
 0.0.0.0 2hideip.cn
+0.0.0.0 2homebrews.com
 0.0.0.0 2hotmilfs.com
 0.0.0.0 2ht.info
 0.0.0.0 2ibeworking.info
@@ -5248,7 +5249,6 @@
 0.0.0.0 69xporn.com
 0.0.0.0 69xvideo.com
 0.0.0.0 6adcgngnn.ggccxpj006.xyz
-0.0.0.0 6ak-tehnik.si
 0.0.0.0 6amateure.net
 0.0.0.0 6annonce.net
 0.0.0.0 6anzeiger.com
@@ -9130,6 +9130,7 @@
 0.0.0.0 ad.turn.com.akadns.net
 0.0.0.0 ad.tv2.no
 0.0.0.0 ad.tw.doubleclick.net
+0.0.0.0 ad.twinrdengine.com
 0.0.0.0 ad.uk.doubleclick.net
 0.0.0.0 ad.universcine.com
 0.0.0.0 ad.us.doubleclick.net
@@ -9956,6 +9957,7 @@
 0.0.0.0 adition.com
 0.0.0.0 adition.de
 0.0.0.0 adition.net
+0.0.0.0 adiyamancamkornis.com.tr
 0.0.0.0 adiyulianto.cz.cc
 0.0.0.0 adiyulianto.info
 0.0.0.0 adizio.com
@@ -19295,6 +19297,7 @@
 0.0.0.0 antycenzors.tk
 0.0.0.0 antyweb.push-ad.com
 0.0.0.0 anubandi.com
+0.0.0.0 anubisclient.co.uk
 0.0.0.0 anudeart.com
 0.0.0.0 anudeteen.com
 0.0.0.0 anufacure.com
@@ -20072,6 +20075,7 @@
 0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 api.xv-cdn.net
 0.0.0.0 api.xxxshame.com
+0.0.0.0 api.xyz-code.biz
 0.0.0.0 api.yieldlove-ad-serving.net
 0.0.0.0 api.zanox.com
 0.0.0.0 api.zcoup.com
@@ -20314,6 +20318,7 @@
 0.0.0.0 app.adywind.com
 0.0.0.0 app.aflink.com
 0.0.0.0 app.ants.vn
+0.0.0.0 app.app-river.icu
 0.0.0.0 app.appleadwords.net
 0.0.0.0 app.appsflyer.com
 0.0.0.0 app.appzcvb.com
@@ -39677,7 +39682,6 @@
 0.0.0.0 cdn.wetwap.info
 0.0.0.0 cdn.wg.uproxx.com
 0.0.0.0 cdn.wild-babes.com
-0.0.0.0 cdn.wovplaying.help
 0.0.0.0 cdn.wwwpromoter.com
 0.0.0.0 cdn.x-lift.jp
 0.0.0.0 cdn.x1cdn.com
@@ -42526,6 +42530,7 @@
 0.0.0.0 check-products.org
 0.0.0.0 check-pz.club
 0.0.0.0 check-tcp.rayjump.com
+0.0.0.0 check.okx3.io
 0.0.0.0 check.or.at
 0.0.0.0 check.porn
 0.0.0.0 check.rayjump.com
@@ -44841,6 +44846,7 @@
 0.0.0.0 cloubflare.net
 0.0.0.0 cloubflare.top
 0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
+0.0.0.0 cloud-browse.codes
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-observer.ip-label.net
 0.0.0.0 cloud-photo.net
@@ -48453,6 +48459,7 @@
 0.0.0.0 cpmstar.com
 0.0.0.0 cpo.adflex.vn
 0.0.0.0 cpocommerceinc.112.2o7.net
+0.0.0.0 cpofficial.com
 0.0.0.0 cpornplanet.com
 0.0.0.0 cpr0x.com
 0.0.0.0 cpr0xy.info
@@ -48643,6 +48650,7 @@
 0.0.0.0 crazy-proxy.info
 0.0.0.0 crazy-secret.co.cc
 0.0.0.0 crazy-tranny.com
+0.0.0.0 crazy2cdn.com
 0.0.0.0 crazy4myspace.info
 0.0.0.0 crazyad.tk
 0.0.0.0 crazyagain.com
@@ -55642,6 +55650,7 @@
 0.0.0.0 do-global.com
 0.0.0.0 do-not-enter-here.tk
 0.0.0.0 do-proxys.tk
+0.0.0.0 do.opinionvip.club
 0.0.0.0 do0od.com
 0.0.0.0 do2a.money
 0.0.0.0 do3jobproxy.tk
@@ -56377,6 +56386,7 @@
 0.0.0.0 dontyouknow.info
 0.0.0.0 donutbasefinder.com
 0.0.0.0 donutclients.st
+0.0.0.0 donutclients.top
 0.0.0.0 donutdupe.com
 0.0.0.0 donutproxy.com
 0.0.0.0 donutslice.com
@@ -56785,6 +56795,7 @@
 0.0.0.0 download.cm
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.filmfanatic.com
+0.0.0.0 download.foden.site
 0.0.0.0 download.forfreeminecraft.com
 0.0.0.0 download.fyxm.net
 0.0.0.0 download.grandcloud.cn
@@ -64559,6 +64570,7 @@
 0.0.0.0 faceinstant.com
 0.0.0.0 faceit-cases.org
 0.0.0.0 faceit-cs2.com
+0.0.0.0 faceit.syncacc.pro
 0.0.0.0 facejav.com
 0.0.0.0 facelessbook.info
 0.0.0.0 faceluck-proxys.tk
@@ -66897,6 +66909,7 @@
 0.0.0.0 featuredpro.tk
 0.0.0.0 featurelimits.tk
 0.0.0.0 featureme.info
+0.0.0.0 featuresfoundation.com
 0.0.0.0 featuresly.tk
 0.0.0.0 featuresurfer.co.cc
 0.0.0.0 feb02-proxy.co.cc
@@ -83080,6 +83093,7 @@
 0.0.0.0 gobid.info
 0.0.0.0 gobigtitsporn.com
 0.0.0.0 gobio.info
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 gobli.world
 0.0.0.0 goblocksite.com
 0.0.0.0 gobokep.com
@@ -92365,6 +92379,7 @@
 0.0.0.0 hobbyladies.net
 0.0.0.0 hobe.cc
 0.0.0.0 hobfezu.ru
+0.0.0.0 hobobot.net
 0.0.0.0 hobofrank.com
 0.0.0.0 hobomovies.com
 0.0.0.0 hoboproxy.com
@@ -110516,6 +110531,7 @@
 0.0.0.0 l.adxcore.com
 0.0.0.0 l.amateur.tv
 0.0.0.0 l.betrad.com
+0.0.0.0 l.ca.ovhcloud.com
 0.0.0.0 l.clips4sale.com
 0.0.0.0 l.d.eclick.vn
 0.0.0.0 l.evidon.com
@@ -124967,7 +124983,6 @@
 0.0.0.0 msdk.qq.com
 0.0.0.0 msdk.rqmob.com
 0.0.0.0 msdtcupdate.com
-0.0.0.0 msedge.vg
 0.0.0.0 msend.microad.jp
 0.0.0.0 mseuppremain.112.2o7.net
 0.0.0.0 mseupwinxpfam.112.2o7.net
@@ -133467,6 +133482,7 @@
 0.0.0.0 nurxxx.mobi
 0.0.0.0 nurxxx.xxx
 0.0.0.0 nusabitpulse.com
+0.0.0.0 nusatoyota.co.id
 0.0.0.0 nuseek.com
 0.0.0.0 nusexy.com
 0.0.0.0 nushemale.com
@@ -143609,6 +143625,7 @@
 0.0.0.0 picturescreenstroy.ru
 0.0.0.0 picturesjpg.tech
 0.0.0.0 picturesmix.com
+0.0.0.0 pictureurl.com
 0.0.0.0 picunt.com
 0.0.0.0 picupload.tnaflix.com
 0.0.0.0 picura.it
@@ -165388,7 +165405,6 @@
 0.0.0.0 raxtor.ed.mu
 0.0.0.0 raxveli.shop
 0.0.0.0 raxvuro.shop
-0.0.0.0 ray-id-v3.com
 0.0.0.0 ray-proxys.tk
 0.0.0.0 ray-proxyv.tk
 0.0.0.0 ray5-proxy.tk
@@ -171318,6 +171334,7 @@
 0.0.0.0 santabanta.info
 0.0.0.0 santabanta.ws
 0.0.0.0 santabreak.co.cc
+0.0.0.0 santaclaracountyproperties.com
 0.0.0.0 santacloud.tk
 0.0.0.0 santacruzsentinel.112.2o7.net
 0.0.0.0 santacruzsentinelcom.112.2o7.net
@@ -171685,6 +171702,7 @@
 0.0.0.0 sblockdoctor.tk
 0.0.0.0 sblockdoctor93.tk
 0.0.0.0 sblockdoctors93.tk
+0.0.0.0 sbmods.top
 0.0.0.0 sbokep.site
 0.0.0.0 sboob.com
 0.0.0.0 sborsgossi.store
@@ -179689,6 +179707,7 @@
 0.0.0.0 skysway.tk
 0.0.0.0 skytunnels.tk
 0.0.0.0 skytunnels7.tk
+0.0.0.0 skyvault.help
 0.0.0.0 skywalker.tk
 0.0.0.0 skyway.capital
 0.0.0.0 skyxxxgals.info
@@ -187051,6 +187070,7 @@
 0.0.0.0 styleekturkey.com
 0.0.0.0 styleeuropa.shop
 0.0.0.0 stylefindeu.shop
+0.0.0.0 stylegeneration.ma
 0.0.0.0 stylein.digital
 0.0.0.0 styleja.com
 0.0.0.0 stylemotion.pl
@@ -211853,6 +211873,7 @@
 0.0.0.0 victoriaadvocate.112.2o7.net
 0.0.0.0 victorino.nz.gs
 0.0.0.0 victorlutte.cl
+0.0.0.0 victorregenerativemedicinecenters.com
 0.0.0.0 victory-jump.co.cc
 0.0.0.0 victory-thing.fun
 0.0.0.0 victorybrowse.tk
@@ -264103,6 +264124,7 @@
 0.0.0.0 youreatinghabits.com
 0.0.0.0 youreinvisible.com
 0.0.0.0 youreinvisible.info
+0.0.0.0 youreonlymassive.com
 0.0.0.0 youretro.com
 0.0.0.0 yourfantasys.com
 0.0.0.0 yourfat.tk
