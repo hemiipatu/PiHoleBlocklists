@@ -1,6 +1,6 @@
 # Blocklist Tier: Basic
-# Version: v1.0.74
-# Updated: 2026-10-22 03:43:57 UTC
+# Version: v1.0.75
+# Updated: 2026-10-23 03:48:32 UTC
 # Total Unique Domains: 6,540
 
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com

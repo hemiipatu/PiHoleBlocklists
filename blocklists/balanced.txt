@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.74
-# Updated: 2026-10-22 03:43:59 UTC
-# Total Unique Domains: 79,316
+# Version: v1.0.75
+# Updated: 2026-10-23 03:48:33 UTC
+# Total Unique Domains: 79,317
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -48524,6 +48524,7 @@
 0.0.0.0 spyarsenal.com
 0.0.0.0 spyhunter-download.s3.amazonaws.com
 0.0.0.0 spylog.com
+0.0.0.0 spyrep.com
 0.0.0.0 spyware-removers.shengen.ru
 0.0.0.0 spywarebegone.com
 0.0.0.0 spywareit.com

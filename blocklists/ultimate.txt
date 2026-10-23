@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.74
-# Updated: 2026-10-22 03:44:02 UTC
-# Total Unique Domains: 266,392
+# Version: v1.0.75
+# Updated: 2026-10-23 03:48:39 UTC
+# Total Unique Domains: 266,393
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -183717,6 +183717,7 @@
 0.0.0.0 spyproxy.info
 0.0.0.0 spyproxy.tk
 0.0.0.0 spyrabbit.com
+0.0.0.0 spyrep.com
 0.0.0.0 spyross.tk
 0.0.0.0 spys.ru
 0.0.0.0 spyschool.info
