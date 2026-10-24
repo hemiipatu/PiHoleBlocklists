@@ -1,7 +1,7 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.75
-# Updated: 2026-10-23 03:48:33 UTC
-# Total Unique Domains: 79,317
+# Version: v1.0.76
+# Updated: 2026-10-24 03:42:42 UTC
+# Total Unique Domains: 79,310
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -2437,7 +2437,6 @@
 0.0.0.0 abseckw.adtlgc.com
 0.0.0.0 abshop.fr
 0.0.0.0 absolute-live.com
-0.0.0.0 absolutering.com
 0.0.0.0 absolutewrite.fr
 0.0.0.0 absolutezeros.duckdns.org
 0.0.0.0 absorbingband.com
@@ -10545,7 +10544,6 @@
 0.0.0.0 bassprod.112.2o7.net
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 basterr.popunder.ru
-0.0.0.0 bastingart.com
 0.0.0.0 bastioncapridge-pro.pages.dev
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
@@ -11243,7 +11241,6 @@
 0.0.0.0 bigstar-pl.shop
 0.0.0.0 bigstarstore.top
 0.0.0.0 bigtus.com
-0.0.0.0 bigworldfashion.com
 0.0.0.0 bihsmqzbujo.tyle.workers.dev
 0.0.0.0 bikearena.shop
 0.0.0.0 bikeforumsnet.skimlinks.com
@@ -29860,7 +29857,6 @@
 0.0.0.0 jeuxtricheur.com
 0.0.0.0 jevikkuvra.com
 0.0.0.0 jevrauvely.com
-0.0.0.0 jewelrysprings.com
 0.0.0.0 jewsondirect.com
 0.0.0.0 jexbari.shop
 0.0.0.0 jexenward.com
@@ -30651,7 +30647,6 @@
 0.0.0.0 kergaukr.com
 0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
 0.0.0.0 kermitowy-sklep.pl
-0.0.0.0 kernellife.com
 0.0.0.0 kernh41.com
 0.0.0.0 kernlichta.com
 0.0.0.0 kernpragur-trading-denmark.sbs
@@ -38847,7 +38842,6 @@
 0.0.0.0 optimus-de.com
 0.0.0.0 option9.adultfriendfinder.com
 0.0.0.0 optionmodifycanitem.info
-0.0.0.0 optionsnomad.com
 0.0.0.0 optionstoreplace.com
 0.0.0.0 optipay-click.pages.dev
 0.0.0.0 optmd.com
@@ -57438,7 +57432,6 @@
 0.0.0.0 wrhulagmir.click
 0.0.0.0 wrig.pl
 0.0.0.0 wrigley.122.2o7.net
-0.0.0.0 writerhubs.com
 0.0.0.0 writingassociates.com
 0.0.0.0 writqqescommunises.info
 0.0.0.0 wrontonshatbona.pro

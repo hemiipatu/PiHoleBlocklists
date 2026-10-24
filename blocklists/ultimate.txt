@@ -1,7 +1,7 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.75
-# Updated: 2026-10-23 03:48:39 UTC
-# Total Unique Domains: 266,393
+# Version: v1.0.76
+# Updated: 2026-10-24 03:42:49 UTC
+# Total Unique Domains: 266,386
 
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
@@ -7771,7 +7771,6 @@
 0.0.0.0 absolutelysurfsbest.tk
 0.0.0.0 absoluteproxy.info
 0.0.0.0 absolutereason.com
-0.0.0.0 absolutering.com
 0.0.0.0 absolutesexdoll.com
 0.0.0.0 absolutewrite.fr
 0.0.0.0 absolutezeros.duckdns.org
@@ -25710,7 +25709,6 @@
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 basterds.co.cc
 0.0.0.0 basterr.popunder.ru
-0.0.0.0 bastingart.com
 0.0.0.0 bastioncapridge-pro.pages.dev
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
@@ -29417,7 +29415,6 @@
 0.0.0.0 bigwarp.io
 0.0.0.0 bigwizard.info
 0.0.0.0 bigworkloads.info
-0.0.0.0 bigworldfashion.com
 0.0.0.0 bigxnxx.pro
 0.0.0.0 bigxporn.com
 0.0.0.0 bigxxtube.com
@@ -106217,7 +106214,6 @@
 0.0.0.0 jewelproxy.tk
 0.0.0.0 jewelry3woold.tk
 0.0.0.0 jewelryline.tk
-0.0.0.0 jewelrysprings.com
 0.0.0.0 jewelsbox.tk
 0.0.0.0 jewleryonline.tk
 0.0.0.0 jewplay.com
@@ -108710,7 +108706,6 @@
 0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
 0.0.0.0 kermitowy-sklep.pl
 0.0.0.0 kernel.ma
-0.0.0.0 kernellife.com
 0.0.0.0 kernelmemory.tk
 0.0.0.0 kernelpanic.mine.nu
 0.0.0.0 kernh41.com
@@ -137494,7 +137489,6 @@
 0.0.0.0 optionsbinary.tk
 0.0.0.0 optionsbroker.tk
 0.0.0.0 optionsecret.co.cc
-0.0.0.0 optionsnomad.com
 0.0.0.0 optionsproxy.tk
 0.0.0.0 optionsquotes.tk
 0.0.0.0 optionsquotes2.tk
@@ -221140,7 +221134,6 @@
 0.0.0.0 writenow.cf
 0.0.0.0 writenow.ga
 0.0.0.0 writenow.ml
-0.0.0.0 writerhubs.com
 0.0.0.0 writingassociates.com
 0.0.0.0 writingoffdonations.tk
 0.0.0.0 writqqescommunises.info
