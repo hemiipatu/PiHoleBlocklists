@@ -1,6 +1,6 @@
 # Blocklist Tier: Ultimate
-# Version: v1.0.76
-# Updated: 2026-10-24 03:42:49 UTC
+# Version: v1.0.77
+# Updated: 2026-10-25 03:40:45 UTC
 # Total Unique Domains: 266,386
 
 0.0.0.0 0------------0-------------0.0n-line.biz
