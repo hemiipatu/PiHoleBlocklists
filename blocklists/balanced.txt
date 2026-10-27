@@ -1,6 +1,6 @@
 # Blocklist Tier: Balanced
-# Version: v1.0.78
-# Updated: 2026-10-26 03:44:14 UTC
+# Version: v1.0.79
+# Updated: 2026-10-27 04:07:23 UTC
 # Total Unique Domains: 82,298
 
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
