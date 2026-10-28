@@ -27,9 +27,11 @@ class ExtractDomainsTests(unittest.TestCase):
 
 class FetchDomainsTests(unittest.TestCase):
     def test_source_failure_aborts_build(self):
-        with patch("build.urllib.request.urlopen", side_effect=OSError("offline")):
-            with self.assertRaisesRegex(RuntimeError, "Failed to fetch source"):
-                build.fetch_domains_from_urls(["https://example.test/list"], set())
+        with (
+            patch("build.urllib.request.urlopen", side_effect=OSError("offline")),
+            self.assertRaisesRegex(RuntimeError, "Failed to fetch source"),
+        ):
+            build.fetch_domains_from_urls(["https://example.test/list"], set())
 
 
 class WriteTierFileTests(unittest.TestCase):

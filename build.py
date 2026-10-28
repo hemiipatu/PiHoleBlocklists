@@ -5,8 +5,7 @@ import json
 import os
 import re
 import urllib.request
-from datetime import datetime, timezone
-from typing import Optional, Set
+from datetime import UTC, datetime
 
 OUTPUT_DIR = "blocklists"
 WHITELIST_FILE = "whitelist.txt"
@@ -26,10 +25,10 @@ DEFAULT_WHITELIST = {
 
 def get_version() -> str:
     """Retrieves version from BLOCKLIST_VERSION env var, or defaults to current UTC date tag."""
-    return os.getenv("BLOCKLIST_VERSION", datetime.now(timezone.utc).strftime("v%Y.%m.%d"))
+    return os.getenv("BLOCKLIST_VERSION", datetime.now(UTC).strftime("v%Y.%m.%d"))
 
 
-def sanitize_domain_entry(line: str) -> Optional[str]:
+def sanitize_domain_entry(line: str) -> str | None:
     """
     Strips inline comments, protocol prefixes, trailing slashes, 
     and adblock-style formatting rules to return a clean domain string.
@@ -46,7 +45,7 @@ def sanitize_domain_entry(line: str) -> Optional[str]:
     # Strip protocols and common adblock rule prefixes/suffixes
     line = line.lower()
     line = re.sub(r'^https?://', '', line)
-    line = line.lstrip('||').rstrip('^')
+    line = line.removeprefix('||').removesuffix('^')
 
     # Remove paths or query parameters if present
     if '/' in line:
@@ -72,13 +71,12 @@ def clean_and_deduplicate_whitelist_file(filepath: str):
         print(f"[!] Warning: Whitelist file '{filepath}' not found. Creating a new one.")
         with open(filepath, "w", encoding="utf-8") as f:
             f.write("# Community Whitelist\n\n")
-            for domain in sorted(DEFAULT_WHITELIST):
-                f.write(f"{domain}\n")
+            f.writelines(f"{domain}\n" for domain in sorted(DEFAULT_WHITELIST))
         return
 
     print(f"[+] Sanitizing and deduplicating whitelist file: {filepath}")
     
-    valid_domains: Set[str] = set()
+    valid_domains: set[str] = set()
     file_header_comments = []
 
     with open(filepath, "r", encoding="utf-8") as f:
@@ -96,8 +94,7 @@ def clean_and_deduplicate_whitelist_file(filepath: str):
     # Rewrite whitelist.txt with cleaned, sorted domains
     with open(filepath, "w", encoding="utf-8") as f:
         if file_header_comments:
-            for comment in file_header_comments:
-                f.write(f"{comment}\n")
+            f.writelines(f"{comment}\n" for comment in file_header_comments)
             f.write("\n")
             
         for domain in sorted(valid_domains):
@@ -106,7 +103,7 @@ def clean_and_deduplicate_whitelist_file(filepath: str):
     print(f"    ✔ Cleaned file written with {len(valid_domains):,} unique domains.")
 
 
-def load_whitelist() -> Set[str]:
+def load_whitelist() -> set[str]:
     """Sanitizes root whitelist.txt and loads active whitelist domains into memory."""
     whitelist = set(DEFAULT_WHITELIST)
     
@@ -125,7 +122,7 @@ def load_whitelist() -> Set[str]:
     return whitelist
 
 
-def extract_domains(line: str) -> Set[str]:
+def extract_domains(line: str) -> set[str]:
     """Extract domains from hosts files and common adblock rule formats."""
     line = line.strip()
 
@@ -148,10 +145,7 @@ def extract_domains(line: str) -> Set[str]:
         if '^$' in candidate:
             candidate = candidate.split('^$', 1)[0]
 
-        if candidate.startswith('||'):
-            candidate = candidate[2:]
-        if candidate.endswith('^'):
-            candidate = candidate[:-1]
+        candidate = candidate.removeprefix('||').removesuffix('^')
 
         candidate = candidate.lower()
         if not any(char in candidate for char in '/*:') and DOMAIN_REGEX.fullmatch(candidate):
@@ -160,9 +154,9 @@ def extract_domains(line: str) -> Set[str]:
     return domains
 
 
-def fetch_domains_from_urls(urls: list[str], whitelist: Set[str]) -> Set[str]:
+def fetch_domains_from_urls(urls: list[str], whitelist: set[str]) -> set[str]:
     """Streams data line-by-line to keep RAM usage minimal."""
-    domains: Set[str] = set()
+    domains: set[str] = set()
     headers = {'User-Agent': 'Mozilla/5.0 (BlocklistCompiler/6.0)'}
 
     for url in urls:
@@ -171,11 +165,7 @@ def fetch_domains_from_urls(urls: list[str], whitelist: Set[str]) -> Set[str]:
         try:
             with urllib.request.urlopen(req, timeout=30) as response:
                 for line_bytes in response:
-                    try:
-                        line = line_bytes.decode('utf-8', errors='ignore')
-                    except Exception:
-                        continue
-                    
+                    line = line_bytes.decode('utf-8', errors='ignore')
                     domains.update(extract_domains(line) - whitelist)
         except Exception as e:
             raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
@@ -183,7 +173,7 @@ def fetch_domains_from_urls(urls: list[str], whitelist: Set[str]) -> Set[str]:
     return domains
 
 
-def write_tier_file(filename: str, domains: Set[str], tier_name: str):
+def write_tier_file(filename: str, domains: set[str], tier_name: str):
     """Outputs standard hosts file format with version header."""
     filepath = os.path.join(OUTPUT_DIR, filename)
 
@@ -199,15 +189,14 @@ def write_tier_file(filename: str, domains: Set[str], tier_name: str):
             return
 
     version = get_version()
-    updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    updated_at = datetime.now(UTC).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(f"# Blocklist Tier: {tier_name}\n")
         f.write(f"# Version: {version}\n")
         f.write(f"# Updated: {updated_at}\n")
         f.write(f"# Total Unique Domains: {len(domains):,}\n\n")
-        for domain in sorted(domains):
-            f.write(f"0.0.0.0 {domain}\n")
+        f.writelines(f"0.0.0.0 {domain}\n" for domain in sorted(domains))
     print(f"[+] Saved {tier_name} Tier ({len(domains):,} domains) -> {filepath}\n")
 
 
