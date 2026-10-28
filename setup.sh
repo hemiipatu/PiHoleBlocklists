@@ -1,6 +1,18 @@
 #!/usr/bin/env bash
 
-set -e
+set -euo pipefail
+
+TEMP_BLOCKLIST=""
+TEMP_CHECKSUMS=""
+TEMP_WHITELIST=""
+
+cleanup() {
+  [ -z "$TEMP_BLOCKLIST" ] || rm -f -- "$TEMP_BLOCKLIST"
+  [ -z "$TEMP_CHECKSUMS" ] || rm -f -- "$TEMP_CHECKSUMS"
+  [ -z "$TEMP_WHITELIST" ] || rm -f -- "$TEMP_WHITELIST"
+}
+
+trap cleanup EXIT
 
 main() {
   GITHUB_USER="hemiipatu"
@@ -19,7 +31,12 @@ main() {
   echo " 1) Pi-hole"
   echo " 2) AdGuard Home"
   echo "=================================================================="
-  read -p "Enter platform choice [1-2]: " PLATFORM_CHOICE
+  read -r -p "Enter platform choice [1-2]: " PLATFORM_CHOICE
+
+  case "$PLATFORM_CHOICE" in
+    1|2) ;;
+    *) echo "[!] Invalid selection. Exiting."; exit 1 ;;
+  esac
 
   echo ""
   echo "=================================================================="
@@ -29,7 +46,7 @@ main() {
   echo " 2) Balanced - Recommended for home networks (Ads, Scams, Trackers)"
   echo " 3) Ultimate - Maximum protection (Porn, Ransomware, Redirects)"
   echo "=================================================================="
-  read -p "Enter tier choice [1-3]: " TIER_CHOICE
+  read -r -p "Enter tier choice [1-3]: " TIER_CHOICE
 
   case $TIER_CHOICE in
     1) FILE="basic.txt" ;;
@@ -38,7 +55,18 @@ main() {
     *) echo "[!] Invalid selection. Exiting."; exit 1 ;;
   esac
 
-  RELEASE_BASE_URL="https://github.com/${GITHUB_USER}/${REPO_NAME}/releases/download/latest"
+  RELEASES_API_URL="https://api.github.com/repos/${GITHUB_USER}/${REPO_NAME}/releases/latest"
+  if ! RELEASE_TAG=$(curl -sSLf -H "Accept: application/vnd.github+json" "$RELEASES_API_URL" | sed -n 's/^[[:space:]]*"tag_name":[[:space:]]*"\([^"]*\)".*/\1/p' | head -n 1); then
+    echo "[!] Error: Failed to determine the latest blocklist release."
+    exit 1
+  fi
+
+  if [[ ! "$RELEASE_TAG" =~ ^v[0-9]+(\.[0-9]+){2}$ ]]; then
+    echo "[!] Error: Latest release returned an invalid version tag."
+    exit 1
+  fi
+
+  RELEASE_BASE_URL="https://github.com/${GITHUB_USER}/${REPO_NAME}/releases/download/${RELEASE_TAG}"
   BLOCKLIST_URL="${RELEASE_BASE_URL}/${FILE}"
   CHECKSUM_URL="${RELEASE_BASE_URL}/sha256sums.txt"
   WHITELIST_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/whitelist.txt"
@@ -51,43 +79,37 @@ main() {
 
   if ! curl -sSLf "$BLOCKLIST_URL" -o "$TEMP_BLOCKLIST"; then
     echo "[!] Error: Failed to download blocklist asset: ${FILE}"
-    rm -f "$TEMP_BLOCKLIST" "$TEMP_CHECKSUMS"
     exit 1
   fi
 
-  if curl -sSLf "$CHECKSUM_URL" -o "$TEMP_CHECKSUMS"; then
-    EXPECTED_HASH=$(grep "  ${FILE}$" "$TEMP_CHECKSUMS" | awk '{print $1}')
-    
-    if [ -n "$EXPECTED_HASH" ]; then
-      echo "[+] Verifying SHA256 checksum for ${FILE}..."
-      
-      # Determine system hashing tool (sha256sum or shasum)
-      if command -v sha256sum >/dev/null 2>&1; then
-        ACTUAL_HASH=$(sha256sum "$TEMP_BLOCKLIST" | awk '{print $1}')
-      elif command -v shasum >/dev/null 2>&1; then
-        ACTUAL_HASH=$(shasum -a 256 "$TEMP_BLOCKLIST" | awk '{print $1}')
-      else
-        ACTUAL_HASH=""
-        echo "[!] Warning: No sha256 utility found on system. Skipping hash check."
-      fi
-
-      if [ -n "$ACTUAL_HASH" ]; then
-        if [ "$EXPECTED_HASH" = "$ACTUAL_HASH" ]; then
-          echo "    ✔ Checksum Verified: Integrity OK (${ACTUAL_HASH:0:12}...)"
-        else
-          echo "[!] FATAL SECURITY ERROR: Checksum mismatch for ${FILE}!"
-          echo "    Expected: ${EXPECTED_HASH}"
-          echo "    Got:      ${ACTUAL_HASH}"
-          rm -f "$TEMP_BLOCKLIST" "$TEMP_CHECKSUMS"
-          exit 1
-        fi
-      fi
-    fi
-  else
-    echo "[!] Warning: Could not download sha256sums.txt manifest. Continuing without integrity verification."
+  if ! curl -sSLf "$CHECKSUM_URL" -o "$TEMP_CHECKSUMS"; then
+    echo "[!] Error: Failed to download checksum manifest. Refusing to continue."
+    exit 1
   fi
 
-  rm -f "$TEMP_BLOCKLIST" "$TEMP_CHECKSUMS"
+  EXPECTED_HASH=$(awk -v file="$FILE" '$2 == file { print $1 }' "$TEMP_CHECKSUMS")
+  if [[ ! "$EXPECTED_HASH" =~ ^[[:xdigit:]]{64}$ ]]; then
+    echo "[!] Error: Checksum manifest has no valid SHA256 entry for ${FILE}."
+    exit 1
+  fi
+
+  echo "[+] Verifying SHA256 checksum for ${FILE}..."
+  if command -v sha256sum >/dev/null 2>&1; then
+    ACTUAL_HASH=$(sha256sum "$TEMP_BLOCKLIST" | awk '{print $1}')
+  elif command -v shasum >/dev/null 2>&1; then
+    ACTUAL_HASH=$(shasum -a 256 "$TEMP_BLOCKLIST" | awk '{print $1}')
+  else
+    echo "[!] Error: No SHA256 utility found on system. Refusing to continue."
+    exit 1
+  fi
+
+  if [ "$EXPECTED_HASH" != "$ACTUAL_HASH" ]; then
+    echo "[!] FATAL SECURITY ERROR: Checksum mismatch for ${FILE}!"
+    echo "    Expected: ${EXPECTED_HASH}"
+    echo "    Got:      ${ACTUAL_HASH}"
+    exit 1
+  fi
+  echo "    ✔ Checksum Verified: Integrity OK (${ACTUAL_HASH:0:12}...)"
 
   # --- PLATFORM REGISTRATION ---
   if [ "$PLATFORM_CHOICE" -eq 1 ]; then
@@ -118,8 +140,6 @@ main() {
         echo "$DOMAINS_TO_ADD" | xargs -n 50 pihole -w --comment "Auto-added via Repository Setup" > /dev/null
       fi
     fi
-    rm -f "$TEMP_WHITELIST"
-
     echo "[+] Rebuilding Pi-hole Gravity database..."
     pihole -g
 

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import hashlib
+import ipaddress
 import json
 import os
 import re
@@ -124,29 +125,39 @@ def load_whitelist() -> Set[str]:
     return whitelist
 
 
-def extract_domain(line: str) -> Optional[str]:
-    """Extremely fast domain extractor bypassing heavy regex on dirty lines."""
+def extract_domains(line: str) -> Set[str]:
+    """Extract domains from hosts files and common adblock rule formats."""
     line = line.strip()
-    
-    if not line or line.startswith(('#', '!')):
-        return None
 
-    if '^$' in line:
-        line = line.split('^$', 1)[0]
-    
-    if line.endswith('^'):
-        line = line[:-1]
-    if line.startswith('||'):
-        line = line[2:]
+    if not line or line.startswith(('#', '!', '//')):
+        return set()
 
-    if '/' in line or '*' in line:
-        return None
+    line = line.split('#', 1)[0].strip()
+    if not line:
+        return set()
 
-    if ' ' in line or '\t' in line:
-        parts = line.split()
-        line = parts[-1]
+    parts = line.split()
+    try:
+        ipaddress.ip_address(parts[0])
+        candidates = parts[1:]
+    except ValueError:
+        candidates = parts
 
-    return line.lower()
+    domains = set()
+    for candidate in candidates:
+        if '^$' in candidate:
+            candidate = candidate.split('^$', 1)[0]
+
+        if candidate.startswith('||'):
+            candidate = candidate[2:]
+        if candidate.endswith('^'):
+            candidate = candidate[:-1]
+
+        candidate = candidate.lower()
+        if not any(char in candidate for char in '/*:') and DOMAIN_REGEX.fullmatch(candidate):
+            domains.add(candidate)
+
+    return domains
 
 
 def fetch_domains_from_urls(urls: list[str], whitelist: Set[str]) -> Set[str]:
@@ -165,12 +176,9 @@ def fetch_domains_from_urls(urls: list[str], whitelist: Set[str]) -> Set[str]:
                     except Exception:
                         continue
                     
-                    domain = extract_domain(line)
-                    if domain and domain not in whitelist:
-                        if DOMAIN_REGEX.match(domain):
-                            domains.add(domain)
+                    domains.update(extract_domains(line) - whitelist)
         except Exception as e:
-            print(f"  [!] ERROR fetching {url}: {e}")
+            raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
 
     return domains
 
@@ -178,6 +186,18 @@ def fetch_domains_from_urls(urls: list[str], whitelist: Set[str]) -> Set[str]:
 def write_tier_file(filename: str, domains: Set[str], tier_name: str):
     """Outputs standard hosts file format with version header."""
     filepath = os.path.join(OUTPUT_DIR, filename)
+
+    if os.path.exists(filepath):
+        existing_domains = set()
+        with open(filepath, "r", encoding="utf-8") as f:
+            for line in f:
+                parts = line.split()
+                if len(parts) == 2 and parts[0] == "0.0.0.0":
+                    existing_domains.add(parts[1])
+        if existing_domains == domains:
+            print(f"[+] No domain changes for {tier_name} Tier; keeping existing file.\n")
+            return
+
     version = get_version()
     updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
