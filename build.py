@@ -97,8 +97,7 @@ def clean_and_deduplicate_whitelist_file(filepath: str):
             f.writelines(f"{comment}\n" for comment in file_header_comments)
             f.write("\n")
             
-        for domain in sorted(valid_domains):
-            f.write(f"{domain}\n")
+        f.writelines(f"{domain}\n" for domain in sorted(valid_domains))
 
     print(f"    ✔ Cleaned file written with {len(valid_domains):,} unique domains.")
 
