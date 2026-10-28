@@ -4,6 +4,7 @@ import ipaddress
 import json
 import os
 import re
+import urllib.error
 import urllib.request
 from datetime import UTC, datetime
 
@@ -156,6 +157,7 @@ def extract_domains(line: str) -> set[str]:
 def fetch_domains_from_urls(urls: list[str], whitelist: set[str]) -> set[str]:
     """Streams data line-by-line to keep RAM usage minimal."""
     domains: set[str] = set()
+    successful_sources = 0
     headers = {'User-Agent': 'Mozilla/5.0 (BlocklistCompiler/6.0)'}
 
     for url in urls:
@@ -166,8 +168,17 @@ def fetch_domains_from_urls(urls: list[str], whitelist: set[str]) -> set[str]:
                 for line_bytes in response:
                     line = line_bytes.decode('utf-8', errors='ignore')
                     domains.update(extract_domains(line) - whitelist)
+            successful_sources += 1
+        except urllib.error.HTTPError as e:
+            if e.code in (404, 410):
+                print(f"  [!] Skipping unavailable source (HTTP {e.code}): {url}")
+                continue
+            raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
         except Exception as e:
             raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
+
+    if successful_sources == 0:
+        raise RuntimeError("No sources could be fetched.")
 
     return domains
 

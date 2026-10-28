@@ -1,5 +1,7 @@
+import io
 import tempfile
 import unittest
+import urllib.error
 from pathlib import Path
 from unittest.mock import patch
 
@@ -26,6 +28,42 @@ class ExtractDomainsTests(unittest.TestCase):
 
 
 class FetchDomainsTests(unittest.TestCase):
+    def test_not_found_and_gone_sources_are_skipped_when_another_succeeds(self):
+        for status in (404, 410):
+            with self.subTest(status=status):
+                unavailable_url = "https://example.test/unavailable"
+                available_url = "https://example.test/available"
+                unavailable = urllib.error.HTTPError(
+                    unavailable_url, status, "Unavailable", None, None
+                )
+                response = io.BytesIO(b"0.0.0.0 live.example\n")
+
+                with patch(
+                    "build.urllib.request.urlopen",
+                    side_effect=[unavailable, response],
+                ):
+                    domains = build.fetch_domains_from_urls(
+                        [unavailable_url, available_url], set()
+                    )
+
+                self.assertEqual(domains, {"live.example"})
+
+    def test_all_permanently_missing_sources_fail(self):
+        for status in (404, 410):
+            with self.subTest(status=status):
+                url = "https://example.test/unavailable"
+                unavailable = urllib.error.HTTPError(
+                    url, status, "Unavailable", None, None
+                )
+
+                with (
+                    patch("build.urllib.request.urlopen", side_effect=unavailable),
+                    self.assertRaisesRegex(
+                        RuntimeError, "No sources could be fetched"
+                    ),
+                ):
+                    build.fetch_domains_from_urls([url], set())
+
     def test_source_failure_aborts_build(self):
         with (
             patch("build.urllib.request.urlopen", side_effect=OSError("offline")),
