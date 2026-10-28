@@ -45,24 +45,19 @@ This project compiles, deduplicates, and optimizes data from several upstream ma
 | **Fraudulent** | **HaGeZi** | [Fake List](https://github.com/hagezi/dns-blocklists) |
 | | **Blocklist Project** | [Fraud List](https://github.com/blocklistproject/Lists) |
 | | **Spam404** | [Main Blacklist](https://github.com/Spam404/lists) |
-| **Malware** | **abuse.ch** | [URLhaus](https://urlhaus.abuse.ch/) |
-| | **HaGeZi** | [Threat Intelligence Feed (TIF)](https://github.com/hagezi/dns-blocklists) |
-| | **DShield Threat Feed** | [Malicious Domains](https://github.com/Dshield-Threat-Feed/DShield-Malicious-Domains) |
-| | **Blocklist Project** | [Malware List](https://github.com/blocklistproject/Lists) |
+| **Malware** | **HaGeZi** | [Threat Intelligence Feed (TIF)](https://github.com/hagezi/dns-blocklists) |
 | | **OISD** | [OISD Blocklist](https://oisd.nl/) |
-| **Phishing** | **Mitchell Krog** | [Phishing Database](https://github.com/mitchellkrogza/Phishing.Database) |
+| **Phishing** | **Phishing Database** | [Active Domains](https://github.com/Phishing-Database/Phishing.Database) |
 | | **Blocklist Project** | [Phishing List](https://github.com/blocklistproject/Lists) |
 | | **OpenPhish** | [OpenPhish Feed](https://openphish.com/) |
 | **Pornography / NSFW** | **StevenBlack** | [Porn Alternates](https://github.com/StevenBlack/hosts) |
 | | **Blocklist Project** | [Porn List](https://github.com/blocklistproject/Lists) |
-| | **Snawoot** | [NSFW Hosts](https://github.com/Snawoot/nsfw-hosts) |
+| | **HaGeZi** | [NSFW List](https://github.com/hagezi/dns-blocklists) |
 | **Ransomware** | **Blocklist Project** | [Ransomware List](https://github.com/blocklistproject/Lists) |
-| | **ThreatFox (abuse.ch)** | [ThreatFox Hosts](https://threatfox.abuse.ch/) |
 | **Redirects** | **Blocklist Project** | [Redirect List](https://github.com/blocklistproject/Lists) |
 | **Regex** | **mmotti** | [Pi-hole Regex](https://github.com/mmotti/pihole-regex) |
 | | **cbuijs** | [Pi-hole Regex](https://github.com/cbuijs/pihole-regex) |
-| **Scams** | **DurableNapkin** | [Scam Blocklist](https://github.com/DurableNapkin/Scam-Blocklist) |
-| | **Blocklist Project** | [Scam List](https://github.com/blocklistproject/Lists) |
+| **Scams** | **Blocklist Project** | [Scam List](https://github.com/blocklistproject/Lists) |
 
 > **Note:** If you are a list maintainer and would like to update your credit link or request a change, please open an issue.
 
