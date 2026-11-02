@@ -85,5 +85,39 @@ class WriteTierFileTests(unittest.TestCase):
             self.assertEqual(output_path.read_text(encoding="utf-8"), original_content)
 
 
+class CategoryBuildTests(unittest.TestCase):
+    def test_category_domains_merge_across_tiers_and_aliases(self):
+        all_categories = {}
+
+        tier_domains = build.add_category_domains(
+            all_categories,
+            {
+                "malware": {"first.example"},
+                "malware_extra": {"second.example"},
+            },
+        )
+
+        self.assertEqual(tier_domains, {"first.example", "second.example"})
+        self.assertEqual(
+            all_categories,
+            {"malware": {"first.example", "second.example"}},
+        )
+
+    def test_category_file_uses_existing_hosts_format(self):
+        with tempfile.TemporaryDirectory() as output_dir:
+            output_path = Path(output_dir) / "scam.txt"
+
+            with patch.object(build, "OUTPUT_DIR", output_dir):
+                build.write_category_file("scam", {"a.example", "b.example"})
+
+            self.assertEqual(
+                output_path.read_text(encoding="utf-8"),
+                "# Category: scam\n"
+                "# Total Unique Entries: 2\n"
+                "0.0.0.0 a.example\n"
+                "0.0.0.0 b.example\n",
+            )
+
+
 if __name__ == "__main__":
     unittest.main()

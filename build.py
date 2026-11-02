@@ -11,6 +11,7 @@ from datetime import UTC, datetime
 OUTPUT_DIR = "blocklists"
 WHITELIST_FILE = "whitelist.txt"
 SUMMARY_FILE = "build_summary.md"
+CATEGORY_ALIASES = {"malware_extra": "malware"}
 
 # Pre-compiled strict domain matcher
 DOMAIN_REGEX = re.compile(
@@ -154,33 +155,54 @@ def extract_domains(line: str) -> set[str]:
     return domains
 
 
-def fetch_domains_from_urls(urls: list[str], whitelist: set[str]) -> set[str]:
+def fetch_domains_by_category(
+    categories: dict[str, list[str]], whitelist: set[str]
+) -> dict[str, set[str]]:
     """Streams data line-by-line to keep RAM usage minimal."""
-    domains: set[str] = set()
+    domains_by_category = {category: set() for category in categories}
     successful_sources = 0
     headers = {'User-Agent': 'Mozilla/5.0 (BlocklistCompiler/6.0)'}
 
-    for url in urls:
-        print(f"  --> Fetching: {url}")
-        req = urllib.request.Request(url, headers=headers)
-        try:
-            with urllib.request.urlopen(req, timeout=30) as response:
-                for line_bytes in response:
-                    line = line_bytes.decode('utf-8', errors='ignore')
-                    domains.update(extract_domains(line) - whitelist)
-            successful_sources += 1
-        except urllib.error.HTTPError as e:
-            if e.code in (404, 410):
-                print(f"  [!] Skipping unavailable source (HTTP {e.code}): {url}")
-                continue
-            raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
-        except Exception as e:
-            raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
+    for category, urls in categories.items():
+        for url in urls:
+            print(f"  --> Fetching: {url}")
+            req = urllib.request.Request(url, headers=headers)
+            try:
+                with urllib.request.urlopen(req, timeout=30) as response:
+                    for line_bytes in response:
+                        line = line_bytes.decode('utf-8', errors='ignore')
+                        domains_by_category[category].update(extract_domains(line) - whitelist)
+                successful_sources += 1
+            except urllib.error.HTTPError as e:
+                if e.code in (404, 410):
+                    print(f"  [!] Skipping unavailable source (HTTP {e.code}): {url}")
+                    continue
+                raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
+            except Exception as e:
+                raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
 
     if successful_sources == 0:
         raise RuntimeError("No sources could be fetched.")
 
-    return domains
+    return domains_by_category
+
+
+def fetch_domains_from_urls(urls: list[str], whitelist: set[str]) -> set[str]:
+    """Fetches and combines domains from a list of source URLs."""
+    return set().union(*fetch_domains_by_category({"": urls}, whitelist).values())
+
+
+def add_category_domains(
+    all_category_domains: dict[str, set[str]],
+    new_domains_by_category: dict[str, set[str]],
+) -> set[str]:
+    """Adds fetched domains to their category lists and returns this tier's domains."""
+    tier_domains: set[str] = set()
+    for category, domains in new_domains_by_category.items():
+        output_category = CATEGORY_ALIASES.get(category, category)
+        all_category_domains.setdefault(output_category, set()).update(domains)
+        tier_domains.update(domains)
+    return tier_domains
 
 
 def write_tier_file(filename: str, domains: set[str], tier_name: str):
@@ -208,6 +230,29 @@ def write_tier_file(filename: str, domains: set[str], tier_name: str):
         f.write(f"# Total Unique Domains: {len(domains):,}\n\n")
         f.writelines(f"0.0.0.0 {domain}\n" for domain in sorted(domains))
     print(f"[+] Saved {tier_name} Tier ({len(domains):,} domains) -> {filepath}\n")
+
+
+def write_category_file(category: str, domains: set[str]):
+    """Outputs one source-backed category in hosts file format."""
+    filename = f"{category}.txt"
+    filepath = os.path.join(OUTPUT_DIR, filename)
+
+    if os.path.exists(filepath):
+        existing_domains = set()
+        with open(filepath, "r", encoding="utf-8") as f:
+            for line in f:
+                parts = line.split()
+                if len(parts) == 2 and parts[0] == "0.0.0.0":
+                    existing_domains.add(parts[1])
+        if existing_domains == domains:
+            print(f"[+] No domain changes for {category} Category; keeping existing file.")
+            return
+
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(f"# Category: {category}\n")
+        f.write(f"# Total Unique Entries: {len(domains):,}\n")
+        f.writelines(f"0.0.0.0 {domain}\n" for domain in sorted(domains))
+    print(f"[+] Saved {category} Category ({len(domains):,} domains) -> {filepath}")
 
 
 def generate_checksums():
@@ -253,23 +298,33 @@ def main():
     with open("sources.json", "r", encoding="utf-8") as f:
         sources_by_tier = json.load(f)
 
+    category_domains: dict[str, set[str]] = {}
+
     # 1. Gather Basic Tier
     print("=== Processing Basic Tier ===")
-    basic_urls = [url for category in sources_by_tier.get("basic", {}).values() for url in category]
-    basic_domains = fetch_domains_from_urls(basic_urls, whitelist)
+    basic_by_category = fetch_domains_by_category(sources_by_tier.get("basic", {}), whitelist)
+    basic_domains = add_category_domains(category_domains, basic_by_category)
     write_tier_file("basic.txt", basic_domains, "Basic")
 
     # 2. Gather Balanced Tier (Basic + Balanced)
     print("=== Processing Balanced Tier ===")
-    balanced_urls = [url for category in sources_by_tier.get("balanced", {}).values() for url in category]
-    balanced_domains = basic_domains.union(fetch_domains_from_urls(balanced_urls, whitelist))
+    balanced_by_category = fetch_domains_by_category(sources_by_tier.get("balanced", {}), whitelist)
+    balanced_domains = basic_domains.union(
+        add_category_domains(category_domains, balanced_by_category)
+    )
     write_tier_file("balanced.txt", balanced_domains, "Balanced")
 
     # 3. Gather Ultimate Tier (Balanced + Ultimate)
     print("=== Processing Ultimate Tier ===")
-    ultimate_urls = [url for category in sources_by_tier.get("ultimate", {}).values() for url in category]
-    ultimate_domains = balanced_domains.union(fetch_domains_from_urls(ultimate_urls, whitelist))
+    ultimate_by_category = fetch_domains_by_category(sources_by_tier.get("ultimate", {}), whitelist)
+    ultimate_domains = balanced_domains.union(
+        add_category_domains(category_domains, ultimate_by_category)
+    )
     write_tier_file("ultimate.txt", ultimate_domains, "Ultimate")
+
+    # Category files are maintained for convenience but are not release assets.
+    for category, domains in sorted(category_domains.items()):
+        write_category_file(category, domains)
 
     # 4. Generate Checksums
     generate_checksums()
