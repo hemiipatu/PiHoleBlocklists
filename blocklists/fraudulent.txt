@@ -1,5 +1,5 @@
 # Category: fraudulent
-# Total Unique Entries: 26,926
+# Total Unique Entries: 26,903
 0.0.0.0 001www.com
 0.0.0.0 01crypto.com
 0.0.0.0 0daygameparadise.com
@@ -7242,6 +7242,7 @@
 0.0.0.0 eulfa.com
 0.0.0.0 eumarketstores.com
 0.0.0.0 eumeds24.com
+0.0.0.0 eumedz.com
 0.0.0.0 eunits.de
 0.0.0.0 eupills.com
 0.0.0.0 eurenzo.com
@@ -9772,7 +9773,6 @@
 0.0.0.0 gartenfuhrer.de
 0.0.0.0 gartenfurdu.de
 0.0.0.0 gartengenussde.com
-0.0.0.0 gartengeraete-shop.de
 0.0.0.0 gartengluecklich.de
 0.0.0.0 gartengreifer.de
 0.0.0.0 gartenguenter.de
@@ -16640,7 +16640,6 @@
 0.0.0.0 moonetizer.com
 0.0.0.0 moonetrix.com
 0.0.0.0 moongadgets.com
-0.0.0.0 moongor.com
 0.0.0.0 moonkie.de
 0.0.0.0 moonpod.de
 0.0.0.0 moons-cases.com
@@ -20705,7 +20704,6 @@
 0.0.0.0 runrigstack.click
 0.0.0.0 runstor.shop
 0.0.0.0 runtrainpro.com
-0.0.0.0 rupills.com
 0.0.0.0 rusin-anwaelte.de
 0.0.0.0 rusin-recht.de
 0.0.0.0 russianhackers.com
@@ -22551,7 +22549,6 @@
 0.0.0.0 starkwerkzeug.de
 0.0.0.0 starpasscodegenerator.goldmovie-trailer.com
 0.0.0.0 starrygamble.com
-0.0.0.0 starrynitebikes.com
 0.0.0.0 starsknife.fun
 0.0.0.0 starstablehack.net
 0.0.0.0 start-bets.com
@@ -22738,7 +22735,6 @@
 0.0.0.0 steroide-medikamente.com
 0.0.0.0 steroide360.com
 0.0.0.0 sterreich.at
-0.0.0.0 sterydy-anaboliczne.net
 0.0.0.0 stevemaddenosterreich.com
 0.0.0.0 steyrtracteursgmbh.at
 0.0.0.0 stickcars.de
@@ -22748,7 +22744,6 @@
 0.0.0.0 stiefelvia.com
 0.0.0.0 stienen-damast.de
 0.0.0.0 stierlines.com
-0.0.0.0 stijn-outlet.com
 0.0.0.0 stilblazer.com
 0.0.0.0 stilehaus.de
 0.0.0.0 stilhaus-mode.de
@@ -22853,7 +22848,6 @@
 0.0.0.0 strahlwerk24.com
 0.0.0.0 straightnaturals.com
 0.0.0.0 strapology.co
-0.0.0.0 strassenhelden.at
 0.0.0.0 strategicwealthway.com
 0.0.0.0 strategiessolution.com
 0.0.0.0 strath-well.com
@@ -22891,7 +22885,6 @@
 0.0.0.0 strickwareverkauf.com
 0.0.0.0 stridepure.de
 0.0.0.0 striegel-k-containers.de
-0.0.0.0 strielkowski.com
 0.0.0.0 strikemira.digital
 0.0.0.0 striking-oils.myshopify.com
 0.0.0.0 stringedharmony.com
@@ -22971,7 +22964,6 @@
 0.0.0.0 sucataoautopecas.com
 0.0.0.0 succeedwithbrandon.com
 0.0.0.0 success-broker.com
-0.0.0.0 suchsnow.com
 0.0.0.0 sucm.com
 0.0.0.0 suedpfalzshop.de
 0.0.0.0 suedwest-motorgeraete.com
@@ -23126,7 +23118,6 @@
 0.0.0.0 svikob.ru
 0.0.0.0 svitla-vip.co
 0.0.0.0 svojaljekarna.hr
-0.0.0.0 swabytec24.com
 0.0.0.0 swagpflege.de
 0.0.0.0 swapmaxair.com
 0.0.0.0 swapnesia.com
@@ -23152,7 +23143,6 @@
 0.0.0.0 swiss-vests.com
 0.0.0.0 swissalpha.io
 0.0.0.0 swissbitcoins.com
-0.0.0.0 swisscapitalhub.com
 0.0.0.0 swissclaim-ag.ch
 0.0.0.0 swisscoinco.com
 0.0.0.0 swisscorummanagement.com
@@ -23229,9 +23219,7 @@
 0.0.0.0 tal-der-wikinger.de
 0.0.0.0 talaya.de
 0.0.0.0 talenorvixa.com
-0.0.0.0 talent-levia.com
 0.0.0.0 talentloompro-de.com
-0.0.0.0 talentnexuspro-de.com
 0.0.0.0 talents-peak.com
 0.0.0.0 talentxperts.com
 0.0.0.0 talerkaffee.de
@@ -23256,7 +23244,6 @@
 0.0.0.0 tamisoon.com
 0.0.0.0 tamsolar.de
 0.0.0.0 tandexo.com
-0.0.0.0 tanganyassetmanagement.com
 0.0.0.0 tangobonn.de
 0.0.0.0 tanki.best-hacks.net
 0.0.0.0 tankihack.best-hacks.net
@@ -23270,7 +23257,6 @@
 0.0.0.0 target-speichern.de
 0.0.0.0 tarmei.com
 0.0.0.0 tarringtonhousedea.com
-0.0.0.0 taschenalle.com
 0.0.0.0 taschenclub.com
 0.0.0.0 taschenfan.com
 0.0.0.0 taschenmesser-de.com
@@ -23324,6 +23310,7 @@
 0.0.0.0 teamvoxinger.com
 0.0.0.0 teamvoxinger.net
 0.0.0.0 tebla.de
+0.0.0.0 tech-outlet.site
 0.0.0.0 tech-solutions.store
 0.0.0.0 tech-vitals.com
 0.0.0.0 tech.eco-outils.com
@@ -23398,7 +23385,6 @@
 0.0.0.0 telechargerjeuxpsvitagratuit.com
 0.0.0.0 telechargersgta5.com
 0.0.0.0 telekom-dresden.de
-0.0.0.0 telesys-market.com
 0.0.0.0 teller-store.com
 0.0.0.0 tellidex.io
 0.0.0.0 teltow-apotheke-berlin.de
@@ -23478,7 +23464,6 @@
 0.0.0.0 textilesdaily.com
 0.0.0.0 texturepacksminecraft.com
 0.0.0.0 teyayo.ru
-0.0.0.0 teyvaro.com
 0.0.0.0 tez-sonido.com
 0.0.0.0 tf2itemsgenerator.com
 0.0.0.0 tf2legendary.com
@@ -23566,7 +23551,6 @@
 0.0.0.0 theexplorerco.com
 0.0.0.0 theexpressnewstoday.com
 0.0.0.0 thefinestseries.com
-0.0.0.0 theflexbueromoebel.shop
 0.0.0.0 thefreeiphoneunlock.com
 0.0.0.0 theft4me.com
 0.0.0.0 thefxleads.com
@@ -23613,13 +23597,11 @@
 0.0.0.0 themirrornewstoday.com
 0.0.0.0 themodernwarfare3hack.net
 0.0.0.0 themovs.net
-0.0.0.0 themusiciansshop.com
 0.0.0.0 thenetfarmacia.com
 0.0.0.0 thenintendo3dsemulator.com
 0.0.0.0 thenorth-face.de
 0.0.0.0 thenorthface-outlet.de
 0.0.0.0 thenorthfacedeutschland.com
-0.0.0.0 theodore-furniture.com
 0.0.0.0 theolufunmico.com
 0.0.0.0 theomoebel.de
 0.0.0.0 theonlyhacks.com
@@ -23661,7 +23643,6 @@
 0.0.0.0 thermotrix.de
 0.0.0.0 theroyalsaunas.com
 0.0.0.0 therushlightstore.com
-0.0.0.0 theschmidtsliving.shop
 0.0.0.0 thesecureoffer.com
 0.0.0.0 thesimpsons.newzgames.com
 0.0.0.0 thesimpsonstappedoutcheats4u.com
@@ -24007,9 +23988,7 @@
 0.0.0.0 tophacks.org
 0.0.0.0 tophacksforyou.com
 0.0.0.0 topheizlosungen.com
-0.0.0.0 tophomeonlineshop.com
 0.0.0.0 tophoven-teilekfz.de
-0.0.0.0 topideaberlin.com
 0.0.0.0 topixs.com
 0.0.0.0 topjobs.wiki
 0.0.0.0 toplily.com
@@ -24371,7 +24350,6 @@
 0.0.0.0 trustedhacks.com
 0.0.0.0 trustedmedstore24.com
 0.0.0.0 trustednorx.com
-0.0.0.0 trustedrxsolutions.com
 0.0.0.0 trustedshops.store
 0.0.0.0 trustedtablets.online
 0.0.0.0 trusteryai.com
@@ -26574,7 +26552,6 @@
 0.0.0.0 yonexdeutschland.de
 0.0.0.0 yonexs.at
 0.0.0.0 yoocaa.com
-0.0.0.0 yoohal.com
 0.0.0.0 yooofa.com
 0.0.0.0 yootet.com
 0.0.0.0 yootube.com
