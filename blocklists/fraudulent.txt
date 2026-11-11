@@ -1,5 +1,5 @@
 # Category: fraudulent
-# Total Unique Entries: 26,972
+# Total Unique Entries: 27,001
 0.0.0.0 001www.com
 0.0.0.0 01crypto.com
 0.0.0.0 0daygameparadise.com
@@ -1530,7 +1530,6 @@
 0.0.0.0 autopraxen.com
 0.0.0.0 autoradiomaltimedia.com
 0.0.0.0 autoradiomitnavigation.de
-0.0.0.0 autoreifen-billig.com
 0.0.0.0 autorengemeinschaftaugsburg.de
 0.0.0.0 autorepairshopphoenixaz.com
 0.0.0.0 autorite-des-marches-financiers.com
@@ -1567,7 +1566,6 @@
 0.0.0.0 auvikoshop.com
 0.0.0.0 auvoria.de
 0.0.0.0 auwaldo.shop
-0.0.0.0 av-shopping.shop
 0.0.0.0 availablek.com
 0.0.0.0 avamirae.com
 0.0.0.0 avantaxinvestgroup.com
@@ -2123,6 +2121,7 @@
 0.0.0.0 berlincrown.com
 0.0.0.0 berliner-gartenservice.de
 0.0.0.0 berliner-laden.de
+0.0.0.0 berlinermode.shop
 0.0.0.0 berlinfog.com
 0.0.0.0 berlinget.com
 0.0.0.0 berlinglamour.de
@@ -4437,6 +4436,7 @@
 0.0.0.0 compte-facebook.ws
 0.0.0.0 comptefacebookpirater.fr
 0.0.0.0 comptntistur.com
+0.0.0.0 conceptandmarketing.com
 0.0.0.0 concepty.co
 0.0.0.0 condutbarn.com
 0.0.0.0 condyinbulk.shop
@@ -4751,6 +4751,7 @@
 0.0.0.0 cryptoxcash.com
 0.0.0.0 cryptoxlogy.com
 0.0.0.0 crysis3keygen.org
+0.0.0.0 crystalli.de
 0.0.0.0 cryzor.com
 0.0.0.0 crzycheats.com
 0.0.0.0 cs-go.deals
@@ -5484,7 +5485,6 @@
 0.0.0.0 deaspierhireworks.works
 0.0.0.0 deathstrokedlc.sharezips.info
 0.0.0.0 deathstrokedlc.sharezips.net
-0.0.0.0 deautohentzschel.shop
 0.0.0.0 debasketball.com
 0.0.0.0 debloque-ton-tel.com
 0.0.0.0 debloquertoutdesuite.com
@@ -5794,6 +5794,7 @@
 0.0.0.0 dfile.su
 0.0.0.0 dfr-hessen.de
 0.0.0.0 dg.tgvgxa.shop
+0.0.0.0 dgcex.net
 0.0.0.0 dgkktero.shop
 0.0.0.0 dhocco.shop
 0.0.0.0 dhrys.com
@@ -5942,6 +5943,7 @@
 0.0.0.0 disckangse.com
 0.0.0.0 discount-audio-equipment.com
 0.0.0.0 discount-baustoff.de
+0.0.0.0 discount-cigarettes-store.net
 0.0.0.0 discount-kobalt.com
 0.0.0.0 discount-lightingshop.com
 0.0.0.0 discount-megastore.com
@@ -6122,6 +6124,7 @@
 0.0.0.0 dorealis.com
 0.0.0.0 doriansaga.com
 0.0.0.0 dormanshop.com
+0.0.0.0 dormideo.shop
 0.0.0.0 dortmund-warenhaus.de
 0.0.0.0 dorvis.shop
 0.0.0.0 dosenkultde.com
@@ -6423,6 +6426,7 @@
 0.0.0.0 dtabauto.de
 0.0.0.0 dtf-transferdruk.shop
 0.0.0.0 duale.com.au
+0.0.0.0 dualtron-scooters.com
 0.0.0.0 dubemeqi.ru
 0.0.0.0 ducherower.de
 0.0.0.0 duckflix.de
@@ -7289,7 +7293,6 @@
 0.0.0.0 eurometal-structure.com
 0.0.0.0 euronics-europa.de
 0.0.0.0 euronics-ps5.de.de
-0.0.0.0 euronics-sale.de
 0.0.0.0 euronicsdeutschlandshop.de
 0.0.0.0 euronicsserviceamazing.de
 0.0.0.0 euronicsshoponline.de
@@ -7342,6 +7345,7 @@
 0.0.0.0 euvalentinogaravani.de
 0.0.0.0 euvendorshub.online
 0.0.0.0 euvitafarm.com
+0.0.0.0 ev-farm.com
 0.0.0.0 eva-zagreb.com
 0.0.0.0 evad3rs.me
 0.0.0.0 evad3rsdevteam.com
@@ -7917,6 +7921,7 @@
 0.0.0.0 fcchu.com
 0.0.0.0 fcheats.com
 0.0.0.0 fdownload52.com
+0.0.0.0 fdte2.xyz
 0.0.0.0 fecebook.com
 0.0.0.0 fedelixgroup.com
 0.0.0.0 feederme.com
@@ -8311,6 +8316,7 @@
 0.0.0.0 finprofm.com
 0.0.0.0 finrally.com
 0.0.0.0 finrocketpro.com
+0.0.0.0 fintechnews.live
 0.0.0.0 fintessxpert.com
 0.0.0.0 fintrexia.org
 0.0.0.0 finvestai.org
@@ -8477,6 +8483,7 @@
 0.0.0.0 flixgen.5gbfree.com
 0.0.0.0 flixillimite.com
 0.0.0.0 flixway.de
+0.0.0.0 flixyshop.com
 0.0.0.0 flmtelechargers.com
 0.0.0.0 flnanzonline-gvbmfgv.net
 0.0.0.0 flnanzonline.net
@@ -8637,6 +8644,7 @@
 0.0.0.0 fortunatelyt.com
 0.0.0.0 fortunaten.com
 0.0.0.0 fortunefiles.org
+0.0.0.0 fortunefx.io
 0.0.0.0 fortuscase.com
 0.0.0.0 forumatomowe.net
 0.0.0.0 forumz.info
@@ -9317,6 +9325,7 @@
 0.0.0.0 fullgamesfreedownload.com
 0.0.0.0 fullgamesonline.com
 0.0.0.0 fullgamespc.com
+0.0.0.0 fullhousee.com
 0.0.0.0 fullke.us
 0.0.0.0 fullmovieaz.com
 0.0.0.0 fullmovieplay.com
@@ -9517,7 +9526,6 @@
 0.0.0.0 gamebeyond.com
 0.0.0.0 gamebyte.eu
 0.0.0.0 gamecentershop.de
-0.0.0.0 gamechangergift.net
 0.0.0.0 gamecheatglitch.com
 0.0.0.0 gamecheathq.com
 0.0.0.0 gamecheating.net
@@ -9798,7 +9806,6 @@
 0.0.0.0 gartenfuhrer.de
 0.0.0.0 gartenfurdu.de
 0.0.0.0 gartengenussde.com
-0.0.0.0 gartengeraete-shop.de
 0.0.0.0 gartengluecklich.de
 0.0.0.0 gartenguenter.de
 0.0.0.0 gartenhandel-poltermann.de
@@ -10443,6 +10450,7 @@
 0.0.0.0 go4hack.com
 0.0.0.0 go4hacks.com
 0.0.0.0 goadapter.com
+0.0.0.0 goalbo.de
 0.0.0.0 goalhat.com
 0.0.0.0 goalkertech.com
 0.0.0.0 goandfind.net
@@ -11673,6 +11681,7 @@
 0.0.0.0 hederich-co.de
 0.0.0.0 heepqy.com
 0.0.0.0 heidel-heizoel.de
+0.0.0.0 heidi-mode.de
 0.0.0.0 heike-store.com
 0.0.0.0 heikojentsch.de
 0.0.0.0 heilbronnmodehaus.de
@@ -11752,6 +11761,7 @@
 0.0.0.0 heizlogistik.de
 0.0.0.0 heizo24.de
 0.0.0.0 heizoel-24.com
+0.0.0.0 heizoel-austria.com
 0.0.0.0 heizoel-best.de
 0.0.0.0 heizoel-deutschland.com
 0.0.0.0 heizoel-easy.com
@@ -11760,6 +11770,7 @@
 0.0.0.0 heizoel-genial.com
 0.0.0.0 heizoel-held.de
 0.0.0.0 heizoel-jetzt.de
+0.0.0.0 heizoel-kalkulator.de
 0.0.0.0 heizoel-lieferung.com
 0.0.0.0 heizoel-tankstelle.de
 0.0.0.0 heizoel24-aktuell.com
@@ -12419,6 +12430,7 @@
 0.0.0.0 hunterbootsnz.com
 0.0.0.0 hunterfinland.com
 0.0.0.0 huntergermany.de
+0.0.0.0 huntergumbootsaustralia.com
 0.0.0.0 huntergummistiefel.de
 0.0.0.0 huntergummistiefeloutlet.de
 0.0.0.0 huntergummistiefeloutlets.de
@@ -13413,6 +13425,7 @@
 0.0.0.0 juicy-pubg.com
 0.0.0.0 juicycouturedeutschland.de
 0.0.0.0 juicyfiles.net
+0.0.0.0 julia-alea.de
 0.0.0.0 juliapostunternehmensberatung.de
 0.0.0.0 juliastil.de
 0.0.0.0 julielektronik.de
@@ -14786,7 +14799,6 @@
 0.0.0.0 lichtzauberaustria.com
 0.0.0.0 lidgg.de
 0.0.0.0 lidio.de
-0.0.0.0 lidl-de-de.vip
 0.0.0.0 lidleurope.com
 0.0.0.0 lidlhh.shop
 0.0.0.0 lidlpalace.com
@@ -15623,6 +15635,7 @@
 0.0.0.0 marketfy.de
 0.0.0.0 marketgiants.com
 0.0.0.0 marketing-mafco.de
+0.0.0.0 marketing-research.net
 0.0.0.0 marketinghouse.at
 0.0.0.0 marketoptions.com
 0.0.0.0 marketorbitlabs.it.com
@@ -16375,6 +16388,7 @@
 0.0.0.0 miumiufactoryoutletuk.com
 0.0.0.0 mivilo.shop
 0.0.0.0 mivoxa.de
+0.0.0.0 mivoza.de
 0.0.0.0 mivrex.com
 0.0.0.0 mixedhacks.com
 0.0.0.0 mixenruhren.de
@@ -16483,6 +16497,7 @@
 0.0.0.0 modeboutiqueweber.de
 0.0.0.0 modedeu.com
 0.0.0.0 modedisne.de
+0.0.0.0 modefest.de
 0.0.0.0 modehaus-dresden.com
 0.0.0.0 modehaus-dusseldorf.de
 0.0.0.0 modehaus-kaiser.de
@@ -17756,6 +17771,7 @@
 0.0.0.0 nss.gevestor.de
 0.0.0.0 nsxcapital.com
 0.0.0.0 ntb-news.shop
+0.0.0.0 ntbdiffusion.com
 0.0.0.0 ntbps-sales.com
 0.0.0.0 ntdll.top
 0.0.0.0 ntischoolpune.org
@@ -18381,6 +18397,7 @@
 0.0.0.0 osiris.com.de
 0.0.0.0 osiriscards.store
 0.0.0.0 osirisfi.com
+0.0.0.0 osirisshoes.de
 0.0.0.0 osisaflife.shop
 0.0.0.0 oskaro.shop
 0.0.0.0 osmcer.shop
@@ -18443,6 +18460,7 @@
 0.0.0.0 outdoor-testsieger-gartenschlauch-5gruende.de
 0.0.0.0 outdoor-testsieger-vergleich-gartenschlauch.de
 0.0.0.0 outdoor-venturesllc.com
+0.0.0.0 outdoorausruestung.com
 0.0.0.0 outdoorcampshopdepot.com
 0.0.0.0 outdoorcampzone.com
 0.0.0.0 outdoorerfahrung.com
@@ -20043,6 +20061,7 @@
 0.0.0.0 rasen-profis.de
 0.0.0.0 rasen-traktor.com
 0.0.0.0 rasen24.com
+0.0.0.0 rasengarten.com
 0.0.0.0 rasengereate.com
 0.0.0.0 rasenmahen24.com
 0.0.0.0 rasenmaherwendik.de
@@ -20111,6 +20130,7 @@
 0.0.0.0 rctoyretail.com
 0.0.0.0 rd.meediabuy.com
 0.0.0.0 rd.moonetizer.com
+0.0.0.0 rdoering.de
 0.0.0.0 re-hartmann.de
 0.0.0.0 readyrobux.com
 0.0.0.0 real4bets.com
@@ -20394,6 +20414,7 @@
 0.0.0.0 reynamobel.shop
 0.0.0.0 reyniae.de
 0.0.0.0 reynolds-gartenhandel.de
+0.0.0.0 rezeptfrei-24.com
 0.0.0.0 rezeptfrei-bestellung.de
 0.0.0.0 rf-kg.de
 0.0.0.0 rfshoping.com
@@ -20744,7 +20765,6 @@
 0.0.0.0 rublestore.com
 0.0.0.0 rubset.com
 0.0.0.0 ruby-files.com
-0.0.0.0 ruckgabe.heidi-mode.de
 0.0.0.0 rudergerat.myshopify.com
 0.0.0.0 rudolf-emilia.de
 0.0.0.0 rudolphmaschine.de
@@ -21980,6 +22000,7 @@
 0.0.0.0 sleepwearinc.com
 0.0.0.0 sleevefleh.com
 0.0.0.0 slickcheats.com
+0.0.0.0 slidockscorporation.com
 0.0.0.0 slimcare.de
 0.0.0.0 slimdownload.co
 0.0.0.0 slimmgummies.com
@@ -22586,6 +22607,7 @@
 0.0.0.0 stampset.com
 0.0.0.0 stampsetshop.com
 0.0.0.0 stampssale.shop
+0.0.0.0 stancery.com
 0.0.0.0 standardschuhe.com
 0.0.0.0 standesamt-portal.de
 0.0.0.0 standesamt24.com
@@ -22962,6 +22984,7 @@
 0.0.0.0 stressthem.to
 0.0.0.0 stresstherapy.de
 0.0.0.0 stretsure.com
+0.0.0.0 streurmann.de
 0.0.0.0 strickwareverkauf.com
 0.0.0.0 stridepure.de
 0.0.0.0 striegel-k-containers.de
@@ -23054,6 +23077,7 @@
 0.0.0.0 sufficientw.com
 0.0.0.0 sufiles.com
 0.0.0.0 sufira-boutique.de
+0.0.0.0 sufrema-kaufen.de
 0.0.0.0 sugex.de
 0.0.0.0 suhaw.ru
 0.0.0.0 suhrer-law.de
@@ -23270,6 +23294,7 @@
 0.0.0.0 sz-fishing.de
 0.0.0.0 sz-tax.com
 0.0.0.0 szigetlo.shop
+0.0.0.0 szzving.shop
 0.0.0.0 tabexofficial.com
 0.0.0.0 tabfirmware.com
 0.0.0.0 tablets-today.org
@@ -25054,6 +25079,7 @@
 0.0.0.0 vendit24.de
 0.0.0.0 venditt24.de
 0.0.0.0 vendome-logistique.com
+0.0.0.0 vendorhub.store
 0.0.0.0 vendosnaclo.shop
 0.0.0.0 vendyle.com
 0.0.0.0 venorital.com
@@ -25212,6 +25238,7 @@
 0.0.0.0 vignetten.gettookun.com
 0.0.0.0 vignetten.holidayfreebie.com
 0.0.0.0 vignobles-terroirs.com
+0.0.0.0 vigoroussport.com
 0.0.0.0 viking-cnc.com
 0.0.0.0 viking-outlet.at
 0.0.0.0 viking-solutions.com
@@ -25442,6 +25469,7 @@
 0.0.0.0 vonfreoy.shop
 0.0.0.0 vonillo-pepper.shop
 0.0.0.0 vonngallery.com
+0.0.0.0 voody.store
 0.0.0.0 vooney.com
 0.0.0.0 voprch.com
 0.0.0.0 voqboard.ru
@@ -26624,6 +26652,7 @@
 0.0.0.0 yonexdeutschland.de
 0.0.0.0 yonexs.at
 0.0.0.0 yoocaa.com
+0.0.0.0 yoohal.com
 0.0.0.0 yooofa.com
 0.0.0.0 yootet.com
 0.0.0.0 yootube.com
@@ -26775,6 +26804,7 @@
 0.0.0.0 zauberhaftergarten.de
 0.0.0.0 zaubermerch.shop
 0.0.0.0 zaunfursicherheit.com
+0.0.0.0 zavando.de
 0.0.0.0 zctszj.com
 0.0.0.0 zebracheats.com
 0.0.0.0 zebrainvest.com
@@ -26864,7 +26894,6 @@
 0.0.0.0 zimanew.ru
 0.0.0.0 zimtahorn.de
 0.0.0.0 zimunap.ru
-0.0.0.0 zingde.shop
 0.0.0.0 zinsanlageprofi.net
 0.0.0.0 zinsfuchs.com
 0.0.0.0 zinsmanager.de
