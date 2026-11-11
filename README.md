@@ -1,12 +1,13 @@
-# PiHoleBlocklists: Stop ads, tracking and other virtual garbage
+# PiHoleBlocklists
+
+> Stop ads, tracking and other virtual garbage.
+
 ![GitHub issues](https://img.shields.io/github/issues/hemiipatu/piholeblocklists?style=for-the-badge)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/hemiipatu/piholeblocklists?style=for-the-badge)
 [![License: GPL v3](https://img.shields.io/badge/license-gplv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 [![Maintenance](https://img.shields.io/badge/maintained%3f-yes-green.svg?style=for-the-badge)](https://github.com/hemiipatu/piholeblocklists/graphs/commit-activity)
 ![GitHub contributors](https://img.shields.io/github/contributors/hemiipatu/piholeblocklists?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hemiipatu/piholeblocklists?style=for-the-badge)
-
-&nbsp;
 
 ## 📋 Overview
 
