@@ -80,7 +80,7 @@ jobs:
               for tier, cat, url, err in failed_sources:
                   report.append(f'| **{table_cell(tier).capitalize()}** | `{table_cell(cat)}` | {table_cell(url)} | `{table_cell(err)}` |')
 
-                report.append('\n*Please verify if these URLs are permanently offline and require removal from `sources.json`.*')
+              report.append('\n*Please verify if these URLs are permanently offline and require removal from `sources.json`.*')
               
               full_markdown = '\n'.join(report)
 
@@ -94,7 +94,7 @@ jobs:
               print('All upstream sources are healthy and reachable!')
               with open(os.environ['GITHUB_OUTPUT'], 'a') as env_out:
                   env_out.write('FAILED=false\n')
-                  PY
+          PY
 
       - name: Create Issue on Health Check Failure
         if: steps.health_check.outputs.FAILED == 'true'
