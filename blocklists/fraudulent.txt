@@ -1,5 +1,5 @@
 # Category: fraudulent
-# Total Unique Entries: 26,976
+# Total Unique Entries: 26,988
 0.0.0.0 001www.com
 0.0.0.0 01crypto.com
 0.0.0.0 0daygameparadise.com
@@ -2121,7 +2121,6 @@
 0.0.0.0 berlincrown.com
 0.0.0.0 berliner-gartenservice.de
 0.0.0.0 berliner-laden.de
-0.0.0.0 berlinermode.shop
 0.0.0.0 berlinfog.com
 0.0.0.0 berlinget.com
 0.0.0.0 berlinglamour.de
@@ -2468,6 +2467,7 @@
 0.0.0.0 bikerforword.shop
 0.0.0.0 bikerimtapede.com
 0.0.0.0 bikescompetitive.com
+0.0.0.0 bikesexpert-de.com
 0.0.0.0 bikesexpert.shop
 0.0.0.0 bikeshockabsorberde.com
 0.0.0.0 bikeskraft.de
@@ -3963,7 +3963,6 @@
 0.0.0.0 cicinia.de
 0.0.0.0 cielie.com
 0.0.0.0 cifuentesdresseshop.com
-0.0.0.0 cigarettescigs.com
 0.0.0.0 cimerwatch.com
 0.0.0.0 cimnelatlas.click
 0.0.0.0 cinac.ru
@@ -4224,6 +4223,7 @@
 0.0.0.0 clumsyninjahack.com
 0.0.0.0 clumsyninjahack.goblogz.net
 0.0.0.0 clurophillashop.com
+0.0.0.0 cluud7.com
 0.0.0.0 clydegen.me
 0.0.0.0 cmchbhopal.com
 0.0.0.0 cmctradingeu.com
@@ -9846,6 +9846,7 @@
 0.0.0.0 gartenstuhlemetall.com
 0.0.0.0 gartentraktor.com
 0.0.0.0 gartenundanhaenger.de
+0.0.0.0 gartenundhausmeisterservice.de
 0.0.0.0 gartenundwerkzeug.com
 0.0.0.0 gartenvision2.de
 0.0.0.0 gartenwerkzeugeprofi.com
@@ -10423,6 +10424,7 @@
 0.0.0.0 glurvextopin-official.com
 0.0.0.0 gluschwein.de
 0.0.0.0 glutadrops.com
+0.0.0.0 glutbar.de
 0.0.0.0 glveway-st4ck.site
 0.0.0.0 gmailhack.top
 0.0.0.0 gmailhackerpro.com
@@ -10482,6 +10484,7 @@
 0.0.0.0 golden-hacks.com
 0.0.0.0 golden-outlet.de
 0.0.0.0 golden-re.com
+0.0.0.0 goldenage-trading.com
 0.0.0.0 goldenbayboutiques.com
 0.0.0.0 goldendownloads247.com
 0.0.0.0 goldenelemento.shop
@@ -12880,6 +12883,7 @@
 0.0.0.0 instrklang.com
 0.0.0.0 instructionk.com
 0.0.0.0 instrumentak.com
+0.0.0.0 instrumentenvinyl.com
 0.0.0.0 integisok.com
 0.0.0.0 integralbroker.com
 0.0.0.0 integralmarket.ltd
@@ -15643,6 +15647,7 @@
 0.0.0.0 marktpro.de
 0.0.0.0 marktsmart.de
 0.0.0.0 marktzauberbox.com
+0.0.0.0 markvexo-ai.com
 0.0.0.0 markvexo.at
 0.0.0.0 markvexoki.at
 0.0.0.0 marloe.de
@@ -19292,6 +19297,7 @@
 0.0.0.0 polska-ed.com
 0.0.0.0 polster-franz.at
 0.0.0.0 polster-franz.de
+0.0.0.0 polstersofa.com
 0.0.0.0 polycondistribution.com
 0.0.0.0 pondoliibe.shop
 0.0.0.0 ponggi.de
@@ -19419,6 +19425,7 @@
 0.0.0.0 preisrausch24.de
 0.0.0.0 preistech.de
 0.0.0.0 preiswertoutdoor.com
+0.0.0.0 preiswohnen.com
 0.0.0.0 prelox-guenstiger.de
 0.0.0.0 premier-dream.co
 0.0.0.0 premiercarry.com
@@ -19981,6 +19988,7 @@
 0.0.0.0 radiator-selling.com
 0.0.0.0 radiusor.com
 0.0.0.0 radixinvest.com
+0.0.0.0 radlerfrau.com
 0.0.0.0 radliebeshop.de
 0.0.0.0 radmarkt-schaeler.de
 0.0.0.0 radrudel.de
@@ -22037,6 +22045,7 @@
 0.0.0.0 smartpills.io
 0.0.0.0 smartplantivy.com
 0.0.0.0 smartplayground.de
+0.0.0.0 smartregler.com
 0.0.0.0 smartro.de
 0.0.0.0 smartshoot.net
 0.0.0.0 smartsteamershop.com
@@ -22241,6 +22250,7 @@
 0.0.0.0 solden-hotels.com
 0.0.0.0 soldiersinccheat.elitegamershub.com
 0.0.0.0 solern.top
+0.0.0.0 solgarag.com
 0.0.0.0 solictedbyjule.shop
 0.0.0.0 solidewaren.com
 0.0.0.0 solidhacks.com
@@ -24454,7 +24464,6 @@
 0.0.0.0 trustonlinepharmacy.com
 0.0.0.0 trustpharm.to
 0.0.0.0 trustpharm7pills.com
-0.0.0.0 trustpharmsonline.com
 0.0.0.0 trustss.com
 0.0.0.0 trustydealmarket.com
 0.0.0.0 trustytime888.io
@@ -24776,6 +24785,7 @@
 0.0.0.0 up2sales.de
 0.0.0.0 upanddesko.shop
 0.0.0.0 upap-papu.post
+0.0.0.0 updez.com
 0.0.0.0 upfiles.eu
 0.0.0.0 upgradeoutdoors.com
 0.0.0.0 uphero.hackspress.net
@@ -26547,6 +26557,7 @@
 0.0.0.0 xroll.pro
 0.0.0.0 xronize.com
 0.0.0.0 xrp-airdrop.net
+0.0.0.0 xsdcmnet.com
 0.0.0.0 xshopcloud.com
 0.0.0.0 xspiegel.de
 0.0.0.0 xstress.xyz
@@ -26627,6 +26638,7 @@
 0.0.0.0 yonexdeutschland.de
 0.0.0.0 yonexs.at
 0.0.0.0 yoocaa.com
+0.0.0.0 yoohal.com
 0.0.0.0 yooofa.com
 0.0.0.0 yootet.com
 0.0.0.0 yootube.com
