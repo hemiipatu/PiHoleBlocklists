@@ -64,9 +64,27 @@ class FetchDomainsTests(unittest.TestCase):
                 ):
                     build.fetch_domains_from_urls([url], set())
 
+    def test_temporary_read_timeout_retries_source(self):
+        response = io.BytesIO(b"0.0.0.0 live.example\n")
+
+        with (
+            patch(
+                "build.urllib.request.urlopen",
+                side_effect=[TimeoutError("read timed out"), response],
+            ) as urlopen,
+            patch("build.time.sleep"),
+        ):
+            domains = build.fetch_domains_from_urls(
+                ["https://example.test/list"], set()
+            )
+
+        self.assertEqual(domains, {"live.example"})
+        self.assertEqual(urlopen.call_count, 2)
+
     def test_source_failure_aborts_build(self):
         with (
             patch("build.urllib.request.urlopen", side_effect=OSError("offline")),
+            patch("build.time.sleep"),
             self.assertRaisesRegex(RuntimeError, "Failed to fetch source"),
         ):
             build.fetch_domains_from_urls(["https://example.test/list"], set())

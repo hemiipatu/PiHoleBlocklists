@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 import hashlib
+import http.client
 import ipaddress
 import json
 import os
 import re
+import time
 import urllib.error
 import urllib.request
 from datetime import UTC, datetime
@@ -12,6 +14,8 @@ OUTPUT_DIR = "blocklists"
 WHITELIST_FILE = "whitelist.txt"
 SUMMARY_FILE = "build_summary.md"
 CATEGORY_ALIASES = {"malware_extra": "malware"}
+SOURCE_FETCH_ATTEMPTS = 3
+SOURCE_FETCH_TIMEOUT = 60
 
 # Pre-compiled strict domain matcher
 DOMAIN_REGEX = re.compile(
@@ -167,19 +171,39 @@ def fetch_domains_by_category(
         for url in urls:
             print(f"  --> Fetching: {url}")
             req = urllib.request.Request(url, headers=headers)
-            try:
-                with urllib.request.urlopen(req, timeout=30) as response:
-                    for line_bytes in response:
-                        line = line_bytes.decode('utf-8', errors='ignore')
-                        domains_by_category[category].update(extract_domains(line) - whitelist)
-                successful_sources += 1
-            except urllib.error.HTTPError as e:
-                if e.code in (404, 410):
-                    print(f"  [!] Skipping unavailable source (HTTP {e.code}): {url}")
-                    continue
-                raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
-            except Exception as e:
-                raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
+            for attempt in range(SOURCE_FETCH_ATTEMPTS):
+                source_domains = set()
+                try:
+                    with urllib.request.urlopen(
+                        req, timeout=SOURCE_FETCH_TIMEOUT
+                    ) as response:
+                        for line_bytes in response:
+                            line = line_bytes.decode('utf-8', errors='ignore')
+                            source_domains.update(extract_domains(line) - whitelist)
+                    domains_by_category[category].update(source_domains)
+                    successful_sources += 1
+                    break
+                except urllib.error.HTTPError as e:
+                    if e.code in (404, 410):
+                        print(
+                            f"  [!] Skipping unavailable source (HTTP {e.code}): {url}"
+                        )
+                        break
+                    if e.code != 429 and not 500 <= e.code < 600:
+                        raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
+                    if attempt + 1 == SOURCE_FETCH_ATTEMPTS:
+                        raise RuntimeError(
+                            f"Failed to fetch source {url}: {e}"
+                        ) from e
+                    time.sleep(2**attempt)
+                except (http.client.HTTPException, OSError) as e:
+                    if attempt + 1 == SOURCE_FETCH_ATTEMPTS:
+                        raise RuntimeError(
+                            f"Failed to fetch source {url}: {e}"
+                        ) from e
+                    time.sleep(2**attempt)
+                except Exception as e:
+                    raise RuntimeError(f"Failed to fetch source {url}: {e}") from e
 
     if successful_sources == 0:
         raise RuntimeError("No sources could be fetched.")
