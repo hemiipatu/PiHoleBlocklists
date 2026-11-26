@@ -1,5 +1,5 @@
 # Category: fraudulent
-# Total Unique Entries: 18,469
+# Total Unique Entries: 18,473
 0.0.0.0 001www.com
 0.0.0.0 01crypto.com
 0.0.0.0 0daygameparadise.com
@@ -1000,7 +1000,6 @@
 0.0.0.0 aura-epargne.com
 0.0.0.0 auraboutique-shop.com
 0.0.0.0 auradeals.shop
-0.0.0.0 auraterraplaza.com
 0.0.0.0 aurenbridge.com
 0.0.0.0 aurendal.com
 0.0.0.0 aureoncorevix-fr.com
@@ -1141,7 +1140,6 @@
 0.0.0.0 babygluckde.com
 0.0.0.0 babyglueck.shop
 0.0.0.0 babylissde.de
-0.0.0.0 babymodepur.com
 0.0.0.0 babynippon.com
 0.0.0.0 babyroom-shop.com
 0.0.0.0 babyschlafsack-abc.de
@@ -1614,6 +1612,7 @@
 0.0.0.0 bfmvip.com
 0.0.0.0 bforbinary.com
 0.0.0.0 bforex.com
+0.0.0.0 bftb.org
 0.0.0.0 bfxoption.com
 0.0.0.0 bgmbgroupe.com
 0.0.0.0 bh-shop-online.com
@@ -1934,6 +1933,7 @@
 0.0.0.0 bombalts.com
 0.0.0.0 bombgamble.com
 0.0.0.0 bombhack.com
+0.0.0.0 bomiafx.com
 0.0.0.0 bonficegermany.myshopify.com
 0.0.0.0 bongadrop.top
 0.0.0.0 bongochat.de
@@ -2437,7 +2437,6 @@
 0.0.0.0 casualstreet.de
 0.0.0.0 casualtry.de
 0.0.0.0 cat2fip.co
-0.0.0.0 catalia.de
 0.0.0.0 caterpillar-finland.com
 0.0.0.0 caterpillar-nederland.com
 0.0.0.0 caterpillar-nederland.top
@@ -2463,6 +2462,7 @@
 0.0.0.0 ccmedia.news
 0.0.0.0 ccs-consulting.net
 0.0.0.0 ccsagacheats.com
+0.0.0.0 ccwjl.com
 0.0.0.0 cdlp.co.at
 0.0.0.0 ce7.org
 0.0.0.0 cecav.ru
@@ -3827,7 +3827,6 @@
 0.0.0.0 de.justfashionnow.com
 0.0.0.0 de.jxsaen.shop
 0.0.0.0 de.osmo-official.com
-0.0.0.0 de.thereverselookup.com
 0.0.0.0 de.wwiqtest.com
 0.0.0.0 de1.aiinshgits.de
 0.0.0.0 de4.luxedressshop.com
@@ -4223,6 +4222,7 @@
 0.0.0.0 domeflix.de
 0.0.0.0 dominguesequipamentos.com
 0.0.0.0 domino-handel.de
+0.0.0.0 domino-store.com
 0.0.0.0 dominospizza-coupon.com
 0.0.0.0 domocaw.ru
 0.0.0.0 don-art.de
@@ -4649,6 +4649,7 @@
 0.0.0.0 ebookstorm.com
 0.0.0.0 ebuyg.mom
 0.0.0.0 eccooutletdeutschland.de
+0.0.0.0 eceq.org
 0.0.0.0 echtdruck.de
 0.0.0.0 eck-grill.de
 0.0.0.0 eckert-handel.de
@@ -8686,6 +8687,7 @@
 0.0.0.0 hoeschag.company.site
 0.0.0.0 hofasudtransport.com
 0.0.0.0 hoffmannholz.com
+0.0.0.0 hoffmannwelpen.de
 0.0.0.0 hofkammerpro-de.live
 0.0.0.0 hofkammerpro.at
 0.0.0.0 hofman.com
@@ -9395,7 +9397,6 @@
 0.0.0.0 ivdmlqrb.shop
 0.0.0.0 iveldrano.com
 0.0.0.0 ivermectinkoupit.com
-0.0.0.0 ivernamart.com
 0.0.0.0 ivymonta.com
 0.0.0.0 iwamonmodeshop.com
 0.0.0.0 iwatch-now.com
@@ -9453,6 +9454,7 @@
 0.0.0.0 jaxx.site
 0.0.0.0 jaxx.ws
 0.0.0.0 jayunlocks.com
+0.0.0.0 jb-brennholz.com
 0.0.0.0 jb-health.de
 0.0.0.0 jb7img.top
 0.0.0.0 jbcapitals.com
@@ -10964,6 +10966,7 @@
 0.0.0.0 marketxarproducts.shop
 0.0.0.0 markierskibindungen.com
 0.0.0.0 markt-shop.com
+0.0.0.0 markt.agency
 0.0.0.0 markt.life
 0.0.0.0 marktexpress.com
 0.0.0.0 marktkarree-langenfeld.de
@@ -11308,6 +11311,7 @@
 0.0.0.0 midlandmodels.com
 0.0.0.0 midoga.com
 0.0.0.0 miduda.de
+0.0.0.0 midwayschiesspulver.de
 0.0.0.0 mieleoutlet.com
 0.0.0.0 miemarche.it
 0.0.0.0 mierasenh.com
@@ -11891,6 +11895,7 @@
 0.0.0.0 mybabybase.com
 0.0.0.0 mybeautys.de
 0.0.0.0 mybestonlineshop.com
+0.0.0.0 mybillpoint.com
 0.0.0.0 myboxgo.com
 0.0.0.0 mycoczechia.com
 0.0.0.0 mycoinde.cc
@@ -11931,6 +11936,7 @@
 0.0.0.0 mygamesstore.com
 0.0.0.0 mygiffgaff-agent.support
 0.0.0.0 mygreensolaris.ch
+0.0.0.0 myhanna.de
 0.0.0.0 myiphost.com
 0.0.0.0 mykitworkshops.de
 0.0.0.0 mylolriotpoints.com
@@ -12195,6 +12201,7 @@
 0.0.0.0 nger.de
 0.0.0.0 nguebelipharma.com
 0.0.0.0 nhbay.com
+0.0.0.0 nhcol.com
 0.0.0.0 nhl14.sharezips.info
 0.0.0.0 nhl14ultimateteampass.sharezips.info
 0.0.0.0 nholz.com
@@ -12425,7 +12432,6 @@
 0.0.0.0 oelsmart.de
 0.0.0.0 oeltiger.com
 0.0.0.0 oeltop.de
-0.0.0.0 oeluno.de
 0.0.0.0 oelunox.de
 0.0.0.0 oelup.de
 0.0.0.0 oelvia.de
@@ -12557,7 +12563,6 @@
 0.0.0.0 onlinebitcoingenerator.org
 0.0.0.0 onlinebonuscasino-de.de
 0.0.0.0 onlinebusinessdorf.de
-0.0.0.0 onlinecasinodeutschliste.de
 0.0.0.0 onlinecasinomitschnellerauszahlung.de
 0.0.0.0 onlinecasinoparis.com
 0.0.0.0 onlinecasinositeindia.com
@@ -18360,7 +18365,6 @@
 0.0.0.0 zeitlosliebe.de
 0.0.0.0 zelomeli.ru
 0.0.0.0 zelono.de
-0.0.0.0 zeloriacore.com
 0.0.0.0 zelterabatt.com
 0.0.0.0 zeltneu.com
 0.0.0.0 zemuro.ru
