@@ -1,28 +1,12 @@
-# 📘 Installation Guide - PiHoleBlocklists
+# PiHoleBlocklists Installation Guide
 
 > A step-by-step guide to install, verify, update, and remove PiHoleBlocklists with Pi-hole or AdGuard Home.
-
-## 📋 Table of Contents
-
-1. [Overview](#overview)
-2. [Requirements](#requirements)
-3. [Quick Start](#quick-start)
-4. [Components](#components)
-5. [Verification Steps](#verification-steps)
-6. [Configuration](#configuration)
-7. [Troubleshooting](#troubleshooting)
-8. [Uninstallation](#uninstallation)
-9. [Security](#security)
-10. [File Reference](#file-reference)
-11. [License](#license)
-12. [Contributing](#contributing)
-13. [Related Resources](#related-resources)
 
 ## 📋 Overview
 
 This guide covers installing PiHoleBlocklists with Pi-hole or AdGuard Home. For the project overview, architecture, and generated blocklist details, see the [README.md](../README.md).
 
-## ✅ Requirements
+## ⚙️ Requirements
 
 ### Prerequisites Checklist
 
@@ -139,7 +123,7 @@ The installer uses versioned release URLs. Running it again resolves the current
 
 Run the setup script again, then replace the existing custom-list URL in AdGuard Home with the new versioned URL it prints. The script does not update the AdGuard Home configuration itself.
 
-## 🔧 Troubleshooting
+## 🐛 Troubleshooting
 
 ### "This script must be run with sudo"
 
@@ -202,7 +186,7 @@ Remove the PiHoleBlocklists custom DNS blocklist from the AdGuard Home web inter
 - Pi-hole mode writes a list entry to the Pi-hole database, may add whitelist entries, and rebuilds Gravity.
 - Review the protection tiers and monitor for false positives after installation.
 
-## 📄 File Reference
+## 📝 File Reference
 
 | File/Folder | Purpose |
 | :--- | :--- |
@@ -225,7 +209,7 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 To report a problem or suggest an improvement, follow the [contribution steps in the README](../README.md#contributing).
 
-## 📖 Related Resources
+## 🔗 Related Resources
 
 If you need help:
 

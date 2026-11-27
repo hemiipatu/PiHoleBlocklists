@@ -9,27 +9,11 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/hemiipatu/piholeblocklists?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hemiipatu/piholeblocklists?style=for-the-badge)
 
-## 📋 Table of Contents
-
-1. [Overview](#overview)
-2. [Requirements](#requirements)
-3. [Quick Start](#quick-start)
-4. [Architecture Diagram](#architecture-diagram)
-5. [Directory Structure](#directory-structure)
-6. [Components](#components)
-7. [Configuration](#configuration)
-8. [Troubleshooting](#troubleshooting)
-9. [Security](#security)
-10. [File Reference](#file-reference)
-11. [License](#license)
-12. [Contributing](#contributing)
-13. [Related Resources](#related-resources)
-
 ## 📋 Overview
 
 PiHoleBlocklists is a curated collection of upstream adblock lists, deduplicated and refactored specifically for Pi-hole. It provides a single, clean source to block ads, malware, phishing, and online tracker junk.
 
-## ✅ Requirements
+## ⚙️ Requirements
 
 - Pi-hole installed and running for the Pi-hole option; AdGuard Home installed for the AdGuard Home option
 - Internet connectivity and root access to run the setup script
@@ -38,6 +22,8 @@ PiHoleBlocklists is a curated collection of upstream adblock lists, deduplicated
 - Basic familiarity with command-line interfaces
 
 ## 🚀 Quick Start
+
+For detailed platform-specific installation steps, see the [Installation Guide](docs/INSTALLATION_GUIDE.md).
 
 ### Quick Install (Recommended)
 
@@ -66,33 +52,24 @@ If you prefer to review script contents locally before executing with root privi
    sudo bash setup.sh
    ```
 
-For full prerequisites, platform-specific instructions, verification, updates, troubleshooting, and removal, see the [Installation Guide](./docs/INSTALLATION_GUIDE.md).
-
 ## 🏗️ Architecture Diagram
 
-```mermaid
-flowchart TD
-    sources["Upstream blocklist sources<br/>sources.json"]
-    whitelist["whitelist.txt<br/>and built-in defaults"]
-    automation["GitHub Actions<br/>scheduled, push, or manual run"]
-    builder["build.py<br/>fetch, parse, deduplicate, and filter"]
-    outputs["Generated files<br/>tier lists, category lists, checksums"]
-    releases["Versioned GitHub release<br/>tier lists, SHA-256 manifest, whitelist"]
-    setup["setup.sh<br/>select tier and verify checksum"]
-    pihole["Pi-hole<br/>register list and rebuild Gravity"]
-    adguard["AdGuard Home<br/>print verified list URL"]
-
-    sources --> builder
-    whitelist --> builder
-    automation --> builder
-    builder --> outputs
-    outputs -->|"tier lists and checksums"| releases
-    releases --> setup
-    setup --> pihole
-    setup --> adguard
+```text
+Upstream sources and whitelist
+        ↓
+GitHub Actions runs build.py
+        ↓
+Generate tier lists, category lists, and checksums
+        ↓
+Publish versioned tier lists and checksums
+        ↓
+setup.sh downloads and verifies the selected tier
+        ↓
+Pi-hole: register the list and rebuild Gravity
+AdGuard Home: print the URL for manual setup
 ```
 
-## 📚 Directory Structure
+## 📁 Directory Structure
 
 ```text
 PiHoleBlocklists/
@@ -108,12 +85,12 @@ PiHoleBlocklists/
 │   │   ├── source_health.yml
 │   │   └── update.yml
 │   └── dependabot.yml
-├── __pycache__/         # Generated Python bytecode cache
+├── __pycache__/                 (Tracked Python bytecode)
 │   └── build.cpython-312.pyc
 ├── blocklists/
 │   ├── advertisement.txt
-│   ├── basic.txt
-│   ├── balanced.txt
+│   ├── balanced.txt             (Balanced tier)
+│   ├── basic.txt                (Basic tier)
 │   ├── fraudulent.txt
 │   ├── malware.txt
 │   ├── phishing.txt
@@ -122,20 +99,20 @@ PiHoleBlocklists/
 │   ├── redirect.txt
 │   ├── regex.txt
 │   ├── scam.txt
-│   ├── sha256sums.txt
-│   └── ultimate.txt
+│   ├── sha256sums.txt           (Tier checksums)
+│   └── ultimate.txt             (Ultimate tier)
 ├── docs/
-│   └── INSTALLATION_GUIDE.md
+│   └── INSTALLATION_GUIDE.md    (Installation instructions)
 ├── tests/
-│   ├── __pycache__/    # Generated test bytecode cache
+│   ├── __pycache__/             (Tracked test bytecode)
 │   │   └── test_build.cpython-312.pyc
-│   └── test_build.py
-├── LICENSE
-├── README.md
-├── build.py
-├── setup.sh
-├── sources.json
-└── whitelist.txt
+│   └── test_build.py            (Build tests)
+├── build.py                     (Blocklist compiler)
+├── setup.sh                     (Installation script)
+├── sources.json                 (Upstream source definitions)
+├── whitelist.txt                (Whitelisted domains)
+├── LICENSE                      (GPL v3 license)
+└── README.md
 ```
 
 ## 🧩 Components
@@ -203,7 +180,7 @@ After installation, you can customize your blocklists by editing the configurati
 
 For detailed configuration options, refer to the project documentation in each respective file.
 
-## 🔧 Troubleshooting
+## 🐛 Troubleshooting
 
 ### Installation failed
 
@@ -231,7 +208,7 @@ For detailed configuration options, refer to the project documentation in each r
 - Consider your threat model when selecting protection tiers
 - Regularly review false positives and adjust your whitelist
 
-## 📄 File Reference
+## 📚 File Reference
 
 | File/Folder | Purpose |
 | :--- | :--- |
@@ -266,7 +243,7 @@ We appreciate contributions to improve PiHoleBlocklists! Here's how you can help
    - Any error messages or logs
    - Screenshots if helpful
 
-## 📖 Related Resources
+## 🔗 Related Resources
 
 - [Pi-hole Official Documentation](https://docs.pi-hole.net/)
 - [HaGeZi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
