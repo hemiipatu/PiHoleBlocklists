@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: 💬 General Questions & Discussions
-    url: https://github.com/hemiipatu/piholeblocklists/discussions
+    url: https://github.com/hemiipatu/PiHoleBlocklists/discussions
     about: Ask questions, get help, or discuss features without opening a tracking issue.
+  - name: 📚 Installation Guide
+    url: https://github.com/hemiipatu/PiHoleBlocklists/blob/master/docs/INSTALLATION_GUIDE.md
+    about: Find installation, verification, configuration, and troubleshooting instructions.
