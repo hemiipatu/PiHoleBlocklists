@@ -9,22 +9,39 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/hemiipatu/piholeblocklists?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hemiipatu/piholeblocklists?style=for-the-badge)
 
+## 📋 Table of Contents
+
+1. [Overview](#overview)
+2. [Requirements](#requirements)
+3. [Quick Start](#quick-start)
+4. [Architecture Diagram](#architecture-diagram)
+5. [Directory Structure](#directory-structure)
+6. [Components](#components)
+7. [Configuration](#configuration)
+8. [Troubleshooting](#troubleshooting)
+9. [Security](#security)
+10. [File Reference](#file-reference)
+11. [License](#license)
+12. [Contributing](#contributing)
+13. [Related Resources](#related-resources)
+
 ## 📋 Overview
 
 PiHoleBlocklists is a curated collection of upstream adblock lists, deduplicated and refactored specifically for Pi-hole. It provides a single, clean source to block ads, malware, phishing, and online tracker junk.
 
 ## ✅ Requirements
 
-- Pi-hole installed and running on your system
-- Internet connectivity on your Pi-hole device
-- Sudo/root access for installation
+- Pi-hole installed and running for the Pi-hole option; AdGuard Home installed for the AdGuard Home option
+- Internet connectivity and root access to run the setup script
+- `curl` and either `sha256sum` or `shasum`
+- For Pi-hole: `sqlite3` and the `pihole` command
 - Basic familiarity with command-line interfaces
 
 ## 🚀 Quick Start
 
 ### Quick Install (Recommended)
 
-Run the automated interactive setup script directly on your Pi-hole system:
+Run the automated interactive setup script on your Pi-hole or AdGuard Home host:
 
 ```bash
 curl -sSLf https://raw.githubusercontent.com/hemiipatu/piholeblocklists/main/setup.sh | sudo bash
@@ -49,39 +66,104 @@ If you prefer to review script contents locally before executing with root privi
    sudo bash setup.sh
    ```
 
-## 🛡️ Protection Tiers
+For full prerequisites, platform-specific instructions, verification, updates, troubleshooting, and removal, see the [Installation Guide](./docs/INSTALLATION_GUIDE.md).
 
-The automated build process generates three distinct protection tiers so you can select the right balance for your network:
+## 🏗️ Architecture Diagram
 
-- **Basic (Light):** High-confidence malware and phishing protection with zero false-positive risk. Safe for non-technical users.
-- **Balanced (Recommended):** Adds tracking, telemetry, scam domains, and main ad servers. Recommended for everyday home networks.
-- **Ultimate (Aggressive):** Includes Basic + Balanced, plus ransomware, adult content, redirects, and aggressive tracking feeds. Higher risk of false positives.
+```mermaid
+flowchart TD
+    sources["Upstream blocklist sources<br/>sources.json"]
+    whitelist["whitelist.txt<br/>and built-in defaults"]
+    automation["GitHub Actions<br/>scheduled, push, or manual run"]
+    builder["build.py<br/>fetch, parse, deduplicate, and filter"]
+    outputs["Generated files<br/>tier lists, category lists, checksums"]
+    releases["Versioned GitHub release<br/>tier lists, SHA-256 manifest, whitelist"]
+    setup["setup.sh<br/>select tier and verify checksum"]
+    pihole["Pi-hole<br/>register list and rebuild Gravity"]
+    adguard["AdGuard Home<br/>print verified list URL"]
+
+    sources --> builder
+    whitelist --> builder
+    automation --> builder
+    builder --> outputs
+    outputs -->|"tier lists and checksums"| releases
+    releases --> setup
+    setup --> pihole
+    setup --> adguard
+```
 
 ## 📚 Directory Structure
 
-```
+```text
 PiHoleBlocklists/
-├── blocklists/          # Generated blocklist files
-├── tests/               # Test suite
-├── build.py             # Build automation script
-├── setup.sh             # Installation script
-├── sources.json         # Upstream source definitions
-├── whitelist.txt        # Whitelisted domains
-└── README.md            # This file
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── config.yml
+│   │   ├── false_positive.yml
+│   │   └── source_request.yml
+│   ├── workflows/
+│   │   ├── ci.yml
+│   │   ├── codeql.yml
+│   │   ├── issue_triage.yml
+│   │   ├── source_health.yml
+│   │   └── update.yml
+│   └── dependabot.yml
+├── __pycache__/         # Generated Python bytecode cache
+│   └── build.cpython-312.pyc
+├── blocklists/
+│   ├── advertisement.txt
+│   ├── basic.txt
+│   ├── balanced.txt
+│   ├── fraudulent.txt
+│   ├── malware.txt
+│   ├── phishing.txt
+│   ├── pornography.txt
+│   ├── ransomware.txt
+│   ├── redirect.txt
+│   ├── regex.txt
+│   ├── scam.txt
+│   ├── sha256sums.txt
+│   └── ultimate.txt
+├── docs/
+│   └── INSTALLATION_GUIDE.md
+├── tests/
+│   ├── __pycache__/    # Generated test bytecode cache
+│   │   └── test_build.cpython-312.pyc
+│   └── test_build.py
+├── LICENSE
+├── README.md
+├── build.py
+├── setup.sh
+├── sources.json
+└── whitelist.txt
 ```
 
-## 📄 File Reference
+## 🧩 Components
 
-| File/Folder | Purpose |
-| :--- | :--- |
-| `blocklists/` | Generated blocklist files organized by tier and category |
-| `build.py` | Automated build script for compiling and deduplicating lists |
-| `setup.sh` | Interactive installation script for Pi-hole |
-| `sources.json` | Configuration of upstream blocklist sources |
-| `whitelist.txt` | Manually maintained whitelist of false positives |
-| `tests/` | Automated tests for list integrity and overlap |
+### Blocklist build
 
-## 🔗 Upstream Sources & Credits
+- **`sources.json`** defines upstream sources by protection tier and category.
+- **`whitelist.txt`** contains domains excluded from generated lists. Built-in defaults are also applied.
+- **`build.py`** fetches and parses sources, filters whitelisted domains, combines tier data, and writes the generated files and checksum manifest.
+- **`blocklists/`** contains the generated tier and category lists. Basic contains the Basic sources; Balanced adds its sources to Basic; Ultimate adds its sources to Balanced. Category lists are generated for convenience and are not release assets.
+
+### Installation
+
+- **`setup.sh`** lets you select a platform and tier. It downloads the selected versioned release list and SHA-256 manifest, verifies the checksum, then registers the list and rebuilds Gravity in Pi-hole mode. In AdGuard Home mode, it prints the verified release URL and setup instructions.
+
+### Automated updates
+
+GitHub Actions runs the build on a schedule, when relevant source or build files change, or when manually triggered. It commits changed generated lists and publishes versioned releases containing the tier lists, checksum manifest, and whitelist.
+
+### Protection tiers
+
+The generated tiers offer different balances of coverage and false-positive risk:
+
+- **Basic (Light):** High-confidence malware and phishing protection with zero false-positive risk. Safe for non-technical users.
+- **Balanced (Recommended):** Adds tracking, telemetry, scam domains, and main ad servers. Recommended for everyday home networks.
+- **Ultimate (Aggressive):** Includes Basic and Balanced, plus ransomware, adult content, redirects, and aggressive tracking feeds. Higher risk of false positives.
+
+### Upstream Sources & Credits
 
 This project compiles, deduplicates, and optimizes data from several upstream maintainers and security feeds. Full credit goes to the creators and maintainers of these lists:
 
@@ -124,19 +206,22 @@ For detailed configuration options, refer to the project documentation in each r
 ## 🔧 Troubleshooting
 
 ### Installation failed
+
 - Ensure you have sudo/root privileges
 - Verify internet connectivity on your Pi-hole device
 - Check that Pi-hole is properly installed and running
 
 ### Too many false positives
+
 - Try switching from Ultimate to Balanced tier
 - Check `whitelist.txt` for common false positives
 - Review Pi-hole logs for blocked legitimate domains
 
 ### Lists not updating
-- Verify cron job is installed: `crontab -l`
-- Check logs in `/var/log/pihole.log`
-- Re-run setup script to restore automatic updates
+
+- Check the repository's [latest release](https://github.com/hemiipatu/PiHoleBlocklists/releases/latest).
+- Re-run the setup script to get the latest versioned list URL and checksum; Pi-hole mode also rebuilds Gravity.
+- In AdGuard Home, update the custom list URL to the latest version printed by the setup script.
 
 ## 🔒 Security
 
@@ -145,6 +230,18 @@ For detailed configuration options, refer to the project documentation in each r
 - The build process deduplicates entries and removes invalid records
 - Consider your threat model when selecting protection tiers
 - Regularly review false positives and adjust your whitelist
+
+## 📄 File Reference
+
+| File/Folder | Purpose |
+| :--- | :--- |
+| `blocklists/` | Generated blocklist files organized by tier and category |
+| `build.py` | Automated build script for compiling and deduplicating lists |
+| `setup.sh` | Interactive setup script for Pi-hole and AdGuard Home |
+| `docs/INSTALLATION_GUIDE.md` | Detailed installation, verification, update, and removal instructions |
+| `sources.json` | Configuration of upstream blocklist sources |
+| `whitelist.txt` | Manually maintained whitelist of false positives |
+| `tests/` | Automated tests for list integrity and overlap |
 
 ## 📄 License
 
