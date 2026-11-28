@@ -1,5 +1,5 @@
 # Category: fraudulent
-# Total Unique Entries: 18,866
+# Total Unique Entries: 18,849
 0.0.0.0 001www.com
 0.0.0.0 01crypto.com
 0.0.0.0 0daygameparadise.com
@@ -510,7 +510,6 @@
 0.0.0.0 aloyogasuomi.net
 0.0.0.0 alpacamining.com
 0.0.0.0 alpakafreunde.de
-0.0.0.0 alpbeat.com
 0.0.0.0 alpenapothekebgl.de
 0.0.0.0 alpenmode.com
 0.0.0.0 alpenpellets.pro
@@ -873,7 +872,6 @@
 0.0.0.0 arin-solar.ch
 0.0.0.0 arkalogistic.top
 0.0.0.0 arkamgym.com
-0.0.0.0 arkenberlin.de
 0.0.0.0 arketrabatt.de
 0.0.0.0 arlequininvest.io
 0.0.0.0 armhack.com
@@ -1224,7 +1222,6 @@
 0.0.0.0 banhok.ru
 0.0.0.0 bank-crypto.com
 0.0.0.0 bank-of-crypto.com
-0.0.0.0 bank-partners.com
 0.0.0.0 bankandcapital.com
 0.0.0.0 banking.wsboh.org
 0.0.0.0 bankofbinary.com
@@ -2092,7 +2089,6 @@
 0.0.0.0 brennholz-haus.de
 0.0.0.0 brennholz-hofmann.de
 0.0.0.0 brennholz-konig.de
-0.0.0.0 brennholz-land.com
 0.0.0.0 brennholz-pellets.com
 0.0.0.0 brennholz-quelle.de
 0.0.0.0 brennholz-wieslohn.de
@@ -2324,7 +2320,6 @@
 0.0.0.0 campenwelt.com
 0.0.0.0 camping-bewegung.com
 0.0.0.0 campingdebarf.com
-0.0.0.0 campingimharz.de
 0.0.0.0 campingkuche.de
 0.0.0.0 campinglagea.com
 0.0.0.0 campinglagern.com
@@ -2942,7 +2937,6 @@
 0.0.0.0 cmglifaf.shop
 0.0.0.0 cmoney.money
 0.0.0.0 cmrewards.site
-0.0.0.0 cmsmanutention.com
 0.0.0.0 cnfrm-newsale8324.click
 0.0.0.0 cnfrmnewsale924.click
 0.0.0.0 cnn-africa.co
@@ -3883,7 +3877,6 @@
 0.0.0.0 de.justfashionnow.com
 0.0.0.0 de.jxsaen.shop
 0.0.0.0 de.osmo-official.com
-0.0.0.0 de.thereverselookup.com
 0.0.0.0 de.wwiqtest.com
 0.0.0.0 de1.aiinshgits.de
 0.0.0.0 de4.luxedressshop.com
@@ -5102,7 +5095,6 @@
 0.0.0.0 ethikadeutschland.de
 0.0.0.0 ethimostyle.com
 0.0.0.0 ethxpgsc.shop
-0.0.0.0 eticketsy.com
 0.0.0.0 etkick.de
 0.0.0.0 etrade-securities.com
 0.0.0.0 etrias.de
@@ -6106,7 +6098,6 @@
 0.0.0.0 foreasygame.com
 0.0.0.0 forevermarkt.de
 0.0.0.0 forexlistenoire.fr
-0.0.0.0 forextrada.com
 0.0.0.0 forextradition.com
 0.0.0.0 forfreeminecraft.com
 0.0.0.0 forgametrick.com
@@ -6170,7 +6161,6 @@
 0.0.0.0 fr.samtradefx.com
 0.0.0.0 fr.xpoken.com
 0.0.0.0 fragonard.co.at
-0.0.0.0 framezegame.com
 0.0.0.0 france-finances.com
 0.0.0.0 france.id100429421-9222533281.e406019.com
 0.0.0.0 france.id108979765-7218227704.w595505.com
@@ -7497,7 +7487,6 @@
 0.0.0.0 giovannigruppe.de
 0.0.0.0 gipova.ru
 0.0.0.0 giredo.com
-0.0.0.0 giro-finance.com
 0.0.0.0 gisaauszugonline.at
 0.0.0.0 gisemo.com
 0.0.0.0 gisler-treuhand.de
@@ -7845,6 +7834,7 @@
 0.0.0.0 groupebinary.com
 0.0.0.0 groutlance.com
 0.0.0.0 grow-dutch.com
+0.0.0.0 growano.com
 0.0.0.0 growthline.ltd
 0.0.0.0 growtopia.work
 0.0.0.0 grptrker.com
@@ -8835,7 +8825,6 @@
 0.0.0.0 holz-abl-zentrale.de
 0.0.0.0 holz-brennholzhandel.de
 0.0.0.0 holz-deal24.de
-0.0.0.0 holz-market.com
 0.0.0.0 holz-pellet-bestequalitat.de
 0.0.0.0 holz-pellets24.com
 0.0.0.0 holz-premium.de
@@ -9206,7 +9195,6 @@
 0.0.0.0 ilopax.com
 0.0.0.0 ilove2hack.de
 0.0.0.0 ilovecrack.net
-0.0.0.0 ilumina.center
 0.0.0.0 image-prntscr.com
 0.0.0.0 image-save.net
 0.0.0.0 image-screenshot.com
@@ -9479,6 +9467,7 @@
 0.0.0.0 irrasch.at
 0.0.0.0 irrigationprostore.com
 0.0.0.0 is-apple.com
+0.0.0.0 isaloge-investissement.com
 0.0.0.0 isdmemeo.shop
 0.0.0.0 isipisi.online
 0.0.0.0 iskenderunsolarenerji.com
@@ -9925,7 +9914,6 @@
 0.0.0.0 kanyecharms.store
 0.0.0.0 kanzlei-neudeck.de
 0.0.0.0 kapitaalkern.com
-0.0.0.0 kapital-direkt.de
 0.0.0.0 kapitalcheck.de
 0.0.0.0 kapitalmagazin.de
 0.0.0.0 kappafi.com
@@ -11107,7 +11095,6 @@
 0.0.0.0 marcjacobsosterreich.at
 0.0.0.0 mardano.com
 0.0.0.0 marginelite.com
-0.0.0.0 margissance.fr
 0.0.0.0 marie-herbstkg.de
 0.0.0.0 mariela-beauty-studio.com
 0.0.0.0 mariemero-salestore.shop
@@ -11193,6 +11180,7 @@
 0.0.0.0 maternitybabyworld.com
 0.0.0.0 mathskins.com
 0.0.0.0 matinvestgroup.com
+0.0.0.0 matratzeca.com
 0.0.0.0 matt-zone.com
 0.0.0.0 mattelverkauf.de
 0.0.0.0 maturepornbeauty.shop
@@ -12387,7 +12375,6 @@
 0.0.0.0 next-bricks.com
 0.0.0.0 next-neu.de
 0.0.0.0 nextbinary.com
-0.0.0.0 nextchain.at
 0.0.0.0 nextgenhacks.info
 0.0.0.0 nexusbids.com
 0.0.0.0 nexusonline.com.br
@@ -12403,7 +12390,6 @@
 0.0.0.0 nhl14ultimateteampass.sharezips.info
 0.0.0.0 nholz.com
 0.0.0.0 nicecheat.eu
-0.0.0.0 nicechmk.shop
 0.0.0.0 nicedoc.co
 0.0.0.0 nicetossyhn.click
 0.0.0.0 nicikuscheltiere.com
@@ -12607,6 +12593,7 @@
 0.0.0.0 ocycling.com
 0.0.0.0 odlorabatt.com
 0.0.0.0 odyssey-labs.com
+0.0.0.0 oekoranch.de
 0.0.0.0 oel-direkt.de
 0.0.0.0 oel-zuhause-online.de
 0.0.0.0 oel24x.com
@@ -12811,7 +12798,6 @@
 0.0.0.0 onlineshopman.de
 0.0.0.0 onlineshoppinggiftcards.net
 0.0.0.0 onlinesupport24.top
-0.0.0.0 onlineteddy.com
 0.0.0.0 onlinetoolsale.com
 0.0.0.0 onlinevrach-24.online
 0.0.0.0 onlinewatchmoviez.com
@@ -14047,7 +14033,6 @@
 0.0.0.0 rafso.tovy.shop
 0.0.0.0 ragebooter.net
 0.0.0.0 ragegamble.com
-0.0.0.0 ragwear.com.de
 0.0.0.0 ragwearaustria.com
 0.0.0.0 raidcalll.com
 0.0.0.0 rainbow-case.com
@@ -14200,7 +14185,6 @@
 0.0.0.0 regina-hotel-vienna.h-rez.com
 0.0.0.0 regio-treuhand.de
 0.0.0.0 rehaubrandstore.com
-0.0.0.0 rehman-remote.de
 0.0.0.0 reifen-dreyer.com
 0.0.0.0 reifencheck.net
 0.0.0.0 reifendienst-notdienst.jimdosite.com
@@ -14645,7 +14629,6 @@
 0.0.0.0 sale-onlines.shop
 0.0.0.0 sale-perfume.com
 0.0.0.0 sale-scape.de
-0.0.0.0 sale.zooplusweb.com
 0.0.0.0 saleelectrical.com
 0.0.0.0 saleemrizwan.com
 0.0.0.0 salegermaniatools.com
@@ -14888,7 +14871,6 @@
 0.0.0.0 secure.shopvio.co
 0.0.0.0 securefile.info
 0.0.0.0 securefileupload.com
-0.0.0.0 secureinvest.org
 0.0.0.0 securemed.shop
 0.0.0.0 secureviewrollershutters.com
 0.0.0.0 security.system.ssl-verified.site
@@ -14933,6 +14915,7 @@
 0.0.0.0 seneval.de
 0.0.0.0 senhheiser.icu
 0.0.0.0 senkkopfschraube.com
+0.0.0.0 sensecap.io
 0.0.0.0 sentry.mba
 0.0.0.0 sentshared.com
 0.0.0.0 senvix.de
@@ -16044,7 +16027,6 @@
 0.0.0.0 store-nyx.com
 0.0.0.0 store-specialty.com
 0.0.0.0 store.elmleigha.com
-0.0.0.0 store.pavridora.com
 0.0.0.0 store.promomesh.com
 0.0.0.0 store.woodgroven.com
 0.0.0.0 storeapps24.com
@@ -16286,6 +16268,7 @@
 0.0.0.0 sywrenalts.com
 0.0.0.0 sz-fishing.de
 0.0.0.0 sz-tax.com
+0.0.0.0 t4trade.com
 0.0.0.0 tabakcutter.com
 0.0.0.0 tabfirmware.com
 0.0.0.0 tabletybezreceptu.com
@@ -16347,6 +16330,7 @@
 0.0.0.0 taurachbahn.at
 0.0.0.0 tavaresautopecas.com
 0.0.0.0 tavorello.net
+0.0.0.0 tawagold.store
 0.0.0.0 tax.crypto.com
 0.0.0.0 taxiqipi.ru
 0.0.0.0 taxoflex.de
@@ -16913,8 +16897,8 @@
 0.0.0.0 toyfunrealm.com
 0.0.0.0 toyshobbiesworld.com
 0.0.0.0 tp-treuhand.de
-0.0.0.0 tr-brokers.com
 0.0.0.0 trabo-garten.de
+0.0.0.0 trachtenhemdvibe.com
 0.0.0.0 track-your-fedex-package.org
 0.0.0.0 tracksuitshop.de
 0.0.0.0 tradabank.com
@@ -17143,6 +17127,7 @@
 0.0.0.0 tubbing.net
 0.0.0.0 tube-id.org
 0.0.0.0 tucugo.ru
+0.0.0.0 tuerschlossratgeber.com
 0.0.0.0 tuinbalkon.com
 0.0.0.0 tumbl.viphacks.net
 0.0.0.0 tunepart.com
@@ -17860,7 +17845,6 @@
 0.0.0.0 warmeholzhaus.com
 0.0.0.0 warmeluxe.com
 0.0.0.0 warmthvo.com
-0.0.0.0 warmundholz.com
 0.0.0.0 warmwolle.com
 0.0.0.0 warofmercenarieshack.net
 0.0.0.0 warthunderhack.com
@@ -18054,8 +18038,8 @@
 0.0.0.0 weringo.com
 0.0.0.0 werk-garten.de
 0.0.0.0 werk-werkzeuge.com
+0.0.0.0 werkbau24.com
 0.0.0.0 werke-anhangers.com
-0.0.0.0 werkelio.de
 0.0.0.0 werkerswelt-moelln.de
 0.0.0.0 werksraeder-24.de
 0.0.0.0 werkstatt-teile.com
@@ -18077,6 +18061,7 @@
 0.0.0.0 werkzeugemaschinen.com
 0.0.0.0 werkzeugerasenmaher.de
 0.0.0.0 werkzeugheld24.de
+0.0.0.0 werkzeugkammer.com
 0.0.0.0 werkzeugland.com
 0.0.0.0 werkzeugmarkt.ch
 0.0.0.0 werkzeugmaschinenstore.com
@@ -18093,6 +18078,7 @@
 0.0.0.0 wertlebenshop.com
 0.0.0.0 wertovia.com
 0.0.0.0 weserstore.de
+0.0.0.0 weshowtech.de
 0.0.0.0 wessmarkt.de
 0.0.0.0 west-tek.com
 0.0.0.0 westcoastmarketing-sales.com
@@ -18138,6 +18124,7 @@
 0.0.0.0 wiener-install.at
 0.0.0.0 wienerwonderlonds.shop
 0.0.0.0 wiesmann-mode.de
+0.0.0.0 wiesndress.com
 0.0.0.0 wiesnkinder.de
 0.0.0.0 wifi-hack-password.com
 0.0.0.0 wifi-hacker.org
@@ -18244,7 +18231,6 @@
 0.0.0.0 wohlwaren.de
 0.0.0.0 wohndekode.com
 0.0.0.0 wohnelektro.com
-0.0.0.0 wohnen-diy.com
 0.0.0.0 wohngartenshop.de
 0.0.0.0 wohnish.de
 0.0.0.0 wohnlichtshop.com
@@ -18367,24 +18353,21 @@
 0.0.0.0 wwmode.de
 0.0.0.0 www-secure-runescape.co
 0.0.0.0 www.5fdb2331d9d15.site123.me
-0.0.0.0 www.ainvestments.biz
-0.0.0.0 www.asse-groupe.com
 0.0.0.0 www.bnp-coin.com
 0.0.0.0 www.bnp-otccoin.com
 0.0.0.0 www.buy-bitcoin.pagedemo.co
 0.0.0.0 www.crypto2.bnd-group.com
 0.0.0.0 www.elite-patrimoine.com
 0.0.0.0 www.finetero.com
+0.0.0.0 www.forextrada.com
 0.0.0.0 www.gravity-market.com
 0.0.0.0 www.igmholdings.com
 0.0.0.0 www.investissement.strategie-business.com
-0.0.0.0 www.isaloge-investissement.com
 0.0.0.0 www.lyxorassetmanagement.com
 0.0.0.0 www.lyxorpro.com
 0.0.0.0 www.quantum.groupe.com
+0.0.0.0 www.secureinvest.org
 0.0.0.0 www.swissepargne.com
-0.0.0.0 www.t4trade.com
-0.0.0.0 www.tradeogre.fr
 0.0.0.0 www.uniqa-alternatives.com
 0.0.0.0 www.universaltrade.io
 0.0.0.0 wwwhamsterkiste.de
@@ -18602,6 +18585,7 @@
 0.0.0.0 yinga-vital.de
 0.0.0.0 yinkuya.ru
 0.0.0.0 yinzmkt-sales.com
+0.0.0.0 yiqixiuba.com
 0.0.0.0 yituf.com
 0.0.0.0 yiyang-solar.com
 0.0.0.0 yjcwmxhh.shop
@@ -18862,7 +18846,6 @@
 0.0.0.0 zyngapokerchips4free.com
 0.0.0.0 zyoepnol.shop
 0.0.0.0 zyphorbit-at.com
-0.0.0.0 zyphorbit.at
 0.0.0.0 zyronpaneele.com
 0.0.0.0 zzpnuwtg.shop
 0.0.0.0 zzsvqgva.shop
